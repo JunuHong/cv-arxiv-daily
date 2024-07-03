@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**I2EKF-LO: A Dual-Iteration Extended Kalman Filter Based LiDAR Odometry**|Wenlu Yu et.al.|[2407.02190](http://arxiv.org/abs/2407.02190)|null|
+|**2024-07-01**|**Preserving Relative Localization of FoV-Limited Drone Swarm via Active Mutual Observation**|Lianjie Guo et.al.|[2407.01292](http://arxiv.org/abs/2407.01292)|null|
 |**2024-06-23**|**Imperative Learning: A Self-supervised Neural-Symbolic Learning Framework for Robot Autonomy**|Chen Wang et.al.|[2406.16087](http://arxiv.org/abs/2406.16087)|null|
 |**2024-06-16**|**Self-supervised Pretraining and Finetuning for Monocular Depth and Visual Odometry**|Boris Chidlovskii et.al.|[2406.11019](http://arxiv.org/abs/2406.11019)|null|
 |**2024-06-12**|**From Variance to Veracity: Unbundling and Mitigating Gradient Variance in Differentiable Bundle Adjustment Layers**|Swaminathan Gurumurthy et.al.|[2406.07785](http://arxiv.org/abs/2406.07785)|**[link](https://github.com/swami1995/v2v)**|
@@ -517,6 +519,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**Indoor 3D Reconstruction with an Unknown Camera-Projector Pair**|Zhaoshuai Qi et.al.|[2407.01945](http://arxiv.org/abs/2407.01945)|null|
 |**2024-05-29**|**Rotation Averaging: A Primal-Dual Method and Closed-Forms in Cycle Graphs**|Gabriel Moreira et.al.|[2406.18564](http://arxiv.org/abs/2406.18564)|null|
 |**2024-06-26**|**VDG: Vision-Only Dynamic Gaussian for Driving Simulation**|Hao Li et.al.|[2406.18198](http://arxiv.org/abs/2406.18198)|null|
 |**2024-06-25**|**Consensus Learning with Deep Sets for Essential Matrix Estimation**|Dror Moran et.al.|[2406.17414](http://arxiv.org/abs/2406.17414)|null|
@@ -718,6 +721,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**Close, But Not There: Boosting Geographic Distance Sensitivity in Visual Place Recognition**|Sergio Izquierdo et.al.|[2407.02422](http://arxiv.org/abs/2407.02422)|null|
+|**2024-07-01**|**Freeview Sketching: View-Aware Fine-Grained Sketch-Based Image Retrieval**|Aneeshan Sain et.al.|[2407.01810](http://arxiv.org/abs/2407.01810)|null|
+|**2024-07-01**|**Cross-Modal Attention Alignment Network with Auxiliary Text Description for zero-shot sketch-based image retrieval**|Hanwen Su et.al.|[2407.00979](http://arxiv.org/abs/2407.00979)|null|
+|**2024-07-01**|**Dynamically Modulating Visual Place Recognition Sequence Length For Minimum Acceptable Performance Scenarios**|Connor Malone et.al.|[2407.00863](http://arxiv.org/abs/2407.00863)|null|
 |**2024-06-27**|**PathAlign: A vision-language model for whole slide images in histopathology**|Faruk Ahmed et.al.|[2406.19578](http://arxiv.org/abs/2406.19578)|null|
 |**2024-06-27**|**360 in the Wild: Dataset for Depth Prediction and View Synthesis**|Kibaek Park et.al.|[2406.18898](http://arxiv.org/abs/2406.18898)|null|
 |**2024-06-27**|**Zero-shot Composed Image Retrieval Considering Query-target Relationship Leveraging Masked Image-text Pairs**|Huaying Zhang et.al.|[2406.18836](http://arxiv.org/abs/2406.18836)|null|
@@ -1538,6 +1545,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-10**|**Light-SLAM: A Robust Deep-Learning Visual SLAM System Based on LightGlue under Challenging Lighting Conditions**|Zhiqi Zhao et.al.|[2407.02382](http://arxiv.org/abs/2407.02382)|null|
+|**2024-07-02**|**Multi-Grained Contrast for Data-Efficient Unsupervised Representation Learning**|Chengchao Shen et.al.|[2407.02014](http://arxiv.org/abs/2407.02014)|**[link](https://github.com/visresearch/mgc)**|
 |**2024-06-28**|**Beyond First-Order: A Multi-Scale Approach to Finger Knuckle Print Biometrics**|Chengrui Gao et.al.|[2406.19672](http://arxiv.org/abs/2406.19672)|null|
 |**2024-06-24**|**A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**|Lorenzo Shaikewitz et.al.|[2406.16837](http://arxiv.org/abs/2406.16837)|**[link](https://github.com/mit-spark/certifiable_tracking)**|
 |**2024-06-03**|**Scale-Free Image Keypoints Using Differentiable Persistent Homology**|Giovanni Barbarani et.al.|[2406.01315](http://arxiv.org/abs/2406.01315)|**[link](https://github.com/gbarbarani/MorseDet)**|
@@ -1573,7 +1582,7 @@ layout: default
 |**2024-04-30**|**An Effective Image Copy-Move Forgery Detection Using Entropy Information**|Li Jiang et.al.|[2312.11793](http://arxiv.org/abs/2312.11793)|**[link](https://github.com/LUZW1998/CMFDUEI)**|
 |**2023-12-11**|**VoxelKP: A Voxel-based Network Architecture for Human Keypoint Estimation in LiDAR Data**|Jian Shi et.al.|[2312.08871](http://arxiv.org/abs/2312.08871)|**[link](https://github.com/shijianjian/voxelkp)**|
 |**2023-12-11**|**Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach**|Travis Driver et.al.|[2312.06865](http://arxiv.org/abs/2312.06865)|**[link](https://github.com/travisdriver/spc-factor-results)**|
-|**2024-07-02**|**Tracking Object Positions in Reinforcement Learning: A Metric for Keypoint Detection (extended version)**|Emma Cramer et.al.|[2312.00592](http://arxiv.org/abs/2312.00592)|null|
+|**2024-07-02**|**Tracking Object Positions in Reinforcement Learning: A Metric for Keypoint Detection (extended version)**|Emma Cramer et.al.|[2312.00592](http://arxiv.org/abs/2312.00592)|**[link](https://github.com/data-science-in-mechanical-engineering/sae-rl)**|
 |**2023-11-30**|**Utilizing Radiomic Feature Analysis For Automated MRI Keypoint Detection: Enhancing Graph Applications**|Sahar Almahfouz Nasser et.al.|[2311.18281](http://arxiv.org/abs/2311.18281)|null|
 |**2024-03-27**|**Back to 3D: Few-Shot 3D Keypoint Detection with Back-Projected 2D Features**|Thomas Wimmer et.al.|[2311.18113](http://arxiv.org/abs/2311.18113)|**[link](https://github.com/wimmerth/back-to-3d-few-shot-keypoints)**|
 |**2024-04-02**|**Diffusion 3D Features (Diff3F): Decorating Untextured Shapes with Distilled Semantic Features**|Niladri Shekhar Dutt et.al.|[2311.17024](http://arxiv.org/abs/2311.17024)|**[link](https://github.com/niladridutt/Diffusion-3D-Features)**|
@@ -2010,6 +2019,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream**|Wenpu Li et.al.|[2407.02174](http://arxiv.org/abs/2407.02174)|**[link](https://github.com/WU-CVGL/BeNeRF)**|
+|**2024-07-01**|**Active Human Pose Estimation via an Autonomous UAV Agent**|Jingxi Chen et.al.|[2407.01811](http://arxiv.org/abs/2407.01811)|null|
+|**2024-07-01**|**DRAGON: Drone and Ground Gaussian Splatting for 3D Building Reconstruction**|Yujin Ham et.al.|[2407.01761](http://arxiv.org/abs/2407.01761)|null|
+|**2024-07-01**|**Fast and Efficient: Mask Neural Fields for 3D Scene Segmentation**|Zihan Gao et.al.|[2407.01220](http://arxiv.org/abs/2407.01220)|null|
+|**2024-06-29**|**Intrinsic PAPR for Point-level 3D Scene Albedo and Shading Editing**|Alireza Moazeni et.al.|[2407.00500](http://arxiv.org/abs/2407.00500)|null|
 |**2024-06-28**|**ASSR-NeRF: Arbitrary-Scale Super-Resolution on Voxel Grid for High-Quality Radiance Fields Reconstruction**|Ding-Jiun Huang et.al.|[2406.20066](http://arxiv.org/abs/2406.20066)|null|
 |**2024-06-28**|**EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting**|Daiwei Zhang et.al.|[2406.19811](http://arxiv.org/abs/2406.19811)|null|
 |**2024-06-27**|**Shorter SPECT Scans Using Self-supervised Coordinate Learning to Synthesize Skipped Projection Views**|Zongyu Li et.al.|[2406.18840](http://arxiv.org/abs/2406.18840)|null|
