@@ -14,7 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-02**|**Robust Vehicle Localization and Tracking in Rain using Street Maps**|Yu Xiang Tan et.al.|[2409.01038](http://arxiv.org/abs/2409.01038)|null|
+|**2024-09-02**|**Robust Vehicle Localization and Tracking in Rain using Street Maps**|Yu Xiang Tan et.al.|[2409.01038](http://arxiv.org/abs/2409.01038)|**[link](https://gitlab.com/marvl/map-fusion)**|
 |**2024-09-01**|**DSLO: Deep Sequence LiDAR Odometry Based on Inconsistent Spatio-temporal Propagation**|Huixin Zhang et.al.|[2409.00744](http://arxiv.org/abs/2409.00744)|**[link](https://github.com/irmvlab/dslo)**|
 |**2024-08-30**|**Efficient Camera Exposure Control for Visual Odometry via Deep Reinforcement Learning**|Shuyang Zhang et.al.|[2408.17005](http://arxiv.org/abs/2408.17005)|**[link](https://github.com/shuyanguni/drl_exposure_ctrl)**|
 |**2024-08-29**|**Creating a Segmented Pointcloud of Grapevines by Combining Multiple Viewpoints Through Visual Odometry**|Michael Adlerstein et.al.|[2408.16472](http://arxiv.org/abs/2408.16472)|null|
@@ -765,8 +765,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-04**|**NUDGE: Lightweight Non-Parametric Fine-Tuning of Embeddings for Retrieval**|Sepanta Zeighami et.al.|[2409.02343](http://arxiv.org/abs/2409.02343)|null|
-|**2024-09-03**|**Optimizing CLIP Models for Image Retrieval with Maintained Joint-Embedding Alignment**|Konstantin Schall et.al.|[2409.01936](http://arxiv.org/abs/2409.01936)|null|
+|**2024-09-04**|**Design and Evaluation of Camera-Centric Mobile Crowdsourcing Applications**|Abby Stylianou et.al.|[2409.03012](http://arxiv.org/abs/2409.03012)|null|
+|**2024-09-04**|**NUDGE: Lightweight Non-Parametric Fine-Tuning of Embeddings for Retrieval**|Sepanta Zeighami et.al.|[2409.02343](http://arxiv.org/abs/2409.02343)|**[link](https://github.com/szeighami/nudge)**|
+|**2024-09-03**|**Optimizing CLIP Models for Image Retrieval with Maintained Joint-Embedding Alignment**|Konstantin Schall et.al.|[2409.01936](http://arxiv.org/abs/2409.01936)|**[link](https://github.com/Visual-Computing/MCIP)**|
 |**2024-09-02**|**A Review of Image Retrieval Techniques: Data Augmentation and Adversarial Learning Approaches**|Kim Jinwoo et.al.|[2409.01219](http://arxiv.org/abs/2409.01219)|null|
 |**2024-09-02**|**Online One-Dimensional Magnetic Field SLAM with Loop-Closure Detection**|Manon Kok et.al.|[2409.01091](http://arxiv.org/abs/2409.01091)|null|
 |**2024-09-02**|**Evidential Transformers for Improved Image Retrieval**|Danilo Dordevic et.al.|[2409.01082](http://arxiv.org/abs/2409.01082)|null|
@@ -777,7 +778,7 @@ layout: default
 |**2024-08-29**|**Rethinking Sparse Lexical Representations for Image Retrieval in the Age of Rising Multi-Modal Large Language Models**|Kengo Nakata et.al.|[2408.16296](http://arxiv.org/abs/2408.16296)|null|
 |**2024-08-28**|**Temporal Attention for Cross-View Sequential Image Localization**|Dong Yuan et.al.|[2408.15569](http://arxiv.org/abs/2408.15569)|null|
 |**2024-08-27**|**Snap and Diagnose: An Advanced Multimodal Retrieval System for Identifying Plant Diseases in the Wild**|Tianqi Wei et.al.|[2408.14723](http://arxiv.org/abs/2408.14723)|null|
-|**2024-08-25**|**LowCLIP: Adapting the CLIP Model Architecture for Low-Resource Languages in Multimodal Image Retrieval Task**|Ali Asgarov et.al.|[2408.13909](http://arxiv.org/abs/2408.13909)|**[link](https://github.com/aliasgerovs/azclip)**|
+|**2024-08-25**|**LowCLIP: Adapting the CLIP Model Architecture for Low-Resource Languages in Multimodal Image Retrieval Task**|Ali Asgarov et.al.|[2408.13909](http://arxiv.org/abs/2408.13909)|null|
 |**2024-08-15**|**Cross-Modal Denoising: A Novel Training Paradigm for Enhancing Speech-Image Retrieval**|Lifeng Zhou et.al.|[2408.13705](http://arxiv.org/abs/2408.13705)|null|
 |**2024-08-15**|**Coarse-to-fine Alignment Makes Better Speech-image Retrieval**|Lifeng Zhou et.al.|[2408.13119](http://arxiv.org/abs/2408.13119)|null|
 |**2024-08-21**|**FUSELOC: Fusing Global and Local Descriptors to Disambiguate 2D-3D Matching in Visual Localization**|Son Tung Nguyen et.al.|[2408.12037](http://arxiv.org/abs/2408.12037)|**[link](https://github.com/sontung/descriptor-disambiguation)**|
@@ -1895,6 +1896,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-05**|**Enabling Practical and Privacy-Preserving Image Processing**|Chao Wang et.al.|[2409.03568](http://arxiv.org/abs/2409.03568)|null|
+|**2024-09-04**|**A General Albedo Recovery Approach for Aerial Photogrammetric Images through Inverse Rendering**|Shuang Song et.al.|[2409.03032](http://arxiv.org/abs/2409.03032)|null|
 |**2024-08-29**|**Super-Resolution works for coastal simulations**|Zhi-Song Liu et.al.|[2408.16553](http://arxiv.org/abs/2408.16553)|null|
 |**2024-08-29**|**Mismatched: Evaluating the Limits of Image Matching Approaches and Benchmarks**|Sierra Bonilla et.al.|[2408.16445](http://arxiv.org/abs/2408.16445)|**[link](https://github.com/surgical-vision/colmap-match-converter)**|
 |**2024-08-26**|**Affine steerers for structured keypoint description**|Georg Bökman et.al.|[2408.14186](http://arxiv.org/abs/2408.14186)|**[link](https://github.com/georg-bn/affine-steerers)**|
@@ -2156,9 +2159,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-05**|**Weight Conditioning for Smooth Optimization of Neural Networks**|Hemanth Saratchandran et.al.|[2409.03424](http://arxiv.org/abs/2409.03424)|null|
+|**2024-09-05**|**Optimizing 3D Gaussian Splatting for Sparse Viewpoint Scene Reconstruction**|Shen Chen et.al.|[2409.03213](http://arxiv.org/abs/2409.03213)|null|
 |**2024-09-04**|**UC-NeRF: Uncertainty-aware Conditional Neural Radiance Fields from Endoscopic Sparse Views**|Jiaxin Guo et.al.|[2409.02917](http://arxiv.org/abs/2409.02917)|**[link](https://github.com/wrld/uc-nerf)**|
 |**2024-09-03**|**GraspSplats: Efficient Manipulation with 3D Feature Splatting**|Mazeyu Ji et.al.|[2409.02084](http://arxiv.org/abs/2409.02084)|null|
-|**2024-09-03**|**$S^2$ NeRF: Privacy-preserving Training Framework for NeRF**|Bokang Zhang et.al.|[2409.01661](http://arxiv.org/abs/2409.01661)|null|
+|**2024-09-03**|**$S^2$ NeRF: Privacy-preserving Training Framework for NeRF**|Bokang Zhang et.al.|[2409.01661](http://arxiv.org/abs/2409.01661)|**[link](https://github.com/lucky9-cyou/S2-NeRF)**|
 |**2024-08-30**|**ConDense: Consistent 2D/3D Pre-training for Dense and Sparse Features from Multi-View Images**|Xiaoshuai Zhang et.al.|[2408.17027](http://arxiv.org/abs/2408.17027)|null|
 |**2024-08-29**|**GameIR: A Large-Scale Synthesized Ground-Truth Dataset for Image Restoration over Gaming Content**|Lebin Zhou et.al.|[2408.16866](http://arxiv.org/abs/2408.16866)|null|
 |**2024-09-01**|**Generic Objects as Pose Probes for Few-Shot View Synthesis**|Zhirui Gao et.al.|[2408.16690](http://arxiv.org/abs/2408.16690)|null|
