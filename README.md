@@ -547,6 +547,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-09**|**KRONC: Keypoint-based Robust Camera Optimization for 3D Car Reconstruction**|Davide Di Nucci et.al.|[2409.05407](http://arxiv.org/abs/2409.05407)|null|
 |**2024-09-04**|**Object Gaussian for Monocular 6D Pose Estimation from Sparse Views**|Luqing Luo et.al.|[2409.02581](http://arxiv.org/abs/2409.02581)|null|
 |**2024-09-03**|**Geometry-aware Feature Matching for Large-Scale Structure from Motion**|Gonglin Chen et.al.|[2409.02310](http://arxiv.org/abs/2409.02310)|null|
 |**2024-09-04**|**Augmented Reality without Borders: Achieving Precise Localization Without Maps**|Albert Gassol Puigjaner et.al.|[2408.17373](http://arxiv.org/abs/2408.17373)|null|
@@ -777,6 +778,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-09**|**Referring Expression Generation in Visually Grounded Dialogue with Discourse-aware Comprehension Guiding**|Bram Willemsen et.al.|[2409.05721](http://arxiv.org/abs/2409.05721)|null|
+|**2024-09-09**|**Open-World Dynamic Prompt and Continual Visual Representation Learning**|Youngeun Kim et.al.|[2409.05312](http://arxiv.org/abs/2409.05312)|null|
+|**2024-09-07**|**Training-free ZS-CIR via Weighted Modality Fusion and Similarity**|Ren-Di Wu et.al.|[2409.04918](http://arxiv.org/abs/2409.04918)|null|
+|**2024-09-06**|**Zero-Shot Whole Slide Image Retrieval in Histopathology Using Embeddings of Foundation Models**|Saghir Alfasly et.al.|[2409.04631](http://arxiv.org/abs/2409.04631)|null|
 |**2024-09-06**|**Reprojection Errors as Prompts for Efficient Scene Coordinate Regression**|Ting-Ru Liu et.al.|[2409.04178](http://arxiv.org/abs/2409.04178)|null|
 |**2024-09-06**|**Matched Filtering based LiDAR Place Recognition for Urban and Natural Environments**|Therese Joseph et.al.|[2409.03998](http://arxiv.org/abs/2409.03998)|null|
 |**2024-09-04**|**Design and Evaluation of Camera-Centric Mobile Crowdsourcing Applications**|Abby Stylianou et.al.|[2409.03012](http://arxiv.org/abs/2409.03012)|null|
@@ -2180,6 +2185,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-09**|**G-NeLF: Memory- and Data-Efficient Hybrid Neural Light Field for Novel View Synthesis**|Lutao Jiang et.al.|[2409.05617](http://arxiv.org/abs/2409.05617)|null|
+|**2024-09-09**|**From Words to Poses: Enhancing Novel Object Pose Estimation with Vision Language Models**|Tessa Pulli et.al.|[2409.05413](http://arxiv.org/abs/2409.05413)|null|
+|**2024-09-09**|**KRONC: Keypoint-based Robust Camera Optimization for 3D Car Reconstruction**|Davide Di Nucci et.al.|[2409.05407](http://arxiv.org/abs/2409.05407)|null|
+|**2024-09-09**|**Lagrangian Hashing for Compressed Neural Field Representations**|Shrisudhan Govindarajan et.al.|[2409.05334](http://arxiv.org/abs/2409.05334)|null|
+|**2024-09-09**|**Neural Surface Reconstruction and Rendering for LiDAR-Visual Systems**|Jianheng Liu et.al.|[2409.05310](http://arxiv.org/abs/2409.05310)|null|
+|**2024-09-06**|**SCARF: Scalable Continual Learning Framework for Memory-efficient Multiple Neural Radiance Fields**|Yuze Wang et.al.|[2409.04482](http://arxiv.org/abs/2409.04482)|null|
 |**2024-09-05**|**Weight Conditioning for Smooth Optimization of Neural Networks**|Hemanth Saratchandran et.al.|[2409.03424](http://arxiv.org/abs/2409.03424)|null|
 |**2024-09-05**|**Optimizing 3D Gaussian Splatting for Sparse Viewpoint Scene Reconstruction**|Shen Chen et.al.|[2409.03213](http://arxiv.org/abs/2409.03213)|null|
 |**2024-09-04**|**UC-NeRF: Uncertainty-aware Conditional Neural Radiance Fields from Endoscopic Sparse Views**|Jiaxin Guo et.al.|[2409.02917](http://arxiv.org/abs/2409.02917)|**[link](https://github.com/wrld/uc-nerf)**|
