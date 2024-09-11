@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.10
+## Updated on 2024.09.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -43,7 +43,7 @@ layout: default
 |**2024-05-30**|**TAMBRIDGE: Bridging Frame-Centered Tracking and 3D Gaussian Splatting for Enhanced SLAM**|Peifeng Jiang et.al.|[2405.19614](http://arxiv.org/abs/2405.19614)|null|
 |**2024-08-18**|**Advancements in Translation Accuracy for Stereo Visual-Inertial Initialization**|Han Song et.al.|[2405.15082](http://arxiv.org/abs/2405.15082)|null|
 |**2024-06-08**|**EdgeLoc: A Communication-Adaptive Parallel System for Real-Time Localization in Infrastructure-Assisted Autonomous Driving**|Boyi Liu et.al.|[2405.12120](http://arxiv.org/abs/2405.12120)|null|
-|**2024-05-10**|**MGS-SLAM: Monocular Sparse Tracking and Gaussian Mapping with Depth Smooth Regularization**|Pengcheng Zhu et.al.|[2405.06241](http://arxiv.org/abs/2405.06241)|null|
+|**2024-09-10**|**MGS-SLAM: Monocular Sparse Tracking and Gaussian Mapping with Depth Smooth Regularization**|Pengcheng Zhu et.al.|[2405.06241](http://arxiv.org/abs/2405.06241)|null|
 |**2024-05-09**|**MAD-ICP: It Is All About Matching Data -- Robust and Informed LiDAR Odometry**|Simone Ferrari et.al.|[2405.05828](http://arxiv.org/abs/2405.05828)|**[link](https://github.com/rvp-group/mad-icp)**|
 |**2024-05-09**|**Guess the Drift with LOP-UKF: LiDAR Odometry and Pacejka Model for Real-Time Racecar Sideslip Estimation**|Alessandro Toschi et.al.|[2405.05668](http://arxiv.org/abs/2405.05668)|null|
 |**2024-05-07**|**Bayesian Simultaneous Localization and Multi-Lane Tracking Using Onboard Sensors and a SD Map**|Yuxuan Xia et.al.|[2405.04290](http://arxiv.org/abs/2405.04290)|null|
