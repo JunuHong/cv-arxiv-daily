@@ -790,6 +790,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**Voxel-SLAM: A Complete, Accurate, and Versatile LiDAR-Inertial SLAM System**|Zheng Liu et.al.|[2410.08935](http://arxiv.org/abs/2410.08935)|null|
+|**2024-10-11**|**Semantic Token Reweighting for Interpretable and Controllable Text Embeddings in CLIP**|Eunji Kim et.al.|[2410.08469](http://arxiv.org/abs/2410.08469)|null|
+|**2024-10-11**|**A Unified Deep Semantic Expansion Framework for Domain-Generalized Person Re-identification**|Eugene P. W. Ang et.al.|[2410.08456](http://arxiv.org/abs/2410.08456)|null|
+|**2024-09-27**|**Content-Based Image Retrieval Using COSFIRE Descriptors with application to Radio Astronomy**|Steven Ndungu et.al.|[2410.08227](http://arxiv.org/abs/2410.08227)|null|
 |**2024-10-10**|**A Unified Debiasing Approach for Vision-Language Models across Modalities and Tasks**|Hoin Jung et.al.|[2410.07593](http://arxiv.org/abs/2410.07593)|null|
 |**2024-10-09**|**Exploiting Distribution Constraints for Scalable and Efficient Image Retrieval**|Mohammad Omama et.al.|[2410.07022](http://arxiv.org/abs/2410.07022)|null|
 |**2024-10-09**|**Pair-VPR: Place-Aware Pre-training and Contrastive Pair Classification for Visual Place Recognition with Vision Transformers**|Stephen Hausler et.al.|[2410.06614](http://arxiv.org/abs/2410.06614)|null|
@@ -800,7 +804,7 @@ layout: default
 |**2024-10-08**|**GSLoc: Visual Localization with 3D Gaussian Splatting**|Kazii Botashev et.al.|[2410.06165](http://arxiv.org/abs/2410.06165)|null|
 |**2024-10-08**|**Beyond Captioning: Task-Specific Prompting for Improved VLM Performance in Mathematical Reasoning**|Ayush Singh et.al.|[2410.05928](http://arxiv.org/abs/2410.05928)|null|
 |**2024-10-08**|**RNR-Nav: A Real-World Visual Navigation System Using Renderable Neural Radiance Maps**|Minsoo Kim et.al.|[2410.05621](http://arxiv.org/abs/2410.05621)|null|
-|**2024-10-09**|**LoTLIP: Improving Language-Image Pre-training for Long Text Understanding**|Wei Wu et.al.|[2410.05249](http://arxiv.org/abs/2410.05249)|null|
+|**2024-10-11**|**LoTLIP: Improving Language-Image Pre-training for Long Text Understanding**|Wei Wu et.al.|[2410.05249](http://arxiv.org/abs/2410.05249)|null|
 |**2024-10-06**|**LiteVLoc: Map-Lite Visual Localization for Image Goal Navigation**|Jianhao Jiao et.al.|[2410.04419](http://arxiv.org/abs/2410.04419)|null|
 |**2024-10-02**|**Boosting Weakly-Supervised Referring Image Segmentation via Progressive Comprehension**|Zaiquan Yang et.al.|[2410.01544](http://arxiv.org/abs/2410.01544)|null|
 |**2024-10-03**|**EUFCC-CIR: a Composed Image Retrieval Dataset for GLAM Collections**|Francesc Net et.al.|[2410.01536](http://arxiv.org/abs/2410.01536)|**[link](https://github.com/cesc47/eufcc-cir)**|
@@ -2243,6 +2247,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**SceneCraft: Layout-Guided 3D Scene Generation**|Xiuyu Yang et.al.|[2410.09049](http://arxiv.org/abs/2410.09049)|**[link](https://github.com/orangesodahub/scenecraft)**|
+|**2024-10-11**|**MeshGS: Adaptive Mesh-Aligned Gaussian Splatting for High-Quality Rendering**|Jaehoon Choi et.al.|[2410.08941](http://arxiv.org/abs/2410.08941)|null|
+|**2024-10-11**|**Optimizing NeRF-based SLAM with Trajectory Smoothness Constraints**|Yicheng He et.al.|[2410.08780](http://arxiv.org/abs/2410.08780)|null|
 |**2024-10-10**|**RGM: Reconstructing High-fidelity 3D Car Assets with Relightable 3D-GS Generative Model from a Single Image**|Xiaoxue Chen et.al.|[2410.08181](http://arxiv.org/abs/2410.08181)|null|
 |**2024-10-10**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107](http://arxiv.org/abs/2410.08107)|**[link](https://github.com/wu-cvgl/inceventgs)**|
 |**2024-10-11**|**NeRF-Accelerated Ecological Monitoring in Mixed-Evergreen Redwood Forest**|Adam Korycki et.al.|[2410.07418](http://arxiv.org/abs/2410.07418)|**[link](https://github.com/harelab-ucsc/redwoodnerf)**|
