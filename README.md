@@ -22,6 +22,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**MCVO: A Generic Visual Odometry for Arbitrarily Arranged Multi-Cameras**|Huai Yu et.al.|[2412.03146](http://arxiv.org/abs/2412.03146)|null|
+|**2024-12-04**|**An indoor DSO-based ceiling-vision odometry system for indoor industrial environments**|Abdelhak Bougouffa et.al.|[2412.02950](http://arxiv.org/abs/2412.02950)|null|
+|**2024-12-03**|**Adaptive LiDAR Odometry and Mapping for Autonomous Agricultural Mobile Robots in Unmanned Farms**|Hanzhe Teng et.al.|[2412.02899](http://arxiv.org/abs/2412.02899)|null|
 |**2024-12-03**|**LiDAR-based Registration against Georeferenced Models for Globally Consistent Allocentric Maps**|Jan Quenzel et.al.|[2412.02533](http://arxiv.org/abs/2412.02533)|null|
 |**2024-11-27**|**Efficient Dynamic LiDAR Odometry for Mobile Robots with Structured Point Clouds**|Jonathan Lichtenfeld et.al.|[2411.18443](http://arxiv.org/abs/2411.18443)|**[link](https://github.com/tu-darmstadt-ros-pkg/dynamic_direct_lidar_odometry)**|
 |**2024-11-25**|**Performance Assessment of Lidar Odometry Frameworks: A Case Study at the Australian Botanic Garden Mount Annan**|Mohamed Mourad Ouazghire et.al.|[2411.16931](http://arxiv.org/abs/2411.16931)|null|
@@ -840,8 +843,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**Distillation of Diffusion Features for Semantic Correspondence**|Frank Fundel et.al.|[2412.03512](http://arxiv.org/abs/2412.03512)|null|
+|**2024-12-04**|**Composed Image Retrieval for Training-Free Domain Conversion**|Nikos Efthymiadis et.al.|[2412.03297](http://arxiv.org/abs/2412.03297)|**[link](https://github.com/nikosefth/freedom)**|
+|**2024-12-03**|**A Minimalistic 3D Self-Organized UAV Flocking Approach for Desert Exploration**|Thulio Amorim et.al.|[2412.02881](http://arxiv.org/abs/2412.02881)|null|
 |**2024-12-03**|**Active Learning via Classifier Impact and Greedy Selection for Interactive Image Retrieval**|Leah Bar et.al.|[2412.02310](http://arxiv.org/abs/2412.02310)|**[link](https://github.com/barleah/greedyal)**|
-|**2024-12-02**|**Mutli-View 3D Reconstruction using Knowledge Distillation**|Aditya Dutt et.al.|[2412.02039](http://arxiv.org/abs/2412.02039)|null|
+|**2024-12-02**|**Mutli-View 3D Reconstruction using Knowledge Distillation**|Aditya Dutt et.al.|[2412.02039](http://arxiv.org/abs/2412.02039)|**[link](https://github.com/ishikaalunawat/231aproj)**|
 |**2024-12-02**|**Optimizing Domain-Specific Image Retrieval: A Benchmark of FAISS and Annoy with Fine-Tuned Features**|MD Shaikh Rahman et.al.|[2412.01555](http://arxiv.org/abs/2412.01555)|null|
 |**2024-12-02**|**Neuron Abandoning Attention Flow: Visual Explanation of Dynamics inside CNN Models**|Yi Liao et.al.|[2412.01202](http://arxiv.org/abs/2412.01202)|null|
 |**2024-12-01**|**EDTformer: An Efficient Decoder Transformer for Visual Place Recognition**|Tong Jin et.al.|[2412.00784](http://arxiv.org/abs/2412.00784)|null|
@@ -903,7 +909,7 @@
 |**2024-10-08**|**RNR-Nav: A Real-World Visual Navigation System Using Renderable Neural Radiance Maps**|Minsoo Kim et.al.|[2410.05621](http://arxiv.org/abs/2410.05621)|null|
 |**2024-11-12**|**LoTLIP: Improving Language-Image Pre-training for Long Text Understanding**|Wei Wu et.al.|[2410.05249](http://arxiv.org/abs/2410.05249)|null|
 |**2024-10-21**|**LiteVLoc: Map-Lite Visual Localization for Image Goal Navigation**|Jianhao Jiao et.al.|[2410.04419](http://arxiv.org/abs/2410.04419)|null|
-|**2024-11-22**|**Boosting Weakly-Supervised Referring Image Segmentation via Progressive Comprehension**|Zaiquan Yang et.al.|[2410.01544](http://arxiv.org/abs/2410.01544)|null|
+|**2024-12-04**|**Boosting Weakly-Supervised Referring Image Segmentation via Progressive Comprehension**|Zaiquan Yang et.al.|[2410.01544](http://arxiv.org/abs/2410.01544)|null|
 |**2024-10-03**|**EUFCC-CIR: a Composed Image Retrieval Dataset for GLAM Collections**|Francesc Net et.al.|[2410.01536](http://arxiv.org/abs/2410.01536)|**[link](https://github.com/cesc47/eufcc-cir)**|
 |**2024-10-04**|**CSIM: A Copula-based similarity index sensitive to local changes for Image quality assessment**|Safouane El Ghazouali et.al.|[2410.01411](http://arxiv.org/abs/2410.01411)|**[link](https://github.com/safouaneelg/copulasimilarity)**|
 |**2024-09-30**|**Class-Agnostic Visio-Temporal Scene Sketch Semantic Segmentation**|Aleyna Kütük et.al.|[2410.00266](http://arxiv.org/abs/2410.00266)|null|
@@ -1827,6 +1833,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**Measure Anything: Real-time, Multi-stage Vision-based Dimensional Measurement using Segment Anything**|Yongkyu Lee et.al.|[2412.03472](http://arxiv.org/abs/2412.03472)|null|
 |**2024-12-02**|**MamKPD: A Simple Mamba Baseline for Real-Time 2D Keypoint Detection**|Yonghao Dang et.al.|[2412.01422](http://arxiv.org/abs/2412.01422)|null|
 |**2024-11-23**|**OCDet: Object Center Detection via Bounding Box-Aware Heatmap Prediction on Edge Devices with NPUs**|Chen Xin et.al.|[2411.15653](http://arxiv.org/abs/2411.15653)|**[link](https://github.com/chen-xin-94/ocdet)**|
 |**2024-11-19**|**IoT-Based 3D Pose Estimation and Motion Optimization for Athletes: Application of C3D and OpenPose**|Fei Ren et.al.|[2411.12676](http://arxiv.org/abs/2411.12676)|null|
@@ -2093,6 +2100,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**Appearance Matching Adapter for Exemplar-based Semantic Image Synthesis**|Siyoon Jin et.al.|[2412.03150](http://arxiv.org/abs/2412.03150)|null|
 |**2024-11-20**|**DT-LSD: Deformable Transformer-based Line Segment Detection**|Sebastian Janampa et.al.|[2411.13005](http://arxiv.org/abs/2411.13005)|**[link](https://github.com/SebastianJanampa/DT-LSD)**|
 |**2024-11-15**|**Image Matching Filtering and Refinement by Planes and Beyond**|Fabio Bellavia et.al.|[2411.09484](http://arxiv.org/abs/2411.09484)|**[link](https://github.com/fb82/miho)**|
 |**2024-11-11**|**XPoint: A Self-Supervised Visual-State-Space based Architecture for Multispectral Image Registration**|Ismail Can Yagmur et.al.|[2411.07430](http://arxiv.org/abs/2411.07430)|**[link](https://github.com/canyagmur/xpoint)**|
@@ -2375,6 +2383,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**NeRF and Gaussian Splatting SLAM in the Wild**|Fabian Schmidt et.al.|[2412.03263](http://arxiv.org/abs/2412.03263)|null|
 |**2024-12-01**|**SAGA: Surface-Aligned Gaussian Avatar**|Ronghan Chen et.al.|[2412.00845](http://arxiv.org/abs/2412.00845)|null|
 |**2024-12-01**|**CtrlNeRF: The Generative Neural Radiation Fields for the Controllable Synthesis of High-fidelity 3D-Aware Images**|Jian Liu et.al.|[2412.00754](http://arxiv.org/abs/2412.00754)|null|
 |**2024-11-30**|**Speedy-Splat: Fast 3D Gaussian Splatting with Sparse Pixels and Sparse Primitives**|Alex Hanson et.al.|[2412.00578](http://arxiv.org/abs/2412.00578)|null|
@@ -2424,7 +2433,7 @@
 |**2024-11-05**|**Multi-modal NeRF Self-Supervision for LiDAR Semantic Segmentation**|Xavier Timoneda et.al.|[2411.02969](http://arxiv.org/abs/2411.02969)|null|
 |**2024-11-04**|**NeRF-Aug: Data Augmentation for Robotics with Neural Radiance Fields**|Eric Zhu et.al.|[2411.02482](http://arxiv.org/abs/2411.02482)|null|
 |**2024-11-05**|**FewViewGS: Gaussian Splatting with Few View Matching and Multi-stage Training**|Ruihong Yin et.al.|[2411.02229](http://arxiv.org/abs/2411.02229)|null|
-|**2024-11-06**|**GVKF: Gaussian Voxel Kernel Functions for Highly Efficient Surface Reconstruction in Open Scenes**|Gaochao Song et.al.|[2411.01853](http://arxiv.org/abs/2411.01853)|null|
+|**2024-12-04**|**GVKF: Gaussian Voxel Kernel Functions for Highly Efficient Surface Reconstruction in Open Scenes**|Gaochao Song et.al.|[2411.01853](http://arxiv.org/abs/2411.01853)|null|
 |**2024-11-04**|**A Probabilistic Formulation of LiDAR Mapping with Neural Radiance Fields**|Matthew McDermott et.al.|[2411.01725](http://arxiv.org/abs/2411.01725)|**[link](https://github.com/mcdermatt/plink)**|
 |**2024-11-01**|**ZIM: Zero-Shot Image Matting for Anything**|Beomyoung Kim et.al.|[2411.00626](http://arxiv.org/abs/2411.00626)|**[link](https://github.com/naver-ai/zim)**|
 |**2024-10-31**|**Scaled Inverse Graphics: Efficiently Learning Large Sets of 3D Scenes**|Karim Kassab et.al.|[2410.23742](http://arxiv.org/abs/2410.23742)|null|
