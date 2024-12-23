@@ -842,13 +842,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**A New Method to Capturing Compositional Knowledge in Linguistic Space**|Jiahe Wan et.al.|[2412.15632](http://arxiv.org/abs/2412.15632)|null|
+|**2024-12-20**|**Stabilizing Laplacian Inversion in Fokker-Planck Image Retrieval using the Transport-of-Intensity Equation**|Samantha J Alloo et.al.|[2412.15513](http://arxiv.org/abs/2412.15513)|null|
+|**2024-12-19**|**Learning Visual Composition through Improved Semantic Guidance**|Austin Stone et.al.|[2412.15396](http://arxiv.org/abs/2412.15396)|null|
 |**2024-12-19**|**MegaPairs: Massive Data Synthesis For Universal Multimodal Retrieval**|Junjie Zhou et.al.|[2412.14475](http://arxiv.org/abs/2412.14475)|null|
 |**2024-12-18**|**Adversarial Hubness in Multi-Modal Retrieval**|Tingwei Zhang et.al.|[2412.14113](http://arxiv.org/abs/2412.14113)|**[link](https://github.com/tingwei-zhang/adv_hub)**|
 |**2024-12-18**|**Maybe you are looking for CroQS: Cross-modal Query Suggestion for Text-to-Image Retrieval**|Giacomo Pacini et.al.|[2412.13834](http://arxiv.org/abs/2412.13834)|null|
 |**2024-12-18**|**ConDo: Continual Domain Expansion for Absolute Pose Regression**|Zijun Li et.al.|[2412.13452](http://arxiv.org/abs/2412.13452)|**[link](https://github.com/zijunli7/condo)**|
 |**2024-12-17**|**Three Things to Know about Deep Metric Learning**|Yash Patel et.al.|[2412.12432](http://arxiv.org/abs/2412.12432)|null|
 |**2024-12-15**|**Leveraging Large Vision-Language Model as User Intent-aware Encoder for Composed Image Retrieval**|Zelong Sun et.al.|[2412.11087](http://arxiv.org/abs/2412.11087)|null|
-|**2024-12-18**|**Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2412.11077](http://arxiv.org/abs/2412.11077)|null|
+|**2024-12-20**|**Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2412.11077](http://arxiv.org/abs/2412.11077)|null|
 |**2024-12-13**|**MVC-VPR: Mutual Learning of Viewpoint Classification and Visual Place Recognition**|Qiwen Gu et.al.|[2412.09199](http://arxiv.org/abs/2412.09199)|null|
 |**2024-12-12**|**A Flexible Plug-and-Play Module for Generating Variable-Length**|Liyang He et.al.|[2412.08922](http://arxiv.org/abs/2412.08922)|**[link](https://github.com/hly1998/nhl)**|
 |**2024-12-11**|**Image Retrieval Methods in the Dissimilarity Space**|Madhu Kiran et.al.|[2412.08618](http://arxiv.org/abs/2412.08618)|null|
@@ -2400,6 +2403,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**NeRF-To-Real Tester: Neural Radiance Fields as Test Image Generators for Vision of Autonomous Systems**|Laura Weihl et.al.|[2412.16141](http://arxiv.org/abs/2412.16141)|null|
+|**2024-12-20**|**NeuroPump: Simultaneous Geometric and Color Rectification for Underwater Images**|Yue Guo et.al.|[2412.15890](http://arxiv.org/abs/2412.15890)|null|
+|**2024-12-19**|**LiHi-GS: LiDAR-Supervised Gaussian Splatting for Highway Driving Scene Reconstruction**|Pou-Chun Kung et.al.|[2412.15447](http://arxiv.org/abs/2412.15447)|null|
+|**2024-12-18**|**DreaMark: Rooting Watermark in Score Distillation Sampling Generated Neural Radiance Fields**|Xingyu Zhu et.al.|[2412.15278](http://arxiv.org/abs/2412.15278)|null|
 |**2024-12-19**|**GSRender: Deduplicated Occupancy Prediction via Weakly Supervised 3D Gaussian Splatting**|Qianpu Sun et.al.|[2412.14579](http://arxiv.org/abs/2412.14579)|null|
 |**2024-12-19**|**Bright-NeRF:Brightening Neural Radiance Field with Color Restoration from Low-light Raw Images**|Min Wang et.al.|[2412.14547](http://arxiv.org/abs/2412.14547)|null|
 |**2024-12-18**|**GraphAvatar: Compact Head Avatars with GNN-Generated 3D Gaussians**|Xiaobao Wei et.al.|[2412.13983](http://arxiv.org/abs/2412.13983)|**[link](https://github.com/ucwxb/graphavatar)**|
@@ -2439,7 +2446,7 @@ layout: default
 |**2024-11-25**|**Quadratic Gaussian Splatting for Efficient and Detailed Surface Reconstruction**|Ziyu Zhang et.al.|[2411.16392](http://arxiv.org/abs/2411.16392)|null|
 |**2024-11-25**|**U2NeRF: Unsupervised Underwater Image Restoration and Neural Radiance Fields**|Vinayak Gupta et.al.|[2411.16172](http://arxiv.org/abs/2411.16172)|null|
 |**2024-11-24**|**ZeroGS: Training 3D Gaussian Splatting from Unposed Images**|Yu Chen et.al.|[2411.15779](http://arxiv.org/abs/2411.15779)|null|
-|**2024-11-28**|**GSurf: 3D Reconstruction via Signed Distance Fields with Direct Gaussian Supervision**|Baixin Xu et.al.|[2411.15723](http://arxiv.org/abs/2411.15723)|**[link](https://github.com/xubaixinxbx/gsurf)**|
+|**2024-12-20**|**GSurf: 3D Reconstruction via Signed Distance Fields with Direct Gaussian Supervision**|Baixin Xu et.al.|[2411.15723](http://arxiv.org/abs/2411.15723)|**[link](https://github.com/xubaixinxbx/gsurf)**|
 |**2024-11-23**|**NeRF Inpainting with Geometric Diffusion Prior and Balanced Score Distillation**|Menglin Zhang et.al.|[2411.15551](http://arxiv.org/abs/2411.15551)|null|
 |**2024-11-23**|**SplatSDF: Boosting Neural Implicit SDF via Gaussian Splatting Fusion**|Runfa Blark Li et.al.|[2411.15468](http://arxiv.org/abs/2411.15468)|null|
 |**2024-11-20**|**Sparse Input View Synthesis: 3D Representations and Reliable Priors**|Nagabhushan Somraj et.al.|[2411.13631](http://arxiv.org/abs/2411.13631)|null|
