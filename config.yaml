@@ -24,6 +24,8 @@ md_wechat_path: './docs/wechat.md'
 keywords:
     "SLAM": 
         filters: ["SLAM", "Visual Odometry", "LiDAR Odometry", "Odometry"]
+    "3D reconstruction":
+        filters: ["3D reconstruction"]
     "SFM":
         filters: ["SFM", "Structure from Motion"]
     "Visual Localization":
