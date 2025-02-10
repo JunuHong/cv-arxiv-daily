@@ -52,7 +52,7 @@
 |**2024-10-21**|**Robust Loop Closure by Textual Cues in Challenging Environments**|Tongxing Jin et.al.|[2410.15869](http://arxiv.org/abs/2410.15869)|**[link](https://github.com/tongxingjin/txtlcd)**|
 |**2024-10-17**|**DualQuat-LOAM: LiDAR Odometry and Mapping parametrized on Dual Quaternions**|Edison P. Velasco-Sánchez et.al.|[2410.13541](http://arxiv.org/abs/2410.13541)|null|
 |**2024-10-17**|**TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal**|Yanpeng Jia et.al.|[2410.13240](http://arxiv.org/abs/2410.13240)|null|
-|**2024-10-14**|**Kinematic-ICP: Enhancing LiDAR Odometry with Kinematic Constraints for Wheeled Mobile Robots Moving on Planar Surfaces**|Tiziano Guadagnino et.al.|[2410.10277](http://arxiv.org/abs/2410.10277)|null|
+|**2025-02-07**|**Kinematic-ICP: Enhancing LiDAR Odometry with Kinematic Constraints for Wheeled Mobile Robots Moving on Planar Surfaces**|Tiziano Guadagnino et.al.|[2410.10277](http://arxiv.org/abs/2410.10277)|null|
 |**2025-01-17**|**ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras**|Junkai Niu et.al.|[2410.09374](http://arxiv.org/abs/2410.09374)|**[link](https://github.com/nail-hnu/esvo2)**|
 |**2024-10-18**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107](http://arxiv.org/abs/2410.08107)|**[link](https://github.com/wu-cvgl/inceventgs)**|
 |**2024-09-29**|**CELLmap: Enhancing LiDAR SLAM through Elastic and Lightweight Spherical Map Representation**|Yifan Duan et.al.|[2409.19597](http://arxiv.org/abs/2409.19597)|null|
@@ -591,6 +591,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**Building Rome with Convex Optimization**|Haoyu Han et.al.|[2502.04640](http://arxiv.org/abs/2502.04640)|null|
 |**2025-02-04**|**SiLVR: Scalable Lidar-Visual Radiance Field Reconstruction with Uncertainty Quantification**|Yifu Tao et.al.|[2502.02657](http://arxiv.org/abs/2502.02657)|null|
 |**2025-02-05**|**GP-GS: Gaussian Processes for Enhanced Gaussian Splatting**|Zhihao Guo et.al.|[2502.02283](http://arxiv.org/abs/2502.02283)|null|
 |**2025-02-03**|**XR-VIO: High-precision Visual Inertial Odometry with Fast Initialization for XR Applications**|Shangjin Zhai et.al.|[2502.01297](http://arxiv.org/abs/2502.01297)|null|
@@ -879,6 +880,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**Learning Street View Representations with Spatiotemporal Contrast**|Yong Li et.al.|[2502.04638](http://arxiv.org/abs/2502.04638)|null|
 |**2025-02-06**|**Cross the Gap: Exposing the Intra-modal Misalignment in CLIP via Modality Inversion**|Marco Mistretta et.al.|[2502.04263](http://arxiv.org/abs/2502.04263)|null|
 |**2025-02-05**|**Human-Aligned Image Models Improve Visual Decoding from the Brain**|Nona Rajabi et.al.|[2502.03081](http://arxiv.org/abs/2502.03081)|null|
 |**2025-02-03**|**ConceptVAE: Self-Supervised Fine-Grained Concept Disentanglement from 2D Echocardiographies**|Costin F. Ciusdel et.al.|[2502.01335](http://arxiv.org/abs/2502.01335)|null|
@@ -2496,6 +2498,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**PoI: Pixel of Interest for Novel View Synthesis Assisted Scene Coordinate Regression**|Feifei Li et.al.|[2502.04843](http://arxiv.org/abs/2502.04843)|null|
 |**2025-02-04**|**SiLVR: Scalable Lidar-Visual Radiance Field Reconstruction with Uncertainty Quantification**|Yifu Tao et.al.|[2502.02657](http://arxiv.org/abs/2502.02657)|null|
 |**2025-02-04**|**MaintaAvatar: A Maintainable Avatar Based on Neural Radiance Fields by Continual Learning**|Shengbo Gu et.al.|[2502.02372](http://arxiv.org/abs/2502.02372)|null|
 |**2025-02-03**|**FourieRF: Few-Shot NeRFs via Progressive Fourier Frequency Control**|Diego Gomez et.al.|[2502.01405](http://arxiv.org/abs/2502.01405)|null|
@@ -3967,6 +3970,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**SC-OmniGS: Self-Calibrating Omnidirectional Gaussian Splatting**|Huajian Huang et.al.|[2502.04734](http://arxiv.org/abs/2502.04734)|null|
 |**2025-02-06**|**sshELF: Single-Shot Hierarchical Extrapolation of Latent Features for 3D Reconstruction from Sparse-Views**|Eyvaz Najafli et.al.|[2502.04318](http://arxiv.org/abs/2502.04318)|null|
 |**2025-02-05**|**Enhancing Free-hand 3D Photoacoustic and Ultrasound Reconstruction using Deep Learning**|SiYeoul Lee et.al.|[2502.03505](http://arxiv.org/abs/2502.03505)|null|
 |**2025-02-05**|**Dress-1-to-3: Single Image to Simulation-Ready 3D Outfit with Diffusion Prior and Differentiable Physics**|Xuan Li et.al.|[2502.03449](http://arxiv.org/abs/2502.03449)|null|
