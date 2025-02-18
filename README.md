@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**pySLAM: An Open-Source, Modular, and Extensible Framework for SLAM**|Luigi Freda et.al.|[2502.11955](http://arxiv.org/abs/2502.11955)|null|
+|**2025-02-17**|**Doppler Correspondence: Non-Iterative Scan Matching With Doppler Velocity-Based Correspondence**|Jiwoo Kim et.al.|[2502.11461](http://arxiv.org/abs/2502.11461)|null|
 |**2025-02-13**|**Vision-based Geo-Localization of Future Mars Rotorcraft in Challenging Illumination Conditions**|Dario Pisanti et.al.|[2502.09795](http://arxiv.org/abs/2502.09795)|null|
 |**2025-02-12**|**LIR-LIVO: A Lightweight,Robust LiDAR/Vision/Inertial Odometry with Illumination-Resilient Deep Features**|Shujie Zhou et.al.|[2502.08676](http://arxiv.org/abs/2502.08676)|**[link](https://github.com/IF-A-CAT/LIR-LIVO)**|
 |**2025-02-12**|**Ground-Optimized 4D Radar-Inertial Odometry via Continuous Velocity Integration using Gaussian Process**|Wooseong Yang et.al.|[2502.08093](http://arxiv.org/abs/2502.08093)|**[link](https://github.com/wooseongy/go-rio)**|
@@ -884,6 +886,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**Descriminative-Generative Custom Tokens for Vision-Language Models**|Pramuditha Perera et.al.|[2502.12095](http://arxiv.org/abs/2502.12095)|null|
+|**2025-02-17**|**ILIAS: Instance-Level Image retrieval At Scale**|Giorgos Kordopatis-Zilos et.al.|[2502.11748](http://arxiv.org/abs/2502.11748)|null|
+|**2025-02-17**|**Range and Bird's Eye View Fused Cross-Modal Visual Place Recognition**|Jianyi Peng et.al.|[2502.11742](http://arxiv.org/abs/2502.11742)|null|
+|**2025-02-17**|**Adversarially Robust CLIP Models Can Induce Better (Robust) Perceptual Metrics**|Francesco Croce et.al.|[2502.11725](http://arxiv.org/abs/2502.11725)|null|
+|**2025-02-17**|**Precise GPS-Denied UAV Self-Positioning via Context-Enhanced Cross-View Geo-Localization**|Yuanze Xu et.al.|[2502.11408](http://arxiv.org/abs/2502.11408)|null|
+|**2025-02-12**|**E2LVLM:Evidence-Enhanced Large Vision-Language Model for Multimodal Out-of-Context Misinformation Detection**|Junjie Wu et.al.|[2502.10455](http://arxiv.org/abs/2502.10455)|null|
 |**2025-02-11**|**Imit Diff: Semantics Guided Diffusion Transformer with Dual Resolution Fusion for Imitation Learning**|Yuhang Dong et.al.|[2502.09649](http://arxiv.org/abs/2502.09649)|null|
 |**2025-02-13**|**ImageRAG: Dynamic Image Retrieval for Reference-Guided Image Generation**|Rotem Shalev-Arkushin et.al.|[2502.09411](http://arxiv.org/abs/2502.09411)|null|
 |**2025-02-12**|**SpeechCompass: Enhancing Mobile Captioning with Diarization and Directional Guidance via Multi-Microphone Localization**|Artem Dementyev et.al.|[2502.08848](http://arxiv.org/abs/2502.08848)|null|
@@ -2218,6 +2226,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-16**|**FeaKM: Robust Collaborative Perception under Noisy Pose Conditions**|Jiuwu Hao et.al.|[2502.11003](http://arxiv.org/abs/2502.11003)|null|
 |**2025-02-11**|**Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation**|Emanuele Mule et.al.|[2502.06288](http://arxiv.org/abs/2502.06288)|**[link](https://github.com/MatteoPannacci/SemanticAlignNet-QUAD)**|
 |**2025-02-04**|**Muographic Image Upsampling with Machine Learning for Built Infrastructure Applications**|William O'Donnell et.al.|[2502.02624](http://arxiv.org/abs/2502.02624)|null|
 |**2025-02-01**|**MambaGlue: Fast and Robust Local Feature Matching With Mamba**|Kihwan Ryoo et.al.|[2502.00462](http://arxiv.org/abs/2502.00462)|**[link](https://github.com/url-kaist/mambaglue)**|
@@ -2514,6 +2523,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**HumanGif: Single-View Human Diffusion with Generative Prior**|Shoukang Hu et.al.|[2502.12080](http://arxiv.org/abs/2502.12080)|null|
+|**2025-02-17**|**3D Gaussian Inpainting with Depth-Guided Cross-View Consistency**|Sheng-Yu Huang et.al.|[2502.11801](http://arxiv.org/abs/2502.11801)|null|
 |**2025-02-13**|**Embed Any NeRF: Graph Meta-Networks for Neural Tasks on Arbitrary NeRF Architectures**|Francesco Ballerini et.al.|[2502.09623](http://arxiv.org/abs/2502.09623)|null|
 |**2025-02-13**|**DenseSplat: Densifying Gaussian Splatting SLAM with Neural Radiance Prior**|Mingrui Li et.al.|[2502.09111](http://arxiv.org/abs/2502.09111)|null|
 |**2025-02-12**|**Sat-DN: Implicit Surface Reconstruction from Multi-View Satellite Images with Depth and Normal Supervision**|Tianle Liu et.al.|[2502.08352](http://arxiv.org/abs/2502.08352)|null|
@@ -3993,10 +4004,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**Improving electron tomography of mesoporous silica by Ga intrusion**|Alexander Kichigin et.al.|[2502.11794](http://arxiv.org/abs/2502.11794)|null|
+|**2025-02-17**|**No-reference geometry quality assessment for colorless point clouds via list-wise rank learning**|Zheng Li et.al.|[2502.11726](http://arxiv.org/abs/2502.11726)|null|
+|**2025-02-14**|**HIPPo: Harnessing Image-to-3D Priors for Model-free Zero-shot 6D Pose Estimation**|Yibo Liu et.al.|[2502.10606](http://arxiv.org/abs/2502.10606)|null|
+|**2025-02-14**|**Multi-view 3D surface reconstruction from SAR images by inverse rendering**|Emile Barbier--Renard et.al.|[2502.10492](http://arxiv.org/abs/2502.10492)|null|
+|**2025-02-13**|**X-SG $^2$ S: Safe and Generalizable Gaussian Splatting with X-dimensional Watermarks**|Zihang Cheng et.al.|[2502.10475](http://arxiv.org/abs/2502.10475)|null|
 |**2025-02-13**|**PUGS: Perceptual Uncertainty for Grasp Selection in Underwater Environments**|Onur Bagoren et.al.|[2502.09824](http://arxiv.org/abs/2502.09824)|null|
 |**2025-02-13**|**Latent Radiance Fields with 3D-aware 2D Representations**|Chaoyi Zhou et.al.|[2502.09613](http://arxiv.org/abs/2502.09613)|null|
 |**2025-02-13**|**Large Images are Gaussians: High-Quality Large Image Representation with Levels of 2D Gaussian Splatting**|Lingting Zhu et.al.|[2502.09039](http://arxiv.org/abs/2502.09039)|**[link](https://github.com/hku-medai/lig)**|
-|**2025-02-13**|**Re $^3$ Sim: Generating High-Fidelity Simulation Data via 3D-Photorealistic Real-to-Sim for Robotic Manipulation**|Xiaoshen Han et.al.|[2502.08645](http://arxiv.org/abs/2502.08645)|null|
+|**2025-02-16**|**Re $^3$ Sim: Generating High-Fidelity Simulation Data via 3D-Photorealistic Real-to-Sim for Robotic Manipulation**|Xiaoshen Han et.al.|[2502.08645](http://arxiv.org/abs/2502.08645)|null|
 |**2025-02-11**|**EventEgo3D++: 3D Human Motion Capture from a Head-Mounted Event Camera**|Christen Millerdurai et.al.|[2502.07869](http://arxiv.org/abs/2502.07869)|null|
 |**2025-02-10**|**TripoSG: High-Fidelity 3D Shape Synthesis using Large-Scale Rectified Flow Models**|Yangguang Li et.al.|[2502.06608](http://arxiv.org/abs/2502.06608)|null|
 |**2025-02-07**|**SC-OmniGS: Self-Calibrating Omnidirectional Gaussian Splatting**|Huajian Huang et.al.|[2502.04734](http://arxiv.org/abs/2502.04734)|null|
@@ -4007,7 +4023,7 @@
 |**2025-02-05**|**GP-GS: Gaussian Processes for Enhanced Gaussian Splatting**|Zhihao Guo et.al.|[2502.02283](http://arxiv.org/abs/2502.02283)|null|
 |**2025-02-01**|**Leveraging Stable Diffusion for Monocular Depth Estimation via Image Semantic Encoding**|Jingming Xia et.al.|[2502.01666](http://arxiv.org/abs/2502.01666)|null|
 |**2025-02-03**|**Three-dimensional holographic imaging of incoherent objects through scattering media**|YoonSeok Baek et.al.|[2502.01475](http://arxiv.org/abs/2502.01475)|null|
-|**2025-01-29**|**3D Reconstruction of Shoes for Augmented Reality**|Pratik Shrestha et.al.|[2501.18643](http://arxiv.org/abs/2501.18643)|null|
+|**2025-02-17**|**3D Reconstruction of Shoes for Augmented Reality**|Pratik Shrestha et.al.|[2501.18643](http://arxiv.org/abs/2501.18643)|null|
 |**2025-01-31**|**Consistency Diffusion Models for Single-Image 3D Reconstruction with Priors**|Chenru Jiang et.al.|[2501.16737](http://arxiv.org/abs/2501.16737)|null|
 |**2025-01-27**|**3D Reconstruction of non-visible surfaces of objects from a Single Depth View -- Comparative Study**|Rafał Staszak et.al.|[2501.16101](http://arxiv.org/abs/2501.16101)|null|
 |**2025-01-31**|**Dfilled: Repurposing Edge-Enhancing Diffusion for Guided DSM Void Filling**|Daniel Panangian et.al.|[2501.15440](http://arxiv.org/abs/2501.15440)|null|
