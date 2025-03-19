@@ -609,6 +609,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**|Huy-Hoang Bui et.al.|[2503.13982](http://arxiv.org/abs/2503.13982)|null|
+|**2025-03-17**|**Improving Geometric Consistency for 360-Degree Neural Radiance Fields in Indoor Scenarios**|Iryna Repinetska et.al.|[2503.13710](http://arxiv.org/abs/2503.13710)|null|
 |**2025-03-17**|**Gaussian On-the-Fly Splatting: A Progressive Framework for Robust Near Real-Time 3DGS Optimization**|Yiwei Xu et.al.|[2503.13086](http://arxiv.org/abs/2503.13086)|null|
 |**2025-03-11**|**A Framework for Reducing the Complexity of Geometric Vision Problems and its Application to Two-View Triangulation with Approximation Bounds**|Felix Rydell et.al.|[2503.08142](http://arxiv.org/abs/2503.08142)|null|
 |**2025-03-11**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347](http://arxiv.org/abs/2503.07347)|**[link](https://github.com/parskatt/dad)**|
@@ -915,6 +917,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**3D Densification for Multi-Map Monocular VSLAM in Endoscopy**|X. Anadón et.al.|[2503.14346](http://arxiv.org/abs/2503.14346)|null|
+|**2025-03-18**|**A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**|Huy-Hoang Bui et.al.|[2503.13982](http://arxiv.org/abs/2503.13982)|null|
 |**2025-03-17**|**Scale Efficient Training for Large Datasets**|Qing Zhou et.al.|[2503.13385](http://arxiv.org/abs/2503.13385)|null|
 |**2025-03-17**|**Multi-Platform Teach-and-Repeat Navigation by Visual Place Recognition Based on Deep-Learned Local Features**|Václav Truhlařík et.al.|[2503.13090](http://arxiv.org/abs/2503.13090)|null|
 |**2025-03-17**|**All You Need to Know About Training Image Retrieval Models**|Gabriele Berton et.al.|[2503.13045](http://arxiv.org/abs/2503.13045)|null|
@@ -2017,6 +2021,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**Periodontal Bone Loss Analysis via Keypoint Detection With Heuristic Post-Processing**|Ryan Banks et.al.|[2503.13477](http://arxiv.org/abs/2503.13477)|null|
 |**2025-03-16**|**Histogram Transporter: Learning Rotation-Equivariant Orientation Histograms for High-Precision Robotic Kitting**|Jiadong Zhou et.al.|[2503.12541](http://arxiv.org/abs/2503.12541)|null|
 |**2025-03-11**|**Keypoint Detection and Description for Raw Bayer Images**|Jiakai Lin et.al.|[2503.08673](http://arxiv.org/abs/2503.08673)|null|
 |**2025-03-10**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413](http://arxiv.org/abs/2503.07413)|**[link](https://github.com/MacavityT/REF-VLM)**|
@@ -2065,6 +2070,7 @@
 |**2024-09-30**|**OpenKD: Opening Prompt Diversity for Zero- and Few-shot Keypoint Detection**|Changsheng Lu et.al.|[2409.19899](http://arxiv.org/abs/2409.19899)|**[link](https://github.com/alanlusun/openkd)**|
 |**2024-10-07**|**SKT: Integrating State-Aware Keypoint Trajectories with Vision-Language Models for Robotic Garment Manipulation**|Xin Li et.al.|[2409.18082](http://arxiv.org/abs/2409.18082)|null|
 |**2024-09-24**|**GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**|Gennady Sidorov et.al.|[2409.16502](http://arxiv.org/abs/2409.16502)|**[link](https://github.com/haksorus/gsplatloc)**|
+|**2025-03-18**|**Point Cloud Structural Similarity-based Underwater Sonar Loop Detection**|Donghwi Jung et.al.|[2409.14020](http://arxiv.org/abs/2409.14020)|**[link](https://github.com/donghwijung/point_cloud_structural_similarity_based_underwater_sonar_loop_detection)**|
 |**2024-09-20**|**Keypoint Detection Technique for Image-Based Visual Servoing of Manipulators**|Niloufar Amiri et.al.|[2409.13668](http://arxiv.org/abs/2409.13668)|null|
 |**2024-09-25**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam et.al.|[2409.08695](http://arxiv.org/abs/2409.08695)|**[link](https://github.com/ahmedheakl/fish-counting)**|
 |**2024-09-06**|**D4: Text-guided diffusion model-based domain adaptive data augmentation for vineyard shoot detection**|Kentaro Hirahara et.al.|[2409.04060](http://arxiv.org/abs/2409.04060)|null|
@@ -2624,6 +2630,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**Segmentation-Guided Neural Radiance Fields for Novel Street View Synthesis**|Yizhou Li et.al.|[2503.14219](http://arxiv.org/abs/2503.14219)|null|
+|**2025-03-17**|**Improving Geometric Consistency for 360-Degree Neural Radiance Fields in Indoor Scenarios**|Iryna Repinetska et.al.|[2503.13710](http://arxiv.org/abs/2503.13710)|null|
 |**2025-03-17**|**TriDF: Triplane-Accelerated Density Fields for Few-Shot Remote Sensing Novel View Synthesis**|Jiaming Kang et.al.|[2503.13347](http://arxiv.org/abs/2503.13347)|null|
 |**2025-03-17**|**DeGauss: Dynamic-Static Decomposition with Gaussian Splatting for Distractor-free 3D Reconstruction**|Rui Wang et.al.|[2503.13176](http://arxiv.org/abs/2503.13176)|null|
 |**2025-03-17**|**DivCon-NeRF: Generating Augmented Rays with Diversity and Consistency for Few-shot View Synthesis**|Ingyun Lee et.al.|[2503.12947](http://arxiv.org/abs/2503.12947)|null|
@@ -4149,6 +4157,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**SIR-DIFF: Sparse Image Sets Restoration with Multi-View Diffusion Model**|Yucheng Mao et.al.|[2503.14463](http://arxiv.org/abs/2503.14463)|null|
+|**2025-03-18**|**Bolt3D: Generating 3D Scenes in Seconds**|Stanislaw Szymanowicz et.al.|[2503.14445](http://arxiv.org/abs/2503.14445)|null|
+|**2025-03-18**|**Segmentation-Guided Neural Radiance Fields for Novel Street View Synthesis**|Yizhou Li et.al.|[2503.14219](http://arxiv.org/abs/2503.14219)|null|
+|**2025-03-18**|**BG-Triangle: Bézier Gaussian Triangle for 3D Vectorization and Rendering**|Minye Wu et.al.|[2503.13961](http://arxiv.org/abs/2503.13961)|null|
+|**2025-03-17**|**Using 3D reconstruction from image motion to predict total leaf area in dwarf tomato plants**|Dmitrii Usenko et.al.|[2503.13778](http://arxiv.org/abs/2503.13778)|null|
 |**2025-03-17**|**Amodal3R: Amodal 3D Reconstruction from Occluded 2D Images**|Tianhao Wu et.al.|[2503.13439](http://arxiv.org/abs/2503.13439)|null|
 |**2025-03-17**|**WideRange4D: Enabling High-Quality 4D Reconstruction with Wide-Range Movements and Scenes**|Ling Yang et.al.|[2503.13435](http://arxiv.org/abs/2503.13435)|null|
 |**2025-03-17**|**DeGauss: Dynamic-Static Decomposition with Gaussian Splatting for Distractor-free 3D Reconstruction**|Rui Wang et.al.|[2503.13176](http://arxiv.org/abs/2503.13176)|null|
