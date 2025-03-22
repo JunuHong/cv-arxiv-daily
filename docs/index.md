@@ -4169,7 +4169,7 @@ layout: default
 |**2025-03-17**|**CompMarkGS: Robust Watermarking for Compression 3D Gaussian Splatting**|Sumin In et.al.|[2503.12836](http://arxiv.org/abs/2503.12836)|null|
 |**2025-03-17**|**ProtoDepth: Unsupervised Continual Depth Completion with Prototypes**|Patrick Rim et.al.|[2503.12745](http://arxiv.org/abs/2503.12745)|null|
 |**2025-03-15**|**Multi-slice beam propagation method for imaging multiple-scattering samples on reflective substrates**|Jiabei Zhu et.al.|[2503.12246](http://arxiv.org/abs/2503.12246)|null|
-|**2025-03-18**|**3D Gaussian Splatting against Moving Objects for High-Fidelity Street Scene Reconstruction**|Peizhen Zheng et.al.|[2503.12001](http://arxiv.org/abs/2503.12001)|null|
+|**2025-03-18**|**3D Gaussian Splatting against Moving Objects for High-Fidelity Street Scene Reconstruction**|Peizhen Zheng et.al.|[2503.12001](http://arxiv.org/abs/2503.12001)|**[link](https://github.com/thinkxca/3dgs)**|
 |**2025-03-14**|**Bring Your Rear Cameras for Egocentric 3D Human Pose Estimation**|Hiroyasu Akada et.al.|[2503.11652](http://arxiv.org/abs/2503.11652)|null|
 |**2025-03-14**|**Enhanced Multi-View Pedestrian Detection Using Probabilistic Occupancy Volume**|Reef Alturki et.al.|[2503.10982](http://arxiv.org/abs/2503.10982)|null|
 |**2025-03-13**|**OSMa-Bench: Evaluating Open Semantic Mapping Under Varying Lighting Conditions**|Maxim Popov et.al.|[2503.10331](http://arxiv.org/abs/2503.10331)|null|
