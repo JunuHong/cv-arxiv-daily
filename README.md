@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.25
+## Updated on 2025.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -53,7 +53,7 @@
 |**2024-12-19**|**RoMeO: Robust Metric Visual Odometry**|Junda Cheng et.al.|[2412.11530](http://arxiv.org/abs/2412.11530)|null|
 |**2024-12-12**|**eCARLA-scenes: A synthetically generated dataset for event-based optical flow prediction**|Jad Mansour et.al.|[2412.09209](http://arxiv.org/abs/2412.09209)|**[link](https://github.com/CIRS-Girona/ecarla-scenes)**|
 |**2024-12-10**|**A Real-time Degeneracy Sensing and Compensation Method for Enhanced LiDAR SLAM**|Zongbo Liao et.al.|[2412.07513](http://arxiv.org/abs/2412.07513)|null|
-|**2024-12-04**|**MCVO: A Generic Visual Odometry for Arbitrarily Arranged Multi-Cameras**|Huai Yu et.al.|[2412.03146](http://arxiv.org/abs/2412.03146)|**[link](https://github.com/junhaowang615/mcvo)**|
+|**2025-03-25**|**MCVO: A Generic Visual Odometry for Arbitrarily Arranged Multi-Cameras**|Huai Yu et.al.|[2412.03146](http://arxiv.org/abs/2412.03146)|**[link](https://github.com/junhaowang615/mcvo)**|
 |**2024-12-04**|**An indoor DSO-based ceiling-vision odometry system for indoor industrial environments**|Abdelhak Bougouffa et.al.|[2412.02950](http://arxiv.org/abs/2412.02950)|null|
 |**2024-12-03**|**Adaptive LiDAR Odometry and Mapping for Autonomous Agricultural Mobile Robots in Unmanned Farms**|Hanzhe Teng et.al.|[2412.02899](http://arxiv.org/abs/2412.02899)|**[link](https://github.com/ucr-robotics/ag-loam)**|
 |**2024-12-03**|**LiDAR-based Registration against Georeferenced Models for Globally Consistent Allocentric Maps**|Jan Quenzel et.al.|[2412.02533](http://arxiv.org/abs/2412.02533)|null|
@@ -72,7 +72,7 @@
 |**2024-10-17**|**TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal**|Yanpeng Jia et.al.|[2410.13240](http://arxiv.org/abs/2410.13240)|null|
 |**2025-02-10**|**Kinematic-ICP: Enhancing LiDAR Odometry with Kinematic Constraints for Wheeled Mobile Robots Moving on Planar Surfaces**|Tiziano Guadagnino et.al.|[2410.10277](http://arxiv.org/abs/2410.10277)|null|
 |**2025-03-03**|**ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras**|Junkai Niu et.al.|[2410.09374](http://arxiv.org/abs/2410.09374)|**[link](https://github.com/nail-hnu/esvo2)**|
-|**2025-03-24**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107](http://arxiv.org/abs/2410.08107)|**[link](https://github.com/wu-cvgl/inceventgs)**|
+|**2025-03-25**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107](http://arxiv.org/abs/2410.08107)|**[link](https://github.com/wu-cvgl/inceventgs)**|
 |**2024-09-29**|**CELLmap: Enhancing LiDAR SLAM through Elastic and Lightweight Spherical Map Representation**|Yifan Duan et.al.|[2409.19597](http://arxiv.org/abs/2409.19597)|null|
 |**2024-09-20**|**Learning Visual Information Utility with PIXER**|Yash Turkar et.al.|[2409.13151](http://arxiv.org/abs/2409.13151)|null|
 |**2025-02-24**|**ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation**|Yanlin Jin et.al.|[2409.11692](http://arxiv.org/abs/2409.11692)|null|
@@ -604,7 +604,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
 
 ## SFM
 
@@ -916,7 +916,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2029,7 +2029,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2326,7 +2326,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2642,14 +2642,14 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-03-24**|**NexusGS: Sparse View Synthesis with Epipolar Depth Priors in 3D Gaussian Splatting**|Yulong Zheng et.al.|[2503.18794](http://arxiv.org/abs/2503.18794)|null|
-|**2025-03-24**|**LookCloser: Frequency-aware Radiance Field for Tiny-Detail Scene**|Xiaoyu Zhang et.al.|[2503.18513](http://arxiv.org/abs/2503.18513)|null|
+|**2025-03-25**|**LookCloser: Frequency-aware Radiance Field for Tiny-Detail Scene**|Xiaoyu Zhang et.al.|[2503.18513](http://arxiv.org/abs/2503.18513)|null|
 |**2025-03-24**|**NeRFPrior: Learning Neural Radiance Field as a Prior for Indoor Scene Reconstruction**|Wenyuan Zhang et.al.|[2503.18361](http://arxiv.org/abs/2503.18361)|null|
 |**2025-03-23**|**End-to-End Implicit Neural Representations for Classification**|Alexander Gielisse et.al.|[2503.18123](http://arxiv.org/abs/2503.18123)|null|
 |**2025-03-23**|**Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**|Junhao Ge et.al.|[2503.18108](http://arxiv.org/abs/2503.18108)|null|
@@ -2696,7 +2696,7 @@
 |**2025-03-03**|**LiteGS: A High-Performance Modular Framework for Gaussian Splatting Training**|Kaimin Liao et.al.|[2503.01199](http://arxiv.org/abs/2503.01199)|**[link](https://github.com/moorethreads/litegs)**|
 |**2025-03-02**|**DreamPrinting: Volumetric Printing Primitives for High-Fidelity 3D Printing**|Youjia Wang et.al.|[2503.00887](http://arxiv.org/abs/2503.00887)|null|
 |**2025-03-01**|**Scalable Real2Sim: Physics-Aware Asset Generation Via Robotic Pick-and-Place Setups**|Nicholas Pfaff et.al.|[2503.00370](http://arxiv.org/abs/2503.00370)|**[link](https://github.com/nepfaff/scalable-real2sim)**|
-|**2025-02-27**|**Identity-preserving Distillation Sampling by Fixed-Point Iterator**|SeonHwa Kim et.al.|[2502.19930](http://arxiv.org/abs/2502.19930)|null|
+|**2025-03-25**|**Identity-preserving Distillation Sampling by Fixed-Point Iterator**|SeonHwa Kim et.al.|[2502.19930](http://arxiv.org/abs/2502.19930)|null|
 |**2025-02-27**|**NeRFCom: Feature Transform Coding Meets Neural Radiance Field for Free-View 3D Scene Semantic Transmission**|Weijie Yue et.al.|[2502.19873](http://arxiv.org/abs/2502.19873)|null|
 |**2025-02-26**|**Compression in 3D Gaussian Splatting: A Survey of Methods, Trends, and Future Directions**|Muhammad Salman Ali et.al.|[2502.19457](http://arxiv.org/abs/2502.19457)|null|
 |**2025-02-26**|**Does 3D Gaussian Splatting Need Accurate Volumetric Rendering?**|Adam Celarek et.al.|[2502.19318](http://arxiv.org/abs/2502.19318)|**[link](https://github.com/cg-tuwien/does_3d_gaussian_splatting_need_accurate_volumetric_rendering)**|
@@ -4186,7 +4186,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
 
 ## 3D reconstruction
 
@@ -4219,7 +4219,7 @@
 |**2025-03-17**|**Amodal3R: Amodal 3D Reconstruction from Occluded 2D Images**|Tianhao Wu et.al.|[2503.13439](http://arxiv.org/abs/2503.13439)|null|
 |**2025-03-17**|**WideRange4D: Enabling High-Quality 4D Reconstruction with Wide-Range Movements and Scenes**|Ling Yang et.al.|[2503.13435](http://arxiv.org/abs/2503.13435)|**[link](https://github.com/gen-verse/widerange4d)**|
 |**2025-03-17**|**DeGauss: Dynamic-Static Decomposition with Gaussian Splatting for Distractor-free 3D Reconstruction**|Rui Wang et.al.|[2503.13176](http://arxiv.org/abs/2503.13176)|null|
-|**2025-03-24**|**CompMarkGS: Robust Watermarking for Compression 3D Gaussian Splatting**|Sumin In et.al.|[2503.12836](http://arxiv.org/abs/2503.12836)|null|
+|**2025-03-25**|**CompMarkGS: Robust Watermarking for Compressed 3D Gaussian Splatting**|Sumin In et.al.|[2503.12836](http://arxiv.org/abs/2503.12836)|null|
 |**2025-03-17**|**ProtoDepth: Unsupervised Continual Depth Completion with Prototypes**|Patrick Rim et.al.|[2503.12745](http://arxiv.org/abs/2503.12745)|null|
 |**2025-03-15**|**Multi-slice beam propagation method for imaging multiple-scattering samples on reflective substrates**|Jiabei Zhu et.al.|[2503.12246](http://arxiv.org/abs/2503.12246)|null|
 |**2025-03-18**|**3D Gaussian Splatting against Moving Objects for High-Fidelity Street Scene Reconstruction**|Peizhen Zheng et.al.|[2503.12001](http://arxiv.org/abs/2503.12001)|**[link](https://github.com/thinkxca/3dgs)**|
@@ -4265,7 +4265,7 @@
 |**2025-03-02**|**Multi-Cali Anything: Dense Feature Multi-Frame Structure-from-Motion for Large-Scale Camera Array Calibration**|Jinjiang You et.al.|[2503.00737](http://arxiv.org/abs/2503.00737)|**[link](https://github.com/yjjfish/multi-cali-anything)**|
 |**2025-03-02**|**Enhancing Monocular 3D Scene Completion with Diffusion Model**|Changlin Song et.al.|[2503.00726](http://arxiv.org/abs/2503.00726)|**[link](https://github.com/charliesong1999/flashdreamer)**|
 |**2025-03-19**|**How the CME on 21 April 2023 Triggered the First Severe Geomagnetic Storm of Solar Cycle 25**|Evangelos Paouris et.al.|[2503.00705](http://arxiv.org/abs/2503.00705)|null|
-|**2025-03-01**|**Seeing A 3D World in A Grain of Sand**|Yufan Zhang et.al.|[2503.00260](http://arxiv.org/abs/2503.00260)|null|
+|**2025-03-24**|**Seeing A 3D World in A Grain of Sand**|Yufan Zhang et.al.|[2503.00260](http://arxiv.org/abs/2503.00260)|null|
 |**2025-02-28**|**MESC-3D:Mining Effective Semantic Cues for 3D Reconstruction from a Single Image**|Shaoming Li et.al.|[2502.20861](http://arxiv.org/abs/2502.20861)|null|
 |**2025-02-28**|**EndoPBR: Material and Lighting Estimation for Photorealistic Surgical Simulations via Physically-based Rendering**|John J. Han et.al.|[2502.20669](http://arxiv.org/abs/2502.20669)|null|
 |**2025-02-27**|**Cutting-edge 3D reconstruction solutions for underwater coral reef images: A review and comparison**|Jiageng Zhong et.al.|[2502.20154](http://arxiv.org/abs/2502.20154)|null|
@@ -4422,7 +4422,7 @@
 |**2024-12-04**|**Distillation of Diffusion Features for Semantic Correspondence**|Frank Fundel et.al.|[2412.03512](http://arxiv.org/abs/2412.03512)|null|
 |**2024-12-04**|**Splats in Splats: Embedding Invisible 3D Watermark within Gaussian Splatting**|Yijia Guo et.al.|[2412.03121](http://arxiv.org/abs/2412.03121)|null|
 
-<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
