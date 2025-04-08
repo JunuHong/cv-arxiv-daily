@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.07
+## Updated on 2025.04.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -652,7 +652,7 @@ layout: default
 |**2025-03-07**|**A Simple yet Effective Test-Time Adaptation for Zero-Shot Monocular Metric Depth Estimation**|Rémi Marsal et.al.|[2412.14103](http://arxiv.org/abs/2412.14103)|null|
 |**2024-12-18**|**SplineGS: Robust Motion-Adaptive Spline for Real-Time Dynamic 3D Gaussians from Monocular Video**|Jongmin Park et.al.|[2412.09982](http://arxiv.org/abs/2412.09982)|null|
 |**2024-12-10**|**Deep Non-rigid Structure-from-Motion Revisited: Canonicalization and Sequence Modeling**|Hui Deng et.al.|[2412.07230](http://arxiv.org/abs/2412.07230)|null|
-|**2024-12-08**|**Doppelgangers++: Improved Visual Disambiguation with Geometric 3D Features**|Yuanbo Xiangli et.al.|[2412.05826](http://arxiv.org/abs/2412.05826)|null|
+|**2025-04-04**|**Doppelgangers++: Improved Visual Disambiguation with Geometric 3D Features**|Yuanbo Xiangli et.al.|[2412.05826](http://arxiv.org/abs/2412.05826)|null|
 |**2024-12-06**|**MegaSaM: Accurate, Fast, and Robust Structure and Motion from Casual Dynamic Videos**|Zhengqi Li et.al.|[2412.04463](http://arxiv.org/abs/2412.04463)|null|
 |**2024-12-02**|**SfM-Free 3D Gaussian Splatting via Hierarchical Training**|Bo Ji et.al.|[2412.01553](http://arxiv.org/abs/2412.01553)|**[link](https://github.com/jibo27/3dgs_hierarchical_training)**|
 |**2024-12-02**|**MVImgNet2.0: A Larger-scale Dataset of Multi-view Images**|Xiaoguang Han et.al.|[2412.01430](http://arxiv.org/abs/2412.01430)|null|
@@ -2389,7 +2389,7 @@ layout: default
 |**2024-11-07**|**The Impact of Semi-Supervised Learning on Line Segment Detection**|Johanna Engman et.al.|[2411.04596](http://arxiv.org/abs/2411.04596)|**[link](https://github.com/jo6815en/semi-lines)**|
 |**2024-11-04**|**Silver medal Solution for Image Matching Challenge 2024**|Yian Wang et.al.|[2411.01851](http://arxiv.org/abs/2411.01851)|null|
 |**2024-10-30**|**Variable Resolution Sampling and Deep Learning Image Recovery for Accelerated Multi-Spectral MRI Near Metal Implants**|Azadeh Sharafi et.al.|[2410.23329](http://arxiv.org/abs/2410.23329)|null|
-|**2025-03-22**|**DreamRelation: Bridging Customization and Relation Generation**|Qingyu Shi et.al.|[2410.23280](http://arxiv.org/abs/2410.23280)|null|
+|**2025-04-05**|**DreamRelation: Bridging Customization and Relation Generation**|Qingyu Shi et.al.|[2410.23280](http://arxiv.org/abs/2410.23280)|null|
 |**2025-01-10**|**ETO:Efficient Transformer-based Local Feature Matching by Organizing Multiple Homography Hypotheses**|Junjie Ni et.al.|[2410.22733](http://arxiv.org/abs/2410.22733)|null|
 |**2024-10-30**|**LoFLAT: Local Feature Matching using Focused Linear Attention Transformer**|Naijian Cao et.al.|[2410.22710](http://arxiv.org/abs/2410.22710)|null|
 |**2024-10-26**|**Generative Adversarial Patches for Physical Attacks on Cross-Modal Pedestrian Re-Identification**|Yue Su et.al.|[2410.20097](http://arxiv.org/abs/2410.20097)|null|
