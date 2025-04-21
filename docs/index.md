@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.20
+## Updated on 2025.04.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4279,14 +4279,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-17**|**ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos**|Zetong Zhang et.al.|[2504.13167](http://arxiv.org/abs/2504.13167)|null|
+|**2025-04-18**|**ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos**|Zetong Zhang et.al.|[2504.13167](http://arxiv.org/abs/2504.13167)|null|
 |**2025-04-17**|**St4RTrack: Simultaneous 4D Reconstruction and Tracking in the World**|Haiwen Feng et.al.|[2504.13152](http://arxiv.org/abs/2504.13152)|null|
 |**2025-04-17**|**AAA-Gaussians: Anti-Aliased and Artifact-Free 3D Gaussian Rendering**|Michael Steiner et.al.|[2504.12811](http://arxiv.org/abs/2504.12811)|null|
 |**2025-04-17**|**TSGS: Improving Gaussian Splatting for Transparent Surface Reconstruction via Normal and De-lighting Priors**|Mingwei Li et.al.|[2504.12799](http://arxiv.org/abs/2504.12799)|null|
 |**2025-04-16**|**A theoretical framework for flow-compatible reconstruction of heart motion**|Francesco Capuano et.al.|[2504.12531](http://arxiv.org/abs/2504.12531)|null|
 |**2025-04-16**|**Regist3R: Incremental Registration with Stereo Foundation Model**|Sidun Liu et.al.|[2504.12356](http://arxiv.org/abs/2504.12356)|null|
 |**2025-04-16**|**SHeaP: Self-Supervised Head Geometry Predictor Learned via 2D Gaussians**|Liam Schoneveld et.al.|[2504.12292](http://arxiv.org/abs/2504.12292)|null|
-|**2025-04-16**|**Mind2Matter: Creating 3D Models from EEG Signals**|Xia Deng et.al.|[2504.11936](http://arxiv.org/abs/2504.11936)|**[link](https://github.com/sddwwww/mind2matter)**|
+|**2025-04-18**|**Mind2Matter: Creating 3D Models from EEG Signals**|Xia Deng et.al.|[2504.11936](http://arxiv.org/abs/2504.11936)|**[link](https://github.com/sddwwww/mind2matter)**|
 |**2025-04-15**|**Deep Learning-based Bathymetry Retrieval without In-situ Depths using Remote Sensing Imagery and SfM-MVS DSMs with Data Gaps**|Panagiotis Agrafiotis et.al.|[2504.11416](http://arxiv.org/abs/2504.11416)|**[link](https://github.com/pagraf/swin-bathyunet)**|
 |**2025-04-15**|**Explicit and Implicit Representations in AI-based 3D Reconstruction for Radiology: A systematic literature review**|Yuezhe Yang et.al.|[2504.11349](http://arxiv.org/abs/2504.11349)|**[link](https://github.com/bean-young/ai4med)**|
 |**2025-04-15**|**Super time-resolved tomography**|Zhe Hu et.al.|[2504.11148](http://arxiv.org/abs/2504.11148)|null|
