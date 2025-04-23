@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.22
+## Updated on 2025.04.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -942,7 +942,7 @@ layout: default
 |**2025-04-10**|**Multi-modal Reference Learning for Fine-grained Text-to-Image Retrieval**|Zehong Ma et.al.|[2504.07718](http://arxiv.org/abs/2504.07718)|null|
 |**2025-04-09**|**A Pointcloud Registration Framework for Relocalization in Subterranean Environments**|David Akhihiero et.al.|[2504.07231](http://arxiv.org/abs/2504.07231)|null|
 |**2025-04-09**|**Patch Matters: Training-free Fine-grained Image Caption Enhancement via Local Perception**|Ruotian Peng et.al.|[2504.06666](http://arxiv.org/abs/2504.06666)|null|
-|**2025-04-08**|**To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**|Davide Sferrazza et.al.|[2504.06116](http://arxiv.org/abs/2504.06116)|**[link](https://github.com/FarInHeight/To-Match-or-Not-to-Match)**|
+|**2025-04-22**|**To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**|Davide Sferrazza et.al.|[2504.06116](http://arxiv.org/abs/2504.06116)|**[link](https://github.com/FarInHeight/To-Match-or-Not-to-Match)**|
 |**2025-02-21**|**Scale Up Composed Image Retrieval Learning via Modification Text Generation**|Yinan Zhou et.al.|[2504.05316](http://arxiv.org/abs/2504.05316)|null|
 |**2025-04-06**|**NCL-CIR: Noise-aware Contrastive Learning for Composed Image Retrieval**|Peng Gao et.al.|[2504.04339](http://arxiv.org/abs/2504.04339)|null|
 |**2025-04-04**|**REJEPA: A Novel Joint-Embedding Predictive Architecture for Efficient Remote Sensing Image Retrieval**|Shabnam Choudhury et.al.|[2504.03169](http://arxiv.org/abs/2504.03169)|null|
@@ -2379,7 +2379,7 @@ layout: default
 |**2025-04-18**|**Outlier-Robust Multi-Model Fitting on Quantum Annealers**|Saurabh Pandey et.al.|[2504.13836](http://arxiv.org/abs/2504.13836)|null|
 |**2025-04-11**|**Geometric Consistency Refinement for Single Image Novel View Synthesis via Test-Time Adaptation of Diffusion Models**|Josef Bengtson et.al.|[2504.08348](http://arxiv.org/abs/2504.08348)|null|
 |**2025-04-10**|**Image registration of 2D optical thin sections in a 3D porous medium: Application to a Berea sandstone digital rock image**|Jaehong Chung et.al.|[2504.06604](http://arxiv.org/abs/2504.06604)|**[link](https://github.com/jh-chung1/imgregister2dto3d)**|
-|**2025-04-08**|**To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**|Davide Sferrazza et.al.|[2504.06116](http://arxiv.org/abs/2504.06116)|**[link](https://github.com/FarInHeight/To-Match-or-Not-to-Match)**|
+|**2025-04-22**|**To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**|Davide Sferrazza et.al.|[2504.06116](http://arxiv.org/abs/2504.06116)|**[link](https://github.com/FarInHeight/To-Match-or-Not-to-Match)**|
 |**2025-04-10**|**Learning Affine Correspondences by Integrating Geometric Constraints**|Pengju Sun et.al.|[2504.04834](http://arxiv.org/abs/2504.04834)|**[link](https://github.com/stilcrad/denseaffine)**|
 |**2025-04-01**|**Scaling Prompt Instructed Zero Shot Composed Image Retrieval with Image-Only Data**|Yiqun Duan et.al.|[2504.00812](http://arxiv.org/abs/2504.00812)|null|
 |**2025-03-31**|**CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching**|Zizhuo Li et.al.|[2503.23925](http://arxiv.org/abs/2503.23925)|null|
