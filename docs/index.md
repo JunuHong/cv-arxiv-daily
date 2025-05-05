@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.04
+## Updated on 2025.05.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4375,7 +4375,7 @@ layout: default
 |**2025-04-11**|**Digital Twin Catalog: A Large-Scale Photorealistic 3D Object Digital Twin Dataset**|Zhao Dong et.al.|[2504.08541](http://arxiv.org/abs/2504.08541)|null|
 |**2025-04-14**|**PMNI: Pose-free Multi-view Normal Integration for Reflective and Textureless Surface Reconstruction**|Mingzhi Pei et.al.|[2504.08410](http://arxiv.org/abs/2504.08410)|**[link](https://github.com/pmz-enterprise/pmni)**|
 |**2025-03-27**|**Influence of the particle morphology on the spray characteristics in low-pressure cold gas process**|Y. Sinnwell et.al.|[2504.08064](http://arxiv.org/abs/2504.08064)|null|
-|**2025-04-10**|**Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction**|Zeren Jiang et.al.|[2504.07961](http://arxiv.org/abs/2504.07961)|null|
+|**2025-04-10**|**Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction**|Zeren Jiang et.al.|[2504.07961](http://arxiv.org/abs/2504.07961)|**[link](https://github.com/jzr99/Geo4D)**|
 |**2025-04-10**|**V2V3D: View-to-View Denoised 3D Reconstruction for Light-Field Microscopy**|Jiayin Zhao et.al.|[2504.07853](http://arxiv.org/abs/2504.07853)|null|
 |**2025-04-09**|**Adaptive Vision-Guided Robotic Arm Control for Precision Pruning in Dynamic Orchard Environments**|Dawood Ahmed et.al.|[2504.07309](http://arxiv.org/abs/2504.07309)|null|
 |**2025-04-09**|**Glossy Object Reconstruction with Cost-effective Polarized Acquisition**|Bojian Wu et.al.|[2504.07025](http://arxiv.org/abs/2504.07025)|null|
