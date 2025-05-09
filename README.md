@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.08
+## Updated on 2025.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -621,7 +621,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 ## SFM
 
@@ -955,7 +955,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2116,7 +2116,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2428,7 +2428,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2759,7 +2759,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 ## NeRF
 
@@ -4370,18 +4370,18 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 ## 3D reconstruction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-07**|**TetWeave: Isosurface Extraction using On-The-Fly Delaunay Tetrahedral Grids for Gradient-Based Mesh Optimization**|Alexandre Binninger et.al.|[2505.04590](http://arxiv.org/abs/2505.04590)|null|
+|**2025-05-08**|**TetWeave: Isosurface Extraction using On-The-Fly Delaunay Tetrahedral Grids for Gradient-Based Mesh Optimization**|Alexandre Binninger et.al.|[2505.04590](http://arxiv.org/abs/2505.04590)|null|
 |**2025-05-07**|**Registration of 3D Point Sets Using Exponential-based Similarity Matrix**|Ashutosh Singandhupe et.al.|[2505.04540](http://arxiv.org/abs/2505.04540)|**[link](https://github.com/aralab-unr/esm_icp)**|
 |**2025-05-07**|**Low Resolution Next Best View for Robot Packing**|Giuseppe Fabio Preziosa et.al.|[2505.04228](http://arxiv.org/abs/2505.04228)|null|
 |**2025-05-06**|**AquaticVision: Benchmarking Visual SLAM in Underwater Environment with Events and Frames**|Yifan Peng et.al.|[2505.03448](http://arxiv.org/abs/2505.03448)|null|
 |**2025-05-06**|**3D Surface Reconstruction with Enhanced High-Frequency Details**|Shikun Zhang et.al.|[2505.03362](http://arxiv.org/abs/2505.03362)|null|
-|**2025-05-05**|**Marker-Based Extrinsic Calibration Method for Accurate Multi-Camera 3D Reconstruction**|Nahuel Garcia-D'Urso et.al.|[2505.02539](http://arxiv.org/abs/2505.02539)|null|
+|**2025-05-05**|**Marker-Based Extrinsic Calibration Method for Accurate Multi-Camera 3D Reconstruction**|Nahuel Garcia-D'Urso et.al.|[2505.02539](http://arxiv.org/abs/2505.02539)|**[link](https://github.com/Tech4DLab/CalibMarker)**|
 |**2025-05-04**|**SparSplat: Fast Multi-View Reconstruction with Generalizable 2D Gaussian Splatting**|Shubhendu Jena et.al.|[2505.02175](http://arxiv.org/abs/2505.02175)|null|
 |**2025-05-03**|**Visual enhancement and 3D representation for underwater scenes: a review**|Guoxi Huang et.al.|[2505.01869](http://arxiv.org/abs/2505.01869)|null|
 |**2025-05-02**|**Enhancing MHD model accuracy and CME forecasting by constraining coronal plasma properties with Faraday rotation**|Salvatore Mancuso et.al.|[2505.01080](http://arxiv.org/abs/2505.01080)|null|
@@ -4702,7 +4702,7 @@
 |**2024-12-04**|**Distillation of Diffusion Features for Semantic Correspondence**|Frank Fundel et.al.|[2412.03512](http://arxiv.org/abs/2412.03512)|null|
 |**2024-12-04**|**Splats in Splats: Embedding Invisible 3D Watermark within Gaussian Splatting**|Yijia Guo et.al.|[2412.03121](http://arxiv.org/abs/2412.03121)|null|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
