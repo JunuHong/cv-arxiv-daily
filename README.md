@@ -4378,6 +4378,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**VIN-NBV: A View Introspection Network for Next-Best-View Selection for Resource-Efficient 3D Reconstruction**|Noah Frahm et.al.|[2505.06219](http://arxiv.org/abs/2505.06219)|null|
+|**2025-05-09**|**RefRef: A Synthetic Dataset and Benchmark for Reconstructing Refractive and Reflective Objects**|Yue Yin et.al.|[2505.05848](http://arxiv.org/abs/2505.05848)|null|
+|**2025-05-08**|**The Moon's Many Faces: A Single Unified Transformer for Multimodal Lunar Reconstruction**|Tom Sander et.al.|[2505.05644](http://arxiv.org/abs/2505.05644)|null|
+|**2025-05-08**|**UltraGauss: Ultrafast Gaussian Reconstruction of 3D Ultrasound Volumes**|Mark C. Eid et.al.|[2505.05643](http://arxiv.org/abs/2505.05643)|null|
 |**2025-05-08**|**Time of the Flight of the Gaussians: Optimizing Depth Indirectly in Dynamic Radiance Fields**|Runfeng Li et.al.|[2505.05356](http://arxiv.org/abs/2505.05356)|null|
 |**2025-05-08**|**Advanced 3D Imaging Approach to TSV/TGV Metrology and Inspection Using Only Optical Microscopy**|Gugeong Sung et.al.|[2505.04913](http://arxiv.org/abs/2505.04913)|null|
 |**2025-05-07**|**SGCR: Spherical Gaussians for Efficient 3D Curve Reconstruction**|Xinran Yang et.al.|[2505.04668](http://arxiv.org/abs/2505.04668)|null|
