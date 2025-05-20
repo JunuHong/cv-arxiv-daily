@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks**|Jad Mansour et.al.|[2505.13309](http://arxiv.org/abs/2505.13309)|null|
+|**2025-05-18**|**Structureless VIO**|Junlin Song et.al.|[2505.12337](http://arxiv.org/abs/2505.12337)|null|
 |**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565](http://arxiv.org/abs/2505.03565)|null|
 |**2025-05-13**|**SafeNav: Safe Path Navigation using Landmark Based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2505.01956](http://arxiv.org/abs/2505.01956)|null|
 |**2025-04-30**|**eNCApsulate: NCA for Precision Diagnosis on Capsule Endoscopes**|Henry John Krumb et.al.|[2504.21562](http://arxiv.org/abs/2504.21562)|null|
@@ -965,6 +967,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-18**|**MMS-VPR: Multimodal Street-Level Visual Place Recognition Dataset and Benchmark**|Yiwei Ou et.al.|[2505.12254](http://arxiv.org/abs/2505.12254)|null|
+|**2025-05-16**|**Improved Bag-of-Words Image Retrieval with Geometric Constraints for Ground Texture Localization**|Aaron Wilhelm et.al.|[2505.11620](http://arxiv.org/abs/2505.11620)|null|
 |**2025-05-16**|**Redundancy-Aware Pretraining of Vision-Language Foundation Models in Remote Sensing**|Mathis Jürgen Adler et.al.|[2505.11121](http://arxiv.org/abs/2505.11121)|null|
 |**2025-05-04**|**OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery**|Chongsheng Zhang et.al.|[2505.03836](http://arxiv.org/abs/2505.03836)|**[link](https://github.com/cszhanglmu/obd-finder)**|
 |**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565](http://arxiv.org/abs/2505.03565)|null|
@@ -2127,6 +2131,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-18**|**SEPT: Standard-Definition Map Enhanced Scene Perception and Topology Reasoning for Autonomous Driving**|Muleilan Pei et.al.|[2505.12246](http://arxiv.org/abs/2505.12246)|null|
+|**2025-05-17**|**Keypoints as Dynamic Centroids for Unified Human Pose and Segmentation**|Niaz Ahmad et.al.|[2505.12130](http://arxiv.org/abs/2505.12130)|null|
 |**2025-05-16**|**Deepfake Forensic Analysis: Source Dataset Attribution and Legal Implications of Synthetic Media Manipulation**|Massimiliano Cassia et.al.|[2505.11110](http://arxiv.org/abs/2505.11110)|null|
 |**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013](http://arxiv.org/abs/2505.08013)|null|
 |**2025-05-12**|**Enabling Privacy-Aware AI-Based Ergonomic Analysis**|Sander De Coninck et.al.|[2505.07306](http://arxiv.org/abs/2505.07306)|null|
@@ -2776,6 +2782,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**3D Gaussian Adaptive Reconstruction for Fourier Light-Field Microscopy**|Chenyu Xu et.al.|[2505.12875](http://arxiv.org/abs/2505.12875)|null|
+|**2025-05-18**|**Is Semantic SLAM Ready for Embedded Systems ? A Comparative Survey**|Calvin Galagain et.al.|[2505.12384](http://arxiv.org/abs/2505.12384)|null|
 |**2025-05-16**|**MutualNeRF: Improve the Performance of NeRF under Limited Samples with Mutual Information Theory**|Zifan Wang et.al.|[2505.11386](http://arxiv.org/abs/2505.11386)|null|
 |**2025-05-16**|**EA-3DGS: Efficient and Adaptive 3D Gaussians with Highly Enhanced Quality for outdoor scenes**|Jianlin Guo et.al.|[2505.10787](http://arxiv.org/abs/2505.10787)|null|
 |**2025-05-15**|**Large-Scale Gaussian Splatting SLAM**|Zhe Xin et.al.|[2505.09915](http://arxiv.org/abs/2505.09915)|null|
@@ -4400,6 +4408,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-18**|**From Low Field to High Value: Robust Cortical Mapping from Low-Field MRI**|Karthik Gopinath et.al.|[2505.12228](http://arxiv.org/abs/2505.12228)|null|
+|**2025-05-17**|**GTR: Gaussian Splatting Tracking and Reconstruction of Unknown Objects Based on Appearance and Geometric Complexity**|Takuya Ikeda et.al.|[2505.11905](http://arxiv.org/abs/2505.11905)|null|
 |**2025-05-16**|**Patient-Specific Dynamic Digital-Physical Twin for Coronary Intervention Training: An Integrated Mixed Reality Approach**|Shuo Wang et.al.|[2505.10902](http://arxiv.org/abs/2505.10902)|null|
 |**2025-05-15**|**Mapping Semantic Segmentation to Point Clouds Using Structure from Motion for Forest Analysis**|Francisco Raverta Capua et.al.|[2505.10751](http://arxiv.org/abs/2505.10751)|null|
 |**2025-05-15**|**VolE: A Point-cloud Framework for Food 3D Reconstruction and Volume Estimation**|Umair Haroon et.al.|[2505.10205](http://arxiv.org/abs/2505.10205)|null|
@@ -4459,7 +4469,7 @@
 |**2025-04-16**|**SHeaP: Self-Supervised Head Geometry Predictor Learned via 2D Gaussians**|Liam Schoneveld et.al.|[2504.12292](http://arxiv.org/abs/2504.12292)|null|
 |**2025-05-05**|**Mind2Matter: Creating 3D Models from EEG Signals**|Xia Deng et.al.|[2504.11936](http://arxiv.org/abs/2504.11936)|**[link](https://github.com/sddwwww/mind2matter)**|
 |**2025-04-15**|**Deep Learning-based Bathymetry Retrieval without In-situ Depths using Remote Sensing Imagery and SfM-MVS DSMs with Data Gaps**|Panagiotis Agrafiotis et.al.|[2504.11416](http://arxiv.org/abs/2504.11416)|**[link](https://github.com/pagraf/swin-bathyunet)**|
-|**2025-05-17**|**Explicit and Implicit Representations in AI-based 3D Reconstruction for Radiology: A Systematic Review**|Yuezhe Yang et.al.|[2504.11349](http://arxiv.org/abs/2504.11349)|**[link](https://github.com/bean-young/ai4med)**|
+|**2025-05-17**|**Explicit and Implicit Representations in AI-based 3D Reconstruction for Radiology: A Systematic Review**|Yuezhe Yang et.al.|[2504.11349](http://arxiv.org/abs/2504.11349)|**[link](https://github.com/bean-young/ai4radiology)**|
 |**2025-04-15**|**Super time-resolved tomography**|Zhe Hu et.al.|[2504.11148](http://arxiv.org/abs/2504.11148)|null|
 |**2025-04-15**|**Easy3D: A Simple Yet Effective Method for 3D Interactive Segmentation**|Andrea Simonelli et.al.|[2504.11024](http://arxiv.org/abs/2504.11024)|null|
 |**2025-04-15**|**ZeroGrasp: Zero-Shot Shape Reconstruction Enabled Robotic Grasping**|Shun Iwase et.al.|[2504.10857](http://arxiv.org/abs/2504.10857)|null|
@@ -4470,7 +4480,7 @@
 |**2025-04-12**|**A Constrained Optimization Approach for Gaussian Splatting from Coarsely-posed Images and Noisy Lidar Point Clouds**|Jizong Peng et.al.|[2504.09129](http://arxiv.org/abs/2504.09129)|null|
 |**2025-04-12**|**You Need a Transition Plane: Bridging Continuous Panoramic 3D Reconstruction with Perspective Gaussian Splatting**|Zhijie Shen et.al.|[2504.09062](http://arxiv.org/abs/2504.09062)|null|
 |**2025-04-11**|**X2BR: High-Fidelity 3D Bone Reconstruction from a Planar X-Ray Image with Hybrid Neural Implicit Methods**|Gokce Guven et.al.|[2504.08675](http://arxiv.org/abs/2504.08675)|null|
-|**2025-04-11**|**Digital Twin Catalog: A Large-Scale Photorealistic 3D Object Digital Twin Dataset**|Zhao Dong et.al.|[2504.08541](http://arxiv.org/abs/2504.08541)|null|
+|**2025-05-18**|**Digital Twin Catalog: A Large-Scale Photorealistic 3D Object Digital Twin Dataset**|Zhao Dong et.al.|[2504.08541](http://arxiv.org/abs/2504.08541)|null|
 |**2025-04-14**|**PMNI: Pose-free Multi-view Normal Integration for Reflective and Textureless Surface Reconstruction**|Mingzhi Pei et.al.|[2504.08410](http://arxiv.org/abs/2504.08410)|**[link](https://github.com/pmz-enterprise/pmni)**|
 |**2025-03-27**|**Influence of the particle morphology on the spray characteristics in low-pressure cold gas process**|Y. Sinnwell et.al.|[2504.08064](http://arxiv.org/abs/2504.08064)|null|
 |**2025-04-10**|**Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction**|Zeren Jiang et.al.|[2504.07961](http://arxiv.org/abs/2504.07961)|**[link](https://github.com/jzr99/Geo4D)**|
