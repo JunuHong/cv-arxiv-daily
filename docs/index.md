@@ -622,7 +622,7 @@ layout: default
 |**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013](http://arxiv.org/abs/2505.08013)|null|
 |**2025-05-12**|**Geometric Prior-Guided Neural Implicit Surface Reconstruction in the Wild**|Lintao Xiang et.al.|[2505.07373](http://arxiv.org/abs/2505.07373)|null|
 |**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473](http://arxiv.org/abs/2505.05473)|null|
-|**2025-05-20**|**FastMap: Revisiting Dense and Scalable Structure from Motion**|Jiahao Li et.al.|[2505.04612](http://arxiv.org/abs/2505.04612)|null|
+|**2025-05-20**|**FastMap: Revisiting Dense and Scalable Structure from Motion**|Jiahao Li et.al.|[2505.04612](http://arxiv.org/abs/2505.04612)|**[link](https://github.com/pals-ttic/fastmap)**|
 |**2025-05-15**|**Estimating the Diameter at Breast Height of Trees in a Forest With a Single 360 Camera**|Siming He et.al.|[2505.03093](http://arxiv.org/abs/2505.03093)|null|
 |**2025-05-03**|**AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting**|Junhao Shi et.al.|[2505.01799](http://arxiv.org/abs/2505.01799)|null|
 |**2025-05-03**|**PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth**|Bu Jin et.al.|[2505.01729](http://arxiv.org/abs/2505.01729)|null|
@@ -954,6 +954,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**Multimodal RAG-driven Anomaly Detection and Classification in Laser Powder Bed Fusion using Large Language Models**|Kiarash Naghavi Khanghah et.al.|[2505.13828](http://arxiv.org/abs/2505.13828)|null|
 |**2025-05-18**|**MMS-VPR: Multimodal Street-Level Visual Place Recognition Dataset and Benchmark**|Yiwei Ou et.al.|[2505.12254](http://arxiv.org/abs/2505.12254)|null|
 |**2025-05-16**|**Improved Bag-of-Words Image Retrieval with Geometric Constraints for Ground Texture Localization**|Aaron Wilhelm et.al.|[2505.11620](http://arxiv.org/abs/2505.11620)|null|
 |**2025-05-16**|**Redundancy-Aware Pretraining of Vision-Language Foundation Models in Remote Sensing**|Mathis Jürgen Adler et.al.|[2505.11121](http://arxiv.org/abs/2505.11121)|null|
@@ -2477,6 +2478,7 @@ layout: default
 |**2025-01-13**|**MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training**|Xingyi He et.al.|[2501.07556](http://arxiv.org/abs/2501.07556)|null|
 |**2025-01-13**|**Matching Free Depth Recovery from Structured Light**|Zhuohang Yu et.al.|[2501.07113](http://arxiv.org/abs/2501.07113)|null|
 |**2025-01-02**|**Sparis: Neural Implicit Surface Reconstruction of Indoor Scenes from Sparse Views**|Yulun Wu et.al.|[2501.01196](http://arxiv.org/abs/2501.01196)|null|
+|**2025-05-20**|**Unforgettable Lessons from Forgettable Images: Intra-Class Memorability Matters in Computer Vision**|Jie Jing et.al.|[2412.20761](http://arxiv.org/abs/2412.20761)|null|
 |**2024-12-31**|**Towards Real-Time 2D Mapping: Harnessing Drones, AI, and Computer Vision for Advanced Insights**|Bharath Kumar Agnur et.al.|[2412.20210](http://arxiv.org/abs/2412.20210)|null|
 |**2025-03-29**|**MINIMA: Modality Invariant Image Matching**|Jiangwei Ren et.al.|[2412.19412](http://arxiv.org/abs/2412.19412)|**[link](https://github.com/LSXI7/MINIMA)**|
 |**2024-12-24**|**GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**|Xianfeng Song et.al.|[2412.18221](http://arxiv.org/abs/2412.18221)|**[link](https://github.com/songxf1024/gims)**|
@@ -2763,6 +2765,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**IPENS:Interactive Unsupervised Framework for Rapid Plant Phenotyping Extraction via NeRF-SAM2 Fusion**|Wentao Song et.al.|[2505.13633](http://arxiv.org/abs/2505.13633)|null|
 |**2025-05-19**|**3D Gaussian Adaptive Reconstruction for Fourier Light-Field Microscopy**|Chenyu Xu et.al.|[2505.12875](http://arxiv.org/abs/2505.12875)|null|
 |**2025-05-18**|**Is Semantic SLAM Ready for Embedded Systems ? A Comparative Survey**|Calvin Galagain et.al.|[2505.12384](http://arxiv.org/abs/2505.12384)|null|
 |**2025-05-16**|**MutualNeRF: Improve the Performance of NeRF under Limited Samples with Mutual Information Theory**|Zifan Wang et.al.|[2505.11386](http://arxiv.org/abs/2505.11386)|null|
@@ -4387,6 +4390,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**3D Reconstruction from Sketches**|Abhimanyu Talwar et.al.|[2505.14621](http://arxiv.org/abs/2505.14621)|null|
+|**2025-05-20**|**SparC: Sparse Representation and Construction for High-Resolution 3D Shapes Modeling**|Zhihao Li et.al.|[2505.14521](http://arxiv.org/abs/2505.14521)|null|
+|**2025-05-20**|**AppleGrowthVision: A large-scale stereo dataset for phenological analysis, fruit detection, and 3D reconstruction in apple orchards**|Laura-Sophia von Hirschhausen et.al.|[2505.14029](http://arxiv.org/abs/2505.14029)|null|
 |**2025-05-18**|**From Low Field to High Value: Robust Cortical Mapping from Low-Field MRI**|Karthik Gopinath et.al.|[2505.12228](http://arxiv.org/abs/2505.12228)|null|
 |**2025-05-17**|**GTR: Gaussian Splatting Tracking and Reconstruction of Unknown Objects Based on Appearance and Geometric Complexity**|Takuya Ikeda et.al.|[2505.11905](http://arxiv.org/abs/2505.11905)|null|
 |**2025-05-16**|**Patient-Specific Dynamic Digital-Physical Twin for Coronary Intervention Training: An Integrated Mixed Reality Approach**|Shuo Wang et.al.|[2505.10902](http://arxiv.org/abs/2505.10902)|null|
