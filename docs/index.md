@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.27
+## Updated on 2025.05.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2498,7 +2498,7 @@ layout: default
 |**2025-01-13**|**MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training**|Xingyi He et.al.|[2501.07556](http://arxiv.org/abs/2501.07556)|null|
 |**2025-01-13**|**Matching Free Depth Recovery from Structured Light**|Zhuohang Yu et.al.|[2501.07113](http://arxiv.org/abs/2501.07113)|null|
 |**2025-01-02**|**Sparis: Neural Implicit Surface Reconstruction of Indoor Scenes from Sparse Views**|Yulun Wu et.al.|[2501.01196](http://arxiv.org/abs/2501.01196)|null|
-|**2025-05-20**|**Unforgettable Lessons from Forgettable Images: Intra-Class Memorability Matters in Computer Vision**|Jie Jing et.al.|[2412.20761](http://arxiv.org/abs/2412.20761)|null|
+|**2025-05-27**|**Unforgettable Lessons from Forgettable Images: Intra-Class Memorability Matters in Computer Vision**|Jie Jing et.al.|[2412.20761](http://arxiv.org/abs/2412.20761)|null|
 |**2024-12-31**|**Towards Real-Time 2D Mapping: Harnessing Drones, AI, and Computer Vision for Advanced Insights**|Bharath Kumar Agnur et.al.|[2412.20210](http://arxiv.org/abs/2412.20210)|null|
 |**2025-03-29**|**MINIMA: Modality Invariant Image Matching**|Jiangwei Ren et.al.|[2412.19412](http://arxiv.org/abs/2412.19412)|**[link](https://github.com/LSXI7/MINIMA)**|
 |**2024-12-24**|**GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**|Xianfeng Song et.al.|[2412.18221](http://arxiv.org/abs/2412.18221)|**[link](https://github.com/songxf1024/gims)**|
@@ -4440,7 +4440,7 @@ layout: default
 |**2025-05-13**|**Template-Guided Reconstruction of Pulmonary Segments with Neural Implicit Functions**|Kangxian Xie et.al.|[2505.08919](http://arxiv.org/abs/2505.08919)|**[link](https://github.com/m3dv/impulse)**|
 |**2025-05-13**|**FOCI: Trajectory Optimization on Gaussian Splats**|Mario Gomez Andreu et.al.|[2505.08510](http://arxiv.org/abs/2505.08510)|null|
 |**2025-05-13**|**A Survey of 3D Reconstruction with Event Cameras: From Event-based Geometry to Neural 3D Rendering**|Chuanzhi Xu et.al.|[2505.08438](http://arxiv.org/abs/2505.08438)|null|
-|**2025-05-13**|**ACT-R: Adaptive Camera Trajectories for 3D Reconstruction from Single Image**|Yizhi Wang et.al.|[2505.08239](http://arxiv.org/abs/2505.08239)|null|
+|**2025-05-27**|**ACT-R: Adaptive Camera Trajectories for Single View 3D Reconstruction**|Yizhi Wang et.al.|[2505.08239](http://arxiv.org/abs/2505.08239)|null|
 |**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013](http://arxiv.org/abs/2505.08013)|null|
 |**2025-05-12**|**Geometric Prior-Guided Neural Implicit Surface Reconstruction in the Wild**|Lintao Xiang et.al.|[2505.07373](http://arxiv.org/abs/2505.07373)|null|
 |**2025-05-10**|**3D Characterization of Smoke Plume Dispersion Using Multi-View Drone Swarm**|Nikil Krishnakumar et.al.|[2505.06638](http://arxiv.org/abs/2505.06638)|null|
