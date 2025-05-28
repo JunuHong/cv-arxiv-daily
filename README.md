@@ -629,6 +629,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Intern-GS: Vision Model Guided Sparse-View 3D Gaussian Splatting**|Xiangyu Sun et.al.|[2505.20729](http://arxiv.org/abs/2505.20729)|null|
 |**2025-05-26**|**Sparse2DGS: Sparse-View Surface Reconstruction using 2D Gaussian Splatting with Dense Point Cloud**|Natsuki Takama et.al.|[2505.19854](http://arxiv.org/abs/2505.19854)|null|
 |**2025-05-25**|**Improving Novel view synthesis of 360 $^\circ$ Scenes in Extremely Sparse Views by Jointly Training Hemisphere Sampled Synthetic Images**|Guangan Chen et.al.|[2505.19264](http://arxiv.org/abs/2505.19264)|null|
 |**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
@@ -972,6 +973,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**ConText-CIR: Learning from Concepts in Text for Composed Image Retrieval**|Eric Xing et.al.|[2505.20764](http://arxiv.org/abs/2505.20764)|null|
+|**2025-05-26**|**Visualized Text-to-Image Retrieval**|Di Wu et.al.|[2505.20291](http://arxiv.org/abs/2505.20291)|null|
 |**2025-05-26**|**Multimodal Reasoning Agent for Zero-Shot Composed Image Retrieval**|Rong-Cheng Tu et.al.|[2505.19952](http://arxiv.org/abs/2505.19952)|null|
 |**2025-05-26**|**Can Visual Encoder Learn to See Arrows?**|Naoyuki Terashita et.al.|[2505.19944](http://arxiv.org/abs/2505.19944)|null|
 |**2025-05-26**|**MLLM-Guided VLM Fine-Tuning with Joint Inference for Zero-Shot Composed Image Retrieval**|Rong-Cheng Tu et.al.|[2505.19707](http://arxiv.org/abs/2505.19707)|null|
@@ -2804,6 +2807,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Structure from Collision**|Takuhiro Kaneko et.al.|[2505.21335](http://arxiv.org/abs/2505.21335)|null|
 |**2025-05-26**|**OB3D: A New Dataset for Benchmarking Omnidirectional 3D Reconstruction Using Blender**|Shintaro Ito et.al.|[2505.20126](http://arxiv.org/abs/2505.20126)|null|
 |**2025-05-26**|**ErpGS: Equirectangular Image Rendering enhanced with 3D Gaussian Regularization**|Shintaro Ito et.al.|[2505.19883](http://arxiv.org/abs/2505.19883)|null|
 |**2025-05-26**|**GoLF-NRT: Integrating Global Context and Local Geometry for Few-Shot View Synthesis**|You Wang et.al.|[2505.19813](http://arxiv.org/abs/2505.19813)|null|
@@ -4438,6 +4442,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Plenodium: UnderWater 3D Scene Reconstruction with Plenoptic Medium Representation**|Changguanng Wu et.al.|[2505.21258](http://arxiv.org/abs/2505.21258)|null|
+|**2025-05-27**|**Occlusion Boundary and Depth: Mutual Enhancement via Multi-Task Learning**|Lintao Xu et.al.|[2505.21231](http://arxiv.org/abs/2505.21231)|null|
+|**2025-05-27**|**OmniIndoor3D: Comprehensive Indoor 3D Reconstruction**|Xiaobao Wei et.al.|[2505.20610](http://arxiv.org/abs/2505.20610)|null|
+|**2025-05-26**|**CCL-LGS: Contrastive Codebook Learning for 3D Language Gaussian Splatting**|Lei Tian et.al.|[2505.20469](http://arxiv.org/abs/2505.20469)|null|
+|**2025-05-26**|**VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction**|Zhiwen Fan et.al.|[2505.20279](http://arxiv.org/abs/2505.20279)|null|
+|**2025-05-26**|**ParticleGS: Particle-Based Dynamics Modeling of 3D Gaussians for Prior-free Motion Extrapolation**|Jinsheng Quan et.al.|[2505.20270](http://arxiv.org/abs/2505.20270)|null|
+|**2025-05-26**|**HaloGS: Loose Coupling of Compact Geometry and Gaussian Splats for 3D Scenes**|Changjian Jiang et.al.|[2505.20267](http://arxiv.org/abs/2505.20267)|null|
 |**2025-05-26**|**OB3D: A New Dataset for Benchmarking Omnidirectional 3D Reconstruction Using Blender**|Shintaro Ito et.al.|[2505.20126](http://arxiv.org/abs/2505.20126)|null|
 |**2025-05-26**|**ErpGS: Equirectangular Image Rendering enhanced with 3D Gaussian Regularization**|Shintaro Ito et.al.|[2505.19883](http://arxiv.org/abs/2505.19883)|null|
 |**2025-05-26**|**Sparse2DGS: Sparse-View Surface Reconstruction using 2D Gaussian Splatting with Dense Point Cloud**|Natsuki Takama et.al.|[2505.19854](http://arxiv.org/abs/2505.19854)|null|
