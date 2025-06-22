@@ -2910,7 +2910,7 @@
 |**2025-05-04**|**Learning Heterogeneous Mixture of Scene Experts for Large-scale Neural Radiance Fields**|Zhenxing Mi et.al.|[2505.02005](http://arxiv.org/abs/2505.02005)|**[link](https://github.com/MiZhenxing/Switch-NeRF)**|
 |**2025-05-03**|**AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting**|Junhao Shi et.al.|[2505.01799](http://arxiv.org/abs/2505.01799)|null|
 |**2025-05-03**|**Unified Steganography via Implicit Neural Representation**|Qi Song et.al.|[2505.01749](http://arxiv.org/abs/2505.01749)|null|
-|**2025-04-30**|**A Survey on 3D Reconstruction Techniques in Plant Phenotyping: From Classical Methods to Neural Radiance Fields (NeRF), 3D Gaussian Splatting (3DGS), and Beyond**|Jiajia Li et.al.|[2505.00737](http://arxiv.org/abs/2505.00737)|null|
+|**2025-04-30**|**A Survey on 3D Reconstruction Techniques in Plant Phenotyping: From Classical Methods to Neural Radiance Fields (NeRF), 3D Gaussian Splatting (3DGS), and Beyond**|Jiajia Li et.al.|[2505.00737](http://arxiv.org/abs/2505.00737)|**[link](https://github.com/jiajiali04/3d-reconstruction-plants)**|
 |**2025-05-01**|**Cues3D: Unleashing the Power of Sole NeRF for Consistent and Unique Instances in Open-Vocabulary 3D Panoptic Segmentation**|Feng Xue et.al.|[2505.00378](http://arxiv.org/abs/2505.00378)|null|
 |**2025-04-29**|**GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction**|Yuhan Xie et.al.|[2504.21067](http://arxiv.org/abs/2504.21067)|**[link](https://github.com/JohannaXie/GauSS-MI)**|
 |**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496](http://arxiv.org/abs/2504.20496)|null|
@@ -4522,9 +4522,9 @@
 |**2025-06-17**|**Plug-and-Play with 2.5D Artifact Reduction Prior for Fast and Accurate Industrial Computed Tomography Reconstruction**|Haley Duba-Sullivan et.al.|[2506.14719](http://arxiv.org/abs/2506.14719)|null|
 |**2025-06-17**|**HRGS: Hierarchical Gaussian Splatting for Memory-Efficient High-Resolution 3D Reconstruction**|Changbai Li et.al.|[2506.14229](http://arxiv.org/abs/2506.14229)|null|
 |**2025-06-16**|**A Point Cloud Completion Approach for the Grasping of Partially Occluded Objects and Its Applications in Robotic Strawberry Harvesting**|Ali Abouzeid et.al.|[2506.14066](http://arxiv.org/abs/2506.14066)|**[link](https://github.com/malak-mansour/pointcloud_completion_for_grasping)**|
-|**2025-06-16**|**Test3R: Learning to Reconstruct 3D at Test Time**|Yuheng Yuan et.al.|[2506.13750](http://arxiv.org/abs/2506.13750)|null|
+|**2025-06-16**|**Test3R: Learning to Reconstruct 3D at Test Time**|Yuheng Yuan et.al.|[2506.13750](http://arxiv.org/abs/2506.13750)|**[link](https://github.com/nopqaq/test3r)**|
 |**2025-06-16**|**Integrated Pipeline for Monocular 3D Reconstruction and Finite Element Simulation in Industrial Applications**|Bowen Zheng et.al.|[2506.13573](http://arxiv.org/abs/2506.13573)|null|
-|**2025-06-16**|**Micro-macro Gaussian Splatting with Enhanced Scalability for Unconstrained Scene Reconstruction**|Yihui Li et.al.|[2506.13516](http://arxiv.org/abs/2506.13516)|null|
+|**2025-06-16**|**Micro-macro Gaussian Splatting with Enhanced Scalability for Unconstrained Scene Reconstruction**|Yihui Li et.al.|[2506.13516](http://arxiv.org/abs/2506.13516)|**[link](https://github.com/kidleyh/smw-gs)**|
 |**2025-06-16**|**UAV Object Detection and Positioning in a Mining Industrial Metaverse with Custom Geo-Referenced Data**|Vasiliki Balaska et.al.|[2506.13505](http://arxiv.org/abs/2506.13505)|null|
 |**2025-06-16**|**ViT-NeBLa: A Hybrid Vision Transformer and Neural Beer-Lambert Framework for Single-View 3D Reconstruction of Oral Anatomy from Panoramic Radiographs**|Bikram Keshari Parida et.al.|[2506.13195](http://arxiv.org/abs/2506.13195)|null|
 |**2025-06-15**|**SMPL Normal Map Is All You Need for Single-view Textured Human Reconstruction**|Wenhao Shen et.al.|[2506.12793](http://arxiv.org/abs/2506.12793)|null|
