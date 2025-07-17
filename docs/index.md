@@ -626,6 +626,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**BRUM: Robust 3D Vehicle Reconstruction from 360 Sparse Images**|Davide Di Nucci et.al.|[2507.12095](http://arxiv.org/abs/2507.12095)|null|
 |**2025-07-11**|**Review of Feed-forward 3D Reconstruction: From DUSt3R to VGGT**|Wei Zhang et.al.|[2507.08448](http://arxiv.org/abs/2507.08448)|null|
 |**2025-07-04**|**MGSfM: Multi-Camera Geometry Driven Global Structure-from-Motion**|Peilin Tao et.al.|[2507.03306](http://arxiv.org/abs/2507.03306)|null|
 |**2025-06-30**|**AttentionGS: Towards Initialization-Free 3D Gaussian Splatting via Structural Attention**|Ziao Liu et.al.|[2506.23611](http://arxiv.org/abs/2506.23611)|null|
@@ -634,7 +635,7 @@ layout: default
 |**2025-07-08**|**Wild refitting for black box prediction**|Martin J. Wainwright et.al.|[2506.21460](http://arxiv.org/abs/2506.21460)|null|
 |**2025-06-24**|**Experimental Assessment of Neural 3D Reconstruction for Small UAV-based Applications**|Genís Castillo Gómez-Raya et.al.|[2506.19491](http://arxiv.org/abs/2506.19491)|null|
 |**2025-06-23**|**ViDAR: Video Diffusion-Aware 4D Reconstruction From Monocular Inputs**|Michal Nazarczuk et.al.|[2506.18792](http://arxiv.org/abs/2506.18792)|null|
-|**2025-06-06**|**SurGSplat: Progressive Geometry-Constrained Gaussian Splatting for Surgical Scene Reconstruction**|Yuchao Zheng et.al.|[2506.05935](http://arxiv.org/abs/2506.05935)|null|
+|**2025-07-16**|**SurGSplat: Progressive Geometry-Constrained Gaussian Splatting for Surgical Scene Reconstruction**|Yuchao Zheng et.al.|[2506.05935](http://arxiv.org/abs/2506.05935)|null|
 |**2025-06-05**|**On-the-fly Reconstruction for Large-Scale Novel View Synthesis from Unposed Images**|Andreas Meuleman et.al.|[2506.05558](http://arxiv.org/abs/2506.05558)|null|
 |**2025-06-05**|**SupeRANSAC: One RANSAC to Rule Them All**|Daniel Barath et.al.|[2506.04803](http://arxiv.org/abs/2506.04803)|**[link](https://github.com/danini/superansac)**|
 |**2025-06-04**|**Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation**|Tianyu Huang et.al.|[2506.04225](http://arxiv.org/abs/2506.04225)|null|
@@ -984,6 +985,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**QuRe: Query-Relevant Retrieval through Hard Negative Sampling in Composed Image Retrieval**|Jaehyun Kwak et.al.|[2507.12416](http://arxiv.org/abs/2507.12416)|null|
+|**2025-07-16**|**CorrMoE: Mixture of Experts with De-stylization Learning for Cross-Scene and Cross-Domain Correspondence Pruning**|Peiwen Xia et.al.|[2507.11834](http://arxiv.org/abs/2507.11834)|null|
 |**2025-07-09**|**Orchestrator-Agent Trust: A Modular Agentic AI Visual Classification System with Trust-Aware Orchestration and RAG-Based Reasoning**|Konstantinos I. Roumeliotis et.al.|[2507.10571](http://arxiv.org/abs/2507.10571)|null|
 |**2025-07-14**|**GT-Loc: Unifying When and Where in Images Through a Joint Embedding Space**|David G. Shatwell et.al.|[2507.10473](http://arxiv.org/abs/2507.10473)|null|
 |**2025-07-14**|**Text-to-Remote-Sensing-Image Retrieval beyond RGB Sources**|Daniele Rege Cambrin et.al.|[2507.10403](http://arxiv.org/abs/2507.10403)|null|
@@ -2905,6 +2908,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**DoRF: Doppler Radiance Fields for Robust Human Activity Recognition Using Wi-Fi**|Navid Hasanzadeh et.al.|[2507.12132](http://arxiv.org/abs/2507.12132)|null|
+|**2025-07-16**|**HPR3D: Hierarchical Proxy Representation for High-Fidelity 3D Reconstruction and Controllable Editing**|Tielong Wang et.al.|[2507.11971](http://arxiv.org/abs/2507.11971)|null|
 |**2025-07-14**|**VoxelRF: Voxelized Radiance Field for Fast Wireless Channel Modeling**|Zihang Zeng et.al.|[2507.09987](http://arxiv.org/abs/2507.09987)|null|
 |**2025-07-12**|**Stable Score Distillation**|Haiming Zhu et.al.|[2507.09168](http://arxiv.org/abs/2507.09168)|null|
 |**2025-07-11**|**From images to properties: a NeRF-driven framework for granular material parameter inversion**|Cheng-Hsi Hsiao et.al.|[2507.09005](http://arxiv.org/abs/2507.09005)|null|
@@ -4587,6 +4592,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**SpatialTrackerV2: 3D Point Tracking Made Easy**|Yuxi Xiao et.al.|[2507.12462](http://arxiv.org/abs/2507.12462)|null|
+|**2025-07-16**|**Revealing the Ancient Beauty: Digital Reconstruction of Temple Tiles using Computer Vision**|Arkaprabha Basu et.al.|[2507.12195](http://arxiv.org/abs/2507.12195)|null|
+|**2025-07-16**|**BRUM: Robust 3D Vehicle Reconstruction from 360 Sparse Images**|Davide Di Nucci et.al.|[2507.12095](http://arxiv.org/abs/2507.12095)|null|
+|**2025-07-16**|**HPR3D: Hierarchical Proxy Representation for High-Fidelity 3D Reconstruction and Controllable Editing**|Tielong Wang et.al.|[2507.11971](http://arxiv.org/abs/2507.11971)|null|
+|**2025-07-16**|**CorrMoE: Mixture of Experts with De-stylization Learning for Cross-Scene and Cross-Domain Correspondence Pruning**|Peiwen Xia et.al.|[2507.11834](http://arxiv.org/abs/2507.11834)|null|
 |**2025-07-15**|**Towards Depth Foundation Model: Recent Trends in Vision-Based Depth Estimation**|Zhen Xu et.al.|[2507.11540](http://arxiv.org/abs/2507.11540)|null|
 |**2025-07-14**|**Binomial Self-Compensation: Mechanism and Suppression of Motion Error in Phase-Shifting Profilometry**|Geyou Zhang et.al.|[2507.10009](http://arxiv.org/abs/2507.10009)|null|
 |**2025-07-11**|**An Efficient Approach for Muscle Segmentation and 3D Reconstruction Using Keypoint Tracking in MRI Scan**|Mengyuan Liu et.al.|[2507.08690](http://arxiv.org/abs/2507.08690)|null|
