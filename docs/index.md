@@ -627,6 +627,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Uncertainty Quantification Framework for Aerial and UAV Photogrammetry through Error Propagation**|Debao Huang et.al.|[2507.13486](http://arxiv.org/abs/2507.13486)|null|
 |**2025-07-16**|**BRUM: Robust 3D Vehicle Reconstruction from 360 Sparse Images**|Davide Di Nucci et.al.|[2507.12095](http://arxiv.org/abs/2507.12095)|null|
 |**2025-07-11**|**Review of Feed-forward 3D Reconstruction: From DUSt3R to VGGT**|Wei Zhang et.al.|[2507.08448](http://arxiv.org/abs/2507.08448)|null|
 |**2025-07-04**|**MGSfM: Multi-Camera Geometry Driven Global Structure-from-Motion**|Peilin Tao et.al.|[2507.03306](http://arxiv.org/abs/2507.03306)|null|
@@ -657,7 +658,7 @@ layout: default
 |**2025-05-20**|**FastMap: Revisiting Dense and Scalable Structure from Motion**|Jiahao Li et.al.|[2505.04612](http://arxiv.org/abs/2505.04612)|**[link](https://github.com/pals-ttic/fastmap)**|
 |**2025-05-15**|**Estimating the Diameter at Breast Height of Trees in a Forest With a Single 360 Camera**|Siming He et.al.|[2505.03093](http://arxiv.org/abs/2505.03093)|null|
 |**2025-05-03**|**AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting**|Junhao Shi et.al.|[2505.01799](http://arxiv.org/abs/2505.01799)|null|
-|**2025-05-03**|**PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth**|Bu Jin et.al.|[2505.01729](http://arxiv.org/abs/2505.01729)|null|
+|**2025-07-18**|**PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth**|Bu Jin et.al.|[2505.01729](http://arxiv.org/abs/2505.01729)|null|
 |**2025-05-01**|**Are Minimal Radial Distortion Solvers Really Necessary for Relative Pose Estimation?**|Viktor Kocur et.al.|[2505.00866](http://arxiv.org/abs/2505.00866)|**[link](https://github.com/kocurvik/rdnet)**|
 |**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496](http://arxiv.org/abs/2504.20496)|null|
 |**2025-04-29**|**Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views**|Jiang Wu et.al.|[2504.20378](http://arxiv.org/abs/2504.20378)|**[link](https://github.com/wuuu3511/sparse2dgs)**|
@@ -2912,6 +2913,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**TimeNeRF: Building Generalizable Neural Radiance Fields across Time from Few-Shot Input Views**|Hsiang-Hui Hung et.al.|[2507.13929](http://arxiv.org/abs/2507.13929)|null|
+|**2025-07-18**|**EPSilon: Efficient Point Sampling for Lightening of Hybrid-based 3D Avatar Generation**|Seungjun Moon et.al.|[2507.13648](http://arxiv.org/abs/2507.13648)|null|
 |**2025-07-16**|**DoRF: Doppler Radiance Fields for Robust Human Activity Recognition Using Wi-Fi**|Navid Hasanzadeh et.al.|[2507.12132](http://arxiv.org/abs/2507.12132)|null|
 |**2025-07-16**|**HPR3D: Hierarchical Proxy Representation for High-Fidelity 3D Reconstruction and Controllable Editing**|Tielong Wang et.al.|[2507.11971](http://arxiv.org/abs/2507.11971)|null|
 |**2025-07-14**|**VoxelRF: Voxelized Radiance Field for Fast Wireless Channel Modeling**|Zihang Zeng et.al.|[2507.09987](http://arxiv.org/abs/2507.09987)|null|
@@ -4596,6 +4599,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**C-DOG: Training-Free Multi-View Multi-Object Association in Dense Scenes Without Visual Feature via Connected δ-Overlap Graphs**|Yung-Hong Sun et.al.|[2507.14095](http://arxiv.org/abs/2507.14095)|null|
+|**2025-07-18**|**Moving Object Detection from Moving Camera Using Focus of Expansion Likelihood and Segmentation**|Masahiro Ogawa et.al.|[2507.13628](http://arxiv.org/abs/2507.13628)|null|
 |**2025-07-17**|**AutoPartGen: Autogressive 3D Part Generation and Discovery**|Minghao Chen et.al.|[2507.13346](http://arxiv.org/abs/2507.13346)|null|
 |**2025-07-16**|**SpatialTrackerV2: 3D Point Tracking Made Easy**|Yuxi Xiao et.al.|[2507.12462](http://arxiv.org/abs/2507.12462)|null|
 |**2025-07-16**|**Revealing the Ancient Beauty: Digital Reconstruction of Temple Tiles using Computer Vision**|Arkaprabha Basu et.al.|[2507.12195](http://arxiv.org/abs/2507.12195)|null|
