@@ -252,19 +252,22 @@ def json_to_md(filename,md_filename,
     @param md_filename: str
     @return None
     """
-    def pretty_math(s:str) -> str:
-        ret = ''
-        match = re.search(r"\$.*\$", s)
-        if match == None:
+    def pretty_math(s: str) -> str:
+        """Ensure inline math is spaced correctly in markdown strings."""
+        match = re.search(r"\$(.+?)\$", s)
+        if match is None:
             return s
-        math_start,math_end = match.span()
+        math_start, math_end = match.span()
         space_trail = space_leading = ''
-        if s[:math_start][-1] != ' ' and '*' != s[:math_start][-1]: space_trail = ' ' 
-        if s[math_end:][0] != ' ' and '*' != s[math_end:][0]: space_leading = ' ' 
-        ret += s[:math_start] 
-        ret += f'{space_trail}${match.group()[1:-1].strip()}${space_leading}' 
-        ret += s[math_end:]
-        return ret
+        if math_start > 0 and s[math_start - 1] not in (' ', '*'):
+            space_trail = ' '
+        if math_end < len(s) and s[math_end] not in (' ', '*'):
+            space_leading = ' '
+        return (
+            s[:math_start]
+            + f"{space_trail}${match.group(1).strip()}${space_leading}"
+            + s[math_end:]
+        )
   
     DateNow = datetime.date.today()
     DateNow = str(DateNow)
