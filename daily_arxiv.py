@@ -240,13 +240,18 @@ def update_json_file(filename,data_dict):
     with open(filename,"w") as f:
         json.dump(json_data,f)
     
-def json_to_md(filename,md_filename,
-               task = '',
-               to_web = False, 
-               use_title = True, 
-               use_tc = True,
-               show_badge = True,
-               use_b2t = True):
+def json_to_md(
+    filename,
+    md_filename,
+    task="",
+    to_web=False,
+    use_title=True,
+    use_tc=True,
+    show_badge=True,
+    use_b2t=True,
+    latest_n=None,
+    archive_path=None,
+):
     """
     @param filename: str
     @param md_filename: str
@@ -280,33 +285,117 @@ def json_to_md(filename,md_filename,
         else:
             data = json.loads(content)
 
-    # clean README.md if daily already exist else create it
-    with open(md_filename,"w+") as f:
+    if latest_n is not None:
+        # ------- short README with latest papers -------
+        all_entries = []
+        for _, day_content in data.items():
+            if not day_content:
+                continue
+            day_content = sort_papers(day_content)
+            for _, line in day_content.items():
+                if line is None:
+                    continue
+                m = re.search(r"\*\*(\d{4}-\d{2}-\d{2})\*\*", line)
+                date = m.group(1) if m else "0000-00-00"
+                all_entries.append((date, pretty_math(line)))
+
+        all_entries.sort(reverse=True, key=lambda x: x[0])
+        latest_entries = all_entries[:latest_n]
+
+        with open(md_filename, "w") as f:
+            if show_badge:
+                f.write(f"[![Contributors][contributors-shield]][contributors-url]\n")
+                f.write(f"[![Forks][forks-shield]][forks-url]\n")
+                f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
+                f.write(f"[![Issues][issues-shield]][issues-url]\n\n")
+
+            f.write("# CV ArXiv Daily\n")
+            f.write("Automatically collected computer vision papers from arXiv.\n\n")
+            f.write(f"> Updated on {DateNow}\n")
+            f.write("> Usage instructions: [here](./docs/README.md#usage)\n\n")
+
+            f.write("## Latest Papers\n")
+            if latest_entries:
+                f.write("| Publish Date | Title | Authors | PDF | Code |\n")
+                f.write("|---|---|---|---|---|\n")
+                for _, line in latest_entries:
+                    f.write(line)
+                f.write("\n")
+            f.write("See the [full archive](./docs/daily_archive.md) for more papers.\n\n")
+
+            if show_badge:
+                f.write((f"[contributors-shield]: https://img.shields.io/github/"
+                         f"contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n"))
+                f.write((f"[contributors-url]: https://github.com/Vincentqyw/"
+                         f"cv-arxiv-daily/graphs/contributors\n"))
+                f.write((f"[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/"
+                         f"cv-arxiv-daily.svg?style=for-the-badge\n"))
+                f.write((f"[forks-url]: https://github.com/Vincentqyw/"
+                         f"cv-arxiv-daily/network/members\n"))
+                f.write((f"[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/"
+                         f"cv-arxiv-daily.svg?style=for-the-badge\n"))
+                f.write((f"[stars-url]: https://github.com/Vincentqyw/"
+                         f"cv-arxiv-daily/stargazers\n"))
+                f.write((f"[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/"
+                         f"cv-arxiv-daily.svg?style=for-the-badge\n"))
+                f.write((f"[issues-url]: https://github.com/Vincentqyw/"
+                         f"cv-arxiv-daily/issues\n\n"))
+
+        if archive_path:
+            with open(archive_path, "w") as af:
+                af.write("# Daily Paper Archive\n")
+                af.write(f"> Updated on {DateNow}\n\n")
+
+                af.write("<details>\n")
+                af.write("  <summary>Table of Contents</summary>\n")
+                af.write("  <ol>\n")
+                for keyword in data.keys():
+                    day_content = data[keyword]
+                    if not day_content:
+                        continue
+                    kw = keyword.replace(' ', '-')
+                    af.write(f"    <li><a href=#{kw.lower()}>{keyword}</a></li>\n")
+                af.write("  </ol>\n")
+                af.write("</details>\n\n")
+
+                for keyword in data.keys():
+                    day_content = data[keyword]
+                    if not day_content:
+                        continue
+                    af.write(f"## {keyword}\n\n")
+                    af.write("| Publish Date | Title | Authors | PDF | Code |\n")
+                    af.write("|---|---|---|---|---|\n")
+                    day_content = sort_papers(day_content)
+                    for _, line in day_content.items():
+                        if line is not None:
+                            af.write(pretty_math(line))
+                    af.write("\n")
+
+        logging.info(f"{task} finished")
+        return
+
+    # ------- original full-table behaviour -------
+    with open(md_filename, "w+") as f:
         pass
 
-    # write data into README.md
-    with open(md_filename,"a+") as f:
+    with open(md_filename, "a+") as f:
 
         if (use_title == True) and (to_web == True):
             f.write("---\n" + "layout: default\n" + "---\n\n")
-        
+
         if show_badge == True:
             f.write(f"[![Contributors][contributors-shield]][contributors-url]\n")
             f.write(f"[![Forks][forks-shield]][forks-url]\n")
             f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
-            f.write(f"[![Issues][issues-shield]][issues-url]\n\n")    
-                
+            f.write(f"[![Issues][issues-shield]][issues-url]\n\n")
+
         if use_title == True:
-            #f.write(("<p align="center"><h1 align="center"><br><ins>CV-ARXIV-DAILY"
-            #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
             f.write("## Updated on " + DateNow + "\n")
         else:
             f.write("> Updated on " + DateNow + "\n")
 
-        # TODO: add usage
         f.write("> Usage instructions: [here](./docs/README.md#usage)\n\n")
 
-        #Add: table of contents
         if use_tc == True:
             f.write("<details>\n")
             f.write("  <summary>Table of Contents</summary>\n")
@@ -315,42 +404,38 @@ def json_to_md(filename,md_filename,
                 day_content = data[keyword]
                 if not day_content:
                     continue
-                kw = keyword.replace(' ','-')      
+                kw = keyword.replace(' ','-')
                 f.write(f"    <li><a href=#{kw.lower()}>{keyword}</a></li>\n")
             f.write("  </ol>\n")
             f.write("</details>\n\n")
-        
+
         for keyword in data.keys():
             day_content = data[keyword]
             if not day_content:
                 continue
-            # the head of each part
             f.write(f"## {keyword}\n\n")
 
-            if use_title == True :
+            if use_title == True:
                 if to_web == False:
                     f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
                 else:
                     f.write("| Publish Date | Title | Authors | PDF | Code |\n")
                     f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
 
-            # sort papers by date
             day_content = sort_papers(day_content)
-        
-            for _,v in day_content.items():
-                if v is not None:
-                    f.write(pretty_math(v)) # make latex pretty
 
-            f.write(f"\n")
-            
-            #Add: back to top
+            for _, v in day_content.items():
+                if v is not None:
+                    f.write(pretty_math(v))
+
+            f.write("\n")
+
             if use_b2t:
                 top_info = f"#Updated on {DateNow}"
                 top_info = top_info.replace(' ','-').replace('.','')
                 f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
-            
+
         if show_badge == True:
-            # we don't like long string, break it!
             f.write((f"[contributors-shield]: https://img.shields.io/github/"
                      f"contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n"))
             f.write((f"[contributors-url]: https://github.com/Vincentqyw/"
@@ -367,8 +452,8 @@ def json_to_md(filename,md_filename,
                      f"cv-arxiv-daily.svg?style=for-the-badge\n"))
             f.write((f"[issues-url]: https://github.com/Vincentqyw/"
                      f"cv-arxiv-daily/issues\n\n"))
-                
-    logging.info(f"{task} finished")        
+
+    logging.info(f"{task} finished")
 
 def demo(**config):
     # TODO: use config
@@ -406,8 +491,14 @@ def demo(**config):
             # update json data
             update_json_file(json_file,data_collector)
         # json data to markdown
-        json_to_md(json_file,md_file, task ='Update Readme', \
-            show_badge = show_badge)
+        json_to_md(
+            json_file,
+            md_file,
+            task="Update Readme",
+            show_badge=show_badge,
+            latest_n=5,
+            archive_path="./docs/daily_archive.md",
+        )
 
     # 2. update docs/index.md file (to gitpage)
     if publish_gitpage:
