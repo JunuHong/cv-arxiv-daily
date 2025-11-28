@@ -6,7 +6,9 @@ import yaml
 import logging
 import argparse
 import datetime
+from typing import Optional
 import requests
+from requests.exceptions import RequestException, SSLError
 
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
@@ -15,6 +17,30 @@ logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 github_url = "https://api.github.com/search/repositories"
 arxiv_url = "http://arxiv.org/"
+REQUEST_TIMEOUT = 5
+
+
+def fetch_official_repo(paper_id: str) -> Optional[str]:
+    """Fetch the official code repository for a paper.
+
+    Returns None on network errors, SSL issues, or missing repository info.
+    """
+    code_url = base_url + paper_id
+    try:
+        response = requests.get(code_url, timeout=REQUEST_TIMEOUT)
+        response.raise_for_status()
+        data = response.json()
+        if "official" in data and data["official"]:
+            return data["official"].get("url")
+    except SSLError as exc:
+        logging.warning(
+            "SSL error while fetching code link for %s: %s", paper_id, exc
+        )
+    except RequestException as exc:
+        logging.error("Request failed for %s: %s", paper_id, exc)
+    except ValueError as exc:
+        logging.error("Invalid JSON for %s: %s", paper_id, exc)
+    return None
 
 def load_config(config_file:str) -> dict:
     '''
@@ -77,7 +103,7 @@ def get_code_link(qword:str) -> str:
         "sort": "stars",
         "order": "desc"
     }
-    r = requests.get(github_url, params=params)
+    r = requests.get(github_url, params=params, timeout=REQUEST_TIMEOUT)
     results = r.json()
     code_link = None
     if results["total_count"] > 0:
@@ -123,38 +149,26 @@ def get_daily_papers(topic,query="slam", max_results=2):
             paper_key = paper_id[0:ver_pos]    
         paper_url = arxiv_url + 'abs/' + paper_key
         
-        try:
-            # source code link    
-            r = requests.get(code_url).json()
-            repo_url = None
-            if "official" in r and r["official"]:
-                repo_url = r["official"]["url"]
-            # TODO: not found, two more chances  
-            # else: 
-            #    repo_url = get_code_link(paper_title)
-            #    if repo_url is None:
-            #        repo_url = get_code_link(paper_key)
-            if repo_url is not None:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
+        repo_url = fetch_official_repo(paper_id)
 
-            else:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url)
+        if repo_url is not None:
+            content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
+                   update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
+            content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
+                   update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
 
-            # TODO: select useful comments
-            comments = None
-            if comments != None:
-                content_to_web[paper_key] += f", {comments}\n"
-            else:
-                content_to_web[paper_key] += f"\n"
+        else:
+            content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
+                   update_time,paper_title,paper_first_author,paper_key,paper_url)
+            content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
+                   update_time,paper_title,paper_first_author,paper_url,paper_url)
 
-        except Exception as e:
-            logging.error(f"exception: {e} with id: {paper_key}")
+        # TODO: select useful comments
+        comments = None
+        if comments != None:
+            content_to_web[paper_key] += f", {comments}\n"
+        else:
+            content_to_web[paper_key] += f"\n"
 
     data = {topic:content}
     data_web = {topic:content_to_web}
@@ -197,19 +211,11 @@ def update_paper_links(filename):
                 valid_link = False if '|null|' in contents else True
                 if valid_link:
                     continue
-                try:
-                    code_url = base_url + paper_id #TODO
-                    r = requests.get(code_url).json()
-                    repo_url = None
-                    if "official" in r and r["official"]:
-                        repo_url = r["official"]["url"]
-                        if repo_url is not None:
-                            new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')
-                            logging.info(f'ID = {paper_id}, contents = {new_cont}')
-                            json_data[keywords][paper_id] = str(new_cont)
-
-                except Exception as e:
-                    logging.error(f"exception: {e} with id: {paper_id}")
+                repo_url = fetch_official_repo(paper_id)
+                if repo_url is not None:
+                    new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')
+                    logging.info(f'ID = {paper_id}, contents = {new_cont}')
+                    json_data[keywords][paper_id] = str(new_cont)
         # dump to json file
         with open(filename,"w") as f:
             json.dump(json_data,f)
