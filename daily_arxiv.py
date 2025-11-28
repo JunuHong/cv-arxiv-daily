@@ -10,6 +10,7 @@ from typing import Optional
 import requests
 from requests.exceptions import RequestException, SSLError
 import urllib3
+from importlib.metadata import PackageNotFoundError, version
 
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
@@ -19,6 +20,11 @@ base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 github_url = "https://api.github.com/search/repositories"
 arxiv_url = "http://arxiv.org/"
 REQUEST_TIMEOUT = 5
+ARXIV_CLIENT = arxiv.Client(page_size=50, delay_seconds=3, num_retries=3)
+try:
+    ARXIV_LIBRARY_VERSION = version("arxiv")
+except PackageNotFoundError:
+    ARXIV_LIBRARY_VERSION = "unknown"
 
 
 def fetch_official_repo(paper_id: str) -> Optional[str]:
@@ -75,28 +81,24 @@ def load_config(config_file:str) -> dict:
     # make filters pretty
     def pretty_filters(**config) -> dict:
         keywords = dict()
-        EXCAPE = '\"'
-        QUOTA = '' # NO-USE
-        OR = 'OR' # TODO
-        def parse_filters(filters:list):
-            ret = ''
-            for idx in range(0,len(filters)):
-                filter = filters[idx]
-                if len(filter.split()) > 1:
-                    ret += (EXCAPE + filter + EXCAPE)  
-                else:
-                    ret += (QUOTA + filter + QUOTA)   
-                if idx != len(filters) - 1:
-                    ret += OR
-            return ret
-        for k,v in config['keywords'].items():
-            keywords[k] = parse_filters(v['filters'])
+
+        def parse_filters(filters: list) -> str:
+            parsed = []
+            for keyword in filters:
+                term = f"\"{keyword}\"" if len(keyword.split()) > 1 else keyword
+                parsed.append(term)
+            return "(" + " OR ".join(parsed) + ")"
+
+        for k, v in config["keywords"].items():
+            keywords[k] = parse_filters(v["filters"])
         return keywords
     with open(config_file,'r') as f:
-        config = yaml.load(f,Loader=yaml.FullLoader) 
+        config = yaml.load(f,Loader=yaml.FullLoader)
         config['kv'] = pretty_filters(**config)
-        logging.info(f'config = {config}')
-    return config 
+        logging.info(
+            "config = %s | arxiv.py version: %s", config, ARXIV_LIBRARY_VERSION
+        )
+    return config
 
 def get_authors(authors, first_author = False):
     output = str()
@@ -132,7 +134,19 @@ def get_code_link(qword:str) -> str:
     if results["total_count"] > 0:
         code_link = results["items"][0]["html_url"]
     return code_link
-  
+
+
+def iter_search_results(search_engine):
+    """Yield results from the arxiv client with basic error handling."""
+
+    try:
+        return ARXIV_CLIENT.results(search_engine)
+    except Exception as exc:  # noqa: BLE001
+        logging.error(
+            "arXiv search failed for %s: %s", getattr(search_engine, "query", "<unknown>"), exc
+        )
+        return []
+
 def get_daily_papers(topic,query="slam", max_results=2):
     """
     @param topic: str
@@ -148,7 +162,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
 
-    for result in search_engine.results():
+    for result in iter_search_results(search_engine):
 
         paper_id            = result.get_short_id()
         paper_title         = result.title
