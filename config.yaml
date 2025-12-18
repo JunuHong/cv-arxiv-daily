@@ -6,7 +6,7 @@ show_authors: True
 show_links: True
 show_badge: True
 # limit the per-keyword retrieval to keep the GitHub Action runtime reliable
-max_results: 5
+max_results: 100
 
 publish_readme: True
 publish_gitpage: True
