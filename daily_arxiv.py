@@ -188,21 +188,18 @@ def get_daily_papers(topic,query="slam", max_results=2):
         
         repo_url = fetch_official_repo(paper_id)
         try:
-            # source code link    
-            r = requests.get(code_url, timeout=REQUEST_TIMEOUT).json()
-            repo_url = None
+            # source code link
+            response = requests.get(code_url, timeout=REQUEST_TIMEOUT)
+            response.raise_for_status()
+            r = response.json()
+
             if "official" in r and r["official"]:
-                repo_url = r["official"]["url"]
-            # TODO: not found, two more chances  
-            # else: 
-            #    repo_url = get_code_link(paper_title)
-            #    if repo_url is None:
-            #        repo_url = get_code_link(paper_key)
-            if repo_url is not None:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
+                repo_url = r["official"].get("url") or repo_url
+
+        except RequestException as exc:
+            logging.error("Failed to fetch code link for %s: %s", paper_id, exc)
+        except ValueError as exc:
+            logging.error("Invalid JSON when checking code link for %s: %s", paper_id, exc)
 
         if repo_url is not None:
             content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
