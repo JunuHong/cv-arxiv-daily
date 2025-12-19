@@ -121,8 +121,13 @@ def _fetch_single_arxiv_result(paper_id: str) -> Optional[arxiv.Result]:
     return None
 
 
+_ARXIV_RESULT_MISSING = object()
+
+
 def find_code_repository(
-    paper_id: str, paper_title: str, arxiv_result: Optional[arxiv.Result] = None
+    paper_id: str,
+    paper_title: str,
+    arxiv_result: Optional[arxiv.Result] | object = _ARXIV_RESULT_MISSING,
 ) -> Optional[str]:
     """Find a code repository link for a paper.
 
@@ -130,7 +135,12 @@ def find_code_repository(
     with Code widgets). Fallback to the Papers with Code API as a last resort.
     """
 
-    result = arxiv_result or _fetch_single_arxiv_result(paper_id)
+    # Important: callers may *intentionally* pass `None` to indicate we've already
+    # fetched and there was no arXiv result. Don't refetch in that case.
+    if arxiv_result is _ARXIV_RESULT_MISSING:
+        result = _fetch_single_arxiv_result(paper_id)
+    else:
+        result = arxiv_result
     if result:
         repo_url = _extract_code_link_from_arxiv_links(result.links)
         if repo_url:
