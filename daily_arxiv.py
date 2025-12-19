@@ -16,7 +16,23 @@ logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
                     level=logging.INFO)
 
-base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
+PWC_API_BASE_URLS = (
+    "https://paperswithcode.com/api/v0/papers/",
+    # Legacy hostname kept as a fallback in case the primary endpoint changes again.
+    "https://arxiv.paperswithcode.com/api/v0/papers/",
+)
+DEFAULT_HEADERS = {
+    "User-Agent": "cv-arxiv-daily-bot/1.0 (+https://github.com/binary-husky/cv-arxiv-daily)"
+}
+CODE_LINK_HOST_PREFIXES = (
+    "https://github.com",
+    "https://huggingface.co",
+    "https://dagshub.com",
+    "https://catalyzex.com",
+    "https://www.catalyzex.com",
+    "https://alphaxiv.org",
+    "https://paperswithcode.com",
+)
 arxiv_url = "http://arxiv.org/"
 REQUEST_TIMEOUT = 5
 ARXIV_CLIENT = arxiv.Client(page_size=50, delay_seconds=3, num_retries=3)
@@ -43,17 +59,19 @@ def fetch_official_repo(paper_id: str) -> Optional[str]:
     # urllib3 layer here.
     urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-    base_target = base_url + paper_id
-    candidates = [
-        (base_target, {}),
-        (base_target, {"verify": False}),
-        (base_target.replace("https://", "http://", 1), {}),
-    ]
+    candidate_urls = [url + paper_id for url in PWC_API_BASE_URLS]
+    candidates = []
+    for target in candidate_urls:
+        candidates.append((target, {}))
+        candidates.append((target, {"verify": False}))
 
     for target_url, request_kwargs in candidates:
         try:
             response = requests.get(
-                target_url, timeout=REQUEST_TIMEOUT, **request_kwargs
+                target_url,
+                timeout=REQUEST_TIMEOUT,
+                headers=DEFAULT_HEADERS,
+                **request_kwargs,
             )
             response.raise_for_status()
             data = response.json()
@@ -82,12 +100,41 @@ def _is_supported_repo_url(url: Optional[str]) -> bool:
     return bool(url) and url.startswith(SUPPORTED_REPO_PREFIXES)
 
 
-def find_code_repository(paper_id: str, paper_title: str) -> Optional[str]:
+def _extract_code_link_from_arxiv_links(links) -> Optional[str]:
+    """Return the first supported code/data link exposed by arXiv."""
+
+    for link in links or []:
+        href = getattr(link, "href", "") or ""
+        if not href:
+            continue
+        if _is_supported_repo_url(href):
+            return href
+        if href.startswith(CODE_LINK_HOST_PREFIXES):
+            return href
+    return None
+
+
+def _fetch_single_arxiv_result(paper_id: str) -> Optional[arxiv.Result]:
+    search_engine = arxiv.Search(id_list=[paper_id], max_results=1)
+    for result in iter_search_results(search_engine):
+        return result
+    return None
+
+
+def find_code_repository(
+    paper_id: str, paper_title: str, arxiv_result: Optional[arxiv.Result] = None
+) -> Optional[str]:
     """Find a code repository link for a paper.
 
-    Returns only official repositories provided by Papers with Code to ensure
-    links come from the authors.
+    Prefer links surfaced directly by arXiv (CatalyzeX/HuggingFace/DagsHub/Papers
+    with Code widgets). Fallback to the Papers with Code API as a last resort.
     """
+
+    result = arxiv_result or _fetch_single_arxiv_result(paper_id)
+    if result:
+        repo_url = _extract_code_link_from_arxiv_links(result.links)
+        if repo_url:
+            return repo_url
 
     repo_url = fetch_official_repo(paper_id)
     if _is_supported_repo_url(repo_url):
@@ -207,7 +254,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
             paper_key = paper_id[0:ver_pos]    
         paper_url = arxiv_url + 'abs/' + paper_key
         
-        repo_url = find_code_repository(paper_id, paper_title)
+        repo_url = find_code_repository(paper_id, paper_title, result)
 
         if repo_url is not None:
             content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
@@ -269,7 +316,9 @@ def update_paper_links(filename):
                 valid_link = False if '|null|' in contents else True
                 if valid_link:
                     continue
-                repo_url = find_code_repository(paper_id, paper_title)
+                repo_url = find_code_repository(
+                    paper_id, paper_title, _fetch_single_arxiv_result(paper_id)
+                )
                 if repo_url is not None:
                     new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')
                     logging.info(f'ID = {paper_id}, contents = {new_cont}')
