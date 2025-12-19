@@ -346,6 +346,9 @@ def json_to_md(
     DateNow = datetime.date.today()
     DateNow = str(DateNow)
     DateNow = DateNow.replace('-','.')
+
+    def keyword_anchor(keyword: str) -> str:
+        return re.sub(r"[^a-z0-9\-]+", "", keyword.replace(" ", "-").lower())
     
     with open(filename,"r") as f:
         content = f.read()
@@ -355,21 +358,25 @@ def json_to_md(
             data = json.loads(content)
 
     if latest_n is not None:
-        # ------- short README with latest papers -------
-        all_entries = []
-        for _, day_content in data.items():
+        # ------- short README with latest papers grouped by keyword -------
+        latest_by_keyword = {}
+        for keyword in sorted(data.keys()):
+            day_content = data[keyword]
             if not day_content:
                 continue
             day_content = sort_papers(day_content)
+            keyword_entries = []
             for _, line in day_content.items():
                 if line is None:
                     continue
-                m = re.search(r"\*\*(\d{4}-\d{2}-\d{2})\*\*", line)
+                parsed_line = pretty_math(line)
+                m = re.search(r"\*\*(\d{4}-\d{2}-\d{2})\*\*", parsed_line)
                 date = m.group(1) if m else "0000-00-00"
-                all_entries.append((date, pretty_math(line)))
+                keyword_entries.append((date, parsed_line))
 
-        all_entries.sort(reverse=True, key=lambda x: x[0])
-        latest_entries = all_entries[:latest_n]
+            keyword_entries.sort(reverse=True, key=lambda x: x[0])
+            if keyword_entries:
+                latest_by_keyword[keyword] = keyword_entries[:latest_n]
 
         with open(md_filename, "w") as f:
             if show_badge:
@@ -384,12 +391,23 @@ def json_to_md(
             f.write("> Usage instructions: [here](./docs/README.md#usage)\n\n")
 
             f.write("## Latest Papers\n")
-            if latest_entries:
-                f.write("| Publish Date | Title | Authors | PDF | Code |\n")
-                f.write("|---|---|---|---|---|\n")
-                for _, line in latest_entries:
-                    f.write(line)
-                f.write("\n")
+            if latest_by_keyword:
+                f.write("<details>\n")
+                f.write("  <summary>Jump to Keyword</summary>\n")
+                f.write("  <ol>\n")
+                for keyword in latest_by_keyword.keys():
+                    kw = keyword_anchor(keyword)
+                    f.write(f"    <li><a href=#{kw}>{keyword}</a></li>\n")
+                f.write("  </ol>\n")
+                f.write("</details>\n\n")
+
+                for keyword, entries in latest_by_keyword.items():
+                    f.write(f"### {keyword}\n")
+                    f.write("| Publish Date | Title | Authors | PDF | Code |\n")
+                    f.write("|---|---|---|---|---|\n")
+                    for _, line in entries:
+                        f.write(line)
+                    f.write("\n")
             f.write("See the [full archive](./docs/daily_archive.md) for more papers.\n\n")
 
             if show_badge:
@@ -418,16 +436,16 @@ def json_to_md(
                 af.write("<details>\n")
                 af.write("  <summary>Table of Contents</summary>\n")
                 af.write("  <ol>\n")
-                for keyword in data.keys():
+                for keyword in sorted(data.keys()):
                     day_content = data[keyword]
                     if not day_content:
                         continue
-                    kw = keyword.replace(' ', '-')
-                    af.write(f"    <li><a href=#{kw.lower()}>{keyword}</a></li>\n")
+                    kw = keyword_anchor(keyword)
+                    af.write(f"    <li><a href=#{kw}>{keyword}</a></li>\n")
                 af.write("  </ol>\n")
                 af.write("</details>\n\n")
 
-                for keyword in data.keys():
+                for keyword in sorted(data.keys()):
                     day_content = data[keyword]
                     if not day_content:
                         continue
@@ -469,16 +487,16 @@ def json_to_md(
             f.write("<details>\n")
             f.write("  <summary>Table of Contents</summary>\n")
             f.write("  <ol>\n")
-            for keyword in data.keys():
+            for keyword in sorted(data.keys()):
                 day_content = data[keyword]
                 if not day_content:
                     continue
-                kw = keyword.replace(' ','-')
-                f.write(f"    <li><a href=#{kw.lower()}>{keyword}</a></li>\n")
+                kw = keyword_anchor(keyword)
+                f.write(f"    <li><a href=#{kw}>{keyword}</a></li>\n")
             f.write("  </ol>\n")
             f.write("</details>\n\n")
 
-        for keyword in data.keys():
+        for keyword in sorted(data.keys()):
             day_content = data[keyword]
             if not day_content:
                 continue
@@ -565,7 +583,7 @@ def demo(**config):
             md_file,
             task="Update Readme",
             show_badge=show_badge,
-            latest_n=5,
+            latest_n=20,
             archive_path="./docs/daily_archive.md",
         )
 
