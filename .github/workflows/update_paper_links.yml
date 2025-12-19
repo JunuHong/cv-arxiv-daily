@@ -17,7 +17,6 @@ env:
 
   GITHUB_USER_NAME: JunuHong
   GITHUB_USER_EMAIL: junwooh@postech.ac.kr
-  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   
   
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
