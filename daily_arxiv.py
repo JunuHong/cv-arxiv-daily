@@ -17,7 +17,6 @@ logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     level=logging.INFO)
 
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
-github_url = "https://api.github.com/search/repositories"
 arxiv_url = "http://arxiv.org/"
 REQUEST_TIMEOUT = 5
 ARXIV_CLIENT = arxiv.Client(page_size=50, delay_seconds=3, num_retries=3)
@@ -25,6 +24,11 @@ try:
     ARXIV_LIBRARY_VERSION = version("arxiv")
 except PackageNotFoundError:
     ARXIV_LIBRARY_VERSION = "unknown"
+
+SUPPORTED_REPO_PREFIXES = (
+    "https://github.com",
+    "https://huggingface.co",
+)
 
 
 def fetch_official_repo(paper_id: str) -> Optional[str]:
@@ -71,6 +75,24 @@ def fetch_official_repo(paper_id: str) -> Optional[str]:
         except ValueError as exc:
             logging.error("Invalid JSON for %s (%s): %s", paper_id, target_url, exc)
             continue
+    return None
+
+
+def _is_supported_repo_url(url: Optional[str]) -> bool:
+    return bool(url) and url.startswith(SUPPORTED_REPO_PREFIXES)
+
+
+def find_code_repository(paper_id: str, paper_title: str) -> Optional[str]:
+    """Find a code repository link for a paper.
+
+    Returns only official repositories provided by Papers with Code to ensure
+    links come from the authors.
+    """
+
+    repo_url = fetch_official_repo(paper_id)
+    if _is_supported_repo_url(repo_url):
+        return repo_url
+
     return None
 
 def load_config(config_file:str) -> dict:
@@ -167,7 +189,6 @@ def get_daily_papers(topic,query="slam", max_results=2):
         paper_id            = result.get_short_id()
         paper_title         = result.title
         paper_url           = result.entry_id
-        code_url            = base_url + paper_id #TODO
         paper_abstract      = result.summary.replace("\n"," ")
         paper_authors       = get_authors(result.authors)
         paper_first_author  = get_authors(result.authors,first_author = True)
@@ -186,20 +207,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
             paper_key = paper_id[0:ver_pos]    
         paper_url = arxiv_url + 'abs/' + paper_key
         
-        repo_url = fetch_official_repo(paper_id)
-        try:
-            # source code link
-            response = requests.get(code_url, timeout=REQUEST_TIMEOUT)
-            response.raise_for_status()
-            r = response.json()
-
-            if "official" in r and r["official"]:
-                repo_url = r["official"].get("url") or repo_url
-
-        except RequestException as exc:
-            logging.error("Failed to fetch code link for %s: %s", paper_id, exc)
-        except ValueError as exc:
-            logging.error("Invalid JSON when checking code link for %s: %s", paper_id, exc)
+        repo_url = find_code_repository(paper_id, paper_title)
 
         if repo_url is not None:
             content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
@@ -231,7 +239,7 @@ def update_paper_links(filename):
     def parse_arxiv_string(s):
         parts = s.split("|")
         date = parts[1].strip()
-        title = parts[2].strip()
+        title = re.sub(r"\*", "", parts[2]).strip()
         authors = parts[3].strip()
         arxiv_id = parts[4].strip()
         code = parts[5].strip()
@@ -261,24 +269,11 @@ def update_paper_links(filename):
                 valid_link = False if '|null|' in contents else True
                 if valid_link:
                     continue
-                repo_url = fetch_official_repo(paper_id)
+                repo_url = find_code_repository(paper_id, paper_title)
                 if repo_url is not None:
                     new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')
                     logging.info(f'ID = {paper_id}, contents = {new_cont}')
                     json_data[keywords][paper_id] = str(new_cont)
-                try:
-                    code_url = base_url + paper_id #TODO
-                    r = requests.get(code_url, timeout=REQUEST_TIMEOUT).json()
-                    repo_url = None
-                    if "official" in r and r["official"]:
-                        repo_url = r["official"]["url"]
-                        if repo_url is not None:
-                            new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')
-                            logging.info(f'ID = {paper_id}, contents = {new_cont}')
-                            json_data[keywords][paper_id] = str(new_cont)
-
-                except Exception as e:
-                    logging.error(f"exception: {e} with id: {paper_id}")
         # dump to json file
         with open(filename,"w") as f:
             json.dump(json_data,f)
