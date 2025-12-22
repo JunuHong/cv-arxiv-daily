@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-19**|**Dexterous World Models**|Byungjun Kim et.al.|[2512.17907](http://arxiv.org/abs/2512.17907)|null|
+|**2025-12-19**|**Pix2NPHM: Learning to Regress NPHM Reconstructions From a Single Image**|Simon Giebenhain et.al.|[2512.17773](http://arxiv.org/abs/2512.17773)|null|
+|**2025-12-19**|**3D-RE-GEN: 3D Reconstruction of Indoor Scenes with a Generative Framework**|Tobias Sautter et.al.|[2512.17459](http://arxiv.org/abs/2512.17459)|null|
 |**2025-12-18**|**4D Primitive-Mâché: Glueing Primitives for Persistent 4D Scene Reconstruction**|Kirill Mazur et.al.|[2512.16564](http://arxiv.org/abs/2512.16564)|null|
 |**2025-12-17**|**In Pursuit of Pixel Supervision for Visual Pre-training**|Lihe Yang et.al.|[2512.15715](http://arxiv.org/abs/2512.15715)|null|
 |**2025-12-17**|**Off The Grid: Detection of Primitives for Feed-Forward 3D Gaussian Splatting**|Arthur Moreau et.al.|[2512.15508](http://arxiv.org/abs/2512.15508)|null|
@@ -3608,6 +3611,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-19**|**Deep Learning-based Robust Autonomous Navigation of Aerial Robots in Dense Forests**|Guglielmo Del Col et.al.|[2512.17553](http://arxiv.org/abs/2512.17553)|null|
+|**2025-12-19**|**Adaptive Covariance and Quaternion-Focused Hybrid Error-State EKF/UKF for Visual-Inertial Odometry**|Ufuk Asil et.al.|[2512.17505](http://arxiv.org/abs/2512.17505)|null|
 |**2025-12-18**|**SNOW: Spatio-Temporal Scene Understanding with World Knowledge for Open-World Embodied Reasoning**|Tin Stribor Sohn et.al.|[2512.16461](http://arxiv.org/abs/2512.16461)|null|
 |**2025-12-18**|**A2VISR: An Active and Adaptive Ground-Aerial Localization System Using Visual Inertial and Single-Range Fusion**|Sijia Chen et.al.|[2512.16367](http://arxiv.org/abs/2512.16367)|null|
 |**2025-12-17**|**Spatia: Video Generation with Updatable Spatial Memory**|Jinjing Zhao et.al.|[2512.15716](http://arxiv.org/abs/2512.15716)|null|
@@ -4326,6 +4331,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-19**|**Robust Scene Coordinate Regression via Geometrically-Consistent Global Descriptors**|Son Tung Nguyen et.al.|[2512.17226](http://arxiv.org/abs/2512.17226)|null|
+|**2025-12-18**|**The Effect of Negation on CLIP in Medical Imaging: Limitations of Contrastive Language-Image Pretraining**|Jasmine Vu et.al.|[2512.17121](http://arxiv.org/abs/2512.17121)|null|
 |**2025-12-18**|**MACL: Multi-Label Adaptive Contrastive Learning Loss for Remote Sensing Image Retrieval**|Amna Amir et.al.|[2512.16294](http://arxiv.org/abs/2512.16294)|null|
 |**2025-12-16**|**CLNet: Cross-View Correspondence Makes a Stronger Geo-Localizationer**|Xianwei Cao et.al.|[2512.14560](http://arxiv.org/abs/2512.14560)|null|
 |**2025-12-16**|**Neurosymbolic Inference On Foundation Models For Remote Sensing Text-to-image Retrieval With Complex Queries**|Emanuele Mezzi et.al.|[2512.14102](http://arxiv.org/abs/2512.14102)|null|

@@ -26,6 +26,9 @@ Automatically collected computer vision papers from arXiv.
 ### 3D reconstruction
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2025-12-19**|**Dexterous World Models**|Byungjun Kim et.al.|[2512.17907](http://arxiv.org/abs/2512.17907)|null|
+|**2025-12-19**|**Pix2NPHM: Learning to Regress NPHM Reconstructions From a Single Image**|Simon Giebenhain et.al.|[2512.17773](http://arxiv.org/abs/2512.17773)|null|
+|**2025-12-19**|**3D-RE-GEN: 3D Reconstruction of Indoor Scenes with a Generative Framework**|Tobias Sautter et.al.|[2512.17459](http://arxiv.org/abs/2512.17459)|null|
 |**2025-12-18**|**4D Primitive-Mâché: Glueing Primitives for Persistent 4D Scene Reconstruction**|Kirill Mazur et.al.|[2512.16564](http://arxiv.org/abs/2512.16564)|null|
 |**2025-12-17**|**In Pursuit of Pixel Supervision for Visual Pre-training**|Lihe Yang et.al.|[2512.15715](http://arxiv.org/abs/2512.15715)|null|
 |**2025-12-17**|**Off The Grid: Detection of Primitives for Feed-Forward 3D Gaussian Splatting**|Arthur Moreau et.al.|[2512.15508](http://arxiv.org/abs/2512.15508)|null|
@@ -43,9 +46,6 @@ Automatically collected computer vision papers from arXiv.
 |**2025-12-11**|**Breaking the Vicious Cycle: Coherent 3D Gaussian Splatting from Sparse and Motion-Blurred Views**|Zhankuo Xu et.al.|[2512.10369](http://arxiv.org/abs/2512.10369)|null|
 |**2025-12-10**|**TraceFlow: Dynamic 3D Reconstruction of Specular Scenes Driven by Ray Tracing**|Jiachen Tao et.al.|[2512.10095](http://arxiv.org/abs/2512.10095)|null|
 |**2025-12-10**|**Splatent: Splatting Diffusion Latents for Novel View Synthesis**|Or Hirschorn et.al.|[2512.09923](http://arxiv.org/abs/2512.09923)|null|
-|**2025-12-10**|**LoGoColor: Local-Global 3D Colorization for 360° Scenes**|Yeonjin Chang et.al.|[2512.09278](http://arxiv.org/abs/2512.09278)|null|
-|**2025-12-09**|**Selfi: Self Improving Reconstruction Engine via 3D Geometric Feature Alignment**|Youming Deng et.al.|[2512.08930](http://arxiv.org/abs/2512.08930)|null|
-|**2025-12-09**|**On-the-fly Large-scale 3D Reconstruction from Multi-Camera Rigs**|Yijia Guo et.al.|[2512.08498](http://arxiv.org/abs/2512.08498)|null|
 
 ### Image Matching
 | Publish Date | Title | Authors | PDF | Code |
@@ -146,6 +146,8 @@ Automatically collected computer vision papers from arXiv.
 ### SLAM
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2025-12-19**|**Deep Learning-based Robust Autonomous Navigation of Aerial Robots in Dense Forests**|Guglielmo Del Col et.al.|[2512.17553](http://arxiv.org/abs/2512.17553)|null|
+|**2025-12-19**|**Adaptive Covariance and Quaternion-Focused Hybrid Error-State EKF/UKF for Visual-Inertial Odometry**|Ufuk Asil et.al.|[2512.17505](http://arxiv.org/abs/2512.17505)|null|
 |**2025-12-18**|**SNOW: Spatio-Temporal Scene Understanding with World Knowledge for Open-World Embodied Reasoning**|Tin Stribor Sohn et.al.|[2512.16461](http://arxiv.org/abs/2512.16461)|null|
 |**2025-12-18**|**A2VISR: An Active and Adaptive Ground-Aerial Localization System Using Visual Inertial and Single-Range Fusion**|Sijia Chen et.al.|[2512.16367](http://arxiv.org/abs/2512.16367)|null|
 |**2025-12-17**|**Spatia: Video Generation with Updatable Spatial Memory**|Jinjing Zhao et.al.|[2512.15716](http://arxiv.org/abs/2512.15716)|null|
@@ -164,12 +166,12 @@ Automatically collected computer vision papers from arXiv.
 |**2025-12-11**|**Neural Ranging Inertial Odometry**|Si Wang et.al.|[2512.10531](http://arxiv.org/abs/2512.10531)|null|
 |**2025-12-11**|**Contact SLAM: An Active Tactile Exploration Policy Based on Physical Reasoning Utilized in Robotic Fine Blind Manipulation Tasks**|Gaozhao Wang et.al.|[2512.10481](http://arxiv.org/abs/2512.10481)|null|
 |**2025-12-11**|**CLASH: Collaborative Large-Small Hierarchical Framework for Continuous Vision-and-Language Navigation**|Liuyi Wang et.al.|[2512.10360](http://arxiv.org/abs/2512.10360)|null|
-|**2025-12-11**|**Development and Testing for Perception Based Autonomous Landing of a Long-Range QuadPlane**|Ashik E Rasul et.al.|[2512.09343](http://arxiv.org/abs/2512.09343)|null|
-|**2025-12-10**|**Inertial Magnetic SLAM Systems Using Low-Cost Sensors**|Chuan Huang et.al.|[2512.10128](http://arxiv.org/abs/2512.10128)|null|
 
 ### Visual Localization
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2025-12-19**|**Robust Scene Coordinate Regression via Geometrically-Consistent Global Descriptors**|Son Tung Nguyen et.al.|[2512.17226](http://arxiv.org/abs/2512.17226)|null|
+|**2025-12-18**|**The Effect of Negation on CLIP in Medical Imaging: Limitations of Contrastive Language-Image Pretraining**|Jasmine Vu et.al.|[2512.17121](http://arxiv.org/abs/2512.17121)|null|
 |**2025-12-18**|**MACL: Multi-Label Adaptive Contrastive Learning Loss for Remote Sensing Image Retrieval**|Amna Amir et.al.|[2512.16294](http://arxiv.org/abs/2512.16294)|null|
 |**2025-12-18**|**DAFM: Dynamic Adaptive Fusion for Multi-Model Collaboration in Composed Image Retrieval**|Yawei Cai et.al.|[2511.05020](http://arxiv.org/abs/2511.05020)|null|
 |**2025-12-16**|**CLNet: Cross-View Correspondence Makes a Stronger Geo-Localizationer**|Xianwei Cao et.al.|[2512.14560](http://arxiv.org/abs/2512.14560)|null|
@@ -188,8 +190,6 @@ Automatically collected computer vision papers from arXiv.
 |**2025-12-07**|**D $^{2}$ -VPR: A Parameter-efficient Visual-foundation-model-based Visual Place Recognition Method via Knowledge Distillation and Deformable Aggregation**|Zheyuan Zhang et.al.|[2511.12528](http://arxiv.org/abs/2511.12528)|null|
 |**2025-12-06**|**Language-driven Fine-grained Retrieval**|Shijie Wang et.al.|[2512.06255](http://arxiv.org/abs/2512.06255)|null|
 |**2025-12-05**|**GuideNav: User-Informed Development of a Vision-Only Robotic Navigation Assistant For Blind Travelers**|Hochul Hwang et.al.|[2512.06147](http://arxiv.org/abs/2512.06147)|null|
-|**2025-12-04**|**SAGE: Spatial-visual Adaptive Graph Exploration for Visual Place Recognition**|Shunpeng Chen et.al.|[2509.25723](http://arxiv.org/abs/2509.25723)|null|
-|**2025-12-02**|**GeoBridge: A Semantic-Anchored Multi-View Foundation Model Bridging Images and Text for Geo-Localization**|Zixuan Song et.al.|[2512.02697](http://arxiv.org/abs/2512.02697)|null|
 
 See the [full archive](./docs/daily_archive.md) for more papers.
 
