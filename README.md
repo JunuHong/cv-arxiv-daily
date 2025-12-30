@@ -6,7 +6,7 @@
 # CV ArXiv Daily
 Automatically collected computer vision papers from arXiv.
 
-> Updated on 2025.12.29
+> Updated on 2025.12.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Latest Papers
@@ -146,7 +146,7 @@ Automatically collected computer vision papers from arXiv.
 ### SLAM
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
-|**2025-12-25**|**World-Coordinate Human Motion Retargeting via SAM 3D Body**|Zhangzheng Tum et.al.|[2512.21573](http://arxiv.org/abs/2512.21573)|null|
+|**2025-12-25**|**World-Coordinate Human Motion Retargeting via SAM 3D Body**|Zhangzheng Tu et.al.|[2512.21573](http://arxiv.org/abs/2512.21573)|null|
 |**2025-12-25**|**FAR-AVIO: Fast and Robust Schur-Complement Based Acoustic-Visual-Inertial Fusion Odometry with Sensor Calibration**|Hao Wei et.al.|[2512.20355](http://arxiv.org/abs/2512.20355)|null|
 |**2025-12-24**|**Quadrupped-Legged Robot Movement Plan Generation using Large Language Model**|Muhtadin et.al.|[2512.21293](http://arxiv.org/abs/2512.21293)|null|
 |**2025-12-23**|**Drift-Corrected Monocular VIO and Perception-Aware Planning for Autonomous Drone Racing**|Maulana Bisyir Azhari et.al.|[2512.20475](http://arxiv.org/abs/2512.20475)|null|
