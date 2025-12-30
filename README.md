@@ -26,6 +26,13 @@ Automatically collected computer vision papers from arXiv.
 ### 3D reconstruction
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2025-12-29**|**RealX3D: A Physically-Degraded 3D Benchmark for Multi-view Visual Restoration and Reconstruction**|Shuhong Liu et.al.|[2512.23437](http://arxiv.org/abs/2512.23437)|null|
+|**2025-12-29**|**MGCA-Net: Multi-Graph Contextual Attention Network for Two-View Correspondence Learning**|Shuyuan Lin et.al.|[2512.23369](http://arxiv.org/abs/2512.23369)|null|
+|**2025-12-29**|**SpatialMosaic: A Multiview VLM Dataset for Partial Visibility**|Kanghee Lee et.al.|[2512.23365](http://arxiv.org/abs/2512.23365)|null|
+|**2025-12-28**|**Medical Scene Reconstruction and Segmentation based on 3D Gaussian Representation**|Bin Liu et.al.|[2512.22800](http://arxiv.org/abs/2512.22800)|null|
+|**2025-12-27**|**Event-based high temporal resolution measurement of shock wave motion field**|Taihang Lei et.al.|[2512.22474](http://arxiv.org/abs/2512.22474)|null|
+|**2025-12-27**|**SAM 3D for 3D Object Reconstruction from Remote Sensing Images**|Junsheng Yao et.al.|[2512.22452](http://arxiv.org/abs/2512.22452)|null|
+|**2025-12-27**|**Breaking the Vicious Cycle: Coherent 3D Gaussian Splatting from Sparse and Motion-Blurred Views**|Zhankuo Xu et.al.|[2512.10369](http://arxiv.org/abs/2512.10369)|null|
 |**2025-12-25**|**Analyzing the Mechanism of Attention Collapse in VGGT from a Dynamics Perspective**|Huan Li et.al.|[2512.21691](http://arxiv.org/abs/2512.21691)|null|
 |**2025-12-25**|**MuS-Polar3D: A Benchmark Dataset for Computational Polarimetric 3D Imaging under Multi-Scattering Conditions**|Puyun Wang et.al.|[2512.21513](http://arxiv.org/abs/2512.21513)|null|
 |**2025-12-23**|**OccuFly: A 3D Vision Benchmark for Semantic Scene Completion from the Aerial Perspective**|Markus Gross et.al.|[2512.20770](http://arxiv.org/abs/2512.20770)|null|
@@ -39,17 +46,11 @@ Automatically collected computer vision papers from arXiv.
 |**2025-12-20**|**MatSpray: Fusing 2D Material World Knowledge on 3D Geometry**|Philipp Langsteiner et.al.|[2512.18314](http://arxiv.org/abs/2512.18314)|null|
 |**2025-12-20**|**Joint Learning of Depth, Pose, and Local Radiance Field for Large Scale Monocular 3D Reconstruction**|Shahram Najam Syed et.al.|[2512.18237](http://arxiv.org/abs/2512.18237)|null|
 |**2025-12-20**|**Local Patches Meet Global Context: Scalable 3D Diffusion Priors for Computed Tomography Reconstruction**|Taewon Yang et.al.|[2512.18161](http://arxiv.org/abs/2512.18161)|null|
-|**2025-12-19**|**Dexterous World Models**|Byungjun Kim et.al.|[2512.17907](http://arxiv.org/abs/2512.17907)|null|
-|**2025-12-19**|**Pix2NPHM: Learning to Regress NPHM Reconstructions From a Single Image**|Simon Giebenhain et.al.|[2512.17773](http://arxiv.org/abs/2512.17773)|null|
-|**2025-12-19**|**3D-RE-GEN: 3D Reconstruction of Indoor Scenes with a Generative Framework**|Tobias Sautter et.al.|[2512.17459](http://arxiv.org/abs/2512.17459)|null|
-|**2025-12-18**|**4D Primitive-Mâché: Glueing Primitives for Persistent 4D Scene Reconstruction**|Kirill Mazur et.al.|[2512.16564](http://arxiv.org/abs/2512.16564)|null|
-|**2025-12-17**|**A Modular Framework for Single-View 3D Reconstruction of Indoor Environments**|Yuxiao Li et.al.|[2512.17955](http://arxiv.org/abs/2512.17955)|null|
-|**2025-12-17**|**In Pursuit of Pixel Supervision for Visual Pre-training**|Lihe Yang et.al.|[2512.15715](http://arxiv.org/abs/2512.15715)|null|
-|**2025-12-17**|**Off The Grid: Detection of Primitives for Feed-Forward 3D Gaussian Splatting**|Arthur Moreau et.al.|[2512.15508](http://arxiv.org/abs/2512.15508)|null|
 
 ### Image Matching
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2025-12-26**|**SPIDER: Spatial Image CorresponDence Estimator for Robust Calibration**|Zhimin Shao et.al.|[2511.17750](http://arxiv.org/abs/2511.17750)|null|
 |**2025-12-24**|**VisRes Bench: On Evaluating the Visual Reasoning Capabilities of VLMs**|Brigitta Malagurski Törtei et.al.|[2512.21194](http://arxiv.org/abs/2512.21194)|null|
 |**2025-12-20**|**Analog Quantum Image Representation with Qubit-Frugal Encoding**|Vikrant Sharma et.al.|[2512.18451](http://arxiv.org/abs/2512.18451)|null|
 |**2025-12-17**|**The Perceptual Observatory Characterizing Robustness and Grounding in MLLMs**|Tejas Anvekar et.al.|[2512.15949](http://arxiv.org/abs/2512.15949)|null|
@@ -57,7 +58,6 @@ Automatically collected computer vision papers from arXiv.
 |**2025-12-11**|**Self-Supervised Contrastive Embedding Adaptation for Endoscopic Image Matching**|Alberto Rota et.al.|[2512.10379](http://arxiv.org/abs/2512.10379)|null|
 |**2025-12-03**|**DINO-RotateMatch: A Rotation-Aware Deep Framework for Robust Image Matching in Large-Scale 3D Reconstruction**|Kaichen Zhang et.al.|[2512.03715](http://arxiv.org/abs/2512.03715)|null|
 |**2025-11-26**|**Unlocking Zero-shot Potential of Semi-dense Image Matching via Gaussian Splatting**|Juncheng Chen et.al.|[2511.21265](http://arxiv.org/abs/2511.21265)|null|
-|**2025-11-21**|**SPIDER: Spatial Image CorresponDence Estimator for Robust Calibration**|Zhimin Shao et.al.|[2511.17750](http://arxiv.org/abs/2511.17750)|null|
 |**2025-11-21**|**MuM: Multi-View Masked Image Modeling for 3D Vision**|David Nordström et.al.|[2511.17309](http://arxiv.org/abs/2511.17309)|null|
 |**2025-11-21**|**A Geometrically Consistent Matching Framework for Side-Scan Sonar Mapping**|Can Lei et.al.|[2509.11255](http://arxiv.org/abs/2509.11255)|null|
 |**2025-11-19**|**ViewBridge:Revisiting Cross-View Localization from Image Matching**|Panwang Xia et.al.|[2508.10716](http://arxiv.org/abs/2508.10716)|null|
@@ -146,6 +146,10 @@ Automatically collected computer vision papers from arXiv.
 ### SLAM
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2025-12-29**|**MambaIO: Global-Coordinate Inertial Odometry for Pedestrians via Multi-Scale Frequency-Decoupled Modeling**|Shanshan Zhang et.al.|[2511.15645](http://arxiv.org/abs/2511.15645)|null|
+|**2025-12-27**|**Mesquite MoCap: Democratizing Real-Time Motion Capture with Affordable, Bodyworn IoT Sensors and WebXR SLAM**|Poojan Vanani et.al.|[2512.22690](http://arxiv.org/abs/2512.22690)|null|
+|**2025-12-27**|**S-BLE: A Participatory BLE Sensory Data Set Recorded from Real-World Bus Travel Events**|Jonathan Lam et.al.|[2512.22422](http://arxiv.org/abs/2512.22422)|null|
+|**2025-12-26**|**Simultaneous Source Separation, Synchronization, Localization and Mapping for 6G Systems**|Alexander Venus et.al.|[2512.22393](http://arxiv.org/abs/2512.22393)|null|
 |**2025-12-25**|**World-Coordinate Human Motion Retargeting via SAM 3D Body**|Zhangzheng Tu et.al.|[2512.21573](http://arxiv.org/abs/2512.21573)|null|
 |**2025-12-25**|**FAR-AVIO: Fast and Robust Schur-Complement Based Acoustic-Visual-Inertial Fusion Odometry with Sensor Calibration**|Hao Wei et.al.|[2512.20355](http://arxiv.org/abs/2512.20355)|null|
 |**2025-12-24**|**Quadrupped-Legged Robot Movement Plan Generation using Large Language Model**|Muhtadin et.al.|[2512.21293](http://arxiv.org/abs/2512.21293)|null|
@@ -162,17 +166,16 @@ Automatically collected computer vision papers from arXiv.
 |**2025-12-17**|**Integration of UWB Radar on Mobile Robots for Continuous Obstacle and Environment Mapping**|Adelina Giurea et.al.|[2512.01018](http://arxiv.org/abs/2512.01018)|null|
 |**2025-12-16**|**Odyssey: An Automotive Lidar-Inertial Odometry Dataset for GNSS-denied situations**|Aaron Kurda et.al.|[2512.14428](http://arxiv.org/abs/2512.14428)|null|
 |**2025-12-16**|**Field evaluation and optimization of a lightweight lidar-based UAV navigation system for dense boreal forest environments**|Aleksi Karhunen et.al.|[2512.14340](http://arxiv.org/abs/2512.14340)|null|
-|**2025-12-16**|**SUPER -- A Framework for Sensitivity-based Uncertainty-aware Performance and Risk Assessment in Visual Inertial Odometry**|Johannes A. Gaus et.al.|[2512.14189](http://arxiv.org/abs/2512.14189)|null|
-|**2025-12-16**|**ACE-SLAM: Scene Coordinate Regression for Neural Implicit Real-Time SLAM**|Ignacio Alzugaray et.al.|[2512.14032](http://arxiv.org/abs/2512.14032)|null|
-|**2025-12-16**|**Deep Learning Perspective of Scene Understanding in Autonomous Robots**|Afia Maham et.al.|[2512.14020](http://arxiv.org/abs/2512.14020)|null|
-|**2025-12-16**|**Autonomous Construction-Site Safety Inspection Using Mobile Robots: A Multilayer VLM-LLM Pipeline**|Hossein Naderi et.al.|[2512.13974](http://arxiv.org/abs/2512.13974)|null|
 
 ### Visual Localization
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2025-12-29**|**MindWatcher: Toward Smarter Multimodal Tool-Integrated Reasoning**|Jiawei Chen et.al.|[2512.23412](http://arxiv.org/abs/2512.23412)|null|
+|**2025-12-29**|**Anomaly Detection by Effectively Leveraging Synthetic Images**|Sungho Kang et.al.|[2512.23227](http://arxiv.org/abs/2512.23227)|null|
+|**2025-12-28**|**UniPR-3D: Towards Universal Visual Place Recognition with Visual Geometry Grounded Transformer**|Tianchen Deng et.al.|[2512.21078](http://arxiv.org/abs/2512.21078)|null|
+|**2025-12-27**|**D $^{2}$ -VPR: A Parameter-efficient Visual-foundation-model-based Visual Place Recognition Method via Knowledge Distillation and Deformable Aggregation**|Zheyuan Zhang et.al.|[2511.12528](http://arxiv.org/abs/2511.12528)|null|
 |**2025-12-26**|**Reloc-VGGT: Visual Re-localization with Geometry Grounded Transformer**|Tianchen Deng et.al.|[2512.21883](http://arxiv.org/abs/2512.21883)|null|
 |**2025-12-24**|**Leveraging Lightweight Entity Extraction for Scalable Event-Based Image Retrieval**|Dao Sy Duy Minh et.al.|[2512.21221](http://arxiv.org/abs/2512.21221)|null|
-|**2025-12-24**|**UniPR-3D: Towards Universal Visual Place Recognition with Visual Geometry Grounded Transformer**|Tianchen Deng et.al.|[2512.21078](http://arxiv.org/abs/2512.21078)|null|
 |**2025-12-24**|**O3SLM: Open Weight, Open Data, and Open Vocabulary Sketch-Language Model**|Rishi Gupta et.al.|[2511.14368](http://arxiv.org/abs/2511.14368)|null|
 |**2025-12-23**|**Soft Filtering: Guiding Zero-shot Composed Image Retrieval with Prescriptive and Proscriptive Constraints**|Youjin Jung et.al.|[2512.20781](http://arxiv.org/abs/2512.20781)|null|
 |**2025-12-23**|**Towards Natural Language-Based Document Image Retrieval: New Dataset and Benchmark**|Hao Guo et.al.|[2512.20174](http://arxiv.org/abs/2512.20174)|null|
@@ -187,9 +190,6 @@ Automatically collected computer vision papers from arXiv.
 |**2025-12-18**|**DAFM: Dynamic Adaptive Fusion for Multi-Model Collaboration in Composed Image Retrieval**|Yawei Cai et.al.|[2511.05020](http://arxiv.org/abs/2511.05020)|null|
 |**2025-12-16**|**CLNet: Cross-View Correspondence Makes a Stronger Geo-Localizationer**|Xianwei Cao et.al.|[2512.14560](http://arxiv.org/abs/2512.14560)|null|
 |**2025-12-16**|**Neurosymbolic Inference On Foundation Models For Remote Sensing Text-to-image Retrieval With Complex Queries**|Emanuele Mezzi et.al.|[2512.14102](http://arxiv.org/abs/2512.14102)|null|
-|**2025-12-16**|**Enhancing Geo-localization for Crowdsourced Flood Imagery via LLM-Guided Attention**|Fengyi Xu et.al.|[2512.11811](http://arxiv.org/abs/2512.11811)|null|
-|**2025-12-15**|**Towards Test-time Efficient Visual Place Recognition via Asymmetric Query Processing**|Jaeyoon Kim et.al.|[2512.13055](http://arxiv.org/abs/2512.13055)|null|
-|**2025-12-15**|**Instance-Level Composed Image Retrieval**|Bill Psomas et.al.|[2510.25387](http://arxiv.org/abs/2510.25387)|null|
 
 See the [full archive](./docs/daily_archive.md) for more papers.
 

@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-29**|**RealX3D: A Physically-Degraded 3D Benchmark for Multi-view Visual Restoration and Reconstruction**|Shuhong Liu et.al.|[2512.23437](http://arxiv.org/abs/2512.23437)|null|
+|**2025-12-29**|**MGCA-Net: Multi-Graph Contextual Attention Network for Two-View Correspondence Learning**|Shuyuan Lin et.al.|[2512.23369](http://arxiv.org/abs/2512.23369)|null|
+|**2025-12-29**|**SpatialMosaic: A Multiview VLM Dataset for Partial Visibility**|Kanghee Lee et.al.|[2512.23365](http://arxiv.org/abs/2512.23365)|null|
+|**2025-12-28**|**Medical Scene Reconstruction and Segmentation based on 3D Gaussian Representation**|Bin Liu et.al.|[2512.22800](http://arxiv.org/abs/2512.22800)|null|
+|**2025-12-27**|**Event-based high temporal resolution measurement of shock wave motion field**|Taihang Lei et.al.|[2512.22474](http://arxiv.org/abs/2512.22474)|null|
+|**2025-12-27**|**SAM 3D for 3D Object Reconstruction from Remote Sensing Images**|Junsheng Yao et.al.|[2512.22452](http://arxiv.org/abs/2512.22452)|null|
 |**2025-12-25**|**Analyzing the Mechanism of Attention Collapse in VGGT from a Dynamics Perspective**|Huan Li et.al.|[2512.21691](http://arxiv.org/abs/2512.21691)|null|
 |**2025-12-25**|**MuS-Polar3D: A Benchmark Dataset for Computational Polarimetric 3D Imaging under Multi-Scattering Conditions**|Puyun Wang et.al.|[2512.21513](http://arxiv.org/abs/2512.21513)|null|
 |**2025-12-23**|**OccuFly: A 3D Vision Benchmark for Semantic Scene Completion from the Aerial Perspective**|Markus Gross et.al.|[2512.20770](http://arxiv.org/abs/2512.20770)|null|
@@ -42,7 +48,7 @@ layout: default
 |**2025-12-11**|**E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training**|Qitao Zhao et.al.|[2512.10950](http://arxiv.org/abs/2512.10950)|null|
 |**2025-12-11**|**Adaptive Dual-Weighted Gravitational Point Cloud Denoising Method**|Ge Zhang et.al.|[2512.10386](http://arxiv.org/abs/2512.10386)|null|
 |**2025-12-11**|**Self-Supervised Contrastive Embedding Adaptation for Endoscopic Image Matching**|Alberto Rota et.al.|[2512.10379](http://arxiv.org/abs/2512.10379)|null|
-|**2025-12-11**|**Breaking the Vicious Cycle: Coherent 3D Gaussian Splatting from Sparse and Motion-Blurred Views**|Zhankuo Xu et.al.|[2512.10369](http://arxiv.org/abs/2512.10369)|null|
+|**2025-12-27**|**Breaking the Vicious Cycle: Coherent 3D Gaussian Splatting from Sparse and Motion-Blurred Views**|Zhankuo Xu et.al.|[2512.10369](http://arxiv.org/abs/2512.10369)|null|
 |**2025-12-10**|**TraceFlow: Dynamic 3D Reconstruction of Specular Scenes Driven by Ray Tracing**|Jiachen Tao et.al.|[2512.10095](http://arxiv.org/abs/2512.10095)|null|
 |**2025-12-10**|**Splatent: Splatting Diffusion Latents for Novel View Synthesis**|Or Hirschorn et.al.|[2512.09923](http://arxiv.org/abs/2512.09923)|null|
 |**2025-12-10**|**LoGoColor: Local-Global 3D Colorization for 360° Scenes**|Yeonjin Chang et.al.|[2512.09278](http://arxiv.org/abs/2512.09278)|null|
@@ -636,7 +642,7 @@ layout: default
 |**2025-12-14**|**MotionEdit: Benchmarking and Learning Motion-Centric Image Editing**|Yixin Wan et.al.|[2512.10284](http://arxiv.org/abs/2512.10284)|null|
 |**2025-12-03**|**DINO-RotateMatch: A Rotation-Aware Deep Framework for Robust Image Matching in Large-Scale 3D Reconstruction**|Kaichen Zhang et.al.|[2512.03715](http://arxiv.org/abs/2512.03715)|null|
 |**2025-11-26**|**Unlocking Zero-shot Potential of Semi-dense Image Matching via Gaussian Splatting**|Juncheng Chen et.al.|[2511.21265](http://arxiv.org/abs/2511.21265)|null|
-|**2025-11-21**|**SPIDER: Spatial Image CorresponDence Estimator for Robust Calibration**|Zhimin Shao et.al.|[2511.17750](http://arxiv.org/abs/2511.17750)|null|
+|**2025-12-26**|**SPIDER: Spatial Image CorresponDence Estimator for Robust Calibration**|Zhimin Shao et.al.|[2511.17750](http://arxiv.org/abs/2511.17750)|null|
 |**2025-11-21**|**MuM: Multi-View Masked Image Modeling for 3D Vision**|David Nordström et.al.|[2511.17309](http://arxiv.org/abs/2511.17309)|null|
 |**2025-11-17**|**SOMA: Feature Gradient Enhanced Affine-Flow Matching for SAR-Optical Registration**|Haodong Wang et.al.|[2511.13168](http://arxiv.org/abs/2511.13168)|null|
 |**2025-11-14**|**The Persistence of Cultural Memory: Investigating Multimodal Iconicity in Diffusion Models**|Maria-Teresa De Rosa Palmini et.al.|[2511.11435](http://arxiv.org/abs/2511.11435)|null|
@@ -3630,6 +3636,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-27**|**Mesquite MoCap: Democratizing Real-Time Motion Capture with Affordable, Bodyworn IoT Sensors and WebXR SLAM**|Poojan Vanani et.al.|[2512.22690](http://arxiv.org/abs/2512.22690)|null|
+|**2025-12-27**|**S-BLE: A Participatory BLE Sensory Data Set Recorded from Real-World Bus Travel Events**|Jonathan Lam et.al.|[2512.22422](http://arxiv.org/abs/2512.22422)|null|
+|**2025-12-26**|**Simultaneous Source Separation, Synchronization, Localization and Mapping for 6G Systems**|Alexander Venus et.al.|[2512.22393](http://arxiv.org/abs/2512.22393)|null|
 |**2025-12-25**|**World-Coordinate Human Motion Retargeting via SAM 3D Body**|Zhangzheng Tu et.al.|[2512.21573](http://arxiv.org/abs/2512.21573)|null|
 |**2025-12-24**|**Quadrupped-Legged Robot Movement Plan Generation using Large Language Model**|Muhtadin et.al.|[2512.21293](http://arxiv.org/abs/2512.21293)|null|
 |**2025-12-23**|**Drift-Corrected Monocular VIO and Perception-Aware Planning for Autonomous Drone Racing**|Maulana Bisyir Azhari et.al.|[2512.20475](http://arxiv.org/abs/2512.20475)|null|
@@ -3718,7 +3727,7 @@ layout: default
 |**2025-11-20**|**Rad-GS: Radar-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments**|Renxiang Xiao et.al.|[2511.16091](http://arxiv.org/abs/2511.16091)|null|
 |**2025-11-20**|**Semantic Glitch: Agency and Artistry in an Autonomous Pixel Cloud**|Qing Zhang et.al.|[2511.16048](http://arxiv.org/abs/2511.16048)|null|
 |**2025-11-11**|**Real-time Point Cloud Data Transmission via L4S for 5G-Edge-Assisted Robotics**|Gerasimos Damigos et.al.|[2511.15677](http://arxiv.org/abs/2511.15677)|null|
-|**2025-11-19**|**MambaIO: Global-Coordinate Inertial Odometry for Pedestrians via Multi-Scale Frequency-Decoupled Modeling**|Shanshan Zhang et.al.|[2511.15645](http://arxiv.org/abs/2511.15645)|null|
+|**2025-12-29**|**MambaIO: Global-Coordinate Inertial Odometry for Pedestrians via Multi-Scale Frequency-Decoupled Modeling**|Shanshan Zhang et.al.|[2511.15645](http://arxiv.org/abs/2511.15645)|null|
 |**2025-11-19**|**Learning from Mistakes: Loss-Aware Memory Enhanced Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2511.15597](http://arxiv.org/abs/2511.15597)|null|
 |**2025-11-18**|**A visual study of ICP variants for Lidar Odometry**|Sebastian Dingler et.al.|[2511.14919](http://arxiv.org/abs/2511.14919)|null|
 |**2025-11-18**|**SLAM-AGS: Slide-Label Aware Multi-Task Pretraining Using Adaptive Gradient Surgery in Computational Cytology**|Marco Acerbis et.al.|[2511.14639](http://arxiv.org/abs/2511.14639)|null|
@@ -4356,9 +4365,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-29**|**MindWatcher: Toward Smarter Multimodal Tool-Integrated Reasoning**|Jiawei Chen et.al.|[2512.23412](http://arxiv.org/abs/2512.23412)|null|
+|**2025-12-29**|**Anomaly Detection by Effectively Leveraging Synthetic Images**|Sungho Kang et.al.|[2512.23227](http://arxiv.org/abs/2512.23227)|null|
 |**2025-12-26**|**Reloc-VGGT: Visual Re-localization with Geometry Grounded Transformer**|Tianchen Deng et.al.|[2512.21883](http://arxiv.org/abs/2512.21883)|null|
 |**2025-12-24**|**Leveraging Lightweight Entity Extraction for Scalable Event-Based Image Retrieval**|Dao Sy Duy Minh et.al.|[2512.21221](http://arxiv.org/abs/2512.21221)|null|
-|**2025-12-24**|**UniPR-3D: Towards Universal Visual Place Recognition with Visual Geometry Grounded Transformer**|Tianchen Deng et.al.|[2512.21078](http://arxiv.org/abs/2512.21078)|null|
+|**2025-12-28**|**UniPR-3D: Towards Universal Visual Place Recognition with Visual Geometry Grounded Transformer**|Tianchen Deng et.al.|[2512.21078](http://arxiv.org/abs/2512.21078)|null|
 |**2025-12-23**|**Soft Filtering: Guiding Zero-shot Composed Image Retrieval with Prescriptive and Proscriptive Constraints**|Youjin Jung et.al.|[2512.20781](http://arxiv.org/abs/2512.20781)|null|
 |**2025-12-23**|**Towards Natural Language-Based Document Image Retrieval: New Dataset and Benchmark**|Hao Guo et.al.|[2512.20174](http://arxiv.org/abs/2512.20174)|null|
 |**2025-12-22**|**Beyond CLIP: Knowledge-Enhanced Multimodal Transformers for Cross-Modal Alignment in Diabetic Retinopathy Diagnosis**|Argha Kamal Samanta et.al.|[2512.19663](http://arxiv.org/abs/2512.19663)|null|
@@ -4401,7 +4412,7 @@ layout: default
 |**2025-11-18**|**$A^2$ GC: $A$symmetric $A$ggregation with Geometric Constraints for Locally Aggregated Descriptors**|Zhenyu Li et.al.|[2511.14109](http://arxiv.org/abs/2511.14109)|null|
 |**2025-11-17**|**GRLoc: Geometric Representation Regression for Visual Localization**|Changyang Li et.al.|[2511.13864](http://arxiv.org/abs/2511.13864)|null|
 |**2025-11-17**|**THIR: Topological Histopathological Image Retrieval**|Zahra Tabatabaei et.al.|[2511.13170](http://arxiv.org/abs/2511.13170)|null|
-|**2025-12-07**|**D $^{2}$ -VPR: A Parameter-efficient Visual-foundation-model-based Visual Place Recognition Method via Knowledge Distillation and Deformable Aggregation**|Zheyuan Zhang et.al.|[2511.12528](http://arxiv.org/abs/2511.12528)|null|
+|**2025-12-27**|**D $^{2}$ -VPR: A Parameter-efficient Visual-foundation-model-based Visual Place Recognition Method via Knowledge Distillation and Deformable Aggregation**|Zheyuan Zhang et.al.|[2511.12528](http://arxiv.org/abs/2511.12528)|null|
 |**2025-11-16**|**Visible Structure Retrieval for Lightweight Image-Based Relocalisation**|Fereidoon Zangeneh et.al.|[2511.12503](http://arxiv.org/abs/2511.12503)|null|
 |**2025-11-14**|**Shrinking the Teacher: An Adaptive Teaching Paradigm for Asymmetric EEG-Vision Alignment**|Lukun Wu et.al.|[2511.11422](http://arxiv.org/abs/2511.11422)|null|
 |**2025-11-12**|**From Street to Orbit: Training-Free Cross-View Retrieval via Location Semantics and LLM Guidance**|Jeongho Min et.al.|[2511.09820](http://arxiv.org/abs/2511.09820)|null|
