@@ -98,10 +98,12 @@ Automatically collected computer vision papers from arXiv.
 ### NeRF
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-01-01**|**CropNeRF: A Neural Radiance Field-Based Framework for Crop Counting**|Md Ahmed Al Muzaddid et.al.|[2601.00207](http://arxiv.org/abs/2601.00207)|null|
 |**2025-12-31**|**UniC-Lift: Unified 3D Instance Segmentation via Contrastive Learning**|Ankit Dhiman et.al.|[2512.24763](http://arxiv.org/abs/2512.24763)|null|
 |**2025-12-25**|**ShinyNeRF: Digitizing Anisotropic Appearance in Neural Radiance Fields**|Albert Barreiro et.al.|[2512.21692](http://arxiv.org/abs/2512.21692)|null|
 |**2025-12-25**|**Dreamcrafter: Immersive Editing of 3D Radiance Fields Through Flexible, Generative Inputs and Outputs**|Cyrus Vachha et.al.|[2512.20129](http://arxiv.org/abs/2512.20129)|null|
 |**2025-12-23**|**WaveletGaussian: Wavelet-domain Diffusion for Sparse-view 3D Gaussian Object Reconstruction**|Hung Nguyen et.al.|[2509.19073](http://arxiv.org/abs/2509.19073)|null|
+|**2025-12-20**|**Neural Brain Fields: A NeRF-Inspired Approach for Generating Nonexistent EEG Electrodes**|Shahar Ain Kedem et.al.|[2601.00012](http://arxiv.org/abs/2601.00012)|null|
 |**2025-12-20**|**Joint Learning of Depth, Pose, and Local Radiance Field for Large Scale Monocular 3D Reconstruction**|Shahram Najam Syed et.al.|[2512.18237](http://arxiv.org/abs/2512.18237)|null|
 |**2025-12-18**|**SDFoam: Signed-Distance Foam for explicit surface reconstruction**|Antonella Rech et.al.|[2512.16706](http://arxiv.org/abs/2512.16706)|null|
 |**2025-12-18**|**Using Gaussian Splats to Create High-Fidelity Facial Geometry and Texture**|Haodi He et.al.|[2512.16397](http://arxiv.org/abs/2512.16397)|null|
@@ -116,8 +118,6 @@ Automatically collected computer vision papers from arXiv.
 |**2025-12-11**|**Relightable and Dynamic Gaussian Avatar Reconstruction from Monocular Video**|Seonghwa Choi et.al.|[2512.09335](http://arxiv.org/abs/2512.09335)|null|
 |**2025-12-10**|**Log NeRF: Comparing Spaces for Learning Radiance Fields**|Sihe Chen et.al.|[2512.09375](http://arxiv.org/abs/2512.09375)|null|
 |**2025-12-10**|**AGORA: Adversarial Generation Of Real-time Animatable 3D Gaussian Head Avatars**|Ramazan Fazylov et.al.|[2512.06438](http://arxiv.org/abs/2512.06438)|null|
-|**2025-12-09**|**Blur2Sharp: Human Novel Pose and View Synthesis with Generative Prior Refinement**|Chia-Hern Lai et.al.|[2512.08215](http://arxiv.org/abs/2512.08215)|null|
-|**2025-12-09**|**From Orbit to Ground: Generative City Photogrammetry from Extreme Off-Nadir Satellite Images**|Fei Yu et.al.|[2512.07527](http://arxiv.org/abs/2512.07527)|null|
 
 ### SFM
 | Publish Date | Title | Authors | PDF | Code |
@@ -146,9 +146,12 @@ Automatically collected computer vision papers from arXiv.
 ### SLAM
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
-|**2025-12-31**|**FoundationSLAM: Unleashing the Power of Depth Foundation Models for End-to-End Dense Visual SLAM**|Yuchen Wu et.al.|[2512.25008](http://arxiv.org/abs/2512.25008)|null|
+|**2026-01-02**|**DefVINS: Visual-Inertial Odometry for Deformable Scenes**|Samuel Cerezo et.al.|[2601.00702](http://arxiv.org/abs/2601.00702)|null|
+|**2026-01-02**|**Variable Elimination in Hybrid Factor Graphs for Discrete-Continuous Inference & Estimation**|Varun Agrawal et.al.|[2601.00545](http://arxiv.org/abs/2601.00545)|null|
+|**2026-01-01**|**FoundationSLAM: Unleashing the Power of Depth Foundation Models for End-to-End Dense Visual SLAM**|Yuchen Wu et.al.|[2512.25008](http://arxiv.org/abs/2512.25008)|null|
 |**2025-12-30**|**Simultaneous Source Separation, Synchronization, Localization and Mapping for 6G Systems**|Alexander Venus et.al.|[2512.22393](http://arxiv.org/abs/2512.22393)|null|
 |**2025-12-29**|**MambaIO: Global-Coordinate Inertial Odometry for Pedestrians via Multi-Scale Frequency-Decoupled Modeling**|Shanshan Zhang et.al.|[2511.15645](http://arxiv.org/abs/2511.15645)|null|
+|**2025-12-28**|**RGS-SLAM: Robust Gaussian Splatting SLAM with One-Shot Dense Initialization**|Wei-Tse Cheng et.al.|[2601.00705](http://arxiv.org/abs/2601.00705)|null|
 |**2025-12-27**|**Mesquite MoCap: Democratizing Real-Time Motion Capture with Affordable, Bodyworn IoT Sensors and WebXR SLAM**|Poojan Vanani et.al.|[2512.22690](http://arxiv.org/abs/2512.22690)|null|
 |**2025-12-27**|**S-BLE: A Participatory BLE Sensory Data Set Recorded from Real-World Bus Travel Events**|Jonathan Lam et.al.|[2512.22422](http://arxiv.org/abs/2512.22422)|null|
 |**2025-12-25**|**World-Coordinate Human Motion Retargeting via SAM 3D Body**|Zhangzheng Tu et.al.|[2512.21573](http://arxiv.org/abs/2512.21573)|null|
@@ -163,13 +166,11 @@ Automatically collected computer vision papers from arXiv.
 |**2025-12-18**|**A2VISR: An Active and Adaptive Ground-Aerial Localization System Using Visual Inertial and Single-Range Fusion**|Sijia Chen et.al.|[2512.16367](http://arxiv.org/abs/2512.16367)|null|
 |**2025-12-17**|**Spatia: Video Generation with Updatable Spatial Memory**|Jinjing Zhao et.al.|[2512.15716](http://arxiv.org/abs/2512.15716)|null|
 |**2025-12-17**|**NAP3D: NeRF Assisted 3D-3D Pose Alignment for Autonomous Vehicles**|Gaurav Bansal et.al.|[2512.15080](http://arxiv.org/abs/2512.15080)|null|
-|**2025-12-17**|**A Parameter-Free Stochastic LineseArch Method (SLAM) for Minimizing Expectation Residuals**|Qi Wang et.al.|[2512.14979](http://arxiv.org/abs/2512.14979)|null|
-|**2025-12-17**|**Integration of UWB Radar on Mobile Robots for Continuous Obstacle and Environment Mapping**|Adelina Giurea et.al.|[2512.01018](http://arxiv.org/abs/2512.01018)|null|
-|**2025-12-16**|**Odyssey: An Automotive Lidar-Inertial Odometry Dataset for GNSS-denied situations**|Aaron Kurda et.al.|[2512.14428](http://arxiv.org/abs/2512.14428)|null|
 
 ### Visual Localization
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-01-01**|**Vision-Language Reasoning for Geolocalization: A Reinforcement Learning Approach**|Biao Wu et.al.|[2601.00388](http://arxiv.org/abs/2601.00388)|null|
 |**2025-12-31**|**OCP-LS: An Efficient Algorithm for Visual Localization**|Jindi Zhong et.al.|[2512.24552](http://arxiv.org/abs/2512.24552)|null|
 |**2025-12-30**|**Geometric Multi-Session Map Merging with Learned Local Descriptors**|Yanlong Ma et.al.|[2512.24384](http://arxiv.org/abs/2512.24384)|null|
 |**2025-12-29**|**Learning to Feel the Future: DreamTacVLA for Contact-Rich Manipulation**|Guo Ye et.al.|[2512.23864](http://arxiv.org/abs/2512.23864)|null|
@@ -189,7 +190,6 @@ Automatically collected computer vision papers from arXiv.
 |**2025-12-20**|**Through the PRISm: Importance-Aware Scene Graphs for Image Retrieval**|Dimitrios Georgoulopoulos et.al.|[2512.18407](http://arxiv.org/abs/2512.18407)|null|
 |**2025-12-19**|**Robust Scene Coordinate Regression via Geometrically-Consistent Global Descriptors**|Son Tung Nguyen et.al.|[2512.17226](http://arxiv.org/abs/2512.17226)|null|
 |**2025-12-18**|**The Effect of Negation on CLIP in Medical Imaging: Limitations of Contrastive Language-Image Pretraining**|Jasmine Vu et.al.|[2512.17121](http://arxiv.org/abs/2512.17121)|null|
-|**2025-12-18**|**MACL: Multi-Label Adaptive Contrastive Learning Loss for Remote Sensing Image Retrieval**|Amna Amir et.al.|[2512.16294](http://arxiv.org/abs/2512.16294)|null|
 
 See the [full archive](./docs/daily_archive.md) for more papers.
 
