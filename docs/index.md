@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**MoE3D: A Mixture-of-Experts Module for 3D Reconstruction**|Zichen Wang et.al.|[2601.05208](http://arxiv.org/abs/2601.05208)|null|
+|**2026-01-08**|**Segmentation-Driven Monocular Shape from Polarization based on Physical Model**|Jinyu Zhang et.al.|[2601.04776](http://arxiv.org/abs/2601.04776)|null|
 |**2026-01-05**|**360-GeoGS: Geometrically Consistent Feed-Forward 3D Gaussian Splatting Reconstruction for 360 Images**|Jiaqi Yao et.al.|[2601.02102](http://arxiv.org/abs/2601.02102)|null|
 |**2026-01-04**|**EdgeNeRF: Edge-Guided Regularization for Neural Radiance Fields from Sparse Views**|Weiqi Yu et.al.|[2601.01431](http://arxiv.org/abs/2601.01431)|null|
 |**2026-01-04**|**ParkGaussian: Surround-view 3D Gaussian Splatting for Autonomous Parking**|Xiaobao Wei et.al.|[2601.01386](http://arxiv.org/abs/2601.01386)|null|
@@ -1399,6 +1401,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**QNeRF: Neural Radiance Fields on a Simulated Gate-Based Quantum Computer**|Daniele Lizzio Bosco et.al.|[2601.05250](http://arxiv.org/abs/2601.05250)|null|
+|**2026-01-08**|**DivAS: Interactive 3D Segmentation of NeRFs via Depth-Weighted Voxel Aggregation**|Ayush Pande et.al.|[2601.04860](http://arxiv.org/abs/2601.04860)|null|
+|**2026-01-07**|**In-SRAM Radiant Foam Rendering on a Graph Processor**|Zulkhuu Tuya et.al.|[2601.04382](http://arxiv.org/abs/2601.04382)|null|
 |**2026-01-07**|**Bayesian Monocular Depth Refinement via Neural Radiance Fields**|Arun Muthukkumar et.al.|[2601.03869](http://arxiv.org/abs/2601.03869)|null|
 |**2026-01-04**|**EdgeNeRF: Edge-Guided Regularization for Neural Radiance Fields from Sparse Views**|Weiqi Yu et.al.|[2601.01431](http://arxiv.org/abs/2601.01431)|null|
 |**2026-01-01**|**CropNeRF: A Neural Radiance Field-Based Framework for Crop Counting**|Md Ahmed Al Muzaddid et.al.|[2601.00207](http://arxiv.org/abs/2601.00207)|null|
@@ -3231,7 +3236,7 @@ layout: default
 |**2025-10-27**|**SFMS-ALR: Script-First Multilingual Speech Synthesis with Adaptive Locale Resolution**|Dharma Teja Donepudi et.al.|[2510.25178](http://arxiv.org/abs/2510.25178)|null|
 |**2025-10-27**|**Adapting Speech Foundation Models with Large Language Models for Unified Speech Recognition**|Jing-Xuan Zhang et.al.|[2510.22961](http://arxiv.org/abs/2510.22961)|null|
 |**2025-10-23**|**RubbleSim: A Photorealistic Structural Collapse Simulator for Confined Space Mapping**|Constantine Frost et.al.|[2510.20529](http://arxiv.org/abs/2510.20529)|null|
-|**2025-10-21**|**The slope and scatter of the star forming main sequence at z~5 : reconciling observations with simulations**|Claudia Di Cesare et.al.|[2510.19044](http://arxiv.org/abs/2510.19044)|null|
+|**2026-01-08**|**The slope and scatter of the star forming main sequence at z~5 : reconciling observations with simulations**|Claudia Di Cesare et.al.|[2510.19044](http://arxiv.org/abs/2510.19044)|null|
 |**2025-10-20**|**Initialize to Generalize: A Stronger Initialization Pipeline for Sparse-View 3DGS**|Feng Zhou et.al.|[2510.17479](http://arxiv.org/abs/2510.17479)|null|
 |**2025-10-21**|**Leveraging AV1 motion vectors for Fast and Dense Feature Matching**|Julien Zouein et.al.|[2510.17434](http://arxiv.org/abs/2510.17434)|null|
 |**2025-10-21**|**DeepDetect: Learning All-in-One Dense Keypoints**|Shaharyar Ahmed Khan Tareen et.al.|[2510.17422](http://arxiv.org/abs/2510.17422)|null|
@@ -3653,6 +3658,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**Discrete Fourier Transform-based Point Cloud Compression for Efficient SLAM in Featureless Terrain**|Riku Suzuki et.al.|[2601.04551](http://arxiv.org/abs/2601.04551)|null|
+|**2026-01-08**|**Fast Continuum Robot Shape and External Load State Estimation on SE(3)**|James M. Ferguson et.al.|[2601.04493](http://arxiv.org/abs/2601.04493)|null|
 |**2026-01-06**|**Loop Closure using AnyLoc Visual Place Recognition in DPV-SLAM**|Wenzheng Zhang et.al.|[2601.02723](http://arxiv.org/abs/2601.02723)|null|
 |**2026-01-05**|**360DVO: Deep Visual Odometry for Monocular 360-Degree Camera**|Xiaopeng Guo et.al.|[2601.02309](http://arxiv.org/abs/2601.02309)|null|
 |**2026-01-05**|**Differential Barometric Altimetry for Submeter Vertical Localization and Floor Recognition Indoors**|Yuhang Zhang et.al.|[2601.02184](http://arxiv.org/abs/2601.02184)|null|
@@ -4396,7 +4403,7 @@ layout: default
 |**2026-01-07**|**BREATH-VL: Vision-Language-Guided 6-DoF Bronchoscopy Localization via Semantic-Geometric Fusion**|Qingyao Tian et.al.|[2601.03713](http://arxiv.org/abs/2601.03713)|null|
 |**2026-01-07**|**HOLO: Homography-Guided Pose Estimator Network for Fine-Grained Visual Localization on SD Maps**|Xuchang Zhong et.al.|[2601.02730](http://arxiv.org/abs/2601.02730)|null|
 |**2026-01-06**|**Loop Closure using AnyLoc Visual Place Recognition in DPV-SLAM**|Wenzheng Zhang et.al.|[2601.02723](http://arxiv.org/abs/2601.02723)|null|
-|**2026-01-05**|**Comparative Analysis of Binarization Methods For Medical Image Hashing On Odir Dataset**|Nedim Muzoglu et.al.|[2601.02564](http://arxiv.org/abs/2601.02564)|null|
+|**2026-01-07**|**Comparative Analysis of Binarization Methods For Medical Image Hashing On Odir Dataset**|Nedim Muzoglu et.al.|[2601.02564](http://arxiv.org/abs/2601.02564)|null|
 |**2026-01-05**|**Vision-Language Reasoning for Geolocalization: A Reinforcement Learning Approach**|Biao Wu et.al.|[2601.00388](http://arxiv.org/abs/2601.00388)|null|
 |**2025-12-31**|**OCP-LS: An Efficient Algorithm for Visual Localization**|Jindi Zhong et.al.|[2512.24552](http://arxiv.org/abs/2512.24552)|null|
 |**2025-12-30**|**Geometric Multi-Session Map Merging with Learned Local Descriptors**|Yanlong Ma et.al.|[2512.24384](http://arxiv.org/abs/2512.24384)|null|
@@ -4412,7 +4419,7 @@ layout: default
 |**2025-12-22**|**Finer-Personalization Rank: Fine-Grained Retrieval Examines Identity Preservation for Personalized Generation**|Connor Kilrain et.al.|[2512.19026](http://arxiv.org/abs/2512.19026)|null|
 |**2025-12-21**|**Text2Graph VPR: A Text-to-Graph Expert System for Explainable Place Recognition in Changing Environments**|Saeideh Yousefzadeh et.al.|[2512.18613](http://arxiv.org/abs/2512.18613)|null|
 |**2025-12-20**|**Through the PRISm: Importance-Aware Scene Graphs for Image Retrieval**|Dimitrios Georgoulopoulos et.al.|[2512.18407](http://arxiv.org/abs/2512.18407)|null|
-|**2025-12-19**|**Robust Scene Coordinate Regression via Geometrically-Consistent Global Descriptors**|Son Tung Nguyen et.al.|[2512.17226](http://arxiv.org/abs/2512.17226)|null|
+|**2026-01-08**|**Robust Scene Coordinate Regression via Geometrically-Consistent Global Descriptors**|Son Tung Nguyen et.al.|[2512.17226](http://arxiv.org/abs/2512.17226)|null|
 |**2025-12-18**|**The Effect of Negation on CLIP in Medical Imaging: Limitations of Contrastive Language-Image Pretraining**|Jasmine Vu et.al.|[2512.17121](http://arxiv.org/abs/2512.17121)|null|
 |**2025-12-18**|**MACL: Multi-Label Adaptive Contrastive Learning Loss for Remote Sensing Image Retrieval**|Amna Amir et.al.|[2512.16294](http://arxiv.org/abs/2512.16294)|null|
 |**2025-12-16**|**CLNet: Cross-View Correspondence Makes a Stronger Geo-Localizationer**|Xianwei Cao et.al.|[2512.14560](http://arxiv.org/abs/2512.14560)|null|
