@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**GeoDiff3D: Self-Supervised 3D Scene Generation with Geometry-Constrained 2D Diffusion Guidance**|Haozhi Zhu et.al.|[2601.19785](http://arxiv.org/abs/2601.19785)|null|
+|**2026-01-27**|**WaterClear-GS: Optical-Aware Gaussian Splatting for Underwater Reconstruction and Restoration**|Xinrui Zhang et.al.|[2601.19753](http://arxiv.org/abs/2601.19753)|null|
+|**2026-01-27**|**NuiWorld: Exploring a Scalable Framework for End-to-End Controllable World Generation**|Han-Hung Lee et.al.|[2601.19048](http://arxiv.org/abs/2601.19048)|null|
+|**2026-01-26**|**Non-Invasive 3D Wound Measurement with RGB-D Imaging**|Lena Harkämper et.al.|[2601.19014](http://arxiv.org/abs/2601.19014)|null|
 |**2026-01-26**|**Splat-Portrait: Generalizing Talking Heads with Gaussian Splatting**|Tong Shi et.al.|[2601.18633](http://arxiv.org/abs/2601.18633)|null|
 |**2026-01-26**|**PPISP: Physically-Plausible Compensation and Control of Photometric Variations in Radiance Field Reconstruction**|Isaac Deutsch et.al.|[2601.18336](http://arxiv.org/abs/2601.18336)|null|
 |**2026-01-25**|**Revisiting 3D Reconstruction Kernels as Low-Pass Filters**|Shengjun Zhang et.al.|[2601.17900](http://arxiv.org/abs/2601.17900)|null|
@@ -1445,6 +1449,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**WaterClear-GS: Optical-Aware Gaussian Splatting for Underwater Reconstruction and Restoration**|Xinrui Zhang et.al.|[2601.19753](http://arxiv.org/abs/2601.19753)|null|
+|**2026-01-27**|**Bridging Visual and Wireless Sensing: A Unified Radiation Field for 3D Radio Map Construction**|Chaozheng Wen et.al.|[2601.19216](http://arxiv.org/abs/2601.19216)|null|
+|**2026-01-26**|**Audio-Driven Talking Face Generation with Blink Embedding and Hash Grid Landmarks Encoding**|Yuhui Zhang et.al.|[2601.18849](http://arxiv.org/abs/2601.18849)|null|
 |**2026-01-25**|**MV-SAM: Multi-view Promptable Segmentation using Pointmap Guidance**|Yoonwoo Jeong et.al.|[2601.17866](http://arxiv.org/abs/2601.17866)|null|
 |**2026-01-24**|**NeRF-MIR: Towards High-Quality Restoration of Masked Images with Neural Radiance Fields**|Xianliang Huang et.al.|[2601.17350](http://arxiv.org/abs/2601.17350)|null|
 |**2026-01-23**|**Multi-View Consistent Wound Segmentation With Neural Fields**|Remi Chierchia et.al.|[2601.16487](http://arxiv.org/abs/2601.16487)|null|
@@ -3719,6 +3726,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**VGGT-SLAM 2.0: Real time Dense Feed-forward Scene Reconstruction**|Dominic Maggio et.al.|[2601.19887](http://arxiv.org/abs/2601.19887)|null|
+|**2026-01-27**|**The S3LI Vulcano Dataset: A Dataset for Multi-Modal SLAM in Unstructured Planetary Environments**|Riccardo Giubilato et.al.|[2601.19557](http://arxiv.org/abs/2601.19557)|null|
+|**2026-01-27**|**Fast Converging 3D Gaussian Splatting for 1-Minute Reconstruction**|Ziyu Zhang et.al.|[2601.19489](http://arxiv.org/abs/2601.19489)|null|
+|**2026-01-26**|**Non-Invasive 3D Wound Measurement with RGB-D Imaging**|Lena Harkämper et.al.|[2601.19014](http://arxiv.org/abs/2601.19014)|null|
 |**2026-01-26**|**Co-PLNet: A Collaborative Point-Line Network for Prompt-Guided Wireframe Parsing**|Chao Wang et.al.|[2601.18252](http://arxiv.org/abs/2601.18252)|null|
 |**2026-01-22**|**Keyframe-Based Feed-Forward Visual Odometry**|Weichen Dai et.al.|[2601.16020](http://arxiv.org/abs/2601.16020)|null|
 |**2026-01-24**|**Accurate Calibration and Robust LiDAR-Inertial Odometry for Spinning Actuated LiDAR Systems**|Zijie Chen et.al.|[2601.15946](http://arxiv.org/abs/2601.15946)|null|
@@ -3750,7 +3761,7 @@ layout: default
 |**2026-01-01**|**FoundationSLAM: Unleashing the Power of Depth Foundation Models for End-to-End Dense Visual SLAM**|Yuchen Wu et.al.|[2512.25008](http://arxiv.org/abs/2512.25008)|null|
 |**2026-01-10**|**Mesquite MoCap: Democratizing Real-Time Motion Capture with Affordable, Bodyworn IoT Sensors and WebXR SLAM**|Poojan Vanani et.al.|[2512.22690](http://arxiv.org/abs/2512.22690)|null|
 |**2025-12-27**|**S-BLE: A Participatory BLE Sensory Data Set Recorded from Real-World Bus Travel Events**|Jonathan Lam et.al.|[2512.22422](http://arxiv.org/abs/2512.22422)|null|
-|**2025-12-30**|**Simultaneous Source Separation, Synchronization, Localization and Mapping for 6G Systems**|Alexander Venus et.al.|[2512.22393](http://arxiv.org/abs/2512.22393)|null|
+|**2026-01-27**|**Simultaneous Source Separation, Synchronization, Localization and Mapping for 6G Systems**|Alexander Venus et.al.|[2512.22393](http://arxiv.org/abs/2512.22393)|null|
 |**2025-12-25**|**World-Coordinate Human Motion Retargeting via SAM 3D Body**|Zhangzheng Tu et.al.|[2512.21573](http://arxiv.org/abs/2512.21573)|null|
 |**2025-12-24**|**Quadrupped-Legged Robot Movement Plan Generation using Large Language Model**|Muhtadin et.al.|[2512.21293](http://arxiv.org/abs/2512.21293)|null|
 |**2025-12-23**|**Drift-Corrected Monocular VIO and Perception-Aware Planning for Autonomous Drone Racing**|Maulana Bisyir Azhari et.al.|[2512.20475](http://arxiv.org/abs/2512.20475)|null|
@@ -4477,6 +4488,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**VGGT-SLAM 2.0: Real time Dense Feed-forward Scene Reconstruction**|Dominic Maggio et.al.|[2601.19887](http://arxiv.org/abs/2601.19887)|null|
+|**2026-01-27**|**Pixel-Grounded Retrieval for Knowledgeable Large Multimodal Models**|Jeonghwan Kim et.al.|[2601.19060](http://arxiv.org/abs/2601.19060)|null|
 |**2026-01-23**|**X-Aligner: Composed Visual Retrieval without the Bells and Whistles**|Yuqian Zheng et.al.|[2601.16582](http://arxiv.org/abs/2601.16582)|null|
 |**2026-01-22**|**Rethinking Composed Image Retrieval Evaluation: A Fine-Grained Benchmark from Image Editing**|Tingyu Song et.al.|[2601.16125](http://arxiv.org/abs/2601.16125)|null|
 |**2026-01-21**|**Unified Multimodal and Multilingual Retrieval via Multi-Task Learning with NLU Integration**|Xinyuan Zhang et.al.|[2601.14714](http://arxiv.org/abs/2601.14714)|null|

@@ -26,6 +26,10 @@ Automatically collected computer vision papers from arXiv.
 ### 3D reconstruction
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-01-27**|**GeoDiff3D: Self-Supervised 3D Scene Generation with Geometry-Constrained 2D Diffusion Guidance**|Haozhi Zhu et.al.|[2601.19785](http://arxiv.org/abs/2601.19785)|null|
+|**2026-01-27**|**WaterClear-GS: Optical-Aware Gaussian Splatting for Underwater Reconstruction and Restoration**|Xinrui Zhang et.al.|[2601.19753](http://arxiv.org/abs/2601.19753)|null|
+|**2026-01-27**|**NuiWorld: Exploring a Scalable Framework for End-to-End Controllable World Generation**|Han-Hung Lee et.al.|[2601.19048](http://arxiv.org/abs/2601.19048)|null|
+|**2026-01-26**|**Non-Invasive 3D Wound Measurement with RGB-D Imaging**|Lena Harkämper et.al.|[2601.19014](http://arxiv.org/abs/2601.19014)|null|
 |**2026-01-26**|**Splat-Portrait: Generalizing Talking Heads with Gaussian Splatting**|Tong Shi et.al.|[2601.18633](http://arxiv.org/abs/2601.18633)|null|
 |**2026-01-26**|**PPISP: Physically-Plausible Compensation and Control of Photometric Variations in Radiance Field Reconstruction**|Isaac Deutsch et.al.|[2601.18336](http://arxiv.org/abs/2601.18336)|null|
 |**2026-01-26**|**GPA-VGGT:Adapting VGGT to Large Scale Localization by Self-Supervised Learning with Geometry and Physics Aware Loss**|Yangfan Xu et.al.|[2601.16885](http://arxiv.org/abs/2601.16885)|null|
@@ -42,10 +46,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-01-20**|**Rig-Aware 3D Reconstruction of Vehicle Undercarriages using Gaussian Splatting**|Nitin Kulkarni et.al.|[2601.14208](http://arxiv.org/abs/2601.14208)|null|
 |**2026-01-20**|**ParkingTwin: Training-Free Streaming 3D Reconstruction for Parking-Lot Digital Twins**|Xinhao Liu et.al.|[2601.13706](http://arxiv.org/abs/2601.13706)|null|
 |**2026-01-20**|**Three-dimensional properties of a coronal shock and the longitudinal distribution of its related solar energetic particles**|Yue Zhou et.al.|[2601.13692](http://arxiv.org/abs/2601.13692)|null|
-|**2026-01-20**|**DCCVT: Differentiable Clipped Centroidal Voronoi Tessellation**|Wylliam Cantin Charawi et.al.|[2601.13603](http://arxiv.org/abs/2601.13603)|null|
-|**2026-01-20**|**SurfSLAM: Sim-to-Real Underwater Stereo Reconstruction For Real-Time SLAM**|Onur Bagoren et.al.|[2601.10814](http://arxiv.org/abs/2601.10814)|null|
-|**2026-01-19**|**Think3D: Thinking with Space for Spatial Reasoning**|Zaibin Zhang et.al.|[2601.13029](http://arxiv.org/abs/2601.13029)|null|
-|**2026-01-19**|**Generalizable and Animatable 3D Full-Head Gaussian Avatar from a Single Image**|Shuling Zhao et.al.|[2601.12770](http://arxiv.org/abs/2601.12770)|null|
 
 ### Image Matching
 | Publish Date | Title | Authors | PDF | Code |
@@ -98,6 +98,9 @@ Automatically collected computer vision papers from arXiv.
 ### NeRF
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-01-27**|**WaterClear-GS: Optical-Aware Gaussian Splatting for Underwater Reconstruction and Restoration**|Xinrui Zhang et.al.|[2601.19753](http://arxiv.org/abs/2601.19753)|null|
+|**2026-01-27**|**Bridging Visual and Wireless Sensing: A Unified Radiation Field for 3D Radio Map Construction**|Chaozheng Wen et.al.|[2601.19216](http://arxiv.org/abs/2601.19216)|null|
+|**2026-01-26**|**Audio-Driven Talking Face Generation with Blink Embedding and Hash Grid Landmarks Encoding**|Yuhui Zhang et.al.|[2601.18849](http://arxiv.org/abs/2601.18849)|null|
 |**2026-01-25**|**MV-SAM: Multi-view Promptable Segmentation using Pointmap Guidance**|Yoonwoo Jeong et.al.|[2601.17866](http://arxiv.org/abs/2601.17866)|null|
 |**2026-01-25**|**TreeDGS: Aerial Gaussian Splatting for Distant DBH Measurement**|Belal Shaheen et.al.|[2601.12823](http://arxiv.org/abs/2601.12823)|null|
 |**2026-01-24**|**NeRF-MIR: Towards High-Quality Restoration of Masked Images with Neural Radiance Fields**|Xianliang Huang et.al.|[2601.17350](http://arxiv.org/abs/2601.17350)|null|
@@ -115,9 +118,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-01-01**|**CropNeRF: A Neural Radiance Field-Based Framework for Crop Counting**|Md Ahmed Al Muzaddid et.al.|[2601.00207](http://arxiv.org/abs/2601.00207)|null|
 |**2025-12-31**|**UniC-Lift: Unified 3D Instance Segmentation via Contrastive Learning**|Ankit Dhiman et.al.|[2512.24763](http://arxiv.org/abs/2512.24763)|null|
 |**2025-12-25**|**ShinyNeRF: Digitizing Anisotropic Appearance in Neural Radiance Fields**|Albert Barreiro et.al.|[2512.21692](http://arxiv.org/abs/2512.21692)|null|
-|**2025-12-25**|**Dreamcrafter: Immersive Editing of 3D Radiance Fields Through Flexible, Generative Inputs and Outputs**|Cyrus Vachha et.al.|[2512.20129](http://arxiv.org/abs/2512.20129)|null|
-|**2025-12-23**|**WaveletGaussian: Wavelet-domain Diffusion for Sparse-view 3D Gaussian Object Reconstruction**|Hung Nguyen et.al.|[2509.19073](http://arxiv.org/abs/2509.19073)|null|
-|**2025-12-20**|**Neural Brain Fields: A NeRF-Inspired Approach for Generating Nonexistent EEG Electrodes**|Shahar Ain Kedem et.al.|[2601.00012](http://arxiv.org/abs/2601.00012)|null|
 
 ### SFM
 | Publish Date | Title | Authors | PDF | Code |
@@ -146,6 +146,11 @@ Automatically collected computer vision papers from arXiv.
 ### SLAM
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-01-27**|**VGGT-SLAM 2.0: Real time Dense Feed-forward Scene Reconstruction**|Dominic Maggio et.al.|[2601.19887](http://arxiv.org/abs/2601.19887)|null|
+|**2026-01-27**|**The S3LI Vulcano Dataset: A Dataset for Multi-Modal SLAM in Unstructured Planetary Environments**|Riccardo Giubilato et.al.|[2601.19557](http://arxiv.org/abs/2601.19557)|null|
+|**2026-01-27**|**Fast Converging 3D Gaussian Splatting for 1-Minute Reconstruction**|Ziyu Zhang et.al.|[2601.19489](http://arxiv.org/abs/2601.19489)|null|
+|**2026-01-27**|**Simultaneous Source Separation, Synchronization, Localization and Mapping for 6G Systems**|Alexander Venus et.al.|[2512.22393](http://arxiv.org/abs/2512.22393)|null|
+|**2026-01-26**|**Non-Invasive 3D Wound Measurement with RGB-D Imaging**|Lena Harkämper et.al.|[2601.19014](http://arxiv.org/abs/2601.19014)|null|
 |**2026-01-26**|**Co-PLNet: A Collaborative Point-Line Network for Prompt-Guided Wireframe Parsing**|Chao Wang et.al.|[2601.18252](http://arxiv.org/abs/2601.18252)|null|
 |**2026-01-26**|**Contact SLAM: An Active Tactile Exploration Policy Based on Physical Reasoning Utilized in Robotic Fine Blind Manipulation Tasks**|Gaozhao Wang et.al.|[2512.10481](http://arxiv.org/abs/2512.10481)|null|
 |**2026-01-24**|**Accurate Calibration and Robust LiDAR-Inertial Odometry for Spinning Actuated LiDAR Systems**|Zijie Chen et.al.|[2601.15946](http://arxiv.org/abs/2601.15946)|null|
@@ -161,15 +166,12 @@ Automatically collected computer vision papers from arXiv.
 |**2026-01-14**|**Multimodal Signal Processing For Thermo-Visible-Lidar Fusion In Real-time 3D Semantic Mapping**|Jiajun Sun et.al.|[2601.09578](http://arxiv.org/abs/2601.09578)|null|
 |**2026-01-14**|**SLAM-LLM: A Modular, Open-Source Multimodal Large Language Model Framework and Best Practice for Speech, Language, Audio and Music Processing**|Ziyang Ma et.al.|[2601.09385](http://arxiv.org/abs/2601.09385)|null|
 |**2026-01-13**|**Thermo-LIO: A Novel Multi-Sensor Integrated System for Structural Health Monitoring**|Chao Yang et.al.|[2601.08977](http://arxiv.org/abs/2601.08977)|null|
-|**2026-01-13**|**AME-2: Agile and Generalized Legged Locomotion via Attention-Based Neural Map Encoding**|Chong Zhang et.al.|[2601.08485](http://arxiv.org/abs/2601.08485)|null|
-|**2026-01-13**|**Efficient Incremental SLAM via Information-Guided and Selective Optimization**|Reza Arablouei et.al.|[2601.08110](http://arxiv.org/abs/2601.08110)|null|
-|**2026-01-13**|**Variable Elimination in Hybrid Factor Graphs for Discrete-Continuous Inference & Estimation**|Varun Agrawal et.al.|[2601.00545](http://arxiv.org/abs/2601.00545)|null|
-|**2026-01-12**|**Nonlinear Observer Design for Visual-Inertial Odometry**|Mouaad Boughellaba et.al.|[2601.07156](http://arxiv.org/abs/2601.07156)|null|
-|**2026-01-12**|**Navigation Around Unknown Space Objects Using Visible-Thermal Image Fusion**|Eric J. Elias et.al.|[2512.12203](http://arxiv.org/abs/2512.12203)|null|
 
 ### Visual Localization
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-01-27**|**VGGT-SLAM 2.0: Real time Dense Feed-forward Scene Reconstruction**|Dominic Maggio et.al.|[2601.19887](http://arxiv.org/abs/2601.19887)|null|
+|**2026-01-27**|**Pixel-Grounded Retrieval for Knowledgeable Large Multimodal Models**|Jeonghwan Kim et.al.|[2601.19060](http://arxiv.org/abs/2601.19060)|null|
 |**2026-01-24**|**Evaluating Perspectival Biases in Cross-Modal Retrieval**|Teerapol Saengsukhiran et.al.|[2510.26861](http://arxiv.org/abs/2510.26861)|null|
 |**2026-01-23**|**X-Aligner: Composed Visual Retrieval without the Bells and Whistles**|Yuqian Zheng et.al.|[2601.16582](http://arxiv.org/abs/2601.16582)|null|
 |**2026-01-22**|**Rethinking Composed Image Retrieval Evaluation: A Fine-Grained Benchmark from Image Editing**|Tingyu Song et.al.|[2601.16125](http://arxiv.org/abs/2601.16125)|null|
@@ -188,8 +190,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-01-14**|**Hybrid guided variational autoencoder for visual place recognition**|Ni Wang et.al.|[2601.09248](http://arxiv.org/abs/2601.09248)|null|
 |**2026-01-13**|**Keyframe-based Dense Mapping with the Graph of View-Dependent Local Maps**|Krzysztof Zielinski et.al.|[2601.08520](http://arxiv.org/abs/2601.08520)|null|
 |**2026-01-13**|**Enhancing Image Quality Assessment Ability of LMMs via Retrieval-Augmented Generation**|Kang Fu et.al.|[2601.08311](http://arxiv.org/abs/2601.08311)|null|
-|**2026-01-13**|**Ground What You See: Hallucination-Resistant MLLMs via Caption Feedback, Diversity-Aware Sampling, and Conflict Regularization**|Miao Pan et.al.|[2601.06224](http://arxiv.org/abs/2601.06224)|null|
-|**2026-01-08**|**Multi-task Cross-modal Learning for Chest X-ray Image Retrieval**|Zhaohui Liang et.al.|[2601.05399](http://arxiv.org/abs/2601.05399)|null|
 
 See the [full archive](./docs/daily_archive.md) for more papers.
 
