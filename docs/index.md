@@ -14,7 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-01-27**|**GeoDiff3D: Self-Supervised 3D Scene Generation with Geometry-Constrained 2D Diffusion Guidance**|Haozhi Zhu et.al.|[2601.19785](http://arxiv.org/abs/2601.19785)|null|
+|**2026-01-28**|**VersaQ-3D: A Reconfigurable Accelerator Enabling Feed-Forward and Generalizable 3D Reconstruction via Versatile Quantization**|Yipu Zhang et.al.|[2601.20317](http://arxiv.org/abs/2601.20317)|null|
+|**2026-01-27**|**Size Matters: Reconstructing Real-Scale 3D Models from Monocular Images for Food Portion Estimation**|Gautham Vinod et.al.|[2601.20051](http://arxiv.org/abs/2601.20051)|null|
+|**2026-01-28**|**GeoDiff3D: Self-Supervised 3D Scene Generation with Geometry-Constrained 2D Diffusion Guidance**|Haozhi Zhu et.al.|[2601.19785](http://arxiv.org/abs/2601.19785)|null|
 |**2026-01-27**|**WaterClear-GS: Optical-Aware Gaussian Splatting for Underwater Reconstruction and Restoration**|Xinrui Zhang et.al.|[2601.19753](http://arxiv.org/abs/2601.19753)|null|
 |**2026-01-27**|**NuiWorld: Exploring a Scalable Framework for End-to-End Controllable World Generation**|Han-Hung Lee et.al.|[2601.19048](http://arxiv.org/abs/2601.19048)|null|
 |**2026-01-26**|**Non-Invasive 3D Wound Measurement with RGB-D Imaging**|Lena Harkämper et.al.|[2601.19014](http://arxiv.org/abs/2601.19014)|null|
@@ -1112,7 +1114,7 @@ layout: default
 |**2025-08-25**|**DroneKey: Drone 3D Pose Estimation in Image Sequences using Gated Key-representation and Pose-adaptive Learning**|Seo-Bin Hwang et.al.|[2508.17746](http://arxiv.org/abs/2508.17746)|null|
 |**2025-08-25**|**HOSt3R: Keypoint-free Hand-Object 3D Reconstruction from RGB images**|Anilkumar Swamy et.al.|[2508.16465](http://arxiv.org/abs/2508.16465)|null|
 |**2025-08-21**|**Mag-Match: Magnetic Vector Field Features for Map Matching and Registration**|William McDonald et.al.|[2508.15300](http://arxiv.org/abs/2508.15300)|null|
-|**2025-08-17**|**Splat Feature Solver**|Butian Xiong et.al.|[2508.12216](http://arxiv.org/abs/2508.12216)|null|
+|**2026-01-28**|**Splat Feature Solver**|Butian Xiong et.al.|[2508.12216](http://arxiv.org/abs/2508.12216)|null|
 |**2025-08-13**|**Topological Structure Description for Artcode Detection Using the Shape of Orientation Histogram**|Liming Xu et.al.|[2508.10942](http://arxiv.org/abs/2508.10942)|null|
 |**2025-08-13**|**Stable Diffusion Models are Secretly Good at Visual In-Context Learning**|Trevine Oorloff et.al.|[2508.09949](http://arxiv.org/abs/2508.09949)|null|
 |**2025-08-07**|**Head Anchor Enhanced Detection and Association for Crowded Pedestrian Tracking**|Zewei Wu et.al.|[2508.05514](http://arxiv.org/abs/2508.05514)|null|
@@ -1546,7 +1548,7 @@ layout: default
 |**2025-09-28**|**From Fields to Splats: A Cross-Domain Survey of Real-Time Neural Scene Representations**|Javed Ahmad et.al.|[2509.23555](http://arxiv.org/abs/2509.23555)|null|
 |**2025-09-30**|**FM-SIREN & FM-FINER: Nyquist-Informed Frequency Multiplier for Implicit Neural Representation with Periodic Activation**|Mohammed Alsakabi et.al.|[2509.23438](http://arxiv.org/abs/2509.23438)|null|
 |**2025-10-04**|**OracleGS: Grounding Generative Priors for Sparse-View Gaussian Splatting**|Atakan Topaloglu et.al.|[2509.23258](http://arxiv.org/abs/2509.23258)|null|
-|**2025-12-23**|**WaveletGaussian: Wavelet-domain Diffusion for Sparse-view 3D Gaussian Object Reconstruction**|Hung Nguyen et.al.|[2509.19073](http://arxiv.org/abs/2509.19073)|null|
+|**2026-01-28**|**WaveletGaussian: Wavelet-domain Diffusion for Sparse-view 3D Gaussian Object Reconstruction**|Hung Nguyen et.al.|[2509.19073](http://arxiv.org/abs/2509.19073)|null|
 |**2025-09-23**|**Seeing Through Reflections: Advancing 3D Scene Reconstruction in Mirror-Containing Environments with Gaussian Splatting**|Zijing Guo et.al.|[2509.18956](http://arxiv.org/abs/2509.18956)|null|
 |**2025-09-22**|**From Restoration to Reconstruction: Rethinking 3D Gaussian Splatting for Underwater Scenes**|Guoxi Huang et.al.|[2509.17789](http://arxiv.org/abs/2509.17789)|null|
 |**2025-09-21**|**DT-NeRF: A Diffusion and Transformer-Based Optimization Approach for Neural Radiance Fields in 3D Reconstruction**|Bo Liu et.al.|[2509.17232](http://arxiv.org/abs/2509.17232)|null|
@@ -3728,7 +3730,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-01-27**|**VGGT-SLAM 2.0: Real time Dense Feed-forward Scene Reconstruction**|Dominic Maggio et.al.|[2601.19887](http://arxiv.org/abs/2601.19887)|null|
 |**2026-01-27**|**The S3LI Vulcano Dataset: A Dataset for Multi-Modal SLAM in Unstructured Planetary Environments**|Riccardo Giubilato et.al.|[2601.19557](http://arxiv.org/abs/2601.19557)|null|
-|**2026-01-27**|**Fast Converging 3D Gaussian Splatting for 1-Minute Reconstruction**|Ziyu Zhang et.al.|[2601.19489](http://arxiv.org/abs/2601.19489)|null|
+|**2026-01-28**|**Fast Converging 3D Gaussian Splatting for 1-Minute Reconstruction**|Ziyu Zhang et.al.|[2601.19489](http://arxiv.org/abs/2601.19489)|null|
 |**2026-01-26**|**Non-Invasive 3D Wound Measurement with RGB-D Imaging**|Lena Harkämper et.al.|[2601.19014](http://arxiv.org/abs/2601.19014)|null|
 |**2026-01-26**|**Co-PLNet: A Collaborative Point-Line Network for Prompt-Guided Wireframe Parsing**|Chao Wang et.al.|[2601.18252](http://arxiv.org/abs/2601.18252)|null|
 |**2026-01-22**|**Keyframe-Based Feed-Forward Visual Odometry**|Weichen Dai et.al.|[2601.16020](http://arxiv.org/abs/2601.16020)|null|
@@ -4488,6 +4490,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-28**|**When Vision Meets Texts in Listwise Reranking**|Hongyi Cai et.al.|[2601.20623](http://arxiv.org/abs/2601.20623)|null|
+|**2026-01-28**|**Eliminating Hallucination in Diffusion-Augmented Interactive Text-to-Image Retrieval**|Zhuocheng Zhang et.al.|[2601.20391](http://arxiv.org/abs/2601.20391)|null|
 |**2026-01-27**|**VGGT-SLAM 2.0: Real time Dense Feed-forward Scene Reconstruction**|Dominic Maggio et.al.|[2601.19887](http://arxiv.org/abs/2601.19887)|null|
 |**2026-01-27**|**Pixel-Grounded Retrieval for Knowledgeable Large Multimodal Models**|Jeonghwan Kim et.al.|[2601.19060](http://arxiv.org/abs/2601.19060)|null|
 |**2026-01-23**|**X-Aligner: Composed Visual Retrieval without the Bells and Whistles**|Yuqian Zheng et.al.|[2601.16582](http://arxiv.org/abs/2601.16582)|null|
