@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**MetricAnything: Scaling Metric Depth Pretraining with Noisy Heterogeneous Sources**|Baorui Ma et.al.|[2601.22054](http://arxiv.org/abs/2601.22054)|null|
+|**2026-01-29**|**PLANING: A Loosely Coupled Triangle-Gaussian Framework for Streaming 3D Reconstruction**|Changjian Jiang et.al.|[2601.22046](http://arxiv.org/abs/2601.22046)|null|
+|**2026-01-29**|**Urban Neural Surface Reconstruction from Constrained Sparse Aerial Imagery with 3D SAR Fusion**|Da Li et.al.|[2601.22045](http://arxiv.org/abs/2601.22045)|null|
+|**2026-01-29**|**Synthetic-to-Real Domain Bridging for Single-View 3D Reconstruction of Ships for Maritime Monitoring**|Borja Carrillo-Perez et.al.|[2601.21786](http://arxiv.org/abs/2601.21786)|null|
 |**2026-01-28**|**VersaQ-3D: A Reconfigurable Accelerator Enabling Feed-Forward and Generalizable 3D Reconstruction via Versatile Quantization**|Yipu Zhang et.al.|[2601.20317](http://arxiv.org/abs/2601.20317)|null|
 |**2026-01-27**|**Size Matters: Reconstructing Real-Scale 3D Models from Monocular Images for Food Portion Estimation**|Gautham Vinod et.al.|[2601.20051](http://arxiv.org/abs/2601.20051)|null|
 |**2026-01-28**|**GeoDiff3D: Self-Supervised 3D Scene Generation with Geometry-Constrained 2D Diffusion Guidance**|Haozhi Zhu et.al.|[2601.19785](http://arxiv.org/abs/2601.19785)|null|
@@ -28,7 +32,7 @@ layout: default
 |**2026-01-23**|**LGDWT-GS: Local and Global Discrete Wavelet-Regularized 3D Gaussian Splatting for Sparse-View Scene Reconstruction**|Shima Salehi et.al.|[2601.17185](http://arxiv.org/abs/2601.17185)|null|
 |**2026-01-26**|**GPA-VGGT:Adapting VGGT to Large Scale Localization by Self-Supervised Learning with Geometry and Physics Aware Loss**|Yangfan Xu et.al.|[2601.16885](http://arxiv.org/abs/2601.16885)|null|
 |**2026-01-23**|**Using Shadows in Circular Synthetic Aperture Sonar Imaging for Target Analysis**|Yann Le Gall et.al.|[2601.16733](http://arxiv.org/abs/2601.16733)|null|
-|**2026-01-22**|**GR3EN: Generative Relighting for 3D Environments**|Xiaoyan Xing et.al.|[2601.16272](http://arxiv.org/abs/2601.16272)|null|
+|**2026-01-29**|**GR3EN: Generative Relighting for 3D Environments**|Xiaoyan Xing et.al.|[2601.16272](http://arxiv.org/abs/2601.16272)|null|
 |**2026-01-21**|**Three-dimensional visualization of X-ray micro-CT with large-scale datasets: Efficiency and accuracy for real-time interaction**|Yipeng Yin et.al.|[2601.15098](http://arxiv.org/abs/2601.15098)|null|
 |**2026-01-20**|**Rig-Aware 3D Reconstruction of Vehicle Undercarriages using Gaussian Splatting**|Nitin Kulkarni et.al.|[2601.14208](http://arxiv.org/abs/2601.14208)|null|
 |**2026-01-20**|**ParkingTwin: Training-Free Streaming 3D Reconstruction for Parking-Lot Digital Twins**|Xinhao Liu et.al.|[2601.13706](http://arxiv.org/abs/2601.13706)|null|
@@ -1451,6 +1455,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**From Implicit Ambiguity to Explicit Solidity: Diagnosing Interior Geometric Degradation in Neural Radiance Fields for Dense 3D Scene Understanding**|Jiangsan Zhao et.al.|[2601.21421](http://arxiv.org/abs/2601.21421)|null|
+|**2026-01-29**|**Lightweight High-Fidelity Low-Bitrate Talking Face Compression for 3D Video Conference**|Jianglong Li et.al.|[2601.21269](http://arxiv.org/abs/2601.21269)|null|
 |**2026-01-27**|**WaterClear-GS: Optical-Aware Gaussian Splatting for Underwater Reconstruction and Restoration**|Xinrui Zhang et.al.|[2601.19753](http://arxiv.org/abs/2601.19753)|null|
 |**2026-01-27**|**Bridging Visual and Wireless Sensing: A Unified Radiation Field for 3D Radio Map Construction**|Chaozheng Wen et.al.|[2601.19216](http://arxiv.org/abs/2601.19216)|null|
 |**2026-01-26**|**Audio-Driven Talking Face Generation with Blink Embedding and Hash Grid Landmarks Encoding**|Yuhui Zhang et.al.|[2601.18849](http://arxiv.org/abs/2601.18849)|null|
@@ -3265,6 +3271,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**From Implicit Ambiguity to Explicit Solidity: Diagnosing Interior Geometric Degradation in Neural Radiance Fields for Dense 3D Scene Understanding**|Jiangsan Zhao et.al.|[2601.21421](http://arxiv.org/abs/2601.21421)|null|
 |**2026-01-21**|**Minimizing Submodular Functions over Hierarchical Families**|Ryuhei Mizutani et.al.|[2601.14805](http://arxiv.org/abs/2601.14805)|null|
 |**2026-01-20**|**Rig-Aware 3D Reconstruction of Vehicle Undercarriages using Gaussian Splatting**|Nitin Kulkarni et.al.|[2601.14208](http://arxiv.org/abs/2601.14208)|null|
 |**2026-01-25**|**TreeDGS: Aerial Gaussian Splatting for Distant DBH Measurement**|Belal Shaheen et.al.|[2601.12823](http://arxiv.org/abs/2601.12823)|null|
@@ -3728,6 +3735,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**IROS: A Dual-Process Architecture for Real-Time VLM-Based Indoor Navigation**|Joonhee Lee et.al.|[2601.21506](http://arxiv.org/abs/2601.21506)|null|
+|**2026-01-28**|**Multi-Robot Decentralized Collaborative SLAM in Planetary Analogue Environments: Dataset, Challenges, and Lessons Learned**|Pierre-Yves Lajoie et.al.|[2601.21063](http://arxiv.org/abs/2601.21063)|null|
 |**2026-01-27**|**VGGT-SLAM 2.0: Real time Dense Feed-forward Scene Reconstruction**|Dominic Maggio et.al.|[2601.19887](http://arxiv.org/abs/2601.19887)|null|
 |**2026-01-27**|**The S3LI Vulcano Dataset: A Dataset for Multi-Modal SLAM in Unstructured Planetary Environments**|Riccardo Giubilato et.al.|[2601.19557](http://arxiv.org/abs/2601.19557)|null|
 |**2026-01-28**|**Fast Converging 3D Gaussian Splatting for 1-Minute Reconstruction**|Ziyu Zhang et.al.|[2601.19489](http://arxiv.org/abs/2601.19489)|null|
@@ -4490,6 +4499,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**Variance & Greediness: A comparative study of metric-learning losses**|Donghuo Zeng et.al.|[2601.21450](http://arxiv.org/abs/2601.21450)|null|
 |**2026-01-28**|**When Vision Meets Texts in Listwise Reranking**|Hongyi Cai et.al.|[2601.20623](http://arxiv.org/abs/2601.20623)|null|
 |**2026-01-28**|**Eliminating Hallucination in Diffusion-Augmented Interactive Text-to-Image Retrieval**|Zhuocheng Zhang et.al.|[2601.20391](http://arxiv.org/abs/2601.20391)|null|
 |**2026-01-27**|**VGGT-SLAM 2.0: Real time Dense Feed-forward Scene Reconstruction**|Dominic Maggio et.al.|[2601.19887](http://arxiv.org/abs/2601.19887)|null|
@@ -4506,7 +4516,7 @@ layout: default
 |**2026-01-22**|**Heterogeneous Uncertainty-Guided Composed Image Retrieval with Fine-Grained Probabilistic Learning**|Haomiao Tang et.al.|[2601.11393](http://arxiv.org/abs/2601.11393)|null|
 |**2026-01-16**|**Simple Models, Rich Representations: Visual Decoding from Primate Intracortical Neural Signals**|Matteo Ciferri et.al.|[2601.11108](http://arxiv.org/abs/2601.11108)|null|
 |**2026-01-20**|**Multilingual-To-Multimodal (M2M): Unlocking New Languages with Monolingual Text**|Piyush Singh Pasi et.al.|[2601.10096](http://arxiv.org/abs/2601.10096)|null|
-|**2026-01-20**|**UniHash: Unifying Pointwise and Pairwise Hashing Paradigms for Seen and Unseen Category Retrieval**|Xiaoxu Ma et.al.|[2601.09828](http://arxiv.org/abs/2601.09828)|null|
+|**2026-01-29**|**UniHash: Unifying Pointwise and Pairwise Hashing Paradigms**|Xiaoxu Ma et.al.|[2601.09828](http://arxiv.org/abs/2601.09828)|null|
 |**2026-01-14**|**Hybrid guided variational autoencoder for visual place recognition**|Ni Wang et.al.|[2601.09248](http://arxiv.org/abs/2601.09248)|null|
 |**2026-01-13**|**Keyframe-based Dense Mapping with the Graph of View-Dependent Local Maps**|Krzysztof Zielinski et.al.|[2601.08520](http://arxiv.org/abs/2601.08520)|null|
 |**2026-01-13**|**Enhancing Image Quality Assessment Ability of LMMs via Retrieval-Augmented Generation**|Kang Fu et.al.|[2601.08311](http://arxiv.org/abs/2601.08311)|null|
