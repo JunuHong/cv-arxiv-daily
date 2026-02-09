@@ -26,6 +26,10 @@ Automatically collected computer vision papers from arXiv.
 ### 3D reconstruction
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-02-06**|**SPARK: Scalable Real-Time Point Cloud Aggregation with Multi-View Self-Calibration**|Chentian Sun et.al.|[2601.08414](http://arxiv.org/abs/2601.08414)|null|
+|**2026-02-05**|**MetaSSP: Enhancing Semi-supervised Implicit 3D Reconstruction through Meta-adaptive EMA and SDF-aware Pseudo-label Evaluation**|Luoxi Zhang et.al.|[2602.06163](http://arxiv.org/abs/2602.06163)|null|
+|**2026-02-05**|**MGP-KAD: Multimodal Geometric Priors and Kolmogorov-Arnold Decoder for Single-View 3D Reconstruction in Complex Scenes**|Luoxi Zhang et.al.|[2602.06158](http://arxiv.org/abs/2602.06158)|null|
+|**2026-02-05**|**From Blurry to Believable: Enhancing Low-quality Talking Heads with 3D Generative Priors**|Ding-Jiun Huang et.al.|[2602.06122](http://arxiv.org/abs/2602.06122)|null|
 |**2026-02-05**|**Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation**|David Shavin et.al.|[2602.06032](http://arxiv.org/abs/2602.06032)|null|
 |**2026-02-05**|**Neural Implicit 3D Cardiac Shape Reconstruction from Sparse CT Angiography Slices Mimicking 2D Transthoracic Echocardiography Views**|Gino E. Jansen et.al.|[2602.05884](http://arxiv.org/abs/2602.05884)|null|
 |**2026-02-05**|**NeVStereo: A NeRF-Driven NVS-Stereo Architecture for High-Fidelity 3D Tasks**|Pengcheng Chen et.al.|[2602.05423](http://arxiv.org/abs/2602.05423)|null|
@@ -42,10 +46,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-02-03**|**EventNeuS: 3D Mesh Reconstruction from a Single Event Camera**|Shreyas Sachan et.al.|[2602.03847](http://arxiv.org/abs/2602.03847)|null|
 |**2026-02-03**|**SurfSplat: Conquering Feedforward 2D Gaussian Splatting with Surface Continuity Priors**|Bing He et.al.|[2602.02000](http://arxiv.org/abs/2602.02000)|null|
 |**2026-02-02**|**3D Foundation Model-Based Loop Closing for Decentralized Collaborative SLAM**|Pierre-Yves Lajoie et.al.|[2602.02430](http://arxiv.org/abs/2602.02430)|null|
-|**2026-02-02**|**RIS-Aided Wireless Amodal Sensing for Single-View 3D Reconstruction**|Yuhan Wang et.al.|[2602.02148](http://arxiv.org/abs/2602.02148)|null|
-|**2026-02-02**|**Under-Canopy Terrain Reconstruction in Dense Forests Using RGB Imaging and Neural 3D Reconstruction**|Refael Sheffer et.al.|[2601.22861](http://arxiv.org/abs/2601.22861)|null|
-|**2026-02-01**|**LightCity: An Urban Dataset for Outdoor Inverse Rendering and Reconstruction under Multi-illumination Conditions**|Jingjing Wang et.al.|[2602.01118](http://arxiv.org/abs/2602.01118)|null|
-|**2026-01-31**|**Distill3R: A Pipeline for Democratizing 3D Foundation Models on Commodity Hardware**|Brandon Leblanc et.al.|[2602.00865](http://arxiv.org/abs/2602.00865)|null|
 
 ### Image Matching
 | Publish Date | Title | Authors | PDF | Code |
@@ -74,6 +74,8 @@ Automatically collected computer vision papers from arXiv.
 ### Keypoint Detection
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-02-06**|**Perception-Control Coupled Visual Servoing for Textureless Objects Using Keypoint-Based EKF**|Allen Tao et.al.|[2602.06834](http://arxiv.org/abs/2602.06834)|null|
+|**2026-02-05**|**DroneKey++: A Size Prior-free Method and New Benchmark for Drone 3D Pose Estimation from Sequential Images**|Seo-Bin Hwang et.al.|[2602.06211](http://arxiv.org/abs/2602.06211)|null|
 |**2026-01-28**|**Splat Feature Solver**|Butian Xiong et.al.|[2508.12216](http://arxiv.org/abs/2508.12216)|null|
 |**2026-01-22**|**Coarse-to-Fine Non-rigid Multi-modal Image Registration for Historical Panel Paintings based on Crack Structures**|Aline Sindel et.al.|[2601.16348](http://arxiv.org/abs/2601.16348)|null|
 |**2026-01-21**|**ZENITH: Automated Gradient Norm Informed Stochastic Optimization**|Dhrubo Saha et.al.|[2601.15212](http://arxiv.org/abs/2601.15212)|null|
@@ -92,8 +94,6 @@ Automatically collected computer vision papers from arXiv.
 |**2025-11-27**|**3D Affordance Keypoint Detection for Robotic Manipulation**|Zhiyang Liu et.al.|[2511.22195](http://arxiv.org/abs/2511.22195)|null|
 |**2025-11-26**|**Semantic-Enhanced Feature Matching with Learnable Geometric Verification for Cross-Modal Neuron Registration**|Wenwei Li et.al.|[2511.21452](http://arxiv.org/abs/2511.21452)|null|
 |**2025-11-06**|**Automated Tennis Player and Ball Tracking with Court Keypoints Detection (Hawk Eye System)**|Venkata Manikanta Desu et.al.|[2511.04126](http://arxiv.org/abs/2511.04126)|null|
-|**2025-10-26**|**Cross-Species Transfer Learning in Agricultural AI: Evaluating ZebraPose Adaptation for Dairy Cattle Pose Estimation**|Mackenzie Tapp et.al.|[2510.22618](http://arxiv.org/abs/2510.22618)|null|
-|**2025-10-21**|**GBlobs: Local LiDAR Geometry for Improved Sensor Placement Generalization**|Dušan Malić et.al.|[2510.18539](http://arxiv.org/abs/2510.18539)|null|
 
 ### NeRF
 | Publish Date | Title | Authors | PDF | Code |
@@ -146,6 +146,8 @@ Automatically collected computer vision papers from arXiv.
 ### SLAM
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-02-06**|**POPL-KF: A Pose-Only Geometric Representation-Based Kalman Filter for Point-Line-Based Visual-Inertial Odometry**|Aiping Wang et.al.|[2602.06425](http://arxiv.org/abs/2602.06425)|null|
+|**2026-02-06**|**A Consistency-Improved LiDAR-Inertial Bundle Adjustment**|Xinran Li et.al.|[2602.06380](http://arxiv.org/abs/2602.06380)|null|
 |**2026-02-05**|**Geometric Observability Index: An Operator-Theoretic Framework for Per-Feature Sensitivity, Weak Observability, and Dynamic Effects in SE(3) Pose Estimation**|Joe-Mei Feng et.al.|[2602.05582](http://arxiv.org/abs/2602.05582)|null|
 |**2026-02-05**|**VGGT-Motion: Motion-Aware Calibration-Free Monocular SLAM for Long-Range Consistency**|Zhuang Xiong et.al.|[2602.05508](http://arxiv.org/abs/2602.05508)|null|
 |**2026-02-05**|**Feature points evaluation on omnidirectional vision with a photorealistic fisheye sequence -- A report on experiments done in 2014**|Julien Moreau et.al.|[2602.05487](http://arxiv.org/abs/2602.05487)|null|
@@ -164,8 +166,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-01-30**|**VGGT-SLAM 2.0: Real-time Dense Feed-forward Scene Reconstruction**|Dominic Maggio et.al.|[2601.19887](http://arxiv.org/abs/2601.19887)|null|
 |**2026-01-30**|**ARCAS: An Augmented Reality Collision Avoidance System with SLAM-Based Tracking for Enhancing VRU Safety**|Ahmad Yehia et.al.|[2512.05299](http://arxiv.org/abs/2512.05299)|null|
 |**2026-01-29**|**IROS: A Dual-Process Architecture for Real-Time VLM-Based Indoor Navigation**|Joonhee Lee et.al.|[2601.21506](http://arxiv.org/abs/2601.21506)|null|
-|**2026-01-28**|**Multi-Robot Decentralized Collaborative SLAM in Planetary Analogue Environments: Dataset, Challenges, and Lessons Learned**|Pierre-Yves Lajoie et.al.|[2601.21063](http://arxiv.org/abs/2601.21063)|null|
-|**2026-01-28**|**Fast Converging 3D Gaussian Splatting for 1-Minute Reconstruction**|Ziyu Zhang et.al.|[2601.19489](http://arxiv.org/abs/2601.19489)|null|
 
 ### Visual Localization
 | Publish Date | Title | Authors | PDF | Code |

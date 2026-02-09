@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**MetaSSP: Enhancing Semi-supervised Implicit 3D Reconstruction through Meta-adaptive EMA and SDF-aware Pseudo-label Evaluation**|Luoxi Zhang et.al.|[2602.06163](http://arxiv.org/abs/2602.06163)|null|
+|**2026-02-05**|**MGP-KAD: Multimodal Geometric Priors and Kolmogorov-Arnold Decoder for Single-View 3D Reconstruction in Complex Scenes**|Luoxi Zhang et.al.|[2602.06158](http://arxiv.org/abs/2602.06158)|null|
+|**2026-02-05**|**From Blurry to Believable: Enhancing Low-quality Talking Heads with 3D Generative Priors**|Ding-Jiun Huang et.al.|[2602.06122](http://arxiv.org/abs/2602.06122)|null|
 |**2026-02-05**|**Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation**|David Shavin et.al.|[2602.06032](http://arxiv.org/abs/2602.06032)|null|
 |**2026-02-05**|**Neural Implicit 3D Cardiac Shape Reconstruction from Sparse CT Angiography Slices Mimicking 2D Transthoracic Echocardiography Views**|Gino E. Jansen et.al.|[2602.05884](http://arxiv.org/abs/2602.05884)|null|
 |**2026-02-05**|**NeVStereo: A NeRF-Driven NVS-Stereo Architecture for High-Fidelity 3D Tasks**|Pengcheng Chen et.al.|[2602.05423](http://arxiv.org/abs/2602.05423)|null|
@@ -76,7 +79,7 @@ layout: default
 |**2026-01-14**|**SCE-SLAM: Scale-Consistent Monocular SLAM via Scene Coordinate Embeddings**|Yuchen Wu et.al.|[2601.09665](http://arxiv.org/abs/2601.09665)|null|
 |**2026-01-14**|**V-DPM: 4D Video Reconstruction with Dynamic Point Maps**|Edgar Sucar et.al.|[2601.09499](http://arxiv.org/abs/2601.09499)|null|
 |**2026-01-14**|**Affostruction: 3D Affordance Grounding with Generative Reconstruction**|Chunghyun Park et.al.|[2601.09211](http://arxiv.org/abs/2601.09211)|null|
-|**2026-01-15**|**SPARK: Scalable Real-Time Point Cloud Aggregation with Multi-View Self-Calibration**|Chentian Sun et.al.|[2601.08414](http://arxiv.org/abs/2601.08414)|null|
+|**2026-02-06**|**SPARK: Scalable Real-Time Point Cloud Aggregation with Multi-View Self-Calibration**|Chentian Sun et.al.|[2601.08414](http://arxiv.org/abs/2601.08414)|null|
 |**2026-01-13**|**Second-order Gaussian directional derivative representations for image high-resolution corner detection**|Dongbo Xie et.al.|[2601.08182](http://arxiv.org/abs/2601.08182)|null|
 |**2026-01-13**|**ViewMorpher3D: A 3D-aware Diffusion Framework for Multi-Camera Novel View Synthesis in Autonomous Driving**|Farhad G. Zanjani et.al.|[2601.07540](http://arxiv.org/abs/2601.07540)|null|
 |**2026-01-12**|**HERE: Hierarchical Active Exploration of Radiance Field with Epistemic Uncertainty Minimization**|Taekbeom Lee et.al.|[2601.07242](http://arxiv.org/abs/2601.07242)|null|
@@ -1121,6 +1124,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**Perception-Control Coupled Visual Servoing for Textureless Objects Using Keypoint-Based EKF**|Allen Tao et.al.|[2602.06834](http://arxiv.org/abs/2602.06834)|null|
+|**2026-02-05**|**DroneKey++: A Size Prior-free Method and New Benchmark for Drone 3D Pose Estimation from Sequential Images**|Seo-Bin Hwang et.al.|[2602.06211](http://arxiv.org/abs/2602.06211)|null|
 |**2026-01-22**|**Coarse-to-Fine Non-rigid Multi-modal Image Registration for Historical Panel Paintings based on Crack Structures**|Aline Sindel et.al.|[2601.16348](http://arxiv.org/abs/2601.16348)|null|
 |**2026-01-21**|**ZENITH: Automated Gradient Norm Informed Stochastic Optimization**|Dhrubo Saha et.al.|[2601.15212](http://arxiv.org/abs/2601.15212)|null|
 |**2026-01-02**|**UnrealPose: Leveraging Game Engine Kinematics for Large-Scale Synthetic Human Pose Data**|Joshua Kawaguchi et.al.|[2601.00991](http://arxiv.org/abs/2601.00991)|null|
@@ -3774,6 +3779,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**POPL-KF: A Pose-Only Geometric Representation-Based Kalman Filter for Point-Line-Based Visual-Inertial Odometry**|Aiping Wang et.al.|[2602.06425](http://arxiv.org/abs/2602.06425)|null|
+|**2026-02-06**|**A Consistency-Improved LiDAR-Inertial Bundle Adjustment**|Xinran Li et.al.|[2602.06380](http://arxiv.org/abs/2602.06380)|null|
 |**2026-02-05**|**Geometric Observability Index: An Operator-Theoretic Framework for Per-Feature Sensitivity, Weak Observability, and Dynamic Effects in SE(3) Pose Estimation**|Joe-Mei Feng et.al.|[2602.05582](http://arxiv.org/abs/2602.05582)|null|
 |**2026-02-05**|**VGGT-Motion: Motion-Aware Calibration-Free Monocular SLAM for Long-Range Consistency**|Zhuang Xiong et.al.|[2602.05508](http://arxiv.org/abs/2602.05508)|null|
 |**2026-02-05**|**Feature points evaluation on omnidirectional vision with a photorealistic fisheye sequence -- A report on experiments done in 2014**|Julien Moreau et.al.|[2602.05487](http://arxiv.org/abs/2602.05487)|null|
