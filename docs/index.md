@@ -14,11 +14,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**VGG-T $^3$ : Offline Feed-Forward 3D Reconstruction at Scale**|Sven Elflein et.al.|[2602.23361](http://arxiv.org/abs/2602.23361)|null|
+|**2026-02-26**|**UniScale: Unified Scale-Aware 3D Reconstruction for Multi-View Understanding via Prior Injection for Robotic Perception**|Mohammad Mahdavian et.al.|[2602.23224](http://arxiv.org/abs/2602.23224)|null|
+|**2026-02-26**|**UCM: Unifying Camera Control and Memory with Time-aware Positional Encoding Warping for World Models**|Tianxing Xu et.al.|[2602.22960](http://arxiv.org/abs/2602.22960)|null|
+|**2026-02-26**|**Sapling-NeRF: Geo-Localised Sapling Reconstruction in Forests for Ecological Monitoring**|Miguel Ángel Muñoz-Bañón et.al.|[2602.22731](http://arxiv.org/abs/2602.22731)|null|
+|**2026-02-26**|**GIFSplat: Generative Prior-Guided Iterative Feed-Forward 3D Gaussian Splatting from Sparse Views**|Tianyu Chen et.al.|[2602.22571](http://arxiv.org/abs/2602.22571)|null|
+|**2026-02-26**|**SwiftNDC: Fast Neural Depth Correction for High-Fidelity 3D Reconstruction**|Kang Han et.al.|[2602.22565](http://arxiv.org/abs/2602.22565)|null|
 |**2026-02-25**|**Geometry-as-context: Modulating Explicit 3D in Scene-consistent Video Generation to Geometry Context**|JiaKui Hu et.al.|[2602.21929](http://arxiv.org/abs/2602.21929)|null|
-|**2026-02-25**|**EndoDDC: Learning Sparse to Dense Reconstruction for Endoscopic Robotic Navigation via Diffusion Depth Completion**|Yinheng Lin et.al.|[2602.21893](http://arxiv.org/abs/2602.21893)|null|
+|**2026-02-26**|**EndoDDC: Learning Sparse to Dense Reconstruction for Endoscopic Robotic Navigation via Diffusion Depth Completion**|Yinheng Lin et.al.|[2602.21893](http://arxiv.org/abs/2602.21893)|null|
 |**2026-02-25**|**Joint Shadow Generation and Relighting via Light-Geometry Interaction Maps**|Shan Wang et.al.|[2602.21820](http://arxiv.org/abs/2602.21820)|null|
 |**2026-02-25**|**XStreamVGGT: Extremely Memory-Efficient Streaming Vision Geometry Grounded Transformer with KV Cache Compression**|Zunhai Su et.al.|[2602.21780](http://arxiv.org/abs/2602.21780)|null|
-|**2026-02-24**|**Event-Aided Sharp Radiance Field Reconstruction for Fast-Flying Drones**|Rong Zou et.al.|[2602.21101](http://arxiv.org/abs/2602.21101)|null|
+|**2026-02-26**|**Event-Aided Sharp Radiance Field Reconstruction for Fast-Flying Drones**|Rong Zou et.al.|[2602.21101](http://arxiv.org/abs/2602.21101)|null|
 |**2026-02-24**|**UFO: Unifying Feed-Forward and Optimization-based Methods for Large Driving Scene Modeling**|Kaiyuan Tan et.al.|[2602.20943](http://arxiv.org/abs/2602.20943)|null|
 |**2026-02-24**|**RU4D-SLAM: Reweighting Uncertainty in Gaussian Splatting SLAM for 4D Scene Reconstruction**|Yangfan Zhao et.al.|[2602.20807](http://arxiv.org/abs/2602.20807)|null|
 |**2026-02-24**|**Monocular Endoscopic Tissue 3D Reconstruction with Multi-Level Geometry Regularization**|Yangsen Chen et.al.|[2602.20718](http://arxiv.org/abs/2602.20718)|null|
@@ -804,7 +810,7 @@ layout: default
 |**2025-09-19**|**DistillMatch: Leveraging Knowledge Distillation from Vision Foundation Model for Multimodal Image Matching**|Meng Yang et.al.|[2509.16017](http://arxiv.org/abs/2509.16017)|null|
 |**2025-09-18**|**RoboEye: Enhancing 2D Robotic Object Identification with Selective 3D Geometric Keypoint Matching**|Xingwu Zhang et.al.|[2509.14966](http://arxiv.org/abs/2509.14966)|null|
 |**2025-11-21**|**A Geometrically Consistent Matching Framework for Side-Scan Sonar Mapping**|Can Lei et.al.|[2509.11255](http://arxiv.org/abs/2509.11255)|null|
-|**2025-09-29**|**Loc $^2$ : Interpretable Cross-View Localization via Depth-Lifted Local Feature Matching**|Zimin Xia et.al.|[2509.09792](http://arxiv.org/abs/2509.09792)|null|
+|**2026-02-25**|**Loc $^2$ : Interpretable Cross-View Localization via Depth-Lifted Local Feature Matching**|Zimin Xia et.al.|[2509.09792](http://arxiv.org/abs/2509.09792)|null|
 |**2025-09-11**|**ObjectReact: Learning Object-Relative Control for Visual Navigation**|Sourav Garg et.al.|[2509.09594](http://arxiv.org/abs/2509.09594)|null|
 |**2025-09-23**|**Handling Multiple Hypotheses in Coarse-to-Fine Dense Image Matching**|Matthieu Vilain et.al.|[2509.08805](http://arxiv.org/abs/2509.08805)|null|
 |**2025-09-08**|**Back To The Drawing Board: Rethinking Scene-Level Sketch-Based Image Retrieval**|Emil Demić et.al.|[2509.06566](http://arxiv.org/abs/2509.06566)|null|
@@ -1543,8 +1549,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**Sapling-NeRF: Geo-Localised Sapling Reconstruction in Forests for Ecological Monitoring**|Miguel Ángel Muñoz-Bañón et.al.|[2602.22731](http://arxiv.org/abs/2602.22731)|null|
 |**2026-02-25**|**Lie Flow: Video Dynamic Fields Modeling and Predicting with Lie Algebra as Geometric Physics Principle**|Weidong Qiao et.al.|[2602.21645](http://arxiv.org/abs/2602.21645)|null|
-|**2026-02-24**|**Event-Aided Sharp Radiance Field Reconstruction for Fast-Flying Drones**|Rong Zou et.al.|[2602.21101](http://arxiv.org/abs/2602.21101)|null|
+|**2026-02-26**|**Event-Aided Sharp Radiance Field Reconstruction for Fast-Flying Drones**|Rong Zou et.al.|[2602.21101](http://arxiv.org/abs/2602.21101)|null|
 |**2026-02-24**|**Monocular Endoscopic Tissue 3D Reconstruction with Multi-Level Geometry Regularization**|Yangsen Chen et.al.|[2602.20718](http://arxiv.org/abs/2602.20718)|null|
 |**2026-02-23**|**Large-scale Photorealistic Outdoor 3D Scene Reconstruction from UAV Imagery Using Gaussian Splatting Techniques**|Christos Maikos et.al.|[2602.20342](http://arxiv.org/abs/2602.20342)|null|
 |**2026-02-23**|**Augmented Radiance Field: A General Framework for Enhanced Gaussian Splatting**|Yixin Yang et.al.|[2602.19916](http://arxiv.org/abs/2602.19916)|null|
@@ -3379,6 +3386,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**FLIGHT: Fibonacci Lattice-based Inference for Geometric Heading in real-Time**|David Dirnfeld et.al.|[2602.23115](http://arxiv.org/abs/2602.23115)|null|
+|**2026-02-26**|**QuadSync: Quadrifocal Tensor Synchronization via Tucker Decomposition**|Daniel Miao et.al.|[2602.22639](http://arxiv.org/abs/2602.22639)|null|
 |**2026-02-25**|**Global-Aware Edge Prioritization for Pose Graph Initialization**|Tong Wei et.al.|[2602.21963](http://arxiv.org/abs/2602.21963)|null|
 |**2026-02-25**|**Revisiting the Origin of the Star-Forming Main Sequence Based on a Volume-Limited Sample of ~25,000 Galaxies**|Yang Gao et.al.|[2602.21500](http://arxiv.org/abs/2602.21500)|null|
 |**2026-02-25**|**From Pairs to Sequences: Track-Aware Policy Gradients for Keypoint Detection**|Yepeng Liu et.al.|[2602.20630](http://arxiv.org/abs/2602.20630)|null|
@@ -3861,10 +3870,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**Motion-aware Event Suppression for Event Cameras**|Roberto Pellerito et.al.|[2602.23204](http://arxiv.org/abs/2602.23204)|null|
+|**2026-02-26**|**FLIGHT: Fibonacci Lattice-based Inference for Geometric Heading in real-Time**|David Dirnfeld et.al.|[2602.23115](http://arxiv.org/abs/2602.23115)|null|
+|**2026-02-26**|**Sapling-NeRF: Geo-Localised Sapling Reconstruction in Forests for Ecological Monitoring**|Miguel Ángel Muñoz-Bañón et.al.|[2602.22731](http://arxiv.org/abs/2602.22731)|null|
 |**2026-02-25**|**Parallel Continuous-Time Relative Localization with Augmented Clamped Non-Uniform B-Splines**|Jiadong Lu et.al.|[2602.22006](http://arxiv.org/abs/2602.22006)|null|
 |**2026-02-25**|**Dream-SLAM: Dreaming the Unseen for Active SLAM in Dynamic Environments**|Xiangqi Meng et.al.|[2602.21967](http://arxiv.org/abs/2602.21967)|null|
 |**2026-02-25**|**DAGS-SLAM: Dynamic-Aware 3DGS SLAM via Spatiotemporal Motion Probability and Uncertainty-Aware Scheduling**|Li Zhang et.al.|[2602.21644](http://arxiv.org/abs/2602.21644)|null|
-|**2026-02-24**|**Event-Aided Sharp Radiance Field Reconstruction for Fast-Flying Drones**|Rong Zou et.al.|[2602.21101](http://arxiv.org/abs/2602.21101)|null|
+|**2026-02-26**|**Event-Aided Sharp Radiance Field Reconstruction for Fast-Flying Drones**|Rong Zou et.al.|[2602.21101](http://arxiv.org/abs/2602.21101)|null|
 |**2026-02-24**|**LST-SLAM: A Stereo Thermal SLAM System for Kilometer-Scale Dynamic Environments**|Zeyu Jiang et.al.|[2602.20925](http://arxiv.org/abs/2602.20925)|null|
 |**2026-02-24**|**RU4D-SLAM: Reweighting Uncertainty in Gaussian Splatting SLAM for 4D Scene Reconstruction**|Yangfan Zhao et.al.|[2602.20807](http://arxiv.org/abs/2602.20807)|null|
 |**2026-02-25**|**From Pairs to Sequences: Track-Aware Policy Gradients for Keypoint Detection**|Yepeng Liu et.al.|[2602.20630](http://arxiv.org/abs/2602.20630)|null|
@@ -4676,6 +4688,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**VGG-T $^3$ : Offline Feed-Forward 3D Reconstruction at Scale**|Sven Elflein et.al.|[2602.23361](http://arxiv.org/abs/2602.23361)|null|
+|**2026-02-26**|**WISER: Wider Search, Deeper Thinking, and Adaptive Fusion for Training-Free Zero-Shot Composed Image Retrieval**|Tianyue Wang et.al.|[2602.23029](http://arxiv.org/abs/2602.23029)|null|
+|**2026-02-26**|**Autoregressive Visual Decoding from EEG Signals**|Sicheng Dai et.al.|[2602.22555](http://arxiv.org/abs/2602.22555)|null|
+|**2026-02-26**|**Pix2Key: Controllable Open-Vocabulary Retrieval with Semantic Decomposition and Self-Supervised Visual Dictionary Learning**|Guoyizhe Wei et.al.|[2602.22510](http://arxiv.org/abs/2602.22510)|null|
 |**2026-02-25**|**Global-Aware Edge Prioritization for Pose Graph Initialization**|Tong Wei et.al.|[2602.21963](http://arxiv.org/abs/2602.21963)|null|
 |**2026-02-25**|**Automatic Map Density Selection for Locally-Performant Visual Place Recognition**|Somayeh Hussaini et.al.|[2602.21473](http://arxiv.org/abs/2602.21473)|null|
 |**2026-02-24**|**Seeing Through Words: Controlling Visual Retrieval Quality with Language Models**|Jianglin Lu et.al.|[2602.21175](http://arxiv.org/abs/2602.21175)|null|
