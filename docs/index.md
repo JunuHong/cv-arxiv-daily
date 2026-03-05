@@ -7,13 +7,17 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.04
+## Updated on 2026.03.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**ZipMap: Linear-Time Stateful 3D Reconstruction with Test-Time Training**|Haian Jin et.al.|[2603.04385](http://arxiv.org/abs/2603.04385)|null|
+|**2026-03-04**|**EmbodiedSplat: Online Feed-Forward Semantic 3DGS for Open-Vocabulary 3D Scene Understanding**|Seungjun Lee et.al.|[2603.04254](http://arxiv.org/abs/2603.04254)|null|
+|**2026-03-04**|**NOVA3R: Non-pixel-aligned Visual Transformer for Amodal 3D Reconstruction**|Weirong Chen et.al.|[2603.04179](http://arxiv.org/abs/2603.04179)|null|
+|**2026-03-04**|**Field imaging framework for morphological characterization of aggregates with computer vision: Algorithms and applications**|Haohang Huang et.al.|[2603.03654](http://arxiv.org/abs/2603.03654)|null|
 |**2026-03-03**|**LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory**|Junyi Zhang et.al.|[2603.03269](http://arxiv.org/abs/2603.03269)|null|
 |**2026-03-03**|**VIRGi: View-dependent Instant Recoloring of 3D Gaussians Splats**|Alessio Mazzucchelli et.al.|[2603.02986](http://arxiv.org/abs/2603.02986)|null|
 |**2026-03-03**|**The Dresden Dataset for 4D Reconstruction of Non-Rigid Abdominal Surgical Scenes**|Reuben Docea et.al.|[2603.02985](http://arxiv.org/abs/2603.02985)|null|
@@ -29,7 +33,7 @@ layout: default
 |**2026-03-01**|**UD-SfPNet: An Underwater Descattering Shape-from-Polarization Network for 3D Normal Reconstruction**|Puyun Wang et.al.|[2603.00908](http://arxiv.org/abs/2603.00908)|null|
 |**2026-03-01**|**pySpatial: Generating 3D Visual Programs for Zero-Shot Spatial Reasoning**|Zhanpeng Luo et.al.|[2603.00905](http://arxiv.org/abs/2603.00905)|null|
 |**2026-02-28**|**ArtiFixer: Enhancing and Extending 3D Reconstruction with Auto-Regressive Diffusion Models**|Riccardo de Lutio et.al.|[2603.00492](http://arxiv.org/abs/2603.00492)|null|
-|**2026-02-27**|**EvalMVX: A Unified Benchmarking for Neural 3D Reconstruction under Diverse Multiview Setups**|Zaiyan Yang et.al.|[2602.24065](http://arxiv.org/abs/2602.24065)|null|
+|**2026-03-04**|**EvalMVX: A Unified Benchmarking for Neural 3D Reconstruction under Diverse Multiview Setups**|Zaiyan Yang et.al.|[2602.24065](http://arxiv.org/abs/2602.24065)|null|
 |**2026-02-27**|**SR3R: Rethinking Super-Resolution 3D Reconstruction With Feed-Forward Gaussian Splatting**|Xiang Feng et.al.|[2602.24020](http://arxiv.org/abs/2602.24020)|null|
 |**2026-02-26**|**VGG-T $^3$ : Offline Feed-Forward 3D Reconstruction at Scale**|Sven Elflein et.al.|[2602.23361](http://arxiv.org/abs/2602.23361)|null|
 |**2026-02-26**|**UniScale: Unified Scale-Aware 3D Reconstruction for Multi-View Understanding via Prior Injection for Robotic Perception**|Mohammad Mahdavian et.al.|[2602.23224](http://arxiv.org/abs/2602.23224)|null|
@@ -1199,6 +1203,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Yolo-Key-6D: Single Stage Monocular 6D Pose Estimation with Keypoint Enhancements**|Kemal Alperen Çetiner et.al.|[2603.03879](http://arxiv.org/abs/2603.03879)|null|
 |**2026-02-25**|**UNet-Based Keypoint Regression for 3D Cone Localization in Autonomous Racing**|Mariia Baidachna et.al.|[2602.21904](http://arxiv.org/abs/2602.21904)|null|
 |**2026-03-03**|**From Pairs to Sequences: Track-Aware Policy Gradients for Keypoint Detection**|Yepeng Liu et.al.|[2602.20630](http://arxiv.org/abs/2602.20630)|null|
 |**2026-02-20**|**Morphological Addressing of Identity Basins in Text-to-Image Diffusion Models**|Andrew Fraser et.al.|[2602.18533](http://arxiv.org/abs/2602.18533)|null|
@@ -3897,6 +3902,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**HBRB-BoW: A Retrained Bag-of-Words Vocabulary for ORB-SLAM via Hierarchical BRB-KMeans**|Minjae Lee et.al.|[2603.04144](http://arxiv.org/abs/2603.04144)|null|
+|**2026-03-03**|**Probabilistic Occupancy Grid for Radio-Based SLAM**|Xuhong Li et.al.|[2603.03559](http://arxiv.org/abs/2603.03559)|null|
 |**2026-03-03**|**The Dresden Dataset for 4D Reconstruction of Non-Rigid Abdominal Surgical Scenes**|Reuben Docea et.al.|[2603.02985](http://arxiv.org/abs/2603.02985)|null|
 |**2026-03-03**|**Self-supervised Domain Adaptation for Visual 3D Pose Estimation of Nano-drone Racing Gates by Enforcing Geometric Consistency**|Nicholas Carlotti et.al.|[2603.02936](http://arxiv.org/abs/2603.02936)|null|
 |**2026-03-03**|**Exploiting Double-Bounce Paths in Snapshot Radio SLAM: Bounds, Algorithms and Experiments**|Xi Zhang et.al.|[2603.02832](http://arxiv.org/abs/2603.02832)|null|
@@ -3941,7 +3948,7 @@ layout: default
 |**2026-02-12**|**GSO-SLAM: Bidirectionally Coupled Gaussian Splatting and Direct Visual Odometry**|Jiung Yeon et.al.|[2602.11714](http://arxiv.org/abs/2602.11714)|null|
 |**2026-02-11**|**MDE-VIO: Enhancing Visual-Inertial Odometry Using Learned Depth Priors**|Arda Alniak et.al.|[2602.11323](http://arxiv.org/abs/2602.11323)|null|
 |**2026-02-09**|**Thegra: Graph-based SLAM for Thermal Imagery**|Anastasiia Kornilova et.al.|[2602.08531](http://arxiv.org/abs/2602.08531)|null|
-|**2026-02-09**|**Aerial Manipulation with Contact-Aware Onboard Perception and Hybrid Control**|Yuanzhu Zhan et.al.|[2602.08251](http://arxiv.org/abs/2602.08251)|null|
+|**2026-03-04**|**Aerial Manipulation with Contact-Aware Onboard Perception and Hybrid Control**|Yuanzhu Zhan et.al.|[2602.08251](http://arxiv.org/abs/2602.08251)|null|
 |**2026-02-11**|**Thermal odometry and dense mapping using learned odometry and Gaussian splatting**|Tianhao Zhou et.al.|[2602.07493](http://arxiv.org/abs/2602.07493)|null|
 |**2026-01-28**|**When Simultaneous Localization and Mapping Meets Wireless Communications: A Survey**|Konstantinos Gounis et.al.|[2602.06995](http://arxiv.org/abs/2602.06995)|null|
 |**2026-01-28**|**LangGS-SLAM: Real-Time Language-Feature Gaussian Splatting SLAM**|Seongbo Ha et.al.|[2602.06991](http://arxiv.org/abs/2602.06991)|null|
@@ -4726,6 +4733,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**SSR: A Generic Framework for Text-Aided Map Compression for Localization**|Mohammad Omama et.al.|[2603.04272](http://arxiv.org/abs/2603.04272)|null|
+|**2026-03-04**|**Long-Term Visual Localization in Dynamic Benthic Environments: A Dataset, Footprint-Based Ground Truth, and Visual Place Recognition Benchmark**|Martin Kvisvik Larsen et.al.|[2603.04056](http://arxiv.org/abs/2603.04056)|null|
+|**2026-03-04**|**HE-VPR: Height Estimation Enabled Aerial Visual Place Recognition Against Scale Variance**|Mengfan He et.al.|[2603.04050](http://arxiv.org/abs/2603.04050)|null|
+|**2026-03-04**|**DQE-CIR: Distinctive Query Embeddings through Learnable Attribute Weights and Target Relative Negative Sampling in Composed Image Retrieval**|Geon Park et.al.|[2603.04037](http://arxiv.org/abs/2603.04037)|null|
 |**2026-03-03**|**LOO-PIT predictive model checking**|Herman Tesso et.al.|[2603.02928](http://arxiv.org/abs/2603.02928)|null|
 |**2026-03-03**|**Cross-view geo-localization, Image retrieval, Multiscale geometric modeling, Frequency domain enhancement**|Hongying Zhang et.al.|[2603.02726](http://arxiv.org/abs/2603.02726)|null|
 |**2026-03-02**|**Learning to Read Where to Look: Disease-Aware Vision-Language Pretraining for 3D CT**|Simon Ging et.al.|[2603.02026](http://arxiv.org/abs/2603.02026)|null|
@@ -4738,7 +4749,7 @@ layout: default
 |**2026-02-26**|**Autoregressive Visual Decoding from EEG Signals**|Sicheng Dai et.al.|[2602.22555](http://arxiv.org/abs/2602.22555)|null|
 |**2026-02-26**|**Pix2Key: Controllable Open-Vocabulary Retrieval with Semantic Decomposition and Self-Supervised Visual Dictionary Learning**|Guoyizhe Wei et.al.|[2602.22510](http://arxiv.org/abs/2602.22510)|null|
 |**2026-02-25**|**Global-Aware Edge Prioritization for Pose Graph Initialization**|Tong Wei et.al.|[2602.21963](http://arxiv.org/abs/2602.21963)|null|
-|**2026-02-25**|**Automatic Map Density Selection for Locally-Performant Visual Place Recognition**|Somayeh Hussaini et.al.|[2602.21473](http://arxiv.org/abs/2602.21473)|null|
+|**2026-03-04**|**Automatic Map Density Selection for Locally-Performant Visual Place Recognition**|Somayeh Hussaini et.al.|[2602.21473](http://arxiv.org/abs/2602.21473)|null|
 |**2026-02-24**|**Seeing Through Words: Controlling Visual Retrieval Quality with Language Models**|Jianglin Lu et.al.|[2602.21175](http://arxiv.org/abs/2602.21175)|null|
 |**2026-02-24**|**LST-SLAM: A Stereo Thermal SLAM System for Kilometer-Scale Dynamic Environments**|Zeyu Jiang et.al.|[2602.20925](http://arxiv.org/abs/2602.20925)|null|
 |**2026-02-24**|**Long-Term Multi-Session 3D Reconstruction Under Substantial Appearance Change**|Beverley Gorry et.al.|[2602.20584](http://arxiv.org/abs/2602.20584)|null|
