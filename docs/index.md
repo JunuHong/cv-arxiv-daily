@@ -7,13 +7,19 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.08
+## Updated on 2026.03.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**Rewis3d: Reconstruction Improves Weakly-Supervised Semantic Segmentation**|Jonas Ernst et.al.|[2603.06374](http://arxiv.org/abs/2603.06374)|null|
+|**2026-03-06**|**EntON: Eigenentropy-Optimized Neighborhood Densification in 3D Gaussian Splatting**|Miriam Jäger et.al.|[2603.06216](http://arxiv.org/abs/2603.06216)|null|
+|**2026-03-06**|**FTSplat: Feed-forward Triangle Splatting Network**|Xiong Jinlin et.al.|[2603.05932](http://arxiv.org/abs/2603.05932)|null|
+|**2026-03-06**|**VS3R: Robust Full-frame Video Stabilization via Deep 3D Reconstruction**|Muhua Zhu et.al.|[2603.05851](http://arxiv.org/abs/2603.05851)|null|
+|**2026-03-06**|**Spectral Probing of Feature Upsamplers in 2D-to-3D Scene Reconstruction**|Ling Xiao et.al.|[2603.05787](http://arxiv.org/abs/2603.05787)|null|
+|**2026-03-05**|**From Decoupled to Coupled: Robustness Verification for Learning-based Keypoint Detection with Joint Specifications**|Xusheng Luo et.al.|[2603.05604](http://arxiv.org/abs/2603.05604)|null|
 |**2026-03-05**|**FaceCam: Portrait Video Camera Control via Scale-Aware Conditioning**|Weijie Lyu et.al.|[2603.05506](http://arxiv.org/abs/2603.05506)|null|
 |**2026-03-05**|**RealWonder: Real-Time Physical Action-Conditioned Video Generation**|Wei Liu et.al.|[2603.05449](http://arxiv.org/abs/2603.05449)|null|
 |**2026-03-05**|**OpenFrontier: General Navigation with Visual-Language Grounded Frontiers**|Esteban Padilla et.al.|[2603.05377](http://arxiv.org/abs/2603.05377)|null|
@@ -794,6 +800,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**EventGeM: Global-to-Local Feature Matching for Event-Based Visual Place Recognition**|Adam D. Hines et.al.|[2603.05807](http://arxiv.org/abs/2603.05807)|null|
 |**2026-02-27**|**No Calibration, No Depth, No Problem: Cross-Sensor View Synthesis with 3D Consistency**|Cho-Ying Wu et.al.|[2602.23559](http://arxiv.org/abs/2602.23559)|null|
 |**2026-02-26**|**FlowFixer: Towards Detail-Preserving Subject-Driven Generation**|Jinyoung Jun et.al.|[2602.21402](http://arxiv.org/abs/2602.21402)|null|
 |**2026-02-23**|**Generative 6D Pose Estimation via Conditional Flow Matching**|Amir Hamza et.al.|[2602.19719](http://arxiv.org/abs/2602.19719)|null|
@@ -822,7 +829,7 @@ layout: default
 |**2025-12-26**|**SPIDER: Spatial Image CorresponDence Estimator for Robust Calibration**|Zhimin Shao et.al.|[2511.17750](http://arxiv.org/abs/2511.17750)|null|
 |**2025-11-21**|**MuM: Multi-View Masked Image Modeling for 3D Vision**|David Nordström et.al.|[2511.17309](http://arxiv.org/abs/2511.17309)|null|
 |**2025-11-17**|**SOMA: Feature Gradient Enhanced Affine-Flow Matching for SAR-Optical Registration**|Haodong Wang et.al.|[2511.13168](http://arxiv.org/abs/2511.13168)|null|
-|**2025-11-14**|**The Persistence of Cultural Memory: Investigating Multimodal Iconicity in Diffusion Models**|Maria-Teresa De Rosa Palmini et.al.|[2511.11435](http://arxiv.org/abs/2511.11435)|null|
+|**2026-03-06**|**The Persistence of Cultural Memory: Investigating Multimodal Iconicity in Diffusion Models**|Maria-Teresa De Rosa Palmini et.al.|[2511.11435](http://arxiv.org/abs/2511.11435)|null|
 |**2025-11-08**|**U(PM) $^2$ :Unsupervised polygon matching with pre-trained models for challenging stereo images**|Chang Li et.al.|[2511.05949](http://arxiv.org/abs/2511.05949)|null|
 |**2025-11-05**|**Robust Alignment of the Human Embryo in 3D Ultrasound using PCA and an Ensemble of Heuristic, Atlas-based and Learning-based Classifiers Evaluated on the Rotterdam Periconceptional Cohort**|Nikolai Herrmann et.al.|[2511.03416](http://arxiv.org/abs/2511.03416)|null|
 |**2025-11-04**|**Object Detection as an Optional Basis: A Graph Matching Network for Cross-View UAV Localization**|Tao Liu et.al.|[2511.02489](http://arxiv.org/abs/2511.02489)|null|
@@ -1208,6 +1215,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**From Decoupled to Coupled: Robustness Verification for Learning-based Keypoint Detection with Joint Specifications**|Xusheng Luo et.al.|[2603.05604](http://arxiv.org/abs/2603.05604)|null|
 |**2026-03-04**|**Yolo-Key-6D: Single Stage Monocular 6D Pose Estimation with Keypoint Enhancements**|Kemal Alperen Çetiner et.al.|[2603.03879](http://arxiv.org/abs/2603.03879)|null|
 |**2026-02-25**|**UNet-Based Keypoint Regression for 3D Cone Localization in Autonomous Racing**|Mariia Baidachna et.al.|[2602.21904](http://arxiv.org/abs/2602.21904)|null|
 |**2026-03-03**|**From Pairs to Sequences: Track-Aware Policy Gradients for Keypoint Detection**|Yepeng Liu et.al.|[2602.20630](http://arxiv.org/abs/2602.20630)|null|
@@ -1577,6 +1585,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**FTSplat: Feed-forward Triangle Splatting Network**|Xiong Jinlin et.al.|[2603.05932](http://arxiv.org/abs/2603.05932)|null|
 |**2026-03-05**|**Towards 3D Scene Understanding of Gas Plumes in LWIR Hyperspectral Images Using Neural Radiance Fields**|Scout Jarman et.al.|[2603.05473](http://arxiv.org/abs/2603.05473)|null|
 |**2026-03-05**|**GloSplat: Joint Pose-Appearance Optimization for Faster and More Accurate 3D Reconstruction**|Tianyu Xiong et.al.|[2603.04847](http://arxiv.org/abs/2603.04847)|null|
 |**2026-03-03**|**R3GW: Relightable 3D Gaussians for Outdoor Scenes in the Wild**|Margherita Lea Corona et.al.|[2603.02801](http://arxiv.org/abs/2603.02801)|null|
@@ -3422,6 +3431,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**Transforming Omnidirectional RGB-LiDAR data into 3D Gaussian Splatting**|Semin Bae et.al.|[2603.06061](http://arxiv.org/abs/2603.06061)|null|
+|**2026-03-06**|**Extremely Metal-Poor Galaxies in DESI DR1: Connections to Galaxies in the Early Universe**|Jipeng Sui et.al.|[2603.05934](http://arxiv.org/abs/2603.05934)|null|
 |**2026-03-05**|**Dark3R: Learning Structure from Motion in the Dark**|Andrew Y Guo et.al.|[2603.05330](http://arxiv.org/abs/2603.05330)|null|
 |**2026-03-05**|**CoIn3D: Revisiting Configuration-Invariant Multi-Camera 3D Object Detection**|Zhaonian Kuang et.al.|[2603.05042](http://arxiv.org/abs/2603.05042)|null|
 |**2026-03-05**|**GloSplat: Joint Pose-Appearance Optimization for Faster and More Accurate 3D Reconstruction**|Tianyu Xiong et.al.|[2603.04847](http://arxiv.org/abs/2603.04847)|null|
@@ -3457,7 +3468,7 @@ layout: default
 |**2026-01-12**|**CompNO: A Novel Foundation Model approach for solving Partial Differential Equations**|Hamda Hmida et.al.|[2601.07384](http://arxiv.org/abs/2601.07384)|null|
 |**2026-01-11**|**Bridging Attribution and Open-Set Detection using Graph-Augmented Instance Learning in Synthetic Speech**|Mohd Mujtaba Akhtar et.al.|[2601.07064](http://arxiv.org/abs/2601.07064)|null|
 |**2026-01-11**|**SARA: Scene-Aware Reconstruction Accelerator**|Jee Won Lee et.al.|[2601.06831](http://arxiv.org/abs/2601.06831)|null|
-|**2026-01-09**|**InsSo3D: Inertial Navigation System and 3D Sonar SLAM for turbid environment inspection**|Simon Archieri et.al.|[2601.05805](http://arxiv.org/abs/2601.05805)|null|
+|**2026-03-06**|**InsSo3D: Inertial Navigation System and 3D Sonar SLAM for turbid environment inspection**|Simon Archieri et.al.|[2601.05805](http://arxiv.org/abs/2601.05805)|null|
 |**2025-12-31**|**3D Semantic Segmentation for Post-Disaster Assessment**|Nhut Le et.al.|[2512.24593](http://arxiv.org/abs/2512.24593)|null|
 |**2025-12-11**|**Enhanced Information Security via Wave-Field Selectivity and Structured Wavefront Manipulation**|Yufei Zhao et.al.|[2512.19702](http://arxiv.org/abs/2512.19702)|null|
 |**2025-12-18**|**An evacuation simulator for pedestrian dynamics based on the Social Force Model**|Julián López et.al.|[2512.16887](http://arxiv.org/abs/2512.16887)|null|
@@ -3912,8 +3923,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**KISS-IMU: Self-supervised Inertial Odometry with Motion-balanced Learning and Uncertainty-aware Inference**|Jiwon Choi et.al.|[2603.06205](http://arxiv.org/abs/2603.06205)|null|
 |**2026-03-05**|**Loop Closure via Maximal Cliques in 3D LiDAR-Based SLAM**|Javier Laserna et.al.|[2603.05397](http://arxiv.org/abs/2603.05397)|null|
-|**2026-03-05**|**AIM-SLAM: Dense Monocular SLAM via Adaptive and Informative Multi-View Keyframe Prioritization with Foundation Model**|Jinwoo Jeon et.al.|[2603.05097](http://arxiv.org/abs/2603.05097)|null|
+|**2026-03-06**|**AIM-SLAM: Dense Monocular SLAM via Adaptive and Informative Multi-View Keyframe Prioritization with Foundation Model**|Jinwoo Jeon et.al.|[2603.05097](http://arxiv.org/abs/2603.05097)|null|
 |**2026-03-05**|**Direct Contact-Tolerant Motion Planning With Vision Language Models**|He Li et.al.|[2603.05017](http://arxiv.org/abs/2603.05017)|null|
 |**2026-03-05**|**Integrated cooperative localization of heterogeneous measurement swarm: A unified data-driven method**|Kunrui Ze et.al.|[2603.04932](http://arxiv.org/abs/2603.04932)|null|
 |**2026-03-04**|**Efficient Autonomous Navigation of a Quadruped Robot in Underground Mines on Edge Hardware**|Yixiang Gao et.al.|[2603.04470](http://arxiv.org/abs/2603.04470)|null|
@@ -4006,7 +4018,7 @@ layout: default
 |**2026-01-13**|**AME-2: Agile and Generalized Legged Locomotion via Attention-Based Neural Map Encoding**|Chong Zhang et.al.|[2601.08485](http://arxiv.org/abs/2601.08485)|null|
 |**2026-01-13**|**Efficient Incremental SLAM via Information-Guided and Selective Optimization**|Reza Arablouei et.al.|[2601.08110](http://arxiv.org/abs/2601.08110)|null|
 |**2026-01-12**|**Nonlinear Observer Design for Visual-Inertial Odometry**|Mouaad Boughellaba et.al.|[2601.07156](http://arxiv.org/abs/2601.07156)|null|
-|**2026-01-09**|**InsSo3D: Inertial Navigation System and 3D Sonar SLAM for turbid environment inspection**|Simon Archieri et.al.|[2601.05805](http://arxiv.org/abs/2601.05805)|null|
+|**2026-03-06**|**InsSo3D: Inertial Navigation System and 3D Sonar SLAM for turbid environment inspection**|Simon Archieri et.al.|[2601.05805](http://arxiv.org/abs/2601.05805)|null|
 |**2026-01-09**|**FeatureSLAM: Feature-enriched 3D gaussian splatting SLAM in real time**|Christopher Thirgood et.al.|[2601.05738](http://arxiv.org/abs/2601.05738)|null|
 |**2026-01-08**|**Discrete Fourier Transform-based Point Cloud Compression for Efficient SLAM in Featureless Terrain**|Riku Suzuki et.al.|[2601.04551](http://arxiv.org/abs/2601.04551)|null|
 |**2026-01-08**|**Fast Continuum Robot Shape and External Load State Estimation on SE(3)**|James M. Ferguson et.al.|[2601.04493](http://arxiv.org/abs/2601.04493)|null|
@@ -4748,6 +4760,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**EventGeM: Global-to-Local Feature Matching for Event-Based Visual Place Recognition**|Adam D. Hines et.al.|[2603.05807](http://arxiv.org/abs/2603.05807)|null|
+|**2026-03-06**|**Visual Words Meet BM25: Sparse Auto-Encoder Visual Word Scoring for Image Retrieval**|Donghoon Han et.al.|[2603.05781](http://arxiv.org/abs/2603.05781)|null|
 |**2026-03-05**|**Loop Closure via Maximal Cliques in 3D LiDAR-Based SLAM**|Javier Laserna et.al.|[2603.05397](http://arxiv.org/abs/2603.05397)|null|
 |**2026-03-04**|**PinPoint: Evaluation of Composed Image Retrieval with Explicit Negatives, Multi-Image Queries, and Paraphrase Testing**|Rohan Mahadev et.al.|[2603.04598](http://arxiv.org/abs/2603.04598)|null|
 |**2026-03-04**|**SSR: A Generic Framework for Text-Aided Map Compression for Localization**|Mohammad Omama et.al.|[2603.04272](http://arxiv.org/abs/2603.04272)|null|
