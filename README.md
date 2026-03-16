@@ -26,9 +26,11 @@ Automatically collected computer vision papers from arXiv.
 ### 3D reconstruction
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-03-13**|**Towards Spatio-Temporal World Scene Graph Generation from Monocular Videos**|Rohith Peddi et.al.|[2603.13185](http://arxiv.org/abs/2603.13185)|null|
 |**2026-03-13**|**3DTCR: A Physics-Based Generative Framework for Vortex-Following 3D Reconstruction to Improve Tropical Cyclone Intensity Forecasting**|Jun Liu et.al.|[2603.13049](http://arxiv.org/abs/2603.13049)|null|
 |**2026-03-13**|**CMHANet: A Cross-Modal Hybrid Attention Network for Point Cloud Registration**|Dongxu Zhang et.al.|[2603.12721](http://arxiv.org/abs/2603.12721)|null|
 |**2026-03-13**|**Marker-Based 3D Reconstruction of Aggregates with a Comparative Analysis of 2D and 3D Morphologies**|Haohang Huang et.al.|[2603.12667](http://arxiv.org/abs/2603.12667)|null|
+|**2026-03-13**|**LongStream: Long-Sequence Streaming Autoregressive Visual Geometry**|Chong Cheng et.al.|[2602.13172](http://arxiv.org/abs/2602.13172)|null|
 |**2026-03-12**|**CEI-3D: Collaborative Explicit-Implicit 3D Reconstruction for Realistic and Fine-Grained Object Editing**|Yue Shi et.al.|[2603.11810](http://arxiv.org/abs/2603.11810)|null|
 |**2026-03-12**|**High-Precision 6DOF Pose Estimation via Global Phase Retrieval in Fringe Projection Profilometry for 3D Mapping**|Sehoon Tak et.al.|[2603.11389](http://arxiv.org/abs/2603.11389)|null|
 |**2026-03-11**|**InstantHDR: Single-forward Gaussian Splatting for High Dynamic Range 3D Reconstruction**|Dingqiang Ye et.al.|[2603.11298](http://arxiv.org/abs/2603.11298)|null|
@@ -44,8 +46,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-03-09**|**OSCAR: Occupancy-based Shape Completion via Acoustic Neural Implicit Representations**|Magdalena Wysocki et.al.|[2603.08279](http://arxiv.org/abs/2603.08279)|null|
 |**2026-03-09**|**Speed3R: Sparse Feed-forward 3D Reconstruction Models**|Weining Ren et.al.|[2603.08055](http://arxiv.org/abs/2603.08055)|null|
 |**2026-03-09**|**$L^3$ :Scene-agnostic Visual Localization in the Wild**|Yu Zhang et.al.|[2603.07937](http://arxiv.org/abs/2603.07937)|null|
-|**2026-03-09**|**ZipMap: Linear-Time Stateful 3D Reconstruction via Test-Time Training**|Haian Jin et.al.|[2603.04385](http://arxiv.org/abs/2603.04385)|null|
-|**2026-03-08**|**FrameVGGT: Frame Evidence Rolling Memory for streaming VGGT**|Zhisong Xu et.al.|[2603.07690](http://arxiv.org/abs/2603.07690)|null|
 
 ### Image Matching
 | Publish Date | Title | Authors | PDF | Code |

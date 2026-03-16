@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**Towards Spatio-Temporal World Scene Graph Generation from Monocular Videos**|Rohith Peddi et.al.|[2603.13185](http://arxiv.org/abs/2603.13185)|null|
 |**2026-03-13**|**3DTCR: A Physics-Based Generative Framework for Vortex-Following 3D Reconstruction to Improve Tropical Cyclone Intensity Forecasting**|Jun Liu et.al.|[2603.13049](http://arxiv.org/abs/2603.13049)|null|
 |**2026-03-13**|**CMHANet: A Cross-Modal Hybrid Attention Network for Point Cloud Registration**|Dongxu Zhang et.al.|[2603.12721](http://arxiv.org/abs/2603.12721)|null|
 |**2026-03-13**|**Marker-Based 3D Reconstruction of Aggregates with a Comparative Analysis of 2D and 3D Morphologies**|Haohang Huang et.al.|[2603.12667](http://arxiv.org/abs/2603.12667)|null|
@@ -105,7 +106,7 @@ layout: default
 |**2026-02-15**|**GeoFusionLRM: Geometry-Aware Self-Correction for Consistent 3D Reconstruction**|Ahmet Burak Yildirim et.al.|[2602.14119](http://arxiv.org/abs/2602.14119)|null|
 |**2026-02-14**|**High-fidelity 3D reconstruction for planetary exploration**|Alfonso Martínez-Petersen et.al.|[2602.13909](http://arxiv.org/abs/2602.13909)|null|
 |**2026-02-14**|**Synthetic Dataset Generation and Validation for Robotic Surgery Instrument Segmentation**|Giorgio Chiesa et.al.|[2602.13844](http://arxiv.org/abs/2602.13844)|null|
-|**2026-02-13**|**LongStream: Long-Sequence Streaming Autoregressive Visual Geometry**|Chong Cheng et.al.|[2602.13172](http://arxiv.org/abs/2602.13172)|null|
+|**2026-03-13**|**LongStream: Long-Sequence Streaming Autoregressive Visual Geometry**|Chong Cheng et.al.|[2602.13172](http://arxiv.org/abs/2602.13172)|null|
 |**2026-02-13**|**Implicit-Scale 3D Reconstruction for Multi-Food Volume Estimation from Monocular Images**|Yuhao Chen et.al.|[2602.13041](http://arxiv.org/abs/2602.13041)|null|
 |**2026-02-13**|**HoRAMA: Holistic Reconstruction with Automated Material Assignment for Ray Tracing using NYURay**|Mingjun Ying et.al.|[2602.12942](http://arxiv.org/abs/2602.12942)|null|
 |**2026-02-13**|**Monocular Reconstruction of Neural Tactile Fields**|Pavan Mantripragada et.al.|[2602.12508](http://arxiv.org/abs/2602.12508)|null|
