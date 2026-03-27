@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**How good was my shot? Quantifying Player Skill Level in Table Tennis**|Akihiro Kubota et.al.|[2603.25736](http://arxiv.org/abs/2603.25736)|null|
 |**2026-03-26**|**GaussFusion: Improving 3D Reconstruction in the Wild with A Geometry-Informed Video Generator**|Liyuan Zhu et.al.|[2603.25053](http://arxiv.org/abs/2603.25053)|null|
 |**2026-03-26**|**Few TensoRF: Enhance the Few-shot on Tensorial Radiance Fields**|Thanh-Hai Le et.al.|[2603.25008](http://arxiv.org/abs/2603.25008)|null|
 |**2026-03-26**|**ICTPolarReal: A Polarized Reflection and Material Dataset of Real World Objects**|Jing Yang et.al.|[2603.24912](http://arxiv.org/abs/2603.24912)|null|
@@ -1305,6 +1306,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**Towards Comprehensive Real-Time Scene Understanding in Ophthalmic Surgery through Multimodal Image Fusion**|Nikolo Rohrmoser et.al.|[2603.25555](http://arxiv.org/abs/2603.25555)|null|
 |**2026-03-25**|**Instrument-Splatting++: Towards Controllable Surgical Instrument Digital Twin Using Gaussian Splatting**|Shuojue Yang et.al.|[2603.22792](http://arxiv.org/abs/2603.22792)|null|
 |**2026-03-20**|**Physics-aware neural networks enable robust and full atomic structure determination via low-dose atomic electron tomography**|Yao Zhang et.al.|[2603.19942](http://arxiv.org/abs/2603.19942)|null|
 |**2026-03-13**|**Semantic Aware Feature Extraction for Enhanced 3D Reconstruction**|Ronald Nap et.al.|[2603.13556](http://arxiv.org/abs/2603.13556)|null|
@@ -1687,7 +1689,7 @@ layout: default
 |**2026-03-21**|**GaussianPile: A Unified Sparse Gaussian Splatting Framework for Slice-based Volumetric Reconstruction**|Di Kong et.al.|[2603.20611](http://arxiv.org/abs/2603.20611)|null|
 |**2026-03-20**|**Benchmarking Efficient & Effective Camera Pose Estimation Strategies for Novel View Synthesis**|Jhacson Meza et.al.|[2603.20428](http://arxiv.org/abs/2603.20428)|null|
 |**2026-03-20**|**Generalizable NGP-SR: Generalizable Neural Radiance Fields Super-Resolution via Neural Graph Primitives**|Wanqi Yuan et.al.|[2603.20128](http://arxiv.org/abs/2603.20128)|null|
-|**2026-03-20**|**3D Gaussian Splatting with Self-Constrained Priors for High Fidelity Surface Reconstruction**|Takeshi Noda et.al.|[2603.19682](http://arxiv.org/abs/2603.19682)|null|
+|**2026-03-26**|**3D Gaussian Splatting with Self-Constrained Priors for High Fidelity Surface Reconstruction**|Takeshi Noda et.al.|[2603.19682](http://arxiv.org/abs/2603.19682)|null|
 |**2026-03-18**|**Fast and Generalizable NeRF Architecture Selection for Satellite Scene Reconstruction**|Devjyoti Chakraborty et.al.|[2603.18306](http://arxiv.org/abs/2603.18306)|null|
 |**2026-03-18**|**Neural Radiance Maps for Extraterrestrial Navigation and Path Planning**|Adam Dai et.al.|[2603.17236](http://arxiv.org/abs/2603.17236)|null|
 |**2025-12-31**|**SAC-NeRF: Adaptive Ray Sampling for Neural Radiance Fields via Soft Actor-Critic Reinforcement Learning**|Chenyu Ge et.al.|[2603.15622](http://arxiv.org/abs/2603.15622)|null|
@@ -4949,6 +4951,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**Just Zoom In: Cross-View Geo-Localization via Autoregressive Zooming**|Yunus Talha Erzurumlu et.al.|[2603.25686](http://arxiv.org/abs/2603.25686)|null|
 |**2026-03-26**|**On-Demand Instructional Material Providing Agent Based on MLLM for Tutoring Support**|Takumi Kato et.al.|[2603.25195](http://arxiv.org/abs/2603.25195)|null|
 |**2026-03-25**|**TIGeR: A Unified Framework for Time, Images and Geo-location Retrieval**|David G. Shatwell et.al.|[2603.24749](http://arxiv.org/abs/2603.24749)|null|
 |**2026-03-24**|**Sparse Autoencoders for Interpretable Medical Image Representation Learning**|Philipp Wesp et.al.|[2603.23794](http://arxiv.org/abs/2603.23794)|null|
