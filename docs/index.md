@@ -7,13 +7,16 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.01
+## Updated on 2026.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**MoonAnything: A Vision Benchmark with Large-Scale Lunar Supervised Data**|Clémentine Grethen et.al.|[2604.00682](http://arxiv.org/abs/2604.00682)|null|
+|**2026-04-01**|**Reliev3R: Relieving Feed-forward Reconstruction from Multi-View Geometric Annotations**|Youyu Chen et.al.|[2604.00548](http://arxiv.org/abs/2604.00548)|null|
+|**2026-04-01**|**Think, Act, Build: An Agentic Framework with Vision Language Models for Zero-Shot 3D Visual Grounding**|Haibo Wang et.al.|[2604.00528](http://arxiv.org/abs/2604.00528)|null|
 |**2026-03-31**|**OmniRoam: World Wandering via Long-Horizon Panoramic Video Generation**|Yuheng Liu et.al.|[2603.30045](http://arxiv.org/abs/2603.30045)|null|
 |**2026-03-31**|**AA-Splat: Anti-Aliased Feed-forward Gaussian Splatting**|Taewoo Suh et.al.|[2603.29394](http://arxiv.org/abs/2603.29394)|null|
 |**2026-03-30**|**Stepper: Stepwise Immersive Scene Generation with Multiview Panoramas**|Felix Wimbauer et.al.|[2603.28980](http://arxiv.org/abs/2603.28980)|null|
@@ -967,7 +970,7 @@ layout: default
 |**2025-07-31**|**VMatcher: State-Space Semi-Dense Local Feature Matching**|Ali Youssef et.al.|[2507.23371](http://arxiv.org/abs/2507.23371)|null|
 |**2025-07-30**|**Modality-Aware Feature Matching: A Comprehensive Review of Single- and Cross-Modality Techniques**|Weide Liu et.al.|[2507.22791](http://arxiv.org/abs/2507.22791)|null|
 |**2025-07-25**|**Cross Spatial Temporal Fusion Attention for Remote Sensing Object Detection via Image Feature Matching**|Abu Sadat Mohammad Salehin Amit et.al.|[2507.19118](http://arxiv.org/abs/2507.19118)|null|
-|**2025-07-24**|**A 3D Cross-modal Keypoint Descriptor for MR-US Matching and Registration**|Daniil Morozov et.al.|[2507.18551](http://arxiv.org/abs/2507.18551)|null|
+|**2026-04-01**|**A 3D Cross-modal Keypoint Descriptor for MR-US Matching and Registration**|Daniil Morozov et.al.|[2507.18551](http://arxiv.org/abs/2507.18551)|null|
 |**2025-07-22**|**A Single-step Accurate Fingerprint Registration Method Based on Local Feature Matching**|Yuwei Jia et.al.|[2507.16201](http://arxiv.org/abs/2507.16201)|null|
 |**2025-07-09**|**Dual-Granularity Cross-Modal Identity Association for Weakly-Supervised Text-to-Person Image Matching**|Yafei Zhang et.al.|[2507.06744](http://arxiv.org/abs/2507.06744)|null|
 |**2025-07-05**|**From Query to Explanation: Uni-RAG for Multi-Modal Retrieval-Augmented Learning in STEM**|Xinyi Wu et.al.|[2507.03868](http://arxiv.org/abs/2507.03868)|null|
@@ -1365,7 +1368,7 @@ layout: default
 |**2025-08-07**|**Head Anchor Enhanced Detection and Association for Crowded Pedestrian Tracking**|Zewei Wu et.al.|[2508.05514](http://arxiv.org/abs/2508.05514)|null|
 |**2025-07-31**|**Mitigating Resolution-Drift in Federated Learning: Case of Keypoint Detection**|Taeheon Lim et.al.|[2507.23461](http://arxiv.org/abs/2507.23461)|null|
 |**2025-07-25**|**Cross Spatial Temporal Fusion Attention for Remote Sensing Object Detection via Image Feature Matching**|Abu Sadat Mohammad Salehin Amit et.al.|[2507.19118](http://arxiv.org/abs/2507.19118)|null|
-|**2025-07-24**|**A 3D Cross-modal Keypoint Descriptor for MR-US Matching and Registration**|Daniil Morozov et.al.|[2507.18551](http://arxiv.org/abs/2507.18551)|null|
+|**2026-04-01**|**A 3D Cross-modal Keypoint Descriptor for MR-US Matching and Registration**|Daniil Morozov et.al.|[2507.18551](http://arxiv.org/abs/2507.18551)|null|
 |**2025-07-23**|**CartoonAlive: Towards Expressive Live2D Modeling from Single Portraits**|Chao He et.al.|[2507.17327](http://arxiv.org/abs/2507.17327)|null|
 |**2025-07-21**|**Toward a Real-Time Framework for Accurate Monocular 3D Human Pose Estimation with Geometric Priors**|Mohamed Adjel et.al.|[2507.16850](http://arxiv.org/abs/2507.16850)|null|
 |**2025-07-17**|**DINO-VO: A Feature-based Visual Odometry Leveraging a Visual Foundation Model**|Maulana Bisyir Azhari et.al.|[2507.13145](http://arxiv.org/abs/2507.13145)|null|
@@ -3568,6 +3571,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**Reliev3R: Relieving Feed-forward Reconstruction from Multi-View Geometric Annotations**|Youyu Chen et.al.|[2604.00548](http://arxiv.org/abs/2604.00548)|null|
 |**2026-03-29**|**MV-RoMa: From Pairwise Matching into Multi-View Track Reconstruction**|Jongmin Lee et.al.|[2603.27542](http://arxiv.org/abs/2603.27542)|null|
 |**2026-03-27**|**Drive-Through 3D Vehicle Exterior Reconstruction via Dynamic-Scene SfM and Distortion-Aware Gaussian Splatting**|Nitin Kulkarni et.al.|[2603.26638](http://arxiv.org/abs/2603.26638)|null|
 |**2026-03-26**|**Pose-Free Omnidirectional Gaussian Splatting for 360-Degree Videos with Consistent Depth Priors**|Chuanqing Zhuang et.al.|[2603.23324](http://arxiv.org/abs/2603.23324)|null|
@@ -4079,6 +4083,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**PanoAir: A Panoramic Visual-Inertial SLAM with Cross-Time Real-World UAV Dataset**|Yiyang Wu et.al.|[2604.00852](http://arxiv.org/abs/2604.00852)|null|
+|**2026-04-01**|**Compact Keyframe-Optimized Multi-Agent Gaussian Splatting SLAM**|Monica M. Q. Li et.al.|[2604.00804](http://arxiv.org/abs/2604.00804)|null|
+|**2026-04-01**|**A Dual-Stream Transformer Architecture for Illumination-Invariant TIR-LiDAR Person Tracking**|Yuki Minase et.al.|[2604.00363](http://arxiv.org/abs/2604.00363)|null|
 |**2026-03-31**|**Semantic Zone-Based Map Management for Stable AI-Integrated Mobile Robots**|Huichang Yun et.al.|[2603.29627](http://arxiv.org/abs/2603.29627)|null|
 |**2026-03-31**|**Interacting Multiple Model Proprioceptive Odometry for Legged Robots**|Wanlei Li et.al.|[2603.29383](http://arxiv.org/abs/2603.29383)|null|
 |**2026-03-31**|**M2H-MX: Multi-Task Dense Visual Perception for Real-Time Monocular Spatial Understanding**|U. V. B. L. Udugama et.al.|[2603.29236](http://arxiv.org/abs/2603.29236)|null|
