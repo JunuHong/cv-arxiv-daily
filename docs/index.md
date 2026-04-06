@@ -7,16 +7,18 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.05
+## Updated on 2026.04.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**NavCrafter: Exploring 3D Scenes from a Single Image**|Hongbo Duan et.al.|[2604.02828](http://arxiv.org/abs/2604.02828)|null|
+|**2026-04-02**|**TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction**|Daheng Yin et.al.|[2604.02586](http://arxiv.org/abs/2604.02586)|null|
 |**2026-04-02**|**HyVGGT-VO: Tightly Coupled Hybrid Dense Visual Odometry with Feed-Forward Models**|Junxiang Pan et.al.|[2604.02107](http://arxiv.org/abs/2604.02107)|null|
 |**2026-04-02**|**F3DGS: Federated 3D Gaussian Splatting for Decentralized Multi-Agent World Modeling**|Morui Zhu et.al.|[2604.01605](http://arxiv.org/abs/2604.01605)|null|
-|**2026-04-01**|**UniRecGen: Unifying Multi-View 3D Reconstruction and Generation**|Zhisheng Huang et.al.|[2604.01479](http://arxiv.org/abs/2604.01479)|null|
+|**2026-04-03**|**UniRecGen: Unifying Multi-View 3D Reconstruction and Generation**|Zhisheng Huang et.al.|[2604.01479](http://arxiv.org/abs/2604.01479)|null|
 |**2026-04-01**|**MoonAnything: A Vision Benchmark with Large-Scale Lunar Supervised Data**|Clémentine Grethen et.al.|[2604.00682](http://arxiv.org/abs/2604.00682)|null|
 |**2026-04-01**|**Reliev3R: Relieving Feed-forward Reconstruction from Multi-View Geometric Annotations**|Youyu Chen et.al.|[2604.00548](http://arxiv.org/abs/2604.00548)|null|
 |**2026-04-02**|**Think, Act, Build: An Agentic Framework with Vision Language Models for Zero-Shot 3D Visual Grounding**|Haibo Wang et.al.|[2604.00528](http://arxiv.org/abs/2604.00528)|null|
@@ -31,7 +33,7 @@ layout: default
 |**2026-03-31**|**SceneExpander: Expanding 3D Scenes with Free-Form Inserted Views**|Zijian He et.al.|[2603.27084](http://arxiv.org/abs/2603.27084)|null|
 |**2026-03-26**|**Unblur-SLAM: Dense Neural SLAM for Blurry Inputs**|Qi Zhang et.al.|[2603.26810](http://arxiv.org/abs/2603.26810)|null|
 |**2026-03-27**|**Drive-Through 3D Vehicle Exterior Reconstruction via Dynamic-Scene SfM and Distortion-Aware Gaussian Splatting**|Nitin Kulkarni et.al.|[2603.26638](http://arxiv.org/abs/2603.26638)|null|
-|**2026-03-27**|**Scene Grounding In the Wild**|Tamir Cohen et.al.|[2603.26584](http://arxiv.org/abs/2603.26584)|null|
+|**2026-04-03**|**Scene Grounding In the Wild**|Tamir Cohen et.al.|[2603.26584](http://arxiv.org/abs/2603.26584)|null|
 |**2026-03-27**|**Conditional Diffusion for 3D CT Volume Reconstruction from 2D X-rays**|Martin Rath et.al.|[2603.26509](http://arxiv.org/abs/2603.26509)|null|
 |**2026-03-27**|**FAST3DIS: Feed-forward Anchored Scene Transformer for 3D Instance Segmentation**|Changyang Li et.al.|[2603.25993](http://arxiv.org/abs/2603.25993)|null|
 |**2026-03-26**|**Geo $^\textbf{2}$ : Geometry-Guided Cross-view Geo-Localization and Image Synthesis**|Yancheng Zhang et.al.|[2603.25819](http://arxiv.org/abs/2603.25819)|null|
@@ -1702,6 +1704,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices**|Kim Jun-Seong et.al.|[2604.02836](http://arxiv.org/abs/2604.02836)|null|
 |**2026-04-02**|**GEMM-GS: Accelerating 3D Gaussian Splatting on Tensor Cores with GEMM-Compatible Blending**|Haomin Li et.al.|[2604.02120](http://arxiv.org/abs/2604.02120)|null|
 |**2026-03-30**|**SVGS: Single-View to 3D Object Editing via Gaussian Splatting**|Pengcheng Xue et.al.|[2603.28126](http://arxiv.org/abs/2603.28126)|null|
 |**2026-03-30**|**To View Transform or Not to View Transform: NeRF-based Pre-training Perspective**|Hyeonjun Jeong et.al.|[2603.28090](http://arxiv.org/abs/2603.28090)|null|
@@ -3575,6 +3578,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**Dynamic Risk Generation for Autonomous Driving: Naturalistic Reconstruction of Vehicle-E-Scooter Interactions**|Abin Mathew et.al.|[2604.02573](http://arxiv.org/abs/2604.02573)|null|
 |**2026-04-02**|**Enhanced Polarization Locking in VCSELs**|Zifeng Yuan et.al.|[2604.01857](http://arxiv.org/abs/2604.01857)|null|
 |**2026-04-01**|**Reliev3R: Relieving Feed-forward Reconstruction from Multi-View Geometric Annotations**|Youyu Chen et.al.|[2604.00548](http://arxiv.org/abs/2604.00548)|null|
 |**2026-03-29**|**MV-RoMa: From Pairwise Matching into Multi-View Track Reconstruction**|Jongmin Lee et.al.|[2603.27542](http://arxiv.org/abs/2603.27542)|null|
@@ -4088,6 +4092,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**An Open-Source LiDAR and Monocular Off-Road Autonomous Navigation Stack**|Rémi Marsal et.al.|[2604.03096](http://arxiv.org/abs/2604.03096)|null|
+|**2026-04-03**|**Flash-Mono: Feed-Forward Accelerated Gaussian Splatting Monocular SLAM**|Zicheng Zhang et.al.|[2604.03092](http://arxiv.org/abs/2604.03092)|null|
+|**2026-04-03**|**Geometrically-Constrained Radar-Inertial Odometry via Continuous Point-Pose Uncertainty Modeling**|Wooseong Yang et.al.|[2604.02745](http://arxiv.org/abs/2604.02745)|null|
+|**2026-04-03**|**ALIVE-LIO: Degeneracy-Aware Learning of Inertial Velocity for Enhancing ESKF-Based LiDAR-Inertial Odometry**|Seongjun Kim et.al.|[2604.02706](http://arxiv.org/abs/2604.02706)|null|
+|**2026-04-03**|**VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping**|Yuhan Zhu et.al.|[2604.02696](http://arxiv.org/abs/2604.02696)|null|
 |**2026-04-02**|**HyVGGT-VO: Tightly Coupled Hybrid Dense Visual Odometry with Feed-Forward Models**|Junxiang Pan et.al.|[2604.02107](http://arxiv.org/abs/2604.02107)|null|
 |**2026-04-02**|**PTC-Depth: Pose-Refined Monocular Depth Estimation with Temporal Consistency**|Leezy Han et.al.|[2604.01791](http://arxiv.org/abs/2604.01791)|null|
 |**2026-04-02**|**Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping**|Zhiliu Yang et.al.|[2604.01720](http://arxiv.org/abs/2604.01720)|null|
@@ -5030,7 +5039,7 @@ layout: default
 |**2026-03-14**|**Evaluation of Visual Place Recognition Methods for Image Pair Retrieval in 3D Vision and Robotics**|Dennis Haitz et.al.|[2603.13917](http://arxiv.org/abs/2603.13917)|null|
 |**2026-03-14**|**Sky2Ground: A Benchmark for Site Modeling under Varying Altitude**|Zengyan Wang et.al.|[2603.13740](http://arxiv.org/abs/2603.13740)|null|
 |**2026-03-13**|**A Closed-Form Solution for Debiasing Vision-Language Models with Utility Guarantees Across Modalities and Tasks**|Tangzheng Lian et.al.|[2603.12998](http://arxiv.org/abs/2603.12998)|null|
-|**2026-03-13**|**Text-Phase Synergy Network with Dual Priors for Unsupervised Cross-Domain Image Retrieval**|Jing Yang et.al.|[2603.12711](http://arxiv.org/abs/2603.12711)|null|
+|**2026-04-03**|**Text-Phase Synergy Network with Dual Priors for Unsupervised Cross-Domain Image Retrieval**|Jing Yang et.al.|[2603.12711](http://arxiv.org/abs/2603.12711)|null|
 |**2026-03-13**|**CM-Bench: A Comprehensive Cross-Modal Feature Matching Benchmark Bridging Visible and Infrared Images**|Liangzheng Sun et.al.|[2603.12690](http://arxiv.org/abs/2603.12690)|null|
 |**2026-03-12**|**FBCIR: Balancing Cross-Modal Focuses in Composed Image Retrieval**|Chenchen Zhao et.al.|[2603.11520](http://arxiv.org/abs/2603.11520)|null|
 |**2026-03-12**|**Efficient Cross-View Localization in 6G Space-Air-Ground Integrated Network**|Min Hao et.al.|[2603.11398](http://arxiv.org/abs/2603.11398)|null|
