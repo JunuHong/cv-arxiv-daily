@@ -26,6 +26,8 @@ Automatically collected computer vision papers from arXiv.
 ### 3D reconstruction
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-04-08**|**Fast Spatial Memory with Elastic Test-Time Training**|Ziqiao Ma et.al.|[2604.07350](http://arxiv.org/abs/2604.07350)|null|
+|**2026-04-08**|**Mem3R: Streaming 3D Reconstruction with Hybrid Memory via Test-Time Training**|Changkun Liu et.al.|[2604.07279](http://arxiv.org/abs/2604.07279)|null|
 |**2026-04-08**|**Enhancing MLLM Spatial Understanding via Active 3D Scene Exploration for Multi-Perspective Reasoning**|Jiahua Chen et.al.|[2604.06725](http://arxiv.org/abs/2604.06725)|null|
 |**2026-04-08**|**STAC: Plug-and-Play Spatio-Temporal Aware Cache Compression for Streaming 3D Reconstruction**|Runze Wang et.al.|[2603.20284](http://arxiv.org/abs/2603.20284)|null|
 |**2026-04-07**|**Human Interaction-Aware 3D Reconstruction from a Single Image**|Gwanghyun Kim et.al.|[2604.05436](http://arxiv.org/abs/2604.05436)|null|
@@ -44,8 +46,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-04-03**|**UniRecGen: Unifying Multi-View 3D Reconstruction and Generation**|Zhisheng Huang et.al.|[2604.01479](http://arxiv.org/abs/2604.01479)|null|
 |**2026-04-03**|**Scene Grounding In the Wild**|Tamir Cohen et.al.|[2603.26584](http://arxiv.org/abs/2603.26584)|null|
 |**2026-04-02**|**TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction**|Daheng Yin et.al.|[2604.02586](http://arxiv.org/abs/2604.02586)|null|
-|**2026-04-02**|**HyVGGT-VO: Tightly Coupled Hybrid Dense Visual Odometry with Feed-Forward Models**|Junxiang Pan et.al.|[2604.02107](http://arxiv.org/abs/2604.02107)|null|
-|**2026-04-02**|**F3DGS: Federated 3D Gaussian Splatting for Decentralized Multi-Agent World Modeling**|Morui Zhu et.al.|[2604.01605](http://arxiv.org/abs/2604.01605)|null|
 
 ### Image Matching
 | Publish Date | Title | Authors | PDF | Code |
@@ -146,6 +146,7 @@ Automatically collected computer vision papers from arXiv.
 ### SLAM
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-04-08**|**RoSHI: A Versatile Robot-oriented Suit for Human Data In-the-Wild**|Wenjing Margaret Mao et.al.|[2604.07331](http://arxiv.org/abs/2604.07331)|null|
 |**2026-04-08**|**An RTK-SLAM Dataset for Absolute Accuracy Evaluation in GNSS-Degraded Environments**|Wei Zhang et.al.|[2604.07151](http://arxiv.org/abs/2604.07151)|null|
 |**2026-04-08**|**VGGT-SLAM++**|Avilasha Mandal et.al.|[2604.06830](http://arxiv.org/abs/2604.06830)|null|
 |**2026-04-08**|**Exploring 6D Object Pose Estimation with Deformation**|Zhiqiang Liu et.al.|[2604.06720](http://arxiv.org/abs/2604.06720)|null|
@@ -165,7 +166,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-04-03**|**ALIVE-LIO: Degeneracy-Aware Learning of Inertial Velocity for Enhancing ESKF-Based LiDAR-Inertial Odometry**|Seongjun Kim et.al.|[2604.02706](http://arxiv.org/abs/2604.02706)|null|
 |**2026-04-03**|**VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping**|Yuhan Zhu et.al.|[2604.02696](http://arxiv.org/abs/2604.02696)|null|
 |**2026-04-02**|**HyVGGT-VO: Tightly Coupled Hybrid Dense Visual Odometry with Feed-Forward Models**|Junxiang Pan et.al.|[2604.02107](http://arxiv.org/abs/2604.02107)|null|
-|**2026-04-02**|**PTC-Depth: Pose-Refined Monocular Depth Estimation with Temporal Consistency**|Leezy Han et.al.|[2604.01791](http://arxiv.org/abs/2604.01791)|null|
 
 ### Visual Localization
 | Publish Date | Title | Authors | PDF | Code |

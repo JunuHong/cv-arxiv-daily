@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Fast Spatial Memory with Elastic Test-Time Training**|Ziqiao Ma et.al.|[2604.07350](http://arxiv.org/abs/2604.07350)|null|
+|**2026-04-08**|**Mem3R: Streaming 3D Reconstruction with Hybrid Memory via Test-Time Training**|Changkun Liu et.al.|[2604.07279](http://arxiv.org/abs/2604.07279)|null|
 |**2026-04-08**|**Enhancing MLLM Spatial Understanding via Active 3D Scene Exploration for Multi-Perspective Reasoning**|Jiahua Chen et.al.|[2604.06725](http://arxiv.org/abs/2604.06725)|null|
 |**2026-04-07**|**Human Interaction-Aware 3D Reconstruction from a Single Image**|Gwanghyun Kim et.al.|[2604.05436](http://arxiv.org/abs/2604.05436)|null|
 |**2026-04-07**|**3DTurboQuant: Training-Free Near-Optimal Quantization for 3D Reconstruction Models**|Jae Joong Lee et.al.|[2604.05366](http://arxiv.org/abs/2604.05366)|null|
@@ -4110,6 +4112,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**RoSHI: A Versatile Robot-oriented Suit for Human Data In-the-Wild**|Wenjing Margaret Mao et.al.|[2604.07331](http://arxiv.org/abs/2604.07331)|null|
 |**2026-04-08**|**An RTK-SLAM Dataset for Absolute Accuracy Evaluation in GNSS-Degraded Environments**|Wei Zhang et.al.|[2604.07151](http://arxiv.org/abs/2604.07151)|null|
 |**2026-04-08**|**VGGT-SLAM++**|Avilasha Mandal et.al.|[2604.06830](http://arxiv.org/abs/2604.06830)|null|
 |**2026-04-08**|**Exploring 6D Object Pose Estimation with Deformation**|Zhiqiang Liu et.al.|[2604.06720](http://arxiv.org/abs/2604.06720)|null|
