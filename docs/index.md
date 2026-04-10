@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.09
+## Updated on 2026.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**Brain3D: EEG-to-3D Decoding of Visual Representations via Multimodal Reasoning**|Emanuele Balloni et.al.|[2604.08068](http://arxiv.org/abs/2604.08068)|null|
+|**2026-04-09**|**Sampling-Aware 3D Spatial Analysis in Multiplexed Imaging**|Ido Harlev et.al.|[2604.07890](http://arxiv.org/abs/2604.07890)|null|
 |**2026-04-08**|**Fast Spatial Memory with Elastic Test-Time Training**|Ziqiao Ma et.al.|[2604.07350](http://arxiv.org/abs/2604.07350)|null|
 |**2026-04-08**|**Mem3R: Streaming 3D Reconstruction with Hybrid Memory via Test-Time Training**|Changkun Liu et.al.|[2604.07279](http://arxiv.org/abs/2604.07279)|null|
 |**2026-04-08**|**Enhancing MLLM Spatial Understanding via Active 3D Scene Exploration for Multi-Perspective Reasoning**|Jiahua Chen et.al.|[2604.06725](http://arxiv.org/abs/2604.06725)|null|
@@ -922,6 +924,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Mathematical Analysis of Image Matching Techniques**|Oleh Samoilenko et.al.|[2604.07574](http://arxiv.org/abs/2604.07574)|null|
 |**2026-04-08**|**Improving Local Feature Matching by Entropy-inspired Scale Adaptability and Flow-endowed Local Consistency**|Ke Jin et.al.|[2604.06713](http://arxiv.org/abs/2604.06713)|null|
 |**2026-04-06**|**LoMa: Local Feature Matching Revisited**|David Nordström et.al.|[2604.04931](http://arxiv.org/abs/2604.04931)|null|
 |**2026-03-30**|**AffordMatcher: Affordance Learning in 3D Scenes from Visual Signifiers**|Nghia Vu et.al.|[2603.27970](http://arxiv.org/abs/2603.27970)|null|
@@ -960,7 +963,7 @@ layout: default
 |**2025-12-26**|**SPIDER: Spatial Image CorresponDence Estimator for Robust Calibration**|Zhimin Shao et.al.|[2511.17750](http://arxiv.org/abs/2511.17750)|null|
 |**2025-11-21**|**MuM: Multi-View Masked Image Modeling for 3D Vision**|David Nordström et.al.|[2511.17309](http://arxiv.org/abs/2511.17309)|null|
 |**2025-11-17**|**SOMA: Feature Gradient Enhanced Affine-Flow Matching for SAR-Optical Registration**|Haodong Wang et.al.|[2511.13168](http://arxiv.org/abs/2511.13168)|null|
-|**2026-03-06**|**The Persistence of Cultural Memory: Investigating Multimodal Iconicity in Diffusion Models**|Maria-Teresa De Rosa Palmini et.al.|[2511.11435](http://arxiv.org/abs/2511.11435)|null|
+|**2026-04-09**|**The Persistence of Cultural Memory: Investigating Multimodal Iconicity in Diffusion Models**|Maria-Teresa De Rosa Palmini et.al.|[2511.11435](http://arxiv.org/abs/2511.11435)|null|
 |**2025-11-08**|**U(PM) $^2$ :Unsupervised polygon matching with pre-trained models for challenging stereo images**|Chang Li et.al.|[2511.05949](http://arxiv.org/abs/2511.05949)|null|
 |**2025-11-05**|**Robust Alignment of the Human Embryo in 3D Ultrasound using PCA and an Ensemble of Heuristic, Atlas-based and Learning-based Classifiers Evaluated on the Rotterdam Periconceptional Cohort**|Nikolai Herrmann et.al.|[2511.03416](http://arxiv.org/abs/2511.03416)|null|
 |**2025-11-04**|**Object Detection as an Optional Basis: A Graph Matching Network for Cross-View UAV Localization**|Tao Liu et.al.|[2511.02489](http://arxiv.org/abs/2511.02489)|null|
@@ -1346,6 +1349,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Mathematical Analysis of Image Matching Techniques**|Oleh Samoilenko et.al.|[2604.07574](http://arxiv.org/abs/2604.07574)|null|
 |**2026-04-03**|**ViBA: Implicit Bundle Adjustment with Geometric and Temporal Consistency for Robust Visual Matching**|Xiaoji Niu et.al.|[2604.03377](http://arxiv.org/abs/2604.03377)|null|
 |**2026-03-26**|**Towards Comprehensive Real-Time Scene Understanding in Ophthalmic Surgery through Multimodal Image Fusion**|Nikolo Rohrmoser et.al.|[2603.25555](http://arxiv.org/abs/2603.25555)|null|
 |**2026-03-25**|**Instrument-Splatting++: Towards Controllable Surgical Instrument Digital Twin Using Gaussian Splatting**|Shuojue Yang et.al.|[2603.22792](http://arxiv.org/abs/2603.22792)|null|
@@ -4112,6 +4116,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**TinyDEVO: Deep Event-based Visual Odometry on Ultra-low-power Multi-core Microcontrollers**|Alessandro Marchei et.al.|[2604.08060](http://arxiv.org/abs/2604.08060)|null|
+|**2026-04-09**|**MotionScape: A Large-Scale Real-World Highly Dynamic UAV Video Dataset for World Models**|Zile Guo et.al.|[2604.07991](http://arxiv.org/abs/2604.07991)|null|
 |**2026-04-08**|**RoSHI: A Versatile Robot-oriented Suit for Human Data In-the-Wild**|Wenjing Margaret Mao et.al.|[2604.07331](http://arxiv.org/abs/2604.07331)|null|
 |**2026-04-08**|**An RTK-SLAM Dataset for Absolute Accuracy Evaluation in GNSS-Degraded Environments**|Wei Zhang et.al.|[2604.07151](http://arxiv.org/abs/2604.07151)|null|
 |**2026-04-08**|**VGGT-SLAM++**|Avilasha Mandal et.al.|[2604.06830](http://arxiv.org/abs/2604.06830)|null|
@@ -5042,7 +5048,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-08**|**Learning to Search: A Decision-Based Agent for Knowledge-Based Visual Question Answering**|Zhuohong Chen et.al.|[2604.07146](http://arxiv.org/abs/2604.07146)|null|
+|**2026-04-09**|**Bag of Bags: Adaptive Visual Vocabularies for Genizah Join Image Retrieval**|Sharva Gogawale et.al.|[2604.08138](http://arxiv.org/abs/2604.08138)|null|
+|**2026-04-09**|**SearchAD: Large-Scale Rare Image Retrieval Dataset for Autonomous Driving**|Felix Embacher et.al.|[2604.08008](http://arxiv.org/abs/2604.08008)|null|
+|**2026-04-09**|**Learning to Search: A Decision-Based Agent for Knowledge-Based Visual Question Answering**|Zhuohong Chen et.al.|[2604.07146](http://arxiv.org/abs/2604.07146)|null|
 |**2026-04-08**|**VGGT-SLAM++**|Avilasha Mandal et.al.|[2604.06830](http://arxiv.org/abs/2604.06830)|null|
 |**2026-04-06**|**CraterBench-R: Instance-Level Crater Retrieval for Planetary Scale**|Jichao Fang et.al.|[2604.06245](http://arxiv.org/abs/2604.06245)|null|
 |**2026-04-07**|**Stealthy and Adjustable Text-Guided Backdoor Attacks on Multimodal Pretrained Models**|Yiyang Zhang et.al.|[2604.05809](http://arxiv.org/abs/2604.05809)|null|

@@ -6,7 +6,7 @@
 # CV ArXiv Daily
 Automatically collected computer vision papers from arXiv.
 
-> Updated on 2026.04.09
+> Updated on 2026.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Latest Papers
@@ -26,6 +26,8 @@ Automatically collected computer vision papers from arXiv.
 ### 3D reconstruction
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-04-09**|**Brain3D: EEG-to-3D Decoding of Visual Representations via Multimodal Reasoning**|Emanuele Balloni et.al.|[2604.08068](http://arxiv.org/abs/2604.08068)|null|
+|**2026-04-09**|**Sampling-Aware 3D Spatial Analysis in Multiplexed Imaging**|Ido Harlev et.al.|[2604.07890](http://arxiv.org/abs/2604.07890)|null|
 |**2026-04-08**|**Fast Spatial Memory with Elastic Test-Time Training**|Ziqiao Ma et.al.|[2604.07350](http://arxiv.org/abs/2604.07350)|null|
 |**2026-04-08**|**Mem3R: Streaming 3D Reconstruction with Hybrid Memory via Test-Time Training**|Changkun Liu et.al.|[2604.07279](http://arxiv.org/abs/2604.07279)|null|
 |**2026-04-08**|**Enhancing MLLM Spatial Understanding via Active 3D Scene Exploration for Multi-Perspective Reasoning**|Jiahua Chen et.al.|[2604.06725](http://arxiv.org/abs/2604.06725)|null|
@@ -44,12 +46,12 @@ Automatically collected computer vision papers from arXiv.
 |**2026-04-04**|**Learning 3D Reconstruction with Priors in Test Time**|Lei Zhou et.al.|[2604.03878](http://arxiv.org/abs/2604.03878)|null|
 |**2026-04-03**|**NavCrafter: Exploring 3D Scenes from a Single Image**|Hongbo Duan et.al.|[2604.02828](http://arxiv.org/abs/2604.02828)|null|
 |**2026-04-03**|**UniRecGen: Unifying Multi-View 3D Reconstruction and Generation**|Zhisheng Huang et.al.|[2604.01479](http://arxiv.org/abs/2604.01479)|null|
-|**2026-04-03**|**Scene Grounding In the Wild**|Tamir Cohen et.al.|[2603.26584](http://arxiv.org/abs/2603.26584)|null|
-|**2026-04-02**|**TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction**|Daheng Yin et.al.|[2604.02586](http://arxiv.org/abs/2604.02586)|null|
 
 ### Image Matching
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-04-09**|**The Persistence of Cultural Memory: Investigating Multimodal Iconicity in Diffusion Models**|Maria-Teresa De Rosa Palmini et.al.|[2511.11435](http://arxiv.org/abs/2511.11435)|null|
+|**2026-04-08**|**Mathematical Analysis of Image Matching Techniques**|Oleh Samoilenko et.al.|[2604.07574](http://arxiv.org/abs/2604.07574)|null|
 |**2026-04-08**|**Improving Local Feature Matching by Entropy-inspired Scale Adaptability and Flow-endowed Local Consistency**|Ke Jin et.al.|[2604.06713](http://arxiv.org/abs/2604.06713)|null|
 |**2026-04-06**|**LoMa: Local Feature Matching Revisited**|David Nordström et.al.|[2604.04931](http://arxiv.org/abs/2604.04931)|null|
 |**2026-04-01**|**A 3D Cross-modal Keypoint Descriptor for MR-US Matching and Registration**|Daniil Morozov et.al.|[2507.18551](http://arxiv.org/abs/2507.18551)|null|
@@ -65,15 +67,14 @@ Automatically collected computer vision papers from arXiv.
 |**2026-03-10**|**Rydberg Vision via frugal Quantum Image Fingerprinting**|Vikrant Sharma et.al.|[2512.18451](http://arxiv.org/abs/2512.18451)|null|
 |**2026-03-09**|**Speed3R: Sparse Feed-forward 3D Reconstruction Models**|Weining Ren et.al.|[2603.08055](http://arxiv.org/abs/2603.08055)|null|
 |**2026-03-06**|**EventGeM: Global-to-Local Feature Matching for Event-Based Visual Place Recognition**|Adam D. Hines et.al.|[2603.05807](http://arxiv.org/abs/2603.05807)|null|
-|**2026-03-06**|**The Persistence of Cultural Memory: Investigating Multimodal Iconicity in Diffusion Models**|Maria-Teresa De Rosa Palmini et.al.|[2511.11435](http://arxiv.org/abs/2511.11435)|null|
 |**2026-02-27**|**No Calibration, No Depth, No Problem: Cross-Sensor View Synthesis with 3D Consistency**|Cho-Ying Wu et.al.|[2602.23559](http://arxiv.org/abs/2602.23559)|null|
 |**2026-02-26**|**FlowFixer: Towards Detail-Preserving Subject-Driven Generation**|Jinyoung Jun et.al.|[2602.21402](http://arxiv.org/abs/2602.21402)|null|
 |**2026-02-25**|**Loc $^2$ : Interpretable Cross-View Localization via Depth-Lifted Local Feature Matching**|Zimin Xia et.al.|[2509.09792](http://arxiv.org/abs/2509.09792)|null|
-|**2026-02-23**|**Generative 6D Pose Estimation via Conditional Flow Matching**|Amir Hamza et.al.|[2602.19719](http://arxiv.org/abs/2602.19719)|null|
 
 ### Keypoint Detection
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-04-08**|**Mathematical Analysis of Image Matching Techniques**|Oleh Samoilenko et.al.|[2604.07574](http://arxiv.org/abs/2604.07574)|null|
 |**2026-04-03**|**ViBA: Implicit Bundle Adjustment with Geometric and Temporal Consistency for Robust Visual Matching**|Xiaoji Niu et.al.|[2604.03377](http://arxiv.org/abs/2604.03377)|null|
 |**2026-04-01**|**A 3D Cross-modal Keypoint Descriptor for MR-US Matching and Registration**|Daniil Morozov et.al.|[2507.18551](http://arxiv.org/abs/2507.18551)|null|
 |**2026-03-30**|**Off The Grid: Detection of Primitives for Feed-Forward 3D Gaussian Splatting**|Arthur Moreau et.al.|[2512.15508](http://arxiv.org/abs/2512.15508)|null|
@@ -93,7 +94,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-02-05**|**DroneKey++: A Size Prior-free Method and New Benchmark for Drone 3D Pose Estimation from Sequential Images**|Seo-Bin Hwang et.al.|[2602.06211](http://arxiv.org/abs/2602.06211)|null|
 |**2026-01-28**|**Splat Feature Solver**|Butian Xiong et.al.|[2508.12216](http://arxiv.org/abs/2508.12216)|null|
 |**2026-01-22**|**Coarse-to-Fine Non-rigid Multi-modal Image Registration for Historical Panel Paintings based on Crack Structures**|Aline Sindel et.al.|[2601.16348](http://arxiv.org/abs/2601.16348)|null|
-|**2026-01-21**|**ZENITH: Automated Gradient Norm Informed Stochastic Optimization**|Dhrubo Saha et.al.|[2601.15212](http://arxiv.org/abs/2601.15212)|null|
 
 ### NeRF
 | Publish Date | Title | Authors | PDF | Code |
@@ -146,6 +146,8 @@ Automatically collected computer vision papers from arXiv.
 ### SLAM
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-04-09**|**TinyDEVO: Deep Event-based Visual Odometry on Ultra-low-power Multi-core Microcontrollers**|Alessandro Marchei et.al.|[2604.08060](http://arxiv.org/abs/2604.08060)|null|
+|**2026-04-09**|**MotionScape: A Large-Scale Real-World Highly Dynamic UAV Video Dataset for World Models**|Zile Guo et.al.|[2604.07991](http://arxiv.org/abs/2604.07991)|null|
 |**2026-04-08**|**RoSHI: A Versatile Robot-oriented Suit for Human Data In-the-Wild**|Wenjing Margaret Mao et.al.|[2604.07331](http://arxiv.org/abs/2604.07331)|null|
 |**2026-04-08**|**An RTK-SLAM Dataset for Absolute Accuracy Evaluation in GNSS-Degraded Environments**|Wei Zhang et.al.|[2604.07151](http://arxiv.org/abs/2604.07151)|null|
 |**2026-04-08**|**VGGT-SLAM++**|Avilasha Mandal et.al.|[2604.06830](http://arxiv.org/abs/2604.06830)|null|
@@ -164,13 +166,13 @@ Automatically collected computer vision papers from arXiv.
 |**2026-04-03**|**Flash-Mono: Feed-Forward Accelerated Gaussian Splatting Monocular SLAM**|Zicheng Zhang et.al.|[2604.03092](http://arxiv.org/abs/2604.03092)|null|
 |**2026-04-03**|**Geometrically-Constrained Radar-Inertial Odometry via Continuous Point-Pose Uncertainty Modeling**|Wooseong Yang et.al.|[2604.02745](http://arxiv.org/abs/2604.02745)|null|
 |**2026-04-03**|**ALIVE-LIO: Degeneracy-Aware Learning of Inertial Velocity for Enhancing ESKF-Based LiDAR-Inertial Odometry**|Seongjun Kim et.al.|[2604.02706](http://arxiv.org/abs/2604.02706)|null|
-|**2026-04-03**|**VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping**|Yuhan Zhu et.al.|[2604.02696](http://arxiv.org/abs/2604.02696)|null|
-|**2026-04-02**|**HyVGGT-VO: Tightly Coupled Hybrid Dense Visual Odometry with Feed-Forward Models**|Junxiang Pan et.al.|[2604.02107](http://arxiv.org/abs/2604.02107)|null|
 
 ### Visual Localization
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
-|**2026-04-08**|**Learning to Search: A Decision-Based Agent for Knowledge-Based Visual Question Answering**|Zhuohong Chen et.al.|[2604.07146](http://arxiv.org/abs/2604.07146)|null|
+|**2026-04-09**|**Bag of Bags: Adaptive Visual Vocabularies for Genizah Join Image Retrieval**|Sharva Gogawale et.al.|[2604.08138](http://arxiv.org/abs/2604.08138)|null|
+|**2026-04-09**|**SearchAD: Large-Scale Rare Image Retrieval Dataset for Autonomous Driving**|Felix Embacher et.al.|[2604.08008](http://arxiv.org/abs/2604.08008)|null|
+|**2026-04-09**|**Learning to Search: A Decision-Based Agent for Knowledge-Based Visual Question Answering**|Zhuohong Chen et.al.|[2604.07146](http://arxiv.org/abs/2604.07146)|null|
 |**2026-04-08**|**VGGT-SLAM++**|Avilasha Mandal et.al.|[2604.06830](http://arxiv.org/abs/2604.06830)|null|
 |**2026-04-07**|**Stealthy and Adjustable Text-Guided Backdoor Attacks on Multimodal Pretrained Models**|Yiyang Zhang et.al.|[2604.05809](http://arxiv.org/abs/2604.05809)|null|
 |**2026-04-07**|**WRF4CIR: Weight-Regularized Fine-Tuning Network for Composed Image Retrieval**|Yizhuo Xu et.al.|[2604.05583](http://arxiv.org/abs/2604.05583)|null|
@@ -188,8 +190,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-03-27**|**Beyond MACs: Hardware Efficient Architecture Design for Vision Backbones**|Moritz Nottebaum et.al.|[2603.26551](http://arxiv.org/abs/2603.26551)|null|
 |**2026-03-27**|**HINT: Composed Image Retrieval with Dual-path Compositional Contextualized Network**|Mingyu Zhang et.al.|[2603.26341](http://arxiv.org/abs/2603.26341)|null|
 |**2026-03-27**|**4DRaL: Bridging 4D Radar with LiDAR for Place Recognition using Knowledge Distillation**|Ningyuan Huang et.al.|[2603.26206](http://arxiv.org/abs/2603.26206)|null|
-|**2026-03-27**|**IRIS-SLAM: Unified Geo-Instance Representations for Robust Semantic Localization and Mapping**|Tingyang Xiao et.al.|[2602.18709](http://arxiv.org/abs/2602.18709)|null|
-|**2026-03-26**|**Few Shots Text to Image Retrieval: New Benchmarking Dataset and Optimization Methods**|Ofer Idan et.al.|[2603.25891](http://arxiv.org/abs/2603.25891)|null|
 
 See the [full archive](./docs/daily_archive.md) for more papers.
 
