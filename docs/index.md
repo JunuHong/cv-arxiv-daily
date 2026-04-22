@@ -7,13 +7,18 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.21
+## Updated on 2026.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model**|Yutian Chen et.al.|[2604.19747](http://arxiv.org/abs/2604.19747)|null|
+|**2026-04-21**|**Paparazzo: Active Mapping of Moving 3D Objects**|Davide Allegro et.al.|[2604.19556](http://arxiv.org/abs/2604.19556)|null|
+|**2026-04-21**|**Unposed-to-3D: Learning Simulation-Ready Vehicles from Real-World Images**|Hongyuan Liu et.al.|[2604.19257](http://arxiv.org/abs/2604.19257)|null|
+|**2026-04-21**|**BALTIC: A Benchmark and Cross-Domain Strategy for 3D Reconstruction Across Air and Underwater Domains Under Varying Illumination**|Michele Grimaldi et.al.|[2604.19133](http://arxiv.org/abs/2604.19133)|null|
+|**2026-04-21**|**RoomRecon: High-Quality Textured Room Layout Reconstruction on Mobile Devices**|Seok Joon Kim et.al.|[2604.19025](http://arxiv.org/abs/2604.19025)|null|
 |**2026-04-20**|**ToFiE, a Topology-aware Fiber Extraction workflow for 3D reconstruction of dense and heterogeneous biological fiber networks from microscopy images**|Risa Togo et.al.|[2604.18230](http://arxiv.org/abs/2604.18230)|null|
 |**2026-04-20**|**AI Approach for MRI-only Full-Spine Vertebral Segmentation and 3D Reconstruction in Paediatric Scoliosis**|Nathasha Naranpanawa et.al.|[2604.17846](http://arxiv.org/abs/2604.17846)|null|
 |**2026-04-20**|**Score-Based Matching with Target Guidance for Cryo-EM Denoising**|Xiaoqi Wu et.al.|[2604.17734](http://arxiv.org/abs/2604.17734)|null|
@@ -58,7 +63,7 @@ layout: default
 |**2026-04-08**|**Enhancing MLLM Spatial Understanding via Active 3D Scene Exploration for Multi-Perspective Reasoning**|Jiahua Chen et.al.|[2604.06725](http://arxiv.org/abs/2604.06725)|null|
 |**2026-04-07**|**Human Interaction-Aware 3D Reconstruction from a Single Image**|Gwanghyun Kim et.al.|[2604.05436](http://arxiv.org/abs/2604.05436)|null|
 |**2026-04-07**|**3DTurboQuant: Training-Free Near-Optimal Quantization for 3D Reconstruction Models**|Jae Joong Lee et.al.|[2604.05366](http://arxiv.org/abs/2604.05366)|null|
-|**2026-04-07**|**SmokeGS-R: Physics-Guided Pseudo-Clean 3DGS for Real-World Multi-View Smoke Restoration**|Xueming Fu et.al.|[2604.05301](http://arxiv.org/abs/2604.05301)|null|
+|**2026-04-21**|**SmokeGS-R: Physics-Guided Pseudo-Clean 3DGS for Real-World Multi-View Smoke Restoration**|Xueming Fu et.al.|[2604.05301](http://arxiv.org/abs/2604.05301)|null|
 |**2026-04-06**|**Coverage Optimization for Camera View Selection**|Timothy Chen et.al.|[2604.05259](http://arxiv.org/abs/2604.05259)|null|
 |**2026-04-06**|**LSRM: High-Fidelity Object-Centric Reconstruction via Scaled Context Windows**|Zhengqin Li et.al.|[2604.05182](http://arxiv.org/abs/2604.05182)|null|
 |**2026-04-06**|**LoMa: Local Feature Matching Revisited**|David Nordström et.al.|[2604.04931](http://arxiv.org/abs/2604.04931)|null|
@@ -1773,6 +1778,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**OT-UVGS: Revisiting UV Mapping for Gaussian Splatting as a Capacity Allocation Problem**|Byunghyun Kim et.al.|[2604.19127](http://arxiv.org/abs/2604.19127)|null|
 |**2026-04-20**|**A Comparative Evaluation of Geometric Accuracy in NeRF and Gaussian Splatting**|Mikolaj Zielinski et.al.|[2604.18205](http://arxiv.org/abs/2604.18205)|null|
 |**2026-04-20**|**MU-GeNeRF: Multi-view Uncertainty-guided Generalizable Neural Radiance Fields for Distractor-aware Scene**|Wenjie Mu et.al.|[2604.17965](http://arxiv.org/abs/2604.17965)|null|
 |**2026-04-20**|**PCM-NeRF: Probabilistic Camera Modeling for Neural Radiance Fields under Pose Uncertainty**|Shravan Venkatraman et.al.|[2604.17831](http://arxiv.org/abs/2604.17831)|null|
@@ -3661,6 +3667,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**BALTIC: A Benchmark and Cross-Domain Strategy for 3D Reconstruction Across Air and Underwater Domains Under Varying Illumination**|Michele Grimaldi et.al.|[2604.19133](http://arxiv.org/abs/2604.19133)|null|
 |**2026-04-20**|**PCM-NeRF: Probabilistic Camera Modeling for Neural Radiance Fields under Pose Uncertainty**|Shravan Venkatraman et.al.|[2604.17831](http://arxiv.org/abs/2604.17831)|null|
 |**2026-04-17**|**PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems**|Weijie Wang et.al.|[2604.16540](http://arxiv.org/abs/2604.16540)|null|
 |**2026-04-15**|**Geometrically Consistent Multi-View Scene Generation from Freehand Sketches**|Ahmed Bourouis et.al.|[2604.14302](http://arxiv.org/abs/2604.14302)|null|
@@ -4184,6 +4191,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**Coherent Direct Multipath SLAM**|Benjamin J. B. Deutschmann et.al.|[2604.19723](http://arxiv.org/abs/2604.19723)|null|
+|**2026-04-20**|**Feasibility of Indoor Frame-Wise Lidar Semantic Segmentation via Distillation from Visual Foundation Model**|Haiyang Wu et.al.|[2604.18831](http://arxiv.org/abs/2604.18831)|null|
 |**2026-04-19**|**CAR-EnKF: A Covariance-Adaptive and Recalibrated Ensemble Kalman Filter Framework**|Shida Jiang et.al.|[2604.17343](http://arxiv.org/abs/2604.17343)|null|
 |**2026-04-13**|**A Survey of Spatial Memory Representations for Efficient Robot Navigation**|Ma. Madecheen S. Pangaliman et.al.|[2604.16482](http://arxiv.org/abs/2604.16482)|null|
 |**2026-04-17**|**Environment-Adaptive Solid-State LiDAR-Inertial Odometry**|Zhi Zhang et.al.|[2604.15864](http://arxiv.org/abs/2604.15864)|null|
@@ -4201,7 +4210,7 @@ layout: default
 |**2026-04-20**|**Uplink Single-Snapshot Frugal SLAM in Phase-Coherent Distributed MIMO Systems**|Yu Ge et.al.|[2604.13807](http://arxiv.org/abs/2604.13807)|null|
 |**2026-04-15**|**UNRIO: Uncertainty-Aware Velocity Learning for Radar-Inertial Odometry**|Jui-Te Huang et.al.|[2604.13584](http://arxiv.org/abs/2604.13584)|null|
 |**2026-04-15**|**RadarSplat-RIO: Indoor Radar-Inertial Odometry with Gaussian Splatting-Based Radar Bundle Adjustment**|Pou-Chun Kung et.al.|[2604.13492](http://arxiv.org/abs/2604.13492)|null|
-|**2026-04-14**|**RMGS-SLAM: Real-time Multi-sensor Gaussian Splatting SLAM**|Dongen Li et.al.|[2604.12942](http://arxiv.org/abs/2604.12942)|null|
+|**2026-04-21**|**RMGS-SLAM: Real-time Multi-sensor Gaussian Splatting SLAM**|Dongen Li et.al.|[2604.12942](http://arxiv.org/abs/2604.12942)|null|
 |**2026-04-14**|**GGD-SLAM: Monocular 3DGS SLAM Powered by Generalizable Motion Model for Dynamic Environments**|Yi Liu et.al.|[2604.12837](http://arxiv.org/abs/2604.12837)|null|
 |**2026-04-13**|**3DRO: Lidar-level SE(3) Direct Radar Odometry Using a 2D Imaging Radar and a Gyroscope**|Cedric Le Gentil et.al.|[2604.12027](http://arxiv.org/abs/2604.12027)|null|
 |**2026-04-13**|**ReefMapGS: Enabling Large-Scale Underwater Reconstruction by Closing the Loop Between Multimodal SLAM and Gaussian Splatting**|Daniel Yang et.al.|[2604.11992](http://arxiv.org/abs/2604.11992)|null|
@@ -4279,7 +4288,7 @@ layout: default
 |**2026-03-24**|**PA-LVIO: Real-Time LiDAR-Visual-Inertial Odometry and Mapping with Pose-Only Bundle Adjustment**|Hailiang Tang et.al.|[2603.16228](http://arxiv.org/abs/2603.16228)|null|
 |**2026-03-17**|**SE(3)-LIO: Smooth IMU Propagation With Jointly Distributed Poses on SE(3) Manifold for Accurate and Robust LiDAR-Inertial Odometry**|Gunhee Shin et.al.|[2603.16118](http://arxiv.org/abs/2603.16118)|null|
 |**2026-03-16**|**Perception-Aware Autonomous Exploration in Feature-Limited Environments**|Moji Shi et.al.|[2603.15605](http://arxiv.org/abs/2603.15605)|null|
-|**2026-03-16**|**On the Derivation of Tightly-Coupled LiDAR-Inertial Odometry with VoxelMap**|Zhihao Zhan et.al.|[2603.15471](http://arxiv.org/abs/2603.15471)|null|
+|**2026-04-21**|**On the Derivation of Tightly-Coupled LiDAR-Inertial Odometry with VoxelMap**|Zhihao Zhan et.al.|[2603.15471](http://arxiv.org/abs/2603.15471)|null|
 |**2026-03-16**|**GNIO: Gated Neural Inertial Odometry**|Dapeng Feng et.al.|[2603.15281](http://arxiv.org/abs/2603.15281)|null|
 |**2026-03-16**|**Thermal Image Refinement with Depth Estimation using Recurrent Networks for Monocular ORB-SLAM3**|Hürkan Şahin et.al.|[2603.14998](http://arxiv.org/abs/2603.14998)|null|
 |**2026-03-16**|**Intelligent Control of Differential Drive Robots Subject to Unmodeled Dynamics with EKF-based State Estimation**|Amos Alwala et.al.|[2603.14940](http://arxiv.org/abs/2603.14940)|null|
@@ -5144,6 +5153,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**Air-Know: Arbiter-Calibrated Knowledge-Internalizing Robust Network for Composed Image Retrieval**|Zhiheng Fu et.al.|[2604.19386](http://arxiv.org/abs/2604.19386)|null|
 |**2026-04-20**|**T-REN: Learning Text-Aligned Region Tokens Improves Dense Vision-Language Alignment and Scalability**|Savya Khosla et.al.|[2604.18573](http://arxiv.org/abs/2604.18573)|null|
 |**2026-04-20**|**INTENT: Invariance and Discrimination-aware Noise Mitigation for Robust Composed Image Retrieval**|Zhiwei Chen et.al.|[2604.18051](http://arxiv.org/abs/2604.18051)|null|
 |**2026-04-20**|**HABIT: Chrono-Synergia Robust Progressive Learning Framework for Composed Image Retrieval**|Zixu Li et.al.|[2604.18037](http://arxiv.org/abs/2604.18037)|null|
