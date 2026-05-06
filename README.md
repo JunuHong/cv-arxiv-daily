@@ -6,7 +6,7 @@
 # CV ArXiv Daily
 Automatically collected computer vision papers from arXiv.
 
-> Updated on 2026.05.05
+> Updated on 2026.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Latest Papers
@@ -26,6 +26,10 @@ Automatically collected computer vision papers from arXiv.
 ### 3D reconstruction
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-05-05**|**deSEO: Physics-Aware Dataset Creation for High-Resolution Satellite Image Shadow Removal**|Lorenzo Beltrame et.al.|[2605.03610](http://arxiv.org/abs/2605.03610)|null|
+|**2026-05-05**|**First Shape, Then Meaning: Efficient Geometry and Semantics Learning for Indoor Reconstruction**|Remi Chierchia et.al.|[2605.03463](http://arxiv.org/abs/2605.03463)|null|
+|**2026-05-05**|**MK-ResRecon: Multi-Kernel Residual Framework for Texture-Aware 3D MRI Refinement from Sparse 2D Slices**|Prajyot Pyati et.al.|[2605.03432](http://arxiv.org/abs/2605.03432)|null|
+|**2026-05-05**|**Mix3R: Mixing Feed-forward Reconstruction and Generative 3D Priors for Joint Multi-view Aligned 3D Reconstruction and Pose Estimation**|Siyou Lin et.al.|[2605.03359](http://arxiv.org/abs/2605.03359)|null|
 |**2026-05-04**|**A study of the kinematic and volumetric co-evolution of Earth-directed CMEs**|Ashutosh Pattnaik et.al.|[2605.02828](http://arxiv.org/abs/2605.02828)|null|
 |**2026-05-03**|**DP-SfM: Dual-Pixel Structure-from-Motion without Scale Ambiguity**|Lilika Makabe et.al.|[2605.01852](http://arxiv.org/abs/2605.01852)|null|
 |**2026-05-03**|**Profile-Specific 3DMM Regression from a Single Lateral Face Image**|Taiki Kanaya et.al.|[2605.01746](http://arxiv.org/abs/2605.01746)|null|
@@ -42,10 +46,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-04-29**|**DepthPilot: From Controllability to Interpretability in Colonoscopy Video Generation**|Junhu Fu et.al.|[2604.26232](http://arxiv.org/abs/2604.26232)|null|
 |**2026-04-29**|**NTIRE 2026 3D Restoration and Reconstruction in Real-world Adverse Conditions: RealX3D Challenge Results**|Shuhong Liu et.al.|[2604.04135](http://arxiv.org/abs/2604.04135)|null|
 |**2026-04-28**|**Generalizable 3D Gaussian Splatting enabled Semantic Coding for Real-Time Immersive Video Communications**|Dingxi Yang et.al.|[2604.25330](http://arxiv.org/abs/2604.25330)|null|
-|**2026-04-28**|**BALTIC: A Benchmark and Cross-Domain Strategy for 3D Reconstruction Across Air and Underwater Domains Under Varying Illumination**|Michele Grimaldi et.al.|[2604.19133](http://arxiv.org/abs/2604.19133)|null|
-|**2026-04-27**|**Large-Scale Photogrammetric Documentation of St. John's Co-Cathedral: A Workflow for Cultural Heritage Preservation**|Matthew Kenely et.al.|[2604.24316](http://arxiv.org/abs/2604.24316)|null|
-|**2026-04-26**|**Bringing a Personal Point of View: Evaluating Dynamic 3D Gaussian Splatting for Egocentric Scene Reconstruction**|Jan Warchocki et.al.|[2604.23803](http://arxiv.org/abs/2604.23803)|null|
-|**2026-04-26**|**PhysLayer: Language-Guided Layered Animation with Depth-Aware Physics**|Tianyidan Xie et.al.|[2604.23574](http://arxiv.org/abs/2604.23574)|null|
 
 ### Image Matching
 | Publish Date | Title | Authors | PDF | Code |
@@ -122,7 +122,7 @@ Automatically collected computer vision papers from arXiv.
 ### SFM
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
-|**2026-05-04**|**Permutation Routing on Ramanujan Hypergraphs with Applications to Neutral Atom Quantum Architectures**|Joshua M. Courtney et.al.|[2605.02498](http://arxiv.org/abs/2605.02498)|null|
+|**2026-05-05**|**Permutation Routing on Ramanujan Hypergraphs with Applications to Neutral Atom Quantum Architectures**|Joshua M. Courtney et.al.|[2605.02498](http://arxiv.org/abs/2605.02498)|null|
 |**2026-05-03**|**DP-SfM: Dual-Pixel Structure-from-Motion without Scale Ambiguity**|Lilika Makabe et.al.|[2605.01852](http://arxiv.org/abs/2605.01852)|null|
 |**2026-05-01**|**PEARLS: Two Distinct Populations of AGN Hosts Moving Between Star Formation and Quiescence**|Gibson B. Bowling et.al.|[2605.00822](http://arxiv.org/abs/2605.00822)|null|
 |**2026-05-01**|**2D-SuGaR: Surface-Aware Gaussian Splatting for Geometrically Accurate Mesh Reconstruction**|Prajwal Gupta C. R. et.al.|[2605.00569](http://arxiv.org/abs/2605.00569)|null|
@@ -146,6 +146,7 @@ Automatically collected computer vision papers from arXiv.
 ### SLAM
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-05-05**|**Robust Visual SLAM for UAV Navigation in GPS-Denied and Degraded Environments: A Multi-Paradigm Evaluation and Deployment Study**|Prasoon Kumar et.al.|[2605.03678](http://arxiv.org/abs/2605.03678)|null|
 |**2026-05-04**|**DynoSLAM: Dynamic SLAM with Generative Graph Neural Networks for Real-World Social Navigation**|Danil Tokhchukov et.al.|[2605.02759](http://arxiv.org/abs/2605.02759)|null|
 |**2026-05-04**|**Multi-User XR Offloading via Massive MIMO: A System-Level Analysis using a Real-Life Dataset**|Love Bárány et.al.|[2605.02631](http://arxiv.org/abs/2605.02631)|null|
 |**2026-05-04**|**Change-Robust Online Spatial-Semantic Topological Mapping**|Jiaming Wang et.al.|[2605.02227](http://arxiv.org/abs/2605.02227)|null|
@@ -165,7 +166,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-04-24**|**Railway Artificial Intelligence Learning Benchmark (RAIL-BENCH): A Benchmark Suite for Perception in the Railway Domain**|Annika Bätz et.al.|[2604.22507](http://arxiv.org/abs/2604.22507)|null|
 |**2026-04-24**|**Holo360D: A Large-Scale Real-World Dataset with Continuous Trajectories for Advancing Panoramic 3D Reconstruction and Beyond**|Jing Ou et.al.|[2604.22482](http://arxiv.org/abs/2604.22482)|null|
 |**2026-04-24**|**PoseFM: Relative Camera Pose Estimation Through Flow Matching**|Dominik Kuczkowski et.al.|[2604.22350](http://arxiv.org/abs/2604.22350)|null|
-|**2026-04-23**|**Robust Camera-to-Mocap Calibration and Verification for Large-Scale Multi-Camera Data Capture**|Tianyi Liu et.al.|[2604.22118](http://arxiv.org/abs/2604.22118)|null|
 
 ### Visual Localization
 | Publish Date | Title | Authors | PDF | Code |
