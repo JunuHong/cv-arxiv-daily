@@ -6,7 +6,7 @@
 # CV ArXiv Daily
 Automatically collected computer vision papers from arXiv.
 
-> Updated on 2026.05.06
+> Updated on 2026.05.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Latest Papers
@@ -26,6 +26,9 @@ Automatically collected computer vision papers from arXiv.
 ### 3D reconstruction
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-05-06**|**Syn4D: A Multiview Synthetic 4D Dataset**|Zeren Jiang et.al.|[2605.05207](http://arxiv.org/abs/2605.05207)|null|
+|**2026-05-06**|**A Bayesian Approach for Task-Specific Next-Best-View Selection with Uncertain Geometry**|Jingsen Zhu et.al.|[2605.05095](http://arxiv.org/abs/2605.05095)|null|
+|**2026-05-06**|**CARD: A Multi-Modal Automotive Dataset for Dense 3D Reconstruction in Challenging Road Topography**|Gasser Elazab et.al.|[2605.05014](http://arxiv.org/abs/2605.05014)|null|
 |**2026-05-05**|**deSEO: Physics-Aware Dataset Creation for High-Resolution Satellite Image Shadow Removal**|Lorenzo Beltrame et.al.|[2605.03610](http://arxiv.org/abs/2605.03610)|null|
 |**2026-05-05**|**First Shape, Then Meaning: Efficient Geometry and Semantics Learning for Indoor Reconstruction**|Remi Chierchia et.al.|[2605.03463](http://arxiv.org/abs/2605.03463)|null|
 |**2026-05-05**|**MK-ResRecon: Multi-Kernel Residual Framework for Texture-Aware 3D MRI Refinement from Sparse 2D Slices**|Prajyot Pyati et.al.|[2605.03432](http://arxiv.org/abs/2605.03432)|null|
@@ -43,9 +46,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-04-29**|**Validating the Clinical Utility of CineECG 3D Reconstructions through Cross-Modal Feature Attribution**|Karol Dobiczek et.al.|[2604.27017](http://arxiv.org/abs/2604.27017)|null|
 |**2026-04-29**|**Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising**|Jun Guo et.al.|[2604.26694](http://arxiv.org/abs/2604.26694)|null|
 |**2026-04-29**|**AirZoo: A Unified Large-Scale Dataset for Grounding Aerial Geometric 3D Vision**|Xiaoya Cheng et.al.|[2604.26567](http://arxiv.org/abs/2604.26567)|null|
-|**2026-04-29**|**DepthPilot: From Controllability to Interpretability in Colonoscopy Video Generation**|Junhu Fu et.al.|[2604.26232](http://arxiv.org/abs/2604.26232)|null|
-|**2026-04-29**|**NTIRE 2026 3D Restoration and Reconstruction in Real-world Adverse Conditions: RealX3D Challenge Results**|Shuhong Liu et.al.|[2604.04135](http://arxiv.org/abs/2604.04135)|null|
-|**2026-04-28**|**Generalizable 3D Gaussian Splatting enabled Semantic Coding for Real-Time Immersive Video Communications**|Dingxi Yang et.al.|[2604.25330](http://arxiv.org/abs/2604.25330)|null|
 
 ### Image Matching
 | Publish Date | Title | Authors | PDF | Code |
@@ -146,6 +146,10 @@ Automatically collected computer vision papers from arXiv.
 ### SLAM
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-05-06**|**A Closed-Form Dual-Barrier CBF Safety Filter for Holonomic Robots on Incrementally Built Occupancy Grid Maps**|Himanshu Paudel et.al.|[2605.05182](http://arxiv.org/abs/2605.05182)|null|
+|**2026-05-06**|**CARD: A Multi-Modal Automotive Dataset for Dense 3D Reconstruction in Challenging Road Topography**|Gasser Elazab et.al.|[2605.05014](http://arxiv.org/abs/2605.05014)|null|
+|**2026-05-06**|**Dr-PoGO: Direct Radar Pose-Graph Optimization**|Cedric Le Gentil et.al.|[2605.04806](http://arxiv.org/abs/2605.04806)|null|
+|**2026-05-05**|**Hardware-Aware Neural Feature Extraction for Resource-Constrained Devices**|Francesco Tosini et.al.|[2605.04282](http://arxiv.org/abs/2605.04282)|null|
 |**2026-05-05**|**Robust Visual SLAM for UAV Navigation in GPS-Denied and Degraded Environments: A Multi-Paradigm Evaluation and Deployment Study**|Prasoon Kumar et.al.|[2605.03678](http://arxiv.org/abs/2605.03678)|null|
 |**2026-05-04**|**DynoSLAM: Dynamic SLAM with Generative Graph Neural Networks for Real-World Social Navigation**|Danil Tokhchukov et.al.|[2605.02759](http://arxiv.org/abs/2605.02759)|null|
 |**2026-05-04**|**Multi-User XR Offloading via Massive MIMO: A System-Level Analysis using a Real-Life Dataset**|Love Bárány et.al.|[2605.02631](http://arxiv.org/abs/2605.02631)|null|
@@ -162,14 +166,13 @@ Automatically collected computer vision papers from arXiv.
 |**2026-04-27**|**Pushing Radar Odometry Beyond the Pavement: Current Capabilities and Challenges**|Shaunak Kolhe et.al.|[2604.24674](http://arxiv.org/abs/2604.24674)|null|
 |**2026-04-27**|**OpenPodcar2: a robust, ROS2 vehicle for self-driving research**|Rakshit Soni et.al.|[2604.24242](http://arxiv.org/abs/2604.24242)|null|
 |**2026-04-27**|**Event-based SLAM Benchmark for High-Speed Maneuvers**|Sheng Zhong et.al.|[2604.24033](http://arxiv.org/abs/2604.24033)|null|
-|**2026-04-24**|**Equivariant Filter for Radar-Inertial Odometry**|Giulio Delama et.al.|[2604.23033](http://arxiv.org/abs/2604.23033)|null|
-|**2026-04-24**|**Railway Artificial Intelligence Learning Benchmark (RAIL-BENCH): A Benchmark Suite for Perception in the Railway Domain**|Annika Bätz et.al.|[2604.22507](http://arxiv.org/abs/2604.22507)|null|
-|**2026-04-24**|**Holo360D: A Large-Scale Real-World Dataset with Continuous Trajectories for Advancing Panoramic 3D Reconstruction and Beyond**|Jing Ou et.al.|[2604.22482](http://arxiv.org/abs/2604.22482)|null|
-|**2026-04-24**|**PoseFM: Relative Camera Pose Estimation Through Flow Matching**|Dominik Kuczkowski et.al.|[2604.22350](http://arxiv.org/abs/2604.22350)|null|
 
 ### Visual Localization
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-05-06**|**MIRAGE: Retrieval and Generation of Multimodal Images and Texts for Medical Education**|Miguel Diaz Benito et.al.|[2605.04772](http://arxiv.org/abs/2605.04772)|null|
+|**2026-05-06**|**ULF-Loc: Unbiased Landmark Feature for Robust Visual Localization with 3D Gaussian Splatting**|Yingdong Gu et.al.|[2605.04730](http://arxiv.org/abs/2605.04730)|null|
+|**2026-05-06**|**Multi-Level Bidirectional Biomimetic Learning for EEG-Based Visual Decoding**|Jingtao Liu et.al.|[2605.04680](http://arxiv.org/abs/2605.04680)|null|
 |**2026-05-04**|**AlbumFill: Album-Guided Reasoning and Retrieval for Personalized Image Completion**|Yu-Ju Tsai et.al.|[2605.02892](http://arxiv.org/abs/2605.02892)|null|
 |**2026-05-04**|**StableMind: Source-Free Cross-Subject fMRI Decoding with Regularized Adaptation**|Jintao Guo et.al.|[2605.02586](http://arxiv.org/abs/2605.02586)|null|
 |**2026-05-04**|**Rethinking Electro-Optical Vision Foundation Models for Remote Sensing Retrieval: A Controlled Comparison with Generalist VFM**|Hyobin Park et.al.|[2605.02283](http://arxiv.org/abs/2605.02283)|null|
@@ -187,9 +190,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-04-24**|**Region Matters: Efficient and Reliable Region-Aware Visual Place Recognition**|Shunpeng Chen et.al.|[2604.22390](http://arxiv.org/abs/2604.22390)|null|
 |**2026-04-24**|**Revisiting Geometric Obfuscation with Dual Convergent Lines for Privacy-Preserving Image Queries in Visual Localization**|Jeonggon Kim et.al.|[2604.22310](http://arxiv.org/abs/2604.22310)|null|
 |**2026-04-24**|**TEMA: Anchor the Image, Follow the Text for Multi-Modification Composed Image Retrieval**|Zixu Li et.al.|[2604.21806](http://arxiv.org/abs/2604.21806)|null|
-|**2026-04-24**|**Altitude-Adaptive Vision-Only Geo-Localization for UAVs in GPS-Denied Environments**|Xingyu Shao et.al.|[2602.23872](http://arxiv.org/abs/2602.23872)|null|
-|**2026-04-22**|**ConeSep: Cone-based Robust Noise-Unlearning Compositional Network for Composed Image Retrieval**|Zixu Li et.al.|[2604.20358](http://arxiv.org/abs/2604.20358)|null|
-|**2026-04-22**|**UniCVR: From Alignment to Reranking for Unified Zero-Shot Composed Visual Retrieval**|Haokun Wen et.al.|[2604.20318](http://arxiv.org/abs/2604.20318)|null|
 
 See the [full archive](./docs/daily_archive.md) for more papers.
 
