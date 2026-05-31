@@ -6,7 +6,7 @@
 # CV ArXiv Daily
 Automatically collected computer vision papers from arXiv.
 
-> Updated on 2026.05.30
+> Updated on 2026.05.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Latest Papers
