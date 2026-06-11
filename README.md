@@ -6,7 +6,7 @@
 # CV ArXiv Daily
 Automatically collected computer vision papers from arXiv.
 
-> Updated on 2026.06.10
+> Updated on 2026.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Latest Papers
@@ -26,6 +26,11 @@ Automatically collected computer vision papers from arXiv.
 ### 3D reconstruction
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-06-10**|**Echoes of the Prior: A Computational Phenomenology of Forgetting**|Gege Gao et.al.|[2606.12340](http://arxiv.org/abs/2606.12340)|null|
+|**2026-06-10**|**Scene-Adaptive Nonlinear Tone Curves for Pseudo Ground-Truth Generation in Low-Light 3D Gaussian Splatting**|Mingzhe Lyu et.al.|[2606.11841](http://arxiv.org/abs/2606.11841)|null|
+|**2026-06-10**|**XPR: An Extensible Cross-Platform Point-Based Differentiable Renderer**|Steve Rhyner et.al.|[2606.11529](http://arxiv.org/abs/2606.11529)|null|
+|**2026-06-09**|**DarkVGGT: Seeing Through Darkness Using Thermal Geometry without Daylight Tax**|Minseong Kweon et.al.|[2606.11326](http://arxiv.org/abs/2606.11326)|null|
+|**2026-06-09**|**TRON: Tracing Rays to Orchestrate a Neural Renderer for 3D Gaussian Reconstructions**|Or Perel et.al.|[2606.11314](http://arxiv.org/abs/2606.11314)|null|
 |**2026-06-09**|**3D-CoS: A New 3D Reconstruction Paradigm Based on VLM Code Synthesis**|Yuhao Wang et.al.|[2606.10478](http://arxiv.org/abs/2606.10478)|null|
 |**2026-06-08**|**ABot-Earth 0.5: Generative 3D Earth Model**|Ming Qian et.al.|[2606.09967](http://arxiv.org/abs/2606.09967)|null|
 |**2026-06-06**|**Empowering Feed-Forward Reconstruction Models with Metric Scale via Satellite Images**|Xianghui Ze et.al.|[2606.08205](http://arxiv.org/abs/2606.08205)|null|
@@ -41,11 +46,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-06-02**|**SimuScene: Simulation-Ready Compositional 3D Scene Reconstruction from a Single Image**|Inhee Lee et.al.|[2606.03994](http://arxiv.org/abs/2606.03994)|null|
 |**2026-06-02**|**EvoMemNav: Efficient Self-Evolving Fine-Grained Memory for Zero-Shot Embodied Navigation**|Zuhao Ge et.al.|[2606.03509](http://arxiv.org/abs/2606.03509)|null|
 |**2026-06-02**|**PersistGS: Differentiable Physics for Object Permanence in 4D Gaussian Splatting**|Adrian Ramlal et.al.|[2606.03479](http://arxiv.org/abs/2606.03479)|null|
-|**2026-06-02**|**BA-T: An Iterative Transformer for Two-View Bundle Adjustment**|Ganlin Zhang et.al.|[2606.03287](http://arxiv.org/abs/2606.03287)|null|
-|**2026-06-01**|**BEAST3D: Animal behavioral analysis and neural encoding from multi-view video via Gaussian splatting**|Yanchen Wang et.al.|[2606.02937](http://arxiv.org/abs/2606.02937)|null|
-|**2026-06-01**|**Retrieve What's Missing: Coverage-Maximizing Retrieval for Consistent Long Video Generation**|Minseok Joo et.al.|[2606.02479](http://arxiv.org/abs/2606.02479)|null|
-|**2026-06-01**|**Geometry-Aware Implicit Memory for Video World Models**|Zhengxuan Wei et.al.|[2606.02436](http://arxiv.org/abs/2606.02436)|null|
-|**2026-06-01**|**PerBite: A Curated Diagnostic Workflow for Bite-Aware Food Volume Estimation**|Ahmad AlMughrabi et.al.|[2606.02021](http://arxiv.org/abs/2606.02021)|null|
 
 ### Image Matching
 | Publish Date | Title | Authors | PDF | Code |
@@ -122,6 +122,7 @@ Automatically collected computer vision papers from arXiv.
 ### SFM
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-06-10**|**Fast Speech Foundation Model Distillation Using Interleaved Stacking**|Eungbeom Kim et.al.|[2606.11766](http://arxiv.org/abs/2606.11766)|null|
 |**2026-06-09**|**Multi-Angular Reflectance Anisotropy Observed from UAV Multispectral Imagery**|Zhenqiang Qin et.al.|[2606.10350](http://arxiv.org/abs/2606.10350)|null|
 |**2026-06-08**|**Minimal Solvers for Full-DoF Motion Estimation from Asynchronous Differential SfM**|Shuo Pan et.al.|[2606.09218](http://arxiv.org/abs/2606.09218)|null|
 |**2026-06-04**|**S23DR 2026 Winning Solution**|Jan Skvrna et.al.|[2606.06695](http://arxiv.org/abs/2606.06695)|null|
@@ -141,7 +142,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-05-24**|**Geometry-Aware Image Flow Matching**|Junho Lee et.al.|[2605.25294](http://arxiv.org/abs/2605.25294)|null|
 |**2026-05-22**|**Joint Target-Less Intrinsic and Extrinsic Camera-LiDAR Calibration using Deep Point Correspondences**|Simon Bultmann et.al.|[2605.23397](http://arxiv.org/abs/2605.23397)|null|
 |**2026-05-20**|**JWST Advanced Deep Extragalactic Survey (JADES) Data Release 5: stellar population catalogue for galaxies in GOODS-N and GOODS-S**|Qiao Duan et.al.|[2605.21599](http://arxiv.org/abs/2605.21599)|null|
-|**2026-05-20**|**Sensitivity analysis of Stochastic Fluid Models: Stationary and transient quantities with applications**|Anna Aksamit et.al.|[2605.21209](http://arxiv.org/abs/2605.21209)|null|
 
 ### SLAM
 | Publish Date | Title | Authors | PDF | Code |
@@ -170,6 +170,9 @@ Automatically collected computer vision papers from arXiv.
 ### Visual Localization
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-06-10**|**Bridging the Modality Gap in Forensic Image Retrieval**|Ricardo González-Gazapo et.al.|[2606.12294](http://arxiv.org/abs/2606.12294)|null|
+|**2026-06-10**|**SG2Loc: Sequential Visual Localization on 3D Scene Graphs**|Nicole Damblon et.al.|[2606.11880](http://arxiv.org/abs/2606.11880)|null|
+|**2026-06-10**|**RankVR: Low-Rank Structure Perception and Value Recalibration for Robust Composed Image Retrieval**|Jiale Huang et.al.|[2606.11689](http://arxiv.org/abs/2606.11689)|null|
 |**2026-06-09**|**Beyond Patches: Superpixel Token-based Transformers for Attribute-Specific Fashion Retrieval**|Shuili Zhang et.al.|[2606.10697](http://arxiv.org/abs/2606.10697)|null|
 |**2026-06-06**|**Empowering Feed-Forward Reconstruction Models with Metric Scale via Satellite Images**|Xianghui Ze et.al.|[2606.08205](http://arxiv.org/abs/2606.08205)|null|
 |**2026-06-06**|**IMAGINE: Adaptive Schema-Imagery Enhanced Composition for Composed Video Retrieval**|Jiale Huang et.al.|[2606.08144](http://arxiv.org/abs/2606.08144)|null|
@@ -187,9 +190,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-06-01**|**Adversarial Attacks on Robot Localization Systems via Deep Feature Perturbation**|Zhenyu Li et.al.|[2606.01892](http://arxiv.org/abs/2606.01892)|null|
 |**2026-06-01**|**Construction of Historical Knowledge Graphs Based on BERT and Graph Neural Networks**|Ping Li et.al.|[2606.01747](http://arxiv.org/abs/2606.01747)|null|
 |**2026-06-01**|**FlatVPR: Plug-and-play Geo-linear Residual Adapter for Geometric Rectification of Foundation Model Feature Manifolds**|Rai Hisada et.al.|[2606.01734](http://arxiv.org/abs/2606.01734)|null|
-|**2026-05-31**|**One Channel to Rule Them All: Rethinking Input Representation for Visual Place Recognition**|Timur Ismagilov et.al.|[2606.00936](http://arxiv.org/abs/2606.00936)|null|
-|**2026-05-31**|**Resolving Ambiguity in Composed Image Retrieval via Calibrated Interaction**|Amsisan Tran et.al.|[2605.24634](http://arxiv.org/abs/2605.24634)|null|
-|**2026-05-29**|**iVGR: Internalizing Visually Grounded Reasoning for MLLMs with Reinforcement Learning**|Chang-Bin Zhang et.al.|[2605.31096](http://arxiv.org/abs/2605.31096)|null|
 
 See the [full archive](./docs/daily_archive.md) for more papers.
 
