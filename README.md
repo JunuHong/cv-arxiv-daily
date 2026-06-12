@@ -6,7 +6,7 @@
 # CV ArXiv Daily
 Automatically collected computer vision papers from arXiv.
 
-> Updated on 2026.06.11
+> Updated on 2026.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Latest Papers
@@ -50,6 +50,8 @@ Automatically collected computer vision papers from arXiv.
 ### Image Matching
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-06-11**|**Modality-Aware Feature Matching in Visual and Vision-Language Applications: A Comprehensive Survey**|Weide Liu et.al.|[2507.22791](http://arxiv.org/abs/2507.22791)|null|
+|**2026-06-10**|**SalArt-VQA: Diagnosing Whether VLMs Understand Salient Artifacts in Generated Images**|Xiaoxiao Sun et.al.|[2606.12671](http://arxiv.org/abs/2606.12671)|null|
 |**2026-06-04**|**Second-order Gaussian directional derivative representations for image high-resolution corner detection**|Jiamiao Lu et.al.|[2601.08182](http://arxiv.org/abs/2601.08182)|null|
 |**2026-06-02**|**SAMatcher: Co-Visibility Modeling with Segment Anything for Robust Feature Matching**|Xu Pan et.al.|[2606.03406](http://arxiv.org/abs/2606.03406)|null|
 |**2026-06-01**|**SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models**|Olaf Dünkel et.al.|[2605.31597](http://arxiv.org/abs/2605.31597)|null|
@@ -68,8 +70,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-04-24**|**ArchSym: Detecting 3D-Grounded Architectural Symmetries in the Wild**|Hanyu Chen et.al.|[2604.22202](http://arxiv.org/abs/2604.22202)|null|
 |**2026-04-17**|**Where Do Vision-Language Models Fail? World Scale Analysis for Image Geolocalization**|Siddhant Bharadwaj et.al.|[2604.16248](http://arxiv.org/abs/2604.16248)|null|
 |**2026-04-15**|**SceneGlue: Scene-Aware Transformer for Feature Matching without Scene-Level Annotation**|Songlin Du et.al.|[2604.13941](http://arxiv.org/abs/2604.13941)|null|
-|**2026-04-13**|**Who Handles Orientation? Investigating Invariance in Feature Matching**|David Nordström et.al.|[2604.11809](http://arxiv.org/abs/2604.11809)|null|
-|**2026-04-11**|**DeepShapeMatchingKit: Accelerated Functional Map Solver and Shape Matching Pipelines Revisited**|Yizheng Xie et.al.|[2604.10377](http://arxiv.org/abs/2604.10377)|null|
 
 ### Keypoint Detection
 | Publish Date | Title | Authors | PDF | Code |
@@ -146,6 +146,7 @@ Automatically collected computer vision papers from arXiv.
 ### SLAM
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-06-10**|**Triangle Splatting SLAM**|Nicholas Fry et.al.|[2605.31419](http://arxiv.org/abs/2605.31419)|null|
 |**2026-06-09**|**Information-Preserving Continuous Occupancy Mapping with Variance-Weighted Submap Joining**|Zhuhua Bai et.al.|[2606.10442](http://arxiv.org/abs/2606.10442)|null|
 |**2026-06-08**|**Efficient Minimal Solvers for Visual-Inertial Relative Pose Estimation in Multi-Camera Systems**|Tao Li et.al.|[2606.09477](http://arxiv.org/abs/2606.09477)|null|
 |**2026-06-08**|**MosaicIMU: Composing Carrier Experts for Generalizable Neural Inertial Odometry**|Junye Zou et.al.|[2606.09355](http://arxiv.org/abs/2606.09355)|null|
@@ -165,11 +166,13 @@ Automatically collected computer vision papers from arXiv.
 |**2026-06-02**|**PixVOD: Pixel-Distributed Direct Visual Odometry and Depth Estimation**|Shinjeong Kim et.al.|[2606.03989](http://arxiv.org/abs/2606.03989)|null|
 |**2026-06-02**|**Semantic-weighted ICP for LiDAR Odometry: Class-Aware Residual Reweighting for Robust Scan Registration**|Vasco Carvalho et.al.|[2606.03905](http://arxiv.org/abs/2606.03905)|null|
 |**2026-06-02**|**Autonomous Navigation System for Library Service Robot Based on Unitree Go2 Edu**|Aoduo Li et.al.|[2606.03340](http://arxiv.org/abs/2606.03340)|null|
-|**2026-06-02**|**MARIO: Motion-Augmented Real-Time Multi-Sensor Inertial Odometry**|Yiquan Li et.al.|[2606.02996](http://arxiv.org/abs/2606.02996)|null|
 
 ### Visual Localization
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-06-11**|**Measurement-Calibrated Multi-Camera Fusion for Vision-Based Indoor Localization**|Mateo Toro Diz et.al.|[2606.13509](http://arxiv.org/abs/2606.13509)|null|
+|**2026-06-11**|**VietFashion: Benchmarking Sketch-Text Composed Image Retrieval for Cultural Outfits**|Hoang-Nguyen Cao et.al.|[2606.13427](http://arxiv.org/abs/2606.13427)|null|
+|**2026-06-11**|**Visual Place Recognition in Forests with Depth-Aware Distillation**|Walter Nedov et.al.|[2606.13206](http://arxiv.org/abs/2606.13206)|null|
 |**2026-06-10**|**Bridging the Modality Gap in Forensic Image Retrieval**|Ricardo González-Gazapo et.al.|[2606.12294](http://arxiv.org/abs/2606.12294)|null|
 |**2026-06-10**|**SG2Loc: Sequential Visual Localization on 3D Scene Graphs**|Nicole Damblon et.al.|[2606.11880](http://arxiv.org/abs/2606.11880)|null|
 |**2026-06-10**|**RankVR: Low-Rank Structure Perception and Value Recalibration for Robust Composed Image Retrieval**|Jiale Huang et.al.|[2606.11689](http://arxiv.org/abs/2606.11689)|null|
@@ -187,9 +190,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-06-02**|**SAMatcher: Co-Visibility Modeling with Segment Anything for Robust Feature Matching**|Xu Pan et.al.|[2606.03406](http://arxiv.org/abs/2606.03406)|null|
 |**2026-06-02**|**ImageAuditor: Membership Inference Attack against Image-based Retrieval-Augmented Generation**|Jinghuai Zhang et.al.|[2606.03354](http://arxiv.org/abs/2606.03354)|null|
 |**2026-06-01**|**Predicting the risk of colorectal anastomotic leak based on preoperative mapping of the blood supply of the bowel**|Zahra Tabatabaei et.al.|[2606.02156](http://arxiv.org/abs/2606.02156)|null|
-|**2026-06-01**|**Adversarial Attacks on Robot Localization Systems via Deep Feature Perturbation**|Zhenyu Li et.al.|[2606.01892](http://arxiv.org/abs/2606.01892)|null|
-|**2026-06-01**|**Construction of Historical Knowledge Graphs Based on BERT and Graph Neural Networks**|Ping Li et.al.|[2606.01747](http://arxiv.org/abs/2606.01747)|null|
-|**2026-06-01**|**FlatVPR: Plug-and-play Geo-linear Residual Adapter for Geometric Rectification of Foundation Model Feature Manifolds**|Rai Hisada et.al.|[2606.01734](http://arxiv.org/abs/2606.01734)|null|
 
 See the [full archive](./docs/daily_archive.md) for more papers.
 

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.11
+## Updated on 2026.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D reconstruction
@@ -1114,6 +1114,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-10**|**SalArt-VQA: Diagnosing Whether VLMs Understand Salient Artifacts in Generated Images**|Xiaoxiao Sun et.al.|[2606.12671](http://arxiv.org/abs/2606.12671)|null|
 |**2026-06-02**|**SAMatcher: Co-Visibility Modeling with Segment Anything for Robust Feature Matching**|Xu Pan et.al.|[2606.03406](http://arxiv.org/abs/2606.03406)|null|
 |**2026-05-30**|**BEVIO: Efficient Bird's-Eye-View based Sparse-Update Visual-Inertial Odometry for Lunar Day-Night Navigation**|Mohit Singh et.al.|[2606.00709](http://arxiv.org/abs/2606.00709)|null|
 |**2026-06-01**|**SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models**|Olaf Dünkel et.al.|[2605.31597](http://arxiv.org/abs/2605.31597)|null|
@@ -1199,7 +1200,7 @@ layout: default
 |**2025-08-07**|**Refining Gaussian Splatting: A Volumetric Densification Approach**|Mohamed Abdul Gafoor et.al.|[2508.05187](http://arxiv.org/abs/2508.05187)|null|
 |**2025-08-09**|**SGAD: Semantic and Geometric-aware Descriptor for Local Feature Matching**|Xiangzeng Liu et.al.|[2508.02278](http://arxiv.org/abs/2508.02278)|null|
 |**2025-07-31**|**VMatcher: State-Space Semi-Dense Local Feature Matching**|Ali Youssef et.al.|[2507.23371](http://arxiv.org/abs/2507.23371)|null|
-|**2025-07-30**|**Modality-Aware Feature Matching: A Comprehensive Review of Single- and Cross-Modality Techniques**|Weide Liu et.al.|[2507.22791](http://arxiv.org/abs/2507.22791)|null|
+|**2026-06-11**|**Modality-Aware Feature Matching in Visual and Vision-Language Applications: A Comprehensive Survey**|Weide Liu et.al.|[2507.22791](http://arxiv.org/abs/2507.22791)|null|
 |**2025-07-25**|**Cross Spatial Temporal Fusion Attention for Remote Sensing Object Detection via Image Feature Matching**|Abu Sadat Mohammad Salehin Amit et.al.|[2507.19118](http://arxiv.org/abs/2507.19118)|null|
 |**2026-04-01**|**A 3D Cross-modal Keypoint Descriptor for MR-US Matching and Registration**|Daniil Morozov et.al.|[2507.18551](http://arxiv.org/abs/2507.18551)|null|
 |**2025-07-22**|**A Single-step Accurate Fingerprint Registration Method Based on Local Feature Matching**|Yuwei Jia et.al.|[2507.16201](http://arxiv.org/abs/2507.16201)|null|
@@ -4463,7 +4464,7 @@ layout: default
 |**2026-05-30**|**Dynamic Resilient Spatio-Semantic Memory with Hybrid Localization for Mobile Manipulation**|Zhijie Yan et.al.|[2606.00576](http://arxiv.org/abs/2606.00576)|null|
 |**2026-05-29**|**ScaRF-SLAM: Scale-Consistent Reconstruction with Feed-Forward Models and Classical Visual SLAM**|Yuhao Zhang et.al.|[2606.00307](http://arxiv.org/abs/2606.00307)|null|
 |**2026-05-29**|**Geodesic Flow Matching for Denoising High-Dimensional Structured Representations**|Karim Habashy et.al.|[2606.00248](http://arxiv.org/abs/2606.00248)|null|
-|**2026-05-29**|**Triangle Splatting SLAM**|Nicholas Fry et.al.|[2605.31419](http://arxiv.org/abs/2605.31419)|null|
+|**2026-06-10**|**Triangle Splatting SLAM**|Nicholas Fry et.al.|[2605.31419](http://arxiv.org/abs/2605.31419)|null|
 |**2026-05-28**|**Exploiting Chordal Sparsity for Globally Optimal Estimation with Factor Graphs**|Avinash Subramanian et.al.|[2605.30617](http://arxiv.org/abs/2605.30617)|null|
 |**2026-05-28**|**CoMo3R-SLAM: Collaborative Monocular Dense SLAM with Learned 3D Reconstruction Priors for Outdoor Multi-Agent Systems**|Zhihao Cao et.al.|[2605.30488](http://arxiv.org/abs/2605.30488)|null|
 |**2026-05-27**|**SA4Depth: Consistent Pose-Depth Scale Alignment for Self-Supervised Monocular Depth Estimation**|Changxuan Li et.al.|[2605.28477](http://arxiv.org/abs/2605.28477)|null|
@@ -5505,6 +5506,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-11**|**Measurement-Calibrated Multi-Camera Fusion for Vision-Based Indoor Localization**|Mateo Toro Diz et.al.|[2606.13509](http://arxiv.org/abs/2606.13509)|null|
+|**2026-06-11**|**VietFashion: Benchmarking Sketch-Text Composed Image Retrieval for Cultural Outfits**|Hoang-Nguyen Cao et.al.|[2606.13427](http://arxiv.org/abs/2606.13427)|null|
+|**2026-06-11**|**Visual Place Recognition in Forests with Depth-Aware Distillation**|Walter Nedov et.al.|[2606.13206](http://arxiv.org/abs/2606.13206)|null|
 |**2026-06-10**|**Bridging the Modality Gap in Forensic Image Retrieval**|Ricardo González-Gazapo et.al.|[2606.12294](http://arxiv.org/abs/2606.12294)|null|
 |**2026-06-10**|**SG2Loc: Sequential Visual Localization on 3D Scene Graphs**|Nicole Damblon et.al.|[2606.11880](http://arxiv.org/abs/2606.11880)|null|
 |**2026-06-10**|**RankVR: Low-Rank Structure Perception and Value Recalibration for Robust Composed Image Retrieval**|Jiale Huang et.al.|[2606.11689](http://arxiv.org/abs/2606.11689)|null|
