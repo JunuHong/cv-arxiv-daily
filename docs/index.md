@@ -7,13 +7,17 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.14
+## Updated on 2026.06.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-12**|**NEST3D: A High-Resolution Multimodal Dataset of Sociable Weaver Tree Nests**|Constanza A. Molina Catricheo et.al.|[2606.14562](http://arxiv.org/abs/2606.14562)|null|
+|**2026-06-12**|**MooMIns -- Monocular 3D Reconstruction and Object Pose Estimation from Multiple Instances**|Robert Langendörfer et.al.|[2606.14389](http://arxiv.org/abs/2606.14389)|null|
+|**2026-06-12**|**More with LESS -- Local Scene Representations for Tactile Imaging**|Zohar Rimon et.al.|[2606.14344](http://arxiv.org/abs/2606.14344)|null|
+|**2026-06-12**|**Pano3D: Unified 3D Reconstruction and Panoptic Segmentation**|Victor Barberteguy et.al.|[2606.14307](http://arxiv.org/abs/2606.14307)|null|
 |**2026-06-10**|**Echoes of the Prior: A Computational Phenomenology of Forgetting**|Gege Gao et.al.|[2606.12340](http://arxiv.org/abs/2606.12340)|null|
 |**2026-06-10**|**Scene-Adaptive Nonlinear Tone Curves for Pseudo Ground-Truth Generation in Low-Light 3D Gaussian Splatting**|Mingzhe Lyu et.al.|[2606.11841](http://arxiv.org/abs/2606.11841)|null|
 |**2026-06-10**|**XPR: An Extensible Cross-Platform Point-Based Differentiable Renderer**|Steve Rhyner et.al.|[2606.11529](http://arxiv.org/abs/2606.11529)|null|
@@ -25,7 +29,7 @@ layout: default
 |**2026-06-05**|**C3VD-DEFCOL: A Deformable Colonoscopy Dataset with Time-Resolved 3D Ground Truth and Realistic Appearance**|Ethan Luk et.al.|[2606.07891](http://arxiv.org/abs/2606.07891)|null|
 |**2026-06-04**|**Texture-preserving implicit neural representation for Cone beam CT truncated reconstruction**|Genyuan Zhang et.al.|[2606.06039](http://arxiv.org/abs/2606.06039)|null|
 |**2026-06-04**|**Deep Learning-based 3D Oral Cavity Reconstruction Using 2D Intraoral Images**|Jihun Cho et.al.|[2606.05998](http://arxiv.org/abs/2606.05998)|null|
-|**2026-06-04**|**LiAuto-GeoX: Efficient Grounded Driving Transformer**|Jiawei Lian et.al.|[2606.05774](http://arxiv.org/abs/2606.05774)|null|
+|**2026-06-12**|**LiAuto-GeoX: Efficient Grounded Driving Transformer**|Jiawei Lian et.al.|[2606.05774](http://arxiv.org/abs/2606.05774)|null|
 |**2026-06-03**|**Anchor3R: Streaming 3D Reconstruction with Transient Anchors for Long-Horizon Visual Mapping**|Peilin Tao et.al.|[2606.05035](http://arxiv.org/abs/2606.05035)|null|
 |**2026-06-03**|**Recent Advances and Trends in Learning-based 3D Representations**|Adrien Schockaert et.al.|[2606.04871](http://arxiv.org/abs/2606.04871)|null|
 |**2026-06-03**|**Z-FLoc: Zero-Shot Floorplan Localization via Geometric Primitives**|Ayumi Umemura et.al.|[2606.04788](http://arxiv.org/abs/2606.04788)|null|
@@ -3872,6 +3876,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-12**|**A Lightweight Fiducial-Based Pipeline for 3D Hyperspectral Mapping of ex-vivo Lumpectomy Specimens**|Anna Bicchi et.al.|[2606.14534](http://arxiv.org/abs/2606.14534)|null|
+|**2026-06-12**|**MooMIns -- Monocular 3D Reconstruction and Object Pose Estimation from Multiple Instances**|Robert Langendörfer et.al.|[2606.14389](http://arxiv.org/abs/2606.14389)|null|
 |**2026-06-10**|**Fast Speech Foundation Model Distillation Using Interleaved Stacking**|Eungbeom Kim et.al.|[2606.11766](http://arxiv.org/abs/2606.11766)|null|
 |**2026-06-09**|**Multi-Angular Reflectance Anisotropy Observed from UAV Multispectral Imagery**|Zhenqiang Qin et.al.|[2606.10350](http://arxiv.org/abs/2606.10350)|null|
 |**2026-06-08**|**Minimal Solvers for Full-DoF Motion Estimation from Asynchronous Differential SfM**|Shuo Pan et.al.|[2606.09218](http://arxiv.org/abs/2606.09218)|null|
@@ -4440,6 +4446,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-12**|**BIM-Loc: BIM-Integrated Discrepancy-Aware LiDAR-based Indoor Localization**|Yinqiang Zhang et.al.|[2606.14237](http://arxiv.org/abs/2606.14237)|null|
 |**2026-06-09**|**Information-Preserving Continuous Occupancy Mapping with Variance-Weighted Submap Joining**|Zhuhua Bai et.al.|[2606.10442](http://arxiv.org/abs/2606.10442)|null|
 |**2026-06-08**|**Efficient Minimal Solvers for Visual-Inertial Relative Pose Estimation in Multi-Camera Systems**|Tao Li et.al.|[2606.09477](http://arxiv.org/abs/2606.09477)|null|
 |**2026-06-08**|**MosaicIMU: Composing Carrier Experts for Generalizable Neural Inertial Odometry**|Junye Zou et.al.|[2606.09355](http://arxiv.org/abs/2606.09355)|null|
@@ -4467,7 +4474,7 @@ layout: default
 |**2026-06-10**|**Triangle Splatting SLAM**|Nicholas Fry et.al.|[2605.31419](http://arxiv.org/abs/2605.31419)|null|
 |**2026-05-28**|**Exploiting Chordal Sparsity for Globally Optimal Estimation with Factor Graphs**|Avinash Subramanian et.al.|[2605.30617](http://arxiv.org/abs/2605.30617)|null|
 |**2026-05-28**|**CoMo3R-SLAM: Collaborative Monocular Dense SLAM with Learned 3D Reconstruction Priors for Outdoor Multi-Agent Systems**|Zhihao Cao et.al.|[2605.30488](http://arxiv.org/abs/2605.30488)|null|
-|**2026-05-27**|**SA4Depth: Consistent Pose-Depth Scale Alignment for Self-Supervised Monocular Depth Estimation**|Changxuan Li et.al.|[2605.28477](http://arxiv.org/abs/2605.28477)|null|
+|**2026-06-11**|**SA4Depth: Consistent Pose-Depth Scale Alignment for Self-Supervised Monocular Depth Estimation**|Changxuan Li et.al.|[2605.28477](http://arxiv.org/abs/2605.28477)|null|
 |**2026-05-27**|**Provably Guaranteed Polytopic Uncertainty Quantification for SLAM**|Guangyang Zeng et.al.|[2605.28172](http://arxiv.org/abs/2605.28172)|null|
 |**2026-05-27**|**SAFEVPR: Patch-Based Conformal Verification for Safe Cross-Condition Sequence Visual Place Recognition**|Ha Sier et.al.|[2605.28048](http://arxiv.org/abs/2605.28048)|null|
 |**2026-05-27**|**Con-DSO: Learning Short-Horizon Consistency Priors for RGB-D Direct Sparse Odometry**|Haolan Zhang et.al.|[2605.27952](http://arxiv.org/abs/2605.27952)|null|

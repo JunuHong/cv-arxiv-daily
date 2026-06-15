@@ -6,7 +6,7 @@
 # CV ArXiv Daily
 Automatically collected computer vision papers from arXiv.
 
-> Updated on 2026.06.14
+> Updated on 2026.06.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Latest Papers
@@ -26,6 +26,11 @@ Automatically collected computer vision papers from arXiv.
 ### 3D reconstruction
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-06-12**|**NEST3D: A High-Resolution Multimodal Dataset of Sociable Weaver Tree Nests**|Constanza A. Molina Catricheo et.al.|[2606.14562](http://arxiv.org/abs/2606.14562)|null|
+|**2026-06-12**|**MooMIns -- Monocular 3D Reconstruction and Object Pose Estimation from Multiple Instances**|Robert Langendörfer et.al.|[2606.14389](http://arxiv.org/abs/2606.14389)|null|
+|**2026-06-12**|**More with LESS -- Local Scene Representations for Tactile Imaging**|Zohar Rimon et.al.|[2606.14344](http://arxiv.org/abs/2606.14344)|null|
+|**2026-06-12**|**Pano3D: Unified 3D Reconstruction and Panoptic Segmentation**|Victor Barberteguy et.al.|[2606.14307](http://arxiv.org/abs/2606.14307)|null|
+|**2026-06-12**|**LiAuto-GeoX: Efficient Grounded Driving Transformer**|Jiawei Lian et.al.|[2606.05774](http://arxiv.org/abs/2606.05774)|null|
 |**2026-06-10**|**Echoes of the Prior: A Computational Phenomenology of Forgetting**|Gege Gao et.al.|[2606.12340](http://arxiv.org/abs/2606.12340)|null|
 |**2026-06-10**|**Scene-Adaptive Nonlinear Tone Curves for Pseudo Ground-Truth Generation in Low-Light 3D Gaussian Splatting**|Mingzhe Lyu et.al.|[2606.11841](http://arxiv.org/abs/2606.11841)|null|
 |**2026-06-10**|**XPR: An Extensible Cross-Platform Point-Based Differentiable Renderer**|Steve Rhyner et.al.|[2606.11529](http://arxiv.org/abs/2606.11529)|null|
@@ -37,15 +42,10 @@ Automatically collected computer vision papers from arXiv.
 |**2026-06-05**|**C3VD-DEFCOL: A Deformable Colonoscopy Dataset with Time-Resolved 3D Ground Truth and Realistic Appearance**|Ethan Luk et.al.|[2606.07891](http://arxiv.org/abs/2606.07891)|null|
 |**2026-06-04**|**Texture-preserving implicit neural representation for Cone beam CT truncated reconstruction**|Genyuan Zhang et.al.|[2606.06039](http://arxiv.org/abs/2606.06039)|null|
 |**2026-06-04**|**Deep Learning-based 3D Oral Cavity Reconstruction Using 2D Intraoral Images**|Jihun Cho et.al.|[2606.05998](http://arxiv.org/abs/2606.05998)|null|
-|**2026-06-04**|**LiAuto-GeoX: Efficient Grounded Driving Transformer**|Jiawei Lian et.al.|[2606.05774](http://arxiv.org/abs/2606.05774)|null|
 |**2026-06-03**|**Anchor3R: Streaming 3D Reconstruction with Transient Anchors for Long-Horizon Visual Mapping**|Peilin Tao et.al.|[2606.05035](http://arxiv.org/abs/2606.05035)|null|
 |**2026-06-03**|**Recent Advances and Trends in Learning-based 3D Representations**|Adrien Schockaert et.al.|[2606.04871](http://arxiv.org/abs/2606.04871)|null|
 |**2026-06-03**|**Z-FLoc: Zero-Shot Floorplan Localization via Geometric Primitives**|Ayumi Umemura et.al.|[2606.04788](http://arxiv.org/abs/2606.04788)|null|
 |**2026-06-03**|**FUSE-Flow: A Decoupled Framework for Calibration and Stateless Real-Time Multi-View Point Cloud Fusion**|Chentian Sun et.al.|[2606.04376](http://arxiv.org/abs/2606.04376)|null|
-|**2026-06-03**|**$\text{VG}^2$ GT: Voxel-Gaussian Splatting Visual Geometry Grounded Transformer**|Yibin Zhao et.al.|[2606.01573](http://arxiv.org/abs/2606.01573)|null|
-|**2026-06-02**|**SimuScene: Simulation-Ready Compositional 3D Scene Reconstruction from a Single Image**|Inhee Lee et.al.|[2606.03994](http://arxiv.org/abs/2606.03994)|null|
-|**2026-06-02**|**EvoMemNav: Efficient Self-Evolving Fine-Grained Memory for Zero-Shot Embodied Navigation**|Zuhao Ge et.al.|[2606.03509](http://arxiv.org/abs/2606.03509)|null|
-|**2026-06-02**|**PersistGS: Differentiable Physics for Object Permanence in 4D Gaussian Splatting**|Adrian Ramlal et.al.|[2606.03479](http://arxiv.org/abs/2606.03479)|null|
 
 ### Image Matching
 | Publish Date | Title | Authors | PDF | Code |
@@ -122,6 +122,8 @@ Automatically collected computer vision papers from arXiv.
 ### SFM
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-06-12**|**A Lightweight Fiducial-Based Pipeline for 3D Hyperspectral Mapping of ex-vivo Lumpectomy Specimens**|Anna Bicchi et.al.|[2606.14534](http://arxiv.org/abs/2606.14534)|null|
+|**2026-06-12**|**MooMIns -- Monocular 3D Reconstruction and Object Pose Estimation from Multiple Instances**|Robert Langendörfer et.al.|[2606.14389](http://arxiv.org/abs/2606.14389)|null|
 |**2026-06-10**|**Fast Speech Foundation Model Distillation Using Interleaved Stacking**|Eungbeom Kim et.al.|[2606.11766](http://arxiv.org/abs/2606.11766)|null|
 |**2026-06-09**|**Multi-Angular Reflectance Anisotropy Observed from UAV Multispectral Imagery**|Zhenqiang Qin et.al.|[2606.10350](http://arxiv.org/abs/2606.10350)|null|
 |**2026-06-08**|**Minimal Solvers for Full-DoF Motion Estimation from Asynchronous Differential SfM**|Shuo Pan et.al.|[2606.09218](http://arxiv.org/abs/2606.09218)|null|
@@ -140,12 +142,12 @@ Automatically collected computer vision papers from arXiv.
 |**2026-05-26**|**Joint 2D-3D Segmentation and Association in Street-level Imaging**|Amir Melnikov et.al.|[2605.26725](http://arxiv.org/abs/2605.26725)|null|
 |**2026-05-26**|**Global Structure-from-Motion Meets Feedforward Reconstruction**|Linfei Pan et.al.|[2605.26103](http://arxiv.org/abs/2605.26103)|null|
 |**2026-05-24**|**Geometry-Aware Image Flow Matching**|Junho Lee et.al.|[2605.25294](http://arxiv.org/abs/2605.25294)|null|
-|**2026-05-22**|**Joint Target-Less Intrinsic and Extrinsic Camera-LiDAR Calibration using Deep Point Correspondences**|Simon Bultmann et.al.|[2605.23397](http://arxiv.org/abs/2605.23397)|null|
-|**2026-05-20**|**JWST Advanced Deep Extragalactic Survey (JADES) Data Release 5: stellar population catalogue for galaxies in GOODS-N and GOODS-S**|Qiao Duan et.al.|[2605.21599](http://arxiv.org/abs/2605.21599)|null|
 
 ### SLAM
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-06-12**|**BIM-Loc: BIM-Integrated Discrepancy-Aware LiDAR-based Indoor Localization**|Yinqiang Zhang et.al.|[2606.14237](http://arxiv.org/abs/2606.14237)|null|
+|**2026-06-11**|**SA4Depth: Consistent Pose-Depth Scale Alignment for Self-Supervised Monocular Depth Estimation**|Changxuan Li et.al.|[2605.28477](http://arxiv.org/abs/2605.28477)|null|
 |**2026-06-10**|**Triangle Splatting SLAM**|Nicholas Fry et.al.|[2605.31419](http://arxiv.org/abs/2605.31419)|null|
 |**2026-06-09**|**Information-Preserving Continuous Occupancy Mapping with Variance-Weighted Submap Joining**|Zhuhua Bai et.al.|[2606.10442](http://arxiv.org/abs/2606.10442)|null|
 |**2026-06-08**|**Efficient Minimal Solvers for Visual-Inertial Relative Pose Estimation in Multi-Camera Systems**|Tao Li et.al.|[2606.09477](http://arxiv.org/abs/2606.09477)|null|
@@ -164,8 +166,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-06-03**|**BPDA-GMM: Bayesian Probabilistic Data Association via Gaussian Mixture Models for Semantic SLAM**|Thanh Nguyen Canh et.al.|[2606.04618](http://arxiv.org/abs/2606.04618)|null|
 |**2026-06-03**|**Soft-Coherent Direct Multipath SLAM**|Benjamin J. B. Deutschmann et.al.|[2604.19723](http://arxiv.org/abs/2604.19723)|null|
 |**2026-06-02**|**PixVOD: Pixel-Distributed Direct Visual Odometry and Depth Estimation**|Shinjeong Kim et.al.|[2606.03989](http://arxiv.org/abs/2606.03989)|null|
-|**2026-06-02**|**Semantic-weighted ICP for LiDAR Odometry: Class-Aware Residual Reweighting for Robust Scan Registration**|Vasco Carvalho et.al.|[2606.03905](http://arxiv.org/abs/2606.03905)|null|
-|**2026-06-02**|**Autonomous Navigation System for Library Service Robot Based on Unitree Go2 Edu**|Aoduo Li et.al.|[2606.03340](http://arxiv.org/abs/2606.03340)|null|
 
 ### Visual Localization
 | Publish Date | Title | Authors | PDF | Code |
