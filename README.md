@@ -6,7 +6,7 @@
 # CV ArXiv Daily
 Automatically collected computer vision papers from arXiv.
 
-> Updated on 2026.06.17
+> Updated on 2026.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Latest Papers
@@ -26,6 +26,7 @@ Automatically collected computer vision papers from arXiv.
 ### 3D reconstruction
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-06-17**|**FlowObject: Flow Steering for Bridging Generative Priors and Reconstruction Fidelity**|Yuchen Rao et.al.|[2606.19019](http://arxiv.org/abs/2606.19019)|null|
 |**2026-06-16**|**Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion**|Nils Morbitzer et.al.|[2606.18250](http://arxiv.org/abs/2606.18250)|null|
 |**2026-06-16**|**Neural Tree Reconstruction for the Open Forest Observatory**|Marissa Ramirez de Chanlatte et.al.|[2606.18153](http://arxiv.org/abs/2606.18153)|null|
 |**2026-06-16**|**MoonSplat: Monocular Online Gaussian Splatting with Sim(3) Global Optimization**|Guo Pu et.al.|[2606.17935](http://arxiv.org/abs/2606.17935)|null|
@@ -45,11 +46,11 @@ Automatically collected computer vision papers from arXiv.
 |**2026-06-10**|**Scene-Adaptive Nonlinear Tone Curves for Pseudo Ground-Truth Generation in Low-Light 3D Gaussian Splatting**|Mingzhe Lyu et.al.|[2606.11841](http://arxiv.org/abs/2606.11841)|null|
 |**2026-06-10**|**XPR: An Extensible Cross-Platform Point-Based Differentiable Renderer**|Steve Rhyner et.al.|[2606.11529](http://arxiv.org/abs/2606.11529)|null|
 |**2026-06-09**|**DarkVGGT: Seeing Through Darkness Using Thermal Geometry without Daylight Tax**|Minseong Kweon et.al.|[2606.11326](http://arxiv.org/abs/2606.11326)|null|
-|**2026-06-09**|**TRON: Tracing Rays to Orchestrate a Neural Renderer for 3D Gaussian Reconstructions**|Or Perel et.al.|[2606.11314](http://arxiv.org/abs/2606.11314)|null|
 
 ### Image Matching
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-06-17**|**Quantile Transfer for Reliable Operating Point Selection in Visual Place Recognition**|Dhyey Manish Rajani et.al.|[2602.04401](http://arxiv.org/abs/2602.04401)|null|
 |**2026-06-11**|**Modality-Aware Feature Matching in Visual and Vision-Language Applications: A Comprehensive Survey**|Weide Liu et.al.|[2507.22791](http://arxiv.org/abs/2507.22791)|null|
 |**2026-06-10**|**SalArt-VQA: Diagnosing Whether VLMs Understand Salient Artifacts in Generated Images**|Xiaoxiao Sun et.al.|[2606.12671](http://arxiv.org/abs/2606.12671)|null|
 |**2026-06-04**|**Second-order Gaussian directional derivative representations for image high-resolution corner detection**|Jiamiao Lu et.al.|[2601.08182](http://arxiv.org/abs/2601.08182)|null|
@@ -69,7 +70,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-04-26**|**Deploy DINO with Many-to-Many Association**|Haodong Jiang et.al.|[2604.23670](http://arxiv.org/abs/2604.23670)|null|
 |**2026-04-24**|**ArchSym: Detecting 3D-Grounded Architectural Symmetries in the Wild**|Hanyu Chen et.al.|[2604.22202](http://arxiv.org/abs/2604.22202)|null|
 |**2026-04-17**|**Where Do Vision-Language Models Fail? World Scale Analysis for Image Geolocalization**|Siddhant Bharadwaj et.al.|[2604.16248](http://arxiv.org/abs/2604.16248)|null|
-|**2026-04-15**|**SceneGlue: Scene-Aware Transformer for Feature Matching without Scene-Level Annotation**|Songlin Du et.al.|[2604.13941](http://arxiv.org/abs/2604.13941)|null|
 
 ### Keypoint Detection
 | Publish Date | Title | Authors | PDF | Code |
@@ -98,6 +98,7 @@ Automatically collected computer vision papers from arXiv.
 ### NeRF
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-06-17**|**EDoF-NeRF: extended depth-of-field neural radiance fields using a coded aperture camera**|Yoshiyuki Shirasaki et.al.|[2606.18826](http://arxiv.org/abs/2606.18826)|null|
 |**2026-06-16**|**Neural Tree Reconstruction for the Open Forest Observatory**|Marissa Ramirez de Chanlatte et.al.|[2606.18153](http://arxiv.org/abs/2606.18153)|null|
 |**2026-06-15**|**Renderable Partial Representations for Dynamic Gaussian Splatting under Incomplete Delivery**|Faruk Alpay et.al.|[2606.17212](http://arxiv.org/abs/2606.17212)|null|
 |**2026-06-15**|**Dynamic Black-hole Emission Tomography with Physics-informed Neural Fields**|Berthy T. Feng et.al.|[2602.08029](http://arxiv.org/abs/2602.08029)|null|
@@ -117,7 +118,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-05-21**|**HumanSplatHMR: Closing the Loop Between Human Mesh Recovery and Gaussian Splatting Avatar**|Yeheng Zong et.al.|[2605.02784](http://arxiv.org/abs/2605.02784)|null|
 |**2026-05-20**|**Sketch2MinSurf: Vision-Language Guided Generation of Editable Minimal Surfaces from Hand-Drawn Sketches**|Wenda Wang et.al.|[2605.20733](http://arxiv.org/abs/2605.20733)|null|
 |**2026-05-20**|**CAD-Free Learning of Spacecraft Pose Estimators via NeRF-Based Augmentations**|Antoine Legrand et.al.|[2605.19649](http://arxiv.org/abs/2605.19649)|null|
-|**2026-05-20**|**NeRF-based Spacecraft Reconstruction from Monocular Imagery Under Illumination Variability and Pose Uncertainty**|Antoine Legrand et.al.|[2605.18447](http://arxiv.org/abs/2605.18447)|null|
 
 ### SFM
 | Publish Date | Title | Authors | PDF | Code |
@@ -146,7 +146,12 @@ Automatically collected computer vision papers from arXiv.
 ### SLAM
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-06-17**|**FAST-LIVGO: A Degeneracy-Robust LiDAR-Inertial-Visual-GNSS Fusion Odometry**|Zhiyu Chen et.al.|[2606.19190](http://arxiv.org/abs/2606.19190)|null|
+|**2026-06-17**|**Sensor Configuration Matters: A Systematic Evaluation of Multimodal SLAM on Quadruped Robots**|Roberto Corlito et.al.|[2606.19067](http://arxiv.org/abs/2606.19067)|null|
+|**2026-06-17**|**A High-accuracy Event-based Underwater SLAM System**|Yifan Peng et.al.|[2606.18951](http://arxiv.org/abs/2606.18951)|null|
+|**2026-06-17**|**C-ARC: Continuous-Adaptive Range Clustering for Non-Repetitive LiDAR Sensors**|Nick B. Schroeder et.al.|[2606.18948](http://arxiv.org/abs/2606.18948)|null|
 |**2026-06-16**|**RICH-SLAM: Radar SLAM with Incremental and Continuous Hilbert Mapping**|Bingbing Zhang et.al.|[2606.17534](http://arxiv.org/abs/2606.17534)|null|
+|**2026-06-16**|**Embedding Semantic Risk into Distance Fields and CBFs for Online Monocular Safe Control**|Dawei Zhang et.al.|[2606.01605](http://arxiv.org/abs/2606.01605)|null|
 |**2026-06-15**|**CrossMaps: Confidence-Aware Open-Vocabulary Semantic Mapping for Rover Navigation**|Jan-Niklas Klein et.al.|[2606.16935](http://arxiv.org/abs/2606.16935)|null|
 |**2026-06-15**|**SGM-SLAM: Scene Graph Matching for Data-Efficient Distributed SLAM**|Yewei Huang et.al.|[2606.16881](http://arxiv.org/abs/2606.16881)|null|
 |**2026-06-15**|**MVOFormer: Flow-Semantic Transformer for Robust Monocular Visual Odometry**|Jituo Li et.al.|[2606.16474](http://arxiv.org/abs/2606.16474)|null|
@@ -161,15 +166,12 @@ Automatically collected computer vision papers from arXiv.
 |**2026-06-09**|**Information-Preserving Continuous Occupancy Mapping with Variance-Weighted Submap Joining**|Zhuhua Bai et.al.|[2606.10442](http://arxiv.org/abs/2606.10442)|null|
 |**2026-06-08**|**Efficient Minimal Solvers for Visual-Inertial Relative Pose Estimation in Multi-Camera Systems**|Tao Li et.al.|[2606.09477](http://arxiv.org/abs/2606.09477)|null|
 |**2026-06-08**|**MosaicIMU: Composing Carrier Experts for Generalizable Neural Inertial Odometry**|Junye Zou et.al.|[2606.09355](http://arxiv.org/abs/2606.09355)|null|
-|**2026-06-08**|**Dual Quaternion-Based Unscented Kalman Filter with Visual Inertial Odometry for Navigation in GPS-Denied Environments**|Mohamed Khalifa et.al.|[2606.09292](http://arxiv.org/abs/2606.09292)|null|
-|**2026-06-08**|**Holo360D: A Large-Scale Real-World Dataset with Continuous Trajectories for Advancing Panoramic 3D Reconstruction and Beyond**|Jing Ou et.al.|[2604.22482](http://arxiv.org/abs/2604.22482)|null|
-|**2026-06-06**|**G2G: Exploiting Intra-Group Geometry for Inter-Group Pose Estimation**|Yufei Wei et.al.|[2606.08284](http://arxiv.org/abs/2606.08284)|null|
-|**2026-06-06**|**X-OP: Cross-Morphology Whole-Body Teleoperation via MPC Retargeting**|Jen-Wei Wang et.al.|[2606.07934](http://arxiv.org/abs/2606.07934)|null|
-|**2026-06-05**|**PathPainter: Transferring the Generalization Ability of Image Generation Models to Embodied Navigation**|Yijin Wang et.al.|[2605.07496](http://arxiv.org/abs/2605.07496)|null|
 
 ### Visual Localization
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-06-17**|**Show, Don't Ask: Generative Visual Disambiguation for Composed Image Retrieval with Turn-Valid Coverage**|Amsisan Tran et.al.|[2606.18992](http://arxiv.org/abs/2606.18992)|null|
+|**2026-06-17**|**LARE: Low-Attention Region Encoding for Text-Image Retrieval**|Abdulmalik Alquwayfili et.al.|[2606.18885](http://arxiv.org/abs/2606.18885)|null|
 |**2026-06-14**|**VL2Spike: Spike-driven Distillation from VLMs for Low-Power Visual Perception in Embodied AI**|Zinan Liu et.al.|[2606.15898](http://arxiv.org/abs/2606.15898)|null|
 |**2026-06-13**|**FD-SLAM: Fast Dense Radar-Inertial SLAM with Frequency-Domain Loop Closure and Pose Graph Optimization**|Nader J. Abu-Alrub et.al.|[2606.15491](http://arxiv.org/abs/2606.15491)|null|
 |**2026-06-13**|**Beyond Scalar Distances: Semantic Attribute Gradients from Frozen MLLMs for Visual Embeddings**|Shubhang Bhatnagar et.al.|[2606.15134](http://arxiv.org/abs/2606.15134)|null|
@@ -188,8 +190,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-06-04**|**Boosting Brain-to-Image Decoding with TRIBE v2 Data Augmentation**|Yohann Benchetrit et.al.|[2606.06345](http://arxiv.org/abs/2606.06345)|null|
 |**2026-06-03**|**CIPER: A Unified Framework for Cross-view Image-retrieval and Pose-estimation**|Yurim Jeon et.al.|[2606.05011](http://arxiv.org/abs/2606.05011)|null|
 |**2026-06-03**|**Z-FLoc: Zero-Shot Floorplan Localization via Geometric Primitives**|Ayumi Umemura et.al.|[2606.04788](http://arxiv.org/abs/2606.04788)|null|
-|**2026-06-03**|**COMBINER: Composed Image Retrieval Guided by Attribute-based Neighbor Relations**|Zixu Li et.al.|[2606.04604](http://arxiv.org/abs/2606.04604)|null|
-|**2026-06-02**|**A Fixed Representation Probe Reveals Morphology-Space Organization in Non-Gaussian Elastic Transients**|Jose Sanchez-Andreu et.al.|[2606.17061](http://arxiv.org/abs/2606.17061)|null|
 
 See the [full archive](./docs/daily_archive.md) for more papers.
 
