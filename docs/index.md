@@ -7,13 +7,16 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.23
+## Updated on 2026.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-23**|**GeoT2V-Bench: Benchmarking 3D Consistency in Text-to-Video Models via 3D Reconstruction**|Chenrui Fan et.al.|[2606.24829](http://arxiv.org/abs/2606.24829)|null|
+|**2026-06-23**|**OrbitForge: Text-to-3D Scene Generation via Reconstruction-Anchored Video Synthesis**|Chenrui Fan et.al.|[2606.24799](http://arxiv.org/abs/2606.24799)|null|
+|**2026-06-23**|**UniRED: Unified RGB-D Video Frame Interpolation with Event Guidance**|Yinuo Zhang et.al.|[2606.24282](http://arxiv.org/abs/2606.24282)|null|
 |**2026-06-22**|**Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild**|Yehonathan Litman et.al.|[2606.23688](http://arxiv.org/abs/2606.23688)|null|
 |**2026-06-22**|**G-MASt3R-SfM: Graph-based View Pruning and Multi-stage Optimization for Robust SfM**|Toshiki Watanabe et.al.|[2606.22856](http://arxiv.org/abs/2606.22856)|null|
 |**2026-06-22**|**Visual Geometry Transformer in the Wild: Distractor-Free 3D Reconstruction**|Tianbo Pan et.al.|[2606.22787](http://arxiv.org/abs/2606.22787)|null|
@@ -4483,6 +4486,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-23**|**Vision-Language Model Reasoning for Contextual Semantic Mapping in Intralogistics**|Marvin Rüdt et.al.|[2606.24814](http://arxiv.org/abs/2606.24814)|null|
+|**2026-06-23**|**Pocket-SLAM: Rendering-Area-Aware Pruning for Memory-Efficient 3DGS-SLAM**|Leshu Li et.al.|[2606.24796](http://arxiv.org/abs/2606.24796)|null|
+|**2026-06-23**|**Decentralized Pose Graph Riemannian Optimization for Object-based Multi-Robot SLAM**|Yixian Zhao et.al.|[2606.24489](http://arxiv.org/abs/2606.24489)|null|
+|**2026-06-22**|**Offline Reinforcement Learning for Warehouse SLAM Throughput Control**|Tina Dongxu Li et.al.|[2606.23978](http://arxiv.org/abs/2606.23978)|null|
 |**2026-06-22**|**ISOPoT: Imaging Sonar Odometry by Point Tracking**|Jaša Samec et.al.|[2606.23006](http://arxiv.org/abs/2606.23006)|null|
 |**2026-06-22**|**HERCULES: An Open-Source Simulation Framework for Heterogeneous Multi-Robot SLAM, Collaborative Perception, and Exploration**|Sandilya Sai Garimella et.al.|[2606.22756](http://arxiv.org/abs/2606.22756)|null|
 |**2026-06-21**|**Reference-Free Assessment of Physical Consistency in World Model-based Video Generation**|Yun Oh et.al.|[2606.22363](http://arxiv.org/abs/2606.22363)|null|
@@ -4564,7 +4571,7 @@ layout: default
 |**2026-05-19**|**Depth2Pose: A Pose-Based Benchmark for Monocular Depth Estimation without Ground-Truth Depth**|Viktor Kocur et.al.|[2605.19797](http://arxiv.org/abs/2605.19797)|null|
 |**2026-05-19**|**Multi-Session Ground Texture SLAM in Low-Dynamic Environments**|Kyle M. Hart et.al.|[2605.19701](http://arxiv.org/abs/2605.19701)|null|
 |**2026-05-19**|**EpiDiffVO: Geometry-Aware Epipolar Diffusion for Robust Visual Odometry**|Prateeth Rao et.al.|[2605.19556](http://arxiv.org/abs/2605.19556)|null|
-|**2026-05-27**|**PRISM-SLAM: Probabilistic Ray-Grounded Inference for Scale-aware Metric SLAM**|Eunsoo Im et.al.|[2605.19257](http://arxiv.org/abs/2605.19257)|null|
+|**2026-06-23**|**PRISM-SLAM: Probabilistic Ray-Grounded Inference for Scale-aware Metric SLAM**|Eunsoo Im et.al.|[2605.19257](http://arxiv.org/abs/2605.19257)|null|
 |**2026-05-19**|**Smartphone-based Circular Plot Sampling for Forest Inventory**|Su Sun et.al.|[2605.19213](http://arxiv.org/abs/2605.19213)|null|
 |**2026-05-21**|**Weakly Supervised Cross-Modal Learning for 4D Radar Scene Flow Estimation**|Jingyun Fu et.al.|[2605.18507](http://arxiv.org/abs/2605.18507)|null|
 |**2026-05-18**|**Towards Ubiquitous Mapping and Localization for Dynamic Indoor Environments**|Halim Djerroud et.al.|[2605.18385](http://arxiv.org/abs/2605.18385)|null|
@@ -5578,6 +5585,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-23**|**From Open Waters to Enclosed Cabins: ProteusVPR for Cross-Scene Visual Place Recognition in Maritime Perception and Cabin Inspection**|Zexi Chena et.al.|[2606.24234](http://arxiv.org/abs/2606.24234)|null|
 |**2026-06-20**|**Lexical Consensus: Grounded Word Learning and Shared Meaning in Artificial Agents**|Patricio M. Vera et.al.|[2606.22207](http://arxiv.org/abs/2606.22207)|null|
 |**2026-06-18**|**Multimodal Concept Bottleneck Models**|Tongqing Shi et.al.|[2606.19882](http://arxiv.org/abs/2606.19882)|null|
 |**2026-06-18**|**Exploring Multi-Modal Large Language Models and Two-Stage Fine-Tuning for Fashion Image Retrieval**|Nguyen Cao Hoang et.al.|[2606.19684](http://arxiv.org/abs/2606.19684)|null|
