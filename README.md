@@ -6,7 +6,7 @@
 # CV ArXiv Daily
 Automatically collected computer vision papers from arXiv.
 
-> Updated on 2026.06.28
+> Updated on 2026.06.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Latest Papers
@@ -26,6 +26,10 @@ Automatically collected computer vision papers from arXiv.
 ### 3D reconstruction
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-06-26**|**ScaLe-INR: Scale and Learn Implicit Neural Representations**|Buwaneka Epakanda et.al.|[2606.27862](http://arxiv.org/abs/2606.27862)|null|
+|**2026-06-26**|**GeoFace: Consistent Multi-View Face Generation with Geometry-Constrained Diffusion**|Yeji Choi et.al.|[2606.27659](http://arxiv.org/abs/2606.27659)|null|
+|**2026-06-25**|**Structured-Li-GS: Structured 3D Gaussians Splatting with LiDAR Incorporation and Spatial Constraints**|Huaiyuan Weng et.al.|[2606.27509](http://arxiv.org/abs/2606.27509)|null|
+|**2026-06-25**|**SemCityLoc: Aerial 6DoF Localization Using Semantic 3D City Models**|Jingfeng Mao et.al.|[2606.27444](http://arxiv.org/abs/2606.27444)|null|
 |**2026-06-25**|**3D Imaging of Complex Skyrmion and Hopf Topologies in an Extended Sample**|I. Binnie et.al.|[2606.27365](http://arxiv.org/abs/2606.27365)|null|
 |**2026-06-25**|**SatSplatDiff: Geometry-preserving generative refinement for high-fidelity satellite Gaussian Splatting**|Jiyong Kim et.al.|[2606.27223](http://arxiv.org/abs/2606.27223)|null|
 |**2026-06-25**|**PanoImager: Geometry-Guided Novel View Synthesis and Reconstruction from Sparse Panoramic Views**|Zhisong Xu et.al.|[2606.27071](http://arxiv.org/abs/2606.27071)|null|
@@ -42,10 +46,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-06-20**|**Mesh2GS: White-Box 3DGS Construction via Plenoptic Sampling**|Haoran Zhu et.al.|[2606.21898](http://arxiv.org/abs/2606.21898)|null|
 |**2026-06-19**|**UniviewVLA: A Unified Multiview Vision-Language-Action Model with World Modeling**|Tao Xu et.al.|[2606.21501](http://arxiv.org/abs/2606.21501)|null|
 |**2026-06-19**|**Self-Supervised Dual-Frequency Phase Decomposition for Single-Shot Composite Fringe Projection Profilometry**|Jin-Hyuk Seok et.al.|[2606.21027](http://arxiv.org/abs/2606.21027)|null|
-|**2026-06-18**|**Towards 3D karst underwater scene reconstruction from rotating sonar data**|Georgios Evangelos Margaritis et.al.|[2606.20322](http://arxiv.org/abs/2606.20322)|null|
-|**2026-06-18**|**SpatialSV: Internalizing Interpretable 3D Spatial Awareness in MLLMs via Task-Oriented Visual Supervision**|Jiayu Tang et.al.|[2606.19915](http://arxiv.org/abs/2606.19915)|null|
-|**2026-06-18**|**Gaussian Process Prior Variational Autoencoder for Endoscopic Videos**|Ivan De Boi et.al.|[2606.19908](http://arxiv.org/abs/2606.19908)|null|
-|**2026-06-17**|**FlowObject: Flow Steering for Bridging Generative Priors and Reconstruction Fidelity**|Yuchen Rao et.al.|[2606.19019](http://arxiv.org/abs/2606.19019)|null|
 
 ### Image Matching
 | Publish Date | Title | Authors | PDF | Code |
@@ -122,7 +122,8 @@ Automatically collected computer vision papers from arXiv.
 ### SFM
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
-|**2026-06-25**|**RayPE: Ray-Space Positional Encoding for 3D-Aware Video Generation**|Minghao Yin et.al.|[2606.27345](http://arxiv.org/abs/2606.27345)|null|
+|**2026-06-26**|**RayPE: Ray-Space Positional Encoding for 3D-Aware Video Generation**|Minghao Yin et.al.|[2606.27345](http://arxiv.org/abs/2606.27345)|null|
+|**2026-06-26**|**GenMatter: Perceiving Physical Objects with Generative Matter Models**|Eric Li et.al.|[2604.22160](http://arxiv.org/abs/2604.22160)|null|
 |**2026-06-25**|**PanoImager: Geometry-Guided Novel View Synthesis and Reconstruction from Sparse Panoramic Views**|Zhisong Xu et.al.|[2606.27071](http://arxiv.org/abs/2606.27071)|null|
 |**2026-06-22**|**The EDGE-CALIFA Survey: Star Formation Efficiency and Galaxy Quenching across 62 Main Sequence, Green Valley, and Red Galaxies**|Yu-Hsuan Teng et.al.|[2606.23649](http://arxiv.org/abs/2606.23649)|null|
 |**2026-06-22**|**G-MASt3R-SfM: Graph-based View Pruning and Multi-stage Optimization for Robust SfM**|Toshiki Watanabe et.al.|[2606.22856](http://arxiv.org/abs/2606.22856)|null|
@@ -141,12 +142,13 @@ Automatically collected computer vision papers from arXiv.
 |**2026-06-02**|**SAMatcher: Co-Visibility Modeling with Segment Anything for Robust Feature Matching**|Xu Pan et.al.|[2606.03406](http://arxiv.org/abs/2606.03406)|null|
 |**2026-06-01**|**Edge Prediction for Roof Wireframe Reconstruction with Transformers**|Gustav Hanning et.al.|[2606.02406](http://arxiv.org/abs/2606.02406)|null|
 |**2026-06-01**|**SAVMap: Structure-Aided Visual Mapping of Large-Scale 2.5D Manhattan Wireframes from Panoramic Video**|Howard Huang et.al.|[2606.01939](http://arxiv.org/abs/2606.01939)|null|
-|**2026-06-01**|**AGILE: Hand-Object Interaction Reconstruction from Video via Agentic Generation**|Jin-Chuan Shi et.al.|[2602.04672](http://arxiv.org/abs/2602.04672)|null|
 
 ### SLAM
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
-|**2026-06-25**|**RayPE: Ray-Space Positional Encoding for 3D-Aware Video Generation**|Minghao Yin et.al.|[2606.27345](http://arxiv.org/abs/2606.27345)|null|
+|**2026-06-26**|**LXD-SLAM: LiDAR+X Dense SLAM with $\sum_{i=0}^{5}C_5^i$ Configurable Sensor Combinations**|Zhong Wang et.al.|[2606.27811](http://arxiv.org/abs/2606.27811)|null|
+|**2026-06-26**|**RayPE: Ray-Space Positional Encoding for 3D-Aware Video Generation**|Minghao Yin et.al.|[2606.27345](http://arxiv.org/abs/2606.27345)|null|
+|**2026-06-25**|**Structured-Li-GS: Structured 3D Gaussians Splatting with LiDAR Incorporation and Spatial Constraints**|Huaiyuan Weng et.al.|[2606.27509](http://arxiv.org/abs/2606.27509)|null|
 |**2026-06-25**|**PanoImager: Geometry-Guided Novel View Synthesis and Reconstruction from Sparse Panoramic Views**|Zhisong Xu et.al.|[2606.27071](http://arxiv.org/abs/2606.27071)|null|
 |**2026-06-25**|**A Closed-Form 4-DoF Inter-Robot Pose Estimator using Bearing-only Measurements**|Qixin De et.al.|[2606.26616](http://arxiv.org/abs/2606.26616)|null|
 |**2026-06-24**|**RoboAtlas: Contextual Active SLAM**|Alexander Schperberg et.al.|[2606.26046](http://arxiv.org/abs/2606.26046)|null|
@@ -164,8 +166,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-06-22**|**Offline Reinforcement Learning for Warehouse SLAM Throughput Control**|Tina Dongxu Li et.al.|[2606.23978](http://arxiv.org/abs/2606.23978)|null|
 |**2026-06-22**|**ISOPoT: Imaging Sonar Odometry by Point Tracking**|Jaša Samec et.al.|[2606.23006](http://arxiv.org/abs/2606.23006)|null|
 |**2026-06-22**|**HERCULES: An Open-Source Simulation Framework for Heterogeneous Multi-Robot SLAM, Collaborative Perception, and Exploration**|Sandilya Sai Garimella et.al.|[2606.22756](http://arxiv.org/abs/2606.22756)|null|
-|**2026-06-21**|**Reference-Free Assessment of Physical Consistency in World Model-based Video Generation**|Yun Oh et.al.|[2606.22363](http://arxiv.org/abs/2606.22363)|null|
-|**2026-06-21**|**G2G: Exploiting Intra-Group Geometry for Inter-Group Pose Estimation**|Yufei Wei et.al.|[2606.08284](http://arxiv.org/abs/2606.08284)|null|
 
 ### Visual Localization
 | Publish Date | Title | Authors | PDF | Code |

@@ -7,13 +7,17 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.28
+## Updated on 2026.06.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-26**|**ScaLe-INR: Scale and Learn Implicit Neural Representations**|Buwaneka Epakanda et.al.|[2606.27862](http://arxiv.org/abs/2606.27862)|null|
+|**2026-06-26**|**GeoFace: Consistent Multi-View Face Generation with Geometry-Constrained Diffusion**|Yeji Choi et.al.|[2606.27659](http://arxiv.org/abs/2606.27659)|null|
+|**2026-06-25**|**Structured-Li-GS: Structured 3D Gaussians Splatting with LiDAR Incorporation and Spatial Constraints**|Huaiyuan Weng et.al.|[2606.27509](http://arxiv.org/abs/2606.27509)|null|
+|**2026-06-25**|**SemCityLoc: Aerial 6DoF Localization Using Semantic 3D City Models**|Jingfeng Mao et.al.|[2606.27444](http://arxiv.org/abs/2606.27444)|null|
 |**2026-06-25**|**3D Imaging of Complex Skyrmion and Hopf Topologies in an Extended Sample**|I. Binnie et.al.|[2606.27365](http://arxiv.org/abs/2606.27365)|null|
 |**2026-06-25**|**SatSplatDiff: Geometry-preserving generative refinement for high-fidelity satellite Gaussian Splatting**|Jiyong Kim et.al.|[2606.27223](http://arxiv.org/abs/2606.27223)|null|
 |**2026-06-25**|**PanoImager: Geometry-Guided Novel View Synthesis and Reconstruction from Sparse Panoramic Views**|Zhisong Xu et.al.|[2606.27071](http://arxiv.org/abs/2606.27071)|null|
@@ -3917,7 +3921,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-06-25**|**RayPE: Ray-Space Positional Encoding for 3D-Aware Video Generation**|Minghao Yin et.al.|[2606.27345](http://arxiv.org/abs/2606.27345)|null|
+|**2026-06-26**|**RayPE: Ray-Space Positional Encoding for 3D-Aware Video Generation**|Minghao Yin et.al.|[2606.27345](http://arxiv.org/abs/2606.27345)|null|
 |**2026-06-25**|**PanoImager: Geometry-Guided Novel View Synthesis and Reconstruction from Sparse Panoramic Views**|Zhisong Xu et.al.|[2606.27071](http://arxiv.org/abs/2606.27071)|null|
 |**2026-06-22**|**The EDGE-CALIFA Survey: Star Formation Efficiency and Galaxy Quenching across 62 Main Sequence, Green Valley, and Red Galaxies**|Yu-Hsuan Teng et.al.|[2606.23649](http://arxiv.org/abs/2606.23649)|null|
 |**2026-06-22**|**G-MASt3R-SfM: Graph-based View Pruning and Multi-stage Optimization for Robust SfM**|Toshiki Watanabe et.al.|[2606.22856](http://arxiv.org/abs/2606.22856)|null|
@@ -3970,7 +3974,7 @@ layout: default
 |**2026-04-30**|**Alethia: A Foundational Encoder for Voice Deepfakes**|Yi Zhu et.al.|[2605.00251](http://arxiv.org/abs/2605.00251)|null|
 |**2026-05-13**|**SS3D: End2End Self-Supervised 3D from Web Videos**|Marwane Hariat et.al.|[2604.22686](http://arxiv.org/abs/2604.22686)|null|
 |**2026-04-24**|**ArchSym: Detecting 3D-Grounded Architectural Symmetries in the Wild**|Hanyu Chen et.al.|[2604.22202](http://arxiv.org/abs/2604.22202)|null|
-|**2026-04-24**|**GenMatter: Perceiving Physical Objects with Generative Matter Models**|Eric Li et.al.|[2604.22160](http://arxiv.org/abs/2604.22160)|null|
+|**2026-06-26**|**GenMatter: Perceiving Physical Objects with Generative Matter Models**|Eric Li et.al.|[2604.22160](http://arxiv.org/abs/2604.22160)|null|
 |**2026-04-28**|**BALTIC: A Benchmark and Cross-Domain Strategy for 3D Reconstruction Across Air and Underwater Domains Under Varying Illumination**|Michele Grimaldi et.al.|[2604.19133](http://arxiv.org/abs/2604.19133)|null|
 |**2026-04-20**|**PCM-NeRF: Probabilistic Camera Modeling for Neural Radiance Fields under Pose Uncertainty**|Shravan Venkatraman et.al.|[2604.17831](http://arxiv.org/abs/2604.17831)|null|
 |**2026-04-17**|**PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems**|Weijie Wang et.al.|[2604.16540](http://arxiv.org/abs/2604.16540)|null|
@@ -4496,7 +4500,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-06-25**|**RayPE: Ray-Space Positional Encoding for 3D-Aware Video Generation**|Minghao Yin et.al.|[2606.27345](http://arxiv.org/abs/2606.27345)|null|
+|**2026-06-26**|**LXD-SLAM: LiDAR+X Dense SLAM with $\sum_{i=0}^{5}C_5^i$ Configurable Sensor Combinations**|Zhong Wang et.al.|[2606.27811](http://arxiv.org/abs/2606.27811)|null|
+|**2026-06-25**|**Structured-Li-GS: Structured 3D Gaussians Splatting with LiDAR Incorporation and Spatial Constraints**|Huaiyuan Weng et.al.|[2606.27509](http://arxiv.org/abs/2606.27509)|null|
+|**2026-06-26**|**RayPE: Ray-Space Positional Encoding for 3D-Aware Video Generation**|Minghao Yin et.al.|[2606.27345](http://arxiv.org/abs/2606.27345)|null|
 |**2026-06-25**|**PanoImager: Geometry-Guided Novel View Synthesis and Reconstruction from Sparse Panoramic Views**|Zhisong Xu et.al.|[2606.27071](http://arxiv.org/abs/2606.27071)|null|
 |**2026-06-25**|**A Closed-Form 4-DoF Inter-Robot Pose Estimator using Bearing-only Measurements**|Qixin De et.al.|[2606.26616](http://arxiv.org/abs/2606.26616)|null|
 |**2026-06-24**|**RoboAtlas: Contextual Active SLAM**|Alexander Schperberg et.al.|[2606.26046](http://arxiv.org/abs/2606.26046)|null|
