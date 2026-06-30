@@ -26,6 +26,7 @@ Automatically collected computer vision papers from arXiv.
 ### 3D reconstruction
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-06-29**|**FastPano3D: Feed-Forward Indoor Panoramic 3D Reconstruction from a Single Image**|Jianqiang Li et.al.|[2606.30352](http://arxiv.org/abs/2606.30352)|null|
 |**2026-06-29**|**Argus: Metric Panoramic 3D Reconstruction for Indoor Scenes**|Xi Li et.al.|[2606.30047](http://arxiv.org/abs/2606.30047)|null|
 |**2026-06-29**|**Shell-Supervised Gaussian Splatting for Urban Real-to-Sim Reconstruction**|Yuan Yang et.al.|[2606.30014](http://arxiv.org/abs/2606.30014)|null|
 |**2026-06-28**|**Occlusion-Robust Multi-Object Decoupling for Physics-Based Interaction**|Xin Dong et.al.|[2606.29303](http://arxiv.org/abs/2606.29303)|null|
@@ -45,7 +46,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-06-24**|**Evaluation Protocols and Validation for Cameras in Indoor Healthcare Monitoring**|Amirhossein Dadashzadeh et.al.|[2606.25284](http://arxiv.org/abs/2606.25284)|null|
 |**2026-06-23**|**GeoT2V-Bench: Benchmarking 3D Consistency in Text-to-Video Models via 3D Reconstruction**|Chenrui Fan et.al.|[2606.24829](http://arxiv.org/abs/2606.24829)|null|
 |**2026-06-23**|**OrbitForge: Text-to-3D Scene Generation via Reconstruction-Anchored Video Synthesis**|Chenrui Fan et.al.|[2606.24799](http://arxiv.org/abs/2606.24799)|null|
-|**2026-06-23**|**UniRED: Unified RGB-D Video Frame Interpolation with Event Guidance**|Yinuo Zhang et.al.|[2606.24282](http://arxiv.org/abs/2606.24282)|null|
 
 ### Image Matching
 | Publish Date | Title | Authors | PDF | Code |
@@ -98,6 +98,7 @@ Automatically collected computer vision papers from arXiv.
 ### NeRF
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-06-29**|**FastPano3D: Feed-Forward Indoor Panoramic 3D Reconstruction from a Single Image**|Jianqiang Li et.al.|[2606.30352](http://arxiv.org/abs/2606.30352)|null|
 |**2026-06-25**|**Sculpting NeRF Geometry: Human-Preference Fine-Tuning of a 3D-Aware Face GAN**|Archer Moore et.al.|[2606.27305](http://arxiv.org/abs/2606.27305)|null|
 |**2026-06-24**|**Gastroendoscopy View Synthesis: A New Real Dataset and Evaluation**|Masaki Minai et.al.|[2606.25427](http://arxiv.org/abs/2606.25427)|null|
 |**2026-06-24**|**To View Transform or Not to View Transform: NeRF-based Pre-training Perspective**|Hyeonjun Jeong et.al.|[2603.28090](http://arxiv.org/abs/2603.28090)|null|
@@ -117,7 +118,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-05-30**|**Beyond Static Gaussians: An Empirical Investigation of Architectural Paradigms for Dynamic 3D Scene Reconstruction**|Adrian Ramlal et.al.|[2606.00452](http://arxiv.org/abs/2606.00452)|null|
 |**2026-05-28**|**City-Mesh3R: Simulation-Ready City-Scale 3D Mesh Reconstruction from Multi-View Images**|Sayan Paul et.al.|[2605.30310](http://arxiv.org/abs/2605.30310)|null|
 |**2026-05-27**|**Eulerian Gaussian Splatting using Hashed Probability Pyramids**|Mia Gaia Polansky et.al.|[2605.29136](http://arxiv.org/abs/2605.29136)|null|
-|**2026-05-27**|**CLEAR-NeRF: Collinearity and Local-region Enhanced Accurate 3D Reconstruction in Unbounded Scenes**|Vladislav Polianskii et.al.|[2605.28125](http://arxiv.org/abs/2605.28125)|null|
 
 ### SFM
 | Publish Date | Title | Authors | PDF | Code |
@@ -146,6 +146,7 @@ Automatically collected computer vision papers from arXiv.
 ### SLAM
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-06-29**|**Robust and Efficient Monocular 3D Gaussian SLAM for Kilometer-Scale Outdoor Scenes**|Sicheng Yu et.al.|[2606.30436](http://arxiv.org/abs/2606.30436)|null|
 |**2026-06-29**|**CSAR: Containerized System Architecture for Robotics**| Ambrosio-Cestero et.al.|[2606.30293](http://arxiv.org/abs/2606.30293)|null|
 |**2026-06-29**|**Self-supervised Geometry Reasoning for LiDAR Simultaneous Localization and Mapping**|Jiwoo Kim et.al.|[2606.30166](http://arxiv.org/abs/2606.30166)|null|
 |**2026-06-29**|**MSFA-Net: An Advanced Deep Learning Model for Identifying Blue Horizontal-Branch Stars from LAMOST DR12**|Mingyuan Wang et.al.|[2606.29918](http://arxiv.org/abs/2606.29918)|null|
@@ -165,11 +166,11 @@ Automatically collected computer vision papers from arXiv.
 |**2026-06-27**|**Cross-Session 3D LiDAR and Camera Fusion for Robust Localization of Unmanned Aerial Vehicles in GPS-Denied Environments**|Cong Hoang Quach et.al.|[2606.28951](http://arxiv.org/abs/2606.28951)|null|
 |**2026-06-27**|**J-LAW: Joint Localization and Actionable World Modeling via Coupled Latent Factor Graphs**|Guanqun Cao et.al.|[2606.28712](http://arxiv.org/abs/2606.28712)|null|
 |**2026-06-26**|**PinNet: Keypoint-Aware Learned Local Descriptors with Geometric Embedding for Loop Closure in LiDAR SLAM**|Yanlong Ma et.al.|[2606.28637](http://arxiv.org/abs/2606.28637)|null|
-|**2026-06-26**|**Fast and Accurate Outlier-Aware LiDAR Super-Resolution for SLAM Applications**|Christos Anagnostopoulos et.al.|[2606.28607](http://arxiv.org/abs/2606.28607)|null|
 
 ### Visual Localization
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-06-29**|**Cross-Resolution Semantic Transfer for Robust Text-to-Image Retrieval in Low-Resolution Surveillance**|Wenjie Qian et.al.|[2606.30458](http://arxiv.org/abs/2606.30458)|null|
 |**2026-06-29**|**3D-LENS: A 3D Lifting-based Elevated Novel-view Synthesis method for Single-View Aerial-Ground Re-Identification**|William Grolleau et.al.|[2604.26520](http://arxiv.org/abs/2604.26520)|null|
 |**2026-06-26**|**PinNet: Keypoint-Aware Learned Local Descriptors with Geometric Embedding for Loop Closure in LiDAR SLAM**|Yanlong Ma et.al.|[2606.28637](http://arxiv.org/abs/2606.28637)|null|
 |**2026-06-23**|**From Open Waters to Enclosed Cabins: ProteusVPR for Cross-Scene Visual Place Recognition in Maritime Perception and Cabin Inspection**|Zexi Chena et.al.|[2606.24234](http://arxiv.org/abs/2606.24234)|null|
@@ -189,7 +190,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-06-10**|**RankVR: Low-Rank Structure Perception and Value Recalibration for Robust Composed Image Retrieval**|Jiale Huang et.al.|[2606.11689](http://arxiv.org/abs/2606.11689)|null|
 |**2026-06-09**|**Beyond Patches: Superpixel Token-based Transformers for Attribute-Specific Fashion Retrieval**|Shuili Zhang et.al.|[2606.10697](http://arxiv.org/abs/2606.10697)|null|
 |**2026-06-06**|**Empowering Feed-Forward Reconstruction Models with Metric Scale via Satellite Images**|Xianghui Ze et.al.|[2606.08205](http://arxiv.org/abs/2606.08205)|null|
-|**2026-06-06**|**IMAGINE: Adaptive Schema-Imagery Enhanced Composition for Composed Video Retrieval**|Jiale Huang et.al.|[2606.08144](http://arxiv.org/abs/2606.08144)|null|
 
 See the [full archive](./docs/daily_archive.md) for more papers.
 
