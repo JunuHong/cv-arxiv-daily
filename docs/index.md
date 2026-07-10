@@ -7,13 +7,18 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.09
+## Updated on 2026.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-09**|**Wat3R: Underwater 3D Geometry Learning without Annotations**|Jiangwei Ren et.al.|[2607.08772](http://arxiv.org/abs/2607.08772)|null|
+|**2026-07-09**|**LTM: Large-scale Terrain Model for Wildfire-prone Landscapes**|Xiao Fu et.al.|[2607.08711](http://arxiv.org/abs/2607.08711)|null|
+|**2026-07-09**|**Track2Map: Online Deformable SLAM with Motion-Aware Pose Optimization in Robotic Surgery**|Tianyi Song et.al.|[2607.08408](http://arxiv.org/abs/2607.08408)|null|
+|**2026-07-09**|**HoloTetSphere: Unified TetSphere Mesh Reconstruction for Physical Simulations**|YaQiao Dai et.al.|[2607.08398](http://arxiv.org/abs/2607.08398)|null|
+|**2026-07-08**|**3D Reconstruction of deciduous Trees using low-cost UAV- and Crane-based Photogrammetry for Monitoring Shoot Elongation across entire Canopies**|Stephan Nebiker et.al.|[2607.07905](http://arxiv.org/abs/2607.07905)|null|
 |**2026-07-08**|**GeoGS-SLAM: Geometry-Only Gaussian Splatting for Dense Monocular SLAM**|Lipu Zhou et.al.|[2607.07452](http://arxiv.org/abs/2607.07452)|null|
 |**2026-07-08**|**NoDrift3R: Raymap-Guided Coupling for Drift-Robust Unposed Feed-Forward 3D Reconstruction**|Xiangyu Sun et.al.|[2607.07168](http://arxiv.org/abs/2607.07168)|null|
 |**2026-07-08**|**Disturbance-aware Motion Planning for Over-actuated Underwater Vehicles Exploiting Actuation Redundancy for High-fidelity 3D Reconstruction**|Yuer Gao et.al.|[2607.07139](http://arxiv.org/abs/2607.07139)|null|
@@ -65,7 +70,7 @@ layout: default
 |**2026-06-25**|**SemCityLoc: Aerial 6DoF Localization Using Semantic 3D City Models**|Jingfeng Mao et.al.|[2606.27444](http://arxiv.org/abs/2606.27444)|null|
 |**2026-06-25**|**3D Imaging of Complex Skyrmion and Hopf Topologies in an Extended Sample**|I. Binnie et.al.|[2606.27365](http://arxiv.org/abs/2606.27365)|null|
 |**2026-06-26**|**SatSplatDiff: Geometry-preserving generative refinement for high-fidelity satellite Gaussian Splatting**|Jiyong Kim et.al.|[2606.27223](http://arxiv.org/abs/2606.27223)|null|
-|**2026-06-25**|**PanoImager: Geometry-Guided Novel View Synthesis and Reconstruction from Sparse Panoramic Views**|Zhisong Xu et.al.|[2606.27071](http://arxiv.org/abs/2606.27071)|null|
+|**2026-07-09**|**PanoImager: Geometry-Guided Novel View Synthesis and Reconstruction from Sparse Panoramic Views**|Zhisong Xu et.al.|[2606.27071](http://arxiv.org/abs/2606.27071)|null|
 |**2026-06-24**|**3D Kinematic Reconstruction of the Crab Nebula That Includes the Northern Ejecta `Jet'**|Ziwei Ding et.al.|[2606.26231](http://arxiv.org/abs/2606.26231)|null|
 |**2026-06-24**|**PRISM: Feed-Forward Single-Image 3D Reconstruction via Geometric Warp-Residual Modeling**|Zhijie Zheng et.al.|[2606.25430](http://arxiv.org/abs/2606.25430)|null|
 |**2026-06-24**|**Evaluation Protocols and Validation for Cameras in Indoor Healthcare Monitoring**|Amirhossein Dadashzadeh et.al.|[2606.25284](http://arxiv.org/abs/2606.25284)|null|
@@ -3981,6 +3986,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-09**|**Deep Spectroscopic Follow-Up of Maisie's Galaxy -- A Typical Galaxy in the Early Universe**|Rebecca L. Larson et.al.|[2607.08749](http://arxiv.org/abs/2607.08749)|null|
 |**2026-07-08**|**NoDrift3R: Raymap-Guided Coupling for Drift-Robust Unposed Feed-Forward 3D Reconstruction**|Xiangyu Sun et.al.|[2607.07168](http://arxiv.org/abs/2607.07168)|null|
 |**2026-07-08**|**The MAGPI Survey: Evidence for Non-Universal Resolved Dust Attenuation Relations Beyond the Local Universe**|A. Mailvaganam et.al.|[2607.07122](http://arxiv.org/abs/2607.07122)|null|
 |**2026-07-07**|**Deep far-UV observations of the ELAIS N1 field using AstroSat: Source catalogue, spectral energy distribution modelling and star formation**|Pranjal Chaturrvedi et.al.|[2607.06143](http://arxiv.org/abs/2607.06143)|null|
@@ -3992,7 +3998,7 @@ layout: default
 |**2026-07-01**|**AnyMatch: Supercharging Universal Multi-Modal Image Matching with Large-Scale Single-View Images**|Meng Yang et.al.|[2606.31077](http://arxiv.org/abs/2606.31077)|null|
 |**2026-06-29**|**Emergence of a Shared Canonical Object Frame from In-the-Wild Videos**|Tom Fischer et.al.|[2606.30058](http://arxiv.org/abs/2606.30058)|null|
 |**2026-06-26**|**RayPE: Ray-Space Positional Encoding for 3D-Aware Video Generation**|Minghao Yin et.al.|[2606.27345](http://arxiv.org/abs/2606.27345)|null|
-|**2026-06-25**|**PanoImager: Geometry-Guided Novel View Synthesis and Reconstruction from Sparse Panoramic Views**|Zhisong Xu et.al.|[2606.27071](http://arxiv.org/abs/2606.27071)|null|
+|**2026-07-09**|**PanoImager: Geometry-Guided Novel View Synthesis and Reconstruction from Sparse Panoramic Views**|Zhisong Xu et.al.|[2606.27071](http://arxiv.org/abs/2606.27071)|null|
 |**2026-06-22**|**The EDGE-CALIFA Survey: Star Formation Efficiency and Galaxy Quenching across 62 Main Sequence, Green Valley, and Red Galaxies**|Yu-Hsuan Teng et.al.|[2606.23649](http://arxiv.org/abs/2606.23649)|null|
 |**2026-06-22**|**G-MASt3R-SfM: Graph-based View Pruning and Multi-stage Optimization for Robust SfM**|Toshiki Watanabe et.al.|[2606.22856](http://arxiv.org/abs/2606.22856)|null|
 |**2026-06-20**|**ACEsplat: Accelerated 3D Gaussian Scene Regression via RGB and Poses Only**|Mingkai Liu et.al.|[2606.22091](http://arxiv.org/abs/2606.22091)|null|
@@ -4570,6 +4576,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-09**|**Track2Map: Online Deformable SLAM with Motion-Aware Pose Optimization in Robotic Surgery**|Tianyi Song et.al.|[2607.08408](http://arxiv.org/abs/2607.08408)|null|
+|**2026-07-09**|**RadLoc: Radar-based 3-DoF Global Localization via Fast, Robust, and Lightweight Spatial Descriptor Across Diverse Environmental Scenarios**|Hogyun Kim et.al.|[2607.08115](http://arxiv.org/abs/2607.08115)|null|
+|**2026-07-09**|**D-CLIPSE: Distributed Consensus-based Localization with Passive Listening on Shared State Exchange**|Kyle Biron-Gricken et.al.|[2607.07995](http://arxiv.org/abs/2607.07995)|null|
+|**2026-07-08**|**STEMbot: A Compliant Robot for Under-Canopy Plant Navigation**|Zachary Charlick et.al.|[2607.07873](http://arxiv.org/abs/2607.07873)|null|
+|**2026-07-07**|**SASGeo: Stability-Aware Semantic Map Localization for GNSS-Denied UAVs -- A Framework and Synthetic Proof of Concept**|Natalia Trukhina et.al.|[2607.07737](http://arxiv.org/abs/2607.07737)|null|
 |**2026-07-08**|**GeoGS-SLAM: Geometry-Only Gaussian Splatting for Dense Monocular SLAM**|Lipu Zhou et.al.|[2607.07452](http://arxiv.org/abs/2607.07452)|null|
 |**2026-07-08**|**PLED-VINS: A Point-Line Event-Based Visual Inertial SLAM for Dynamic Environments**|Seunghun Lee et.al.|[2607.07374](http://arxiv.org/abs/2607.07374)|null|
 |**2026-07-08**|**Dynamic Object Detection and Tracking in Construction: A Fisheye Camera and LiDAR Sensor Fusion Model**|Yilong Chen et.al.|[2607.06896](http://arxiv.org/abs/2607.06896)|null|
@@ -4608,7 +4619,7 @@ layout: default
 |**2026-06-28**|**VCS-SLAM: Geometry-Validated Semantic Evidence Fusion for 3D Gaussian SLAM**|Raman Jha et.al.|[2606.29494](http://arxiv.org/abs/2606.29494)|null|
 |**2026-06-28**|**PL-LIT: A LiDAR-Inertial-Thermal SLAM Using Point-Line Features and Thermographic Mapping**|Jiawei Xia et.al.|[2606.29259](http://arxiv.org/abs/2606.29259)|null|
 |**2026-06-28**|**MoPe: Motion Permanence for Robust Monocular Gaussian Mapping in Dynamic Environments**|Qixin Xiao et.al.|[2606.29237](http://arxiv.org/abs/2606.29237)|null|
-|**2026-06-27**|**How to Leverage Synthetic Speech for LLM-Based ASR Systems?**|Yanis Labrak et.al.|[2606.29031](http://arxiv.org/abs/2606.29031)|null|
+|**2026-07-09**|**How to Leverage Synthetic Speech for LLM-Based ASR Systems?**|Yanis Labrak et.al.|[2606.29031](http://arxiv.org/abs/2606.29031)|null|
 |**2026-06-27**|**Cross-Session 3D LiDAR and Camera Fusion for Robust Localization of Unmanned Aerial Vehicles in GPS-Denied Environments**|Cong Hoang Quach et.al.|[2606.28951](http://arxiv.org/abs/2606.28951)|null|
 |**2026-06-27**|**J-LAW: Joint Localization and Actionable World Modeling via Coupled Latent Factor Graphs**|Guanqun Cao et.al.|[2606.28712](http://arxiv.org/abs/2606.28712)|null|
 |**2026-07-02**|**PinNet: Keypoint-Aware Learned Local Descriptors with Geometric Embedding for Loop Closure in LiDAR SLAM**|Yanlong Ma et.al.|[2606.28637](http://arxiv.org/abs/2606.28637)|null|
@@ -4617,7 +4628,7 @@ layout: default
 |**2026-06-26**|**LXD-SLAM: LiDAR+X Dense SLAM with $\sum_{i=0}^{5}C_5^i$ Configurable Sensor Combinations**|Zhong Wang et.al.|[2606.27811](http://arxiv.org/abs/2606.27811)|null|
 |**2026-06-25**|**Structured-Li-GS: Structured 3D Gaussians Splatting with LiDAR Incorporation and Spatial Constraints**|Huaiyuan Weng et.al.|[2606.27509](http://arxiv.org/abs/2606.27509)|null|
 |**2026-06-26**|**RayPE: Ray-Space Positional Encoding for 3D-Aware Video Generation**|Minghao Yin et.al.|[2606.27345](http://arxiv.org/abs/2606.27345)|null|
-|**2026-06-25**|**PanoImager: Geometry-Guided Novel View Synthesis and Reconstruction from Sparse Panoramic Views**|Zhisong Xu et.al.|[2606.27071](http://arxiv.org/abs/2606.27071)|null|
+|**2026-07-09**|**PanoImager: Geometry-Guided Novel View Synthesis and Reconstruction from Sparse Panoramic Views**|Zhisong Xu et.al.|[2606.27071](http://arxiv.org/abs/2606.27071)|null|
 |**2026-06-25**|**A Closed-Form 4-DoF Inter-Robot Pose Estimator using Bearing-only Measurements**|Qixin De et.al.|[2606.26616](http://arxiv.org/abs/2606.26616)|null|
 |**2026-06-24**|**RoboAtlas: Contextual Active SLAM**|Alexander Schperberg et.al.|[2606.26046](http://arxiv.org/abs/2606.26046)|null|
 |**2026-06-24**|**FAR-LIO: Enabling High-Speed Autonomy through Fast, Accurate, and Robust LiDAR-Inertial Odometry**|Maximilian Leitenstern et.al.|[2606.26010](http://arxiv.org/abs/2606.26010)|null|
@@ -5724,6 +5735,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-07**|**SASGeo: Stability-Aware Semantic Map Localization for GNSS-Denied UAVs -- A Framework and Synthetic Proof of Concept**|Natalia Trukhina et.al.|[2607.07737](http://arxiv.org/abs/2607.07737)|null|
 |**2026-07-08**|**MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models**|Hyunjae Kim et.al.|[2607.07673](http://arxiv.org/abs/2607.07673)|null|
 |**2026-07-07**|**RFHNet: Relational and Frequency-Aware Hashing Network for Large-Scale Fine-Grained Food Image Retrieval**|Junsong Wang et.al.|[2607.06148](http://arxiv.org/abs/2607.06148)|null|
 |**2026-07-07**|**Visualizing Local Maxima of the Ohio overdose epidemic with Vineyards**|Nicholas Bermingham et.al.|[2607.05710](http://arxiv.org/abs/2607.05710)|null|
