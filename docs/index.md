@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-13**|**GHOST: Geometry-Guided Hallucination of Opaque Surface Textures**|Langxu Zhao et.al.|[2607.11118](http://arxiv.org/abs/2607.11118)|null|
 |**2026-07-12**|**Mapping Pamir: Multi-Session Visual-Inertial SLAM and 3D Reconstruction of an Underwater Shipwreck**|Michalis Chatzispyrou et.al.|[2607.10925](http://arxiv.org/abs/2607.10925)|null|
 |**2026-07-10**|**RASR: Range-Aware Scale Recovery for Metric UAV Navigation**|Hongtao Liang et.al.|[2607.09815](http://arxiv.org/abs/2607.09815)|null|
 |**2026-07-10**|**What VGGT Knows About Overlap: Probing Geometric Foundation Models for Co-Visibility**|Filippo Ziliotto et.al.|[2607.09503](http://arxiv.org/abs/2607.09503)|null|
@@ -3990,6 +3991,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-13**|**SalientGS: Unified SfM-to-3DGS with Importance-Guided MCMC Gaussian Allocation**|Tianyu Xiong et.al.|[2607.11285](http://arxiv.org/abs/2607.11285)|null|
 |**2026-07-12**|**Mapping Pamir: Multi-Session Visual-Inertial SLAM and 3D Reconstruction of an Underwater Shipwreck**|Michalis Chatzispyrou et.al.|[2607.10925](http://arxiv.org/abs/2607.10925)|null|
 |**2026-07-11**|**Navigating the Crowd: Non-linear MPC with Social Forces Dynamics for Human-Aware Robot Navigation**|Stefano Trepella et.al.|[2607.10374](http://arxiv.org/abs/2607.10374)|null|
 |**2026-07-10**|**DGSfM: Depth-Guided Scale-Aware Global Structure-from-Motion**|Sithu Aung et.al.|[2607.09507](http://arxiv.org/abs/2607.09507)|null|
@@ -4586,6 +4588,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-13**|**Self-Healing Visual Recovery for Autonomous Ground Vehicles Using Camera-Only Visual Odometry**|Jakob Solberg Berntzen et.al.|[2607.11686](http://arxiv.org/abs/2607.11686)|null|
+|**2026-07-13**|**GeoGS-SLAM: Online Monocular Reconstruction Using Gaussian Splatting with Geometric Priors**|Ruilan Gao et.al.|[2607.11184](http://arxiv.org/abs/2607.11184)|null|
+|**2026-07-13**|**Desc++: Efficient Descriptor Enhancement for Data Association in Existing Visual SLAM Systems**|Ting-Wei Ou et.al.|[2607.11099](http://arxiv.org/abs/2607.11099)|null|
 |**2026-07-12**|**Mapping Pamir: Multi-Session Visual-Inertial SLAM and 3D Reconstruction of an Underwater Shipwreck**|Michalis Chatzispyrou et.al.|[2607.10925](http://arxiv.org/abs/2607.10925)|null|
 |**2026-07-11**|**CSI-Assisted Edge SLAM Testbed Platform for 5G Connected Unmanned Autonomous Vehicles**|Boris Radovanovic et.al.|[2607.10394](http://arxiv.org/abs/2607.10394)|null|
 |**2026-07-10**|**A Numerically-Robust ROS 2 Port of iG-LIO: Diagnosing and Fixing Toolchain-Induced Failures in Incremental GICP LiDAR-Inertial Odometry**|Afonso E. Carvalho et.al.|[2607.09947](http://arxiv.org/abs/2607.09947)|null|
@@ -5750,6 +5755,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-13**|**GeoGS-SLAM: Online Monocular Reconstruction Using Gaussian Splatting with Geometric Priors**|Ruilan Gao et.al.|[2607.11184](http://arxiv.org/abs/2607.11184)|null|
 |**2026-07-08**|**GReFEM: Multimodal LLMs as Zero-Shot Semantic Assistants for Physics-Guided 3D Mesh Refinement**|Kartik Bali et.al.|[2607.08798](http://arxiv.org/abs/2607.08798)|null|
 |**2026-07-07**|**SASGeo: Stability-Aware Semantic Map Localization for GNSS-Denied UAVs -- A Framework and Synthetic Proof of Concept**|Natalia Trukhina et.al.|[2607.07737](http://arxiv.org/abs/2607.07737)|null|
 |**2026-07-08**|**MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models**|Hyunjae Kim et.al.|[2607.07673](http://arxiv.org/abs/2607.07673)|null|

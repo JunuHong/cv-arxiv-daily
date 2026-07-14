@@ -26,6 +26,7 @@ Automatically collected computer vision papers from arXiv.
 ### 3D reconstruction
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-07-13**|**GHOST: Geometry-Guided Hallucination of Opaque Surface Textures**|Langxu Zhao et.al.|[2607.11118](http://arxiv.org/abs/2607.11118)|null|
 |**2026-07-12**|**Mapping Pamir: Multi-Session Visual-Inertial SLAM and 3D Reconstruction of an Underwater Shipwreck**|Michalis Chatzispyrou et.al.|[2607.10925](http://arxiv.org/abs/2607.10925)|null|
 |**2026-07-11**|**Meshtryoshka: Differentiable Rendering of Real-World Scenes via Mesh Rasterization**|David Charatan et.al.|[2606.28622](http://arxiv.org/abs/2606.28622)|null|
 |**2026-07-10**|**RASR: Range-Aware Scale Recovery for Metric UAV Navigation**|Hongtao Liang et.al.|[2607.09815](http://arxiv.org/abs/2607.09815)|null|
@@ -45,7 +46,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-07-07**|**Refractive-index tomography of opaque tissue from its own backscattered light**|Tran Dinh Hoang et.al.|[2607.05925](http://arxiv.org/abs/2607.05925)|null|
 |**2026-07-07**|**TRIG: Trajectory-Rig Decoupled Metric Geometry Learning**|Lizhou Liao et.al.|[2607.05801](http://arxiv.org/abs/2607.05801)|null|
 |**2026-07-06**|**MV-Forcing: Long Multi-View Video Generation via 4D-Grounded Spatio-Temporal Self-Forcing**|Gal Fiebelman et.al.|[2607.05376](http://arxiv.org/abs/2607.05376)|null|
-|**2026-07-06**|**PixWorld: Unifying 3D Scene Generation and Reconstruction in Pixel Space**|Sensen Gao et.al.|[2607.05373](http://arxiv.org/abs/2607.05373)|null|
 
 ### Image Matching
 | Publish Date | Title | Authors | PDF | Code |
@@ -122,6 +122,7 @@ Automatically collected computer vision papers from arXiv.
 ### SFM
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-07-13**|**SalientGS: Unified SfM-to-3DGS with Importance-Guided MCMC Gaussian Allocation**|Tianyu Xiong et.al.|[2607.11285](http://arxiv.org/abs/2607.11285)|null|
 |**2026-07-12**|**Mapping Pamir: Multi-Session Visual-Inertial SLAM and 3D Reconstruction of an Underwater Shipwreck**|Michalis Chatzispyrou et.al.|[2607.10925](http://arxiv.org/abs/2607.10925)|null|
 |**2026-07-12**|**Deep far-UV observations of the ELAIS N1 field using AstroSat: Source catalogue, spectral energy distribution modelling and star formation**|Pranjal Chaturvedi et.al.|[2607.06143](http://arxiv.org/abs/2607.06143)|null|
 |**2026-07-12**|**TriP: A Triangle Puzzle Approach to Robust Translation Averaging**|Zhekai Fan et.al.|[2605.07143](http://arxiv.org/abs/2605.07143)|null|
@@ -141,11 +142,13 @@ Automatically collected computer vision papers from arXiv.
 |**2026-07-01**|**EPO: Boosting 3D Foundation Models with Edge-based Pose Optimization**|Mattia D'Urso et.al.|[2607.00579](http://arxiv.org/abs/2607.00579)|null|
 |**2026-07-01**|**Planar-SfM: Camera Pose Estimation via Homography Graph Embeddings**|Gabi Pragier et.al.|[2606.31979](http://arxiv.org/abs/2606.31979)|null|
 |**2026-07-01**|**AnyMatch: Supercharging Universal Multi-Modal Image Matching with Large-Scale Single-View Images**|Meng Yang et.al.|[2606.31077](http://arxiv.org/abs/2606.31077)|null|
-|**2026-07-01**|**TriDE: Triangle-Consistent Translation Directions for Global Camera Pose Estimation**|Francisco Chen et.al.|[2605.06889](http://arxiv.org/abs/2605.06889)|null|
 
 ### SLAM
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-07-13**|**Self-Healing Visual Recovery for Autonomous Ground Vehicles Using Camera-Only Visual Odometry**|Jakob Solberg Berntzen et.al.|[2607.11686](http://arxiv.org/abs/2607.11686)|null|
+|**2026-07-13**|**GeoGS-SLAM: Online Monocular Reconstruction Using Gaussian Splatting with Geometric Priors**|Ruilan Gao et.al.|[2607.11184](http://arxiv.org/abs/2607.11184)|null|
+|**2026-07-13**|**Desc++: Efficient Descriptor Enhancement for Data Association in Existing Visual SLAM Systems**|Ting-Wei Ou et.al.|[2607.11099](http://arxiv.org/abs/2607.11099)|null|
 |**2026-07-12**|**Mapping Pamir: Multi-Session Visual-Inertial SLAM and 3D Reconstruction of an Underwater Shipwreck**|Michalis Chatzispyrou et.al.|[2607.10925](http://arxiv.org/abs/2607.10925)|null|
 |**2026-07-11**|**CSI-Assisted Edge SLAM Testbed Platform for 5G Connected Unmanned Autonomous Vehicles**|Boris Radovanovic et.al.|[2607.10394](http://arxiv.org/abs/2607.10394)|null|
 |**2026-07-10**|**A Numerically-Robust ROS 2 Port of iG-LIO: Diagnosing and Fixing Toolchain-Induced Failures in Incremental GICP LiDAR-Inertial Odometry**|Afonso E. Carvalho et.al.|[2607.09947](http://arxiv.org/abs/2607.09947)|null|
@@ -163,13 +166,11 @@ Automatically collected computer vision papers from arXiv.
 |**2026-07-07**|**SASGeo: Stability-Aware Semantic Map Localization for GNSS-Denied UAVs -- A Framework and Synthetic Proof of Concept**|Natalia Trukhina et.al.|[2607.07737](http://arxiv.org/abs/2607.07737)|null|
 |**2026-07-07**|**CILC: Cryptographically-secure Inter-agent Loop Closure Candidate Detection for Multi-Agent Collaborative SLAM**|Andrew Fishberg et.al.|[2607.06700](http://arxiv.org/abs/2607.06700)|null|
 |**2026-07-07**|**MiLSD: A Micro Line-Segment Detector for Resource-Constrained Devices**|Parsa Hassani Shariat Panahi et.al.|[2607.06600](http://arxiv.org/abs/2607.06600)|null|
-|**2026-07-07**|**Hilti-Trimble-Oxford Dataset: 360 Visual-Inertial Benchmark with Floor Plan Priors for SLAM and Localization**|Samuele Centanni et.al.|[2607.06464](http://arxiv.org/abs/2607.06464)|null|
-|**2026-07-07**|**APVI-SLAM: Real-Time Acoustic-Pressure-Visual-Inertial Localization and Photorealistic Mapping System in Complex Underwater Environment**|Hanwen Zhang et.al.|[2607.06222](http://arxiv.org/abs/2607.06222)|null|
-|**2026-07-07**|**Why does Deep Learning Improve Visual SLAM?**|Giovanni Cioffi et.al.|[2607.06023](http://arxiv.org/abs/2607.06023)|null|
 
 ### Visual Localization
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-07-13**|**GeoGS-SLAM: Online Monocular Reconstruction Using Gaussian Splatting with Geometric Priors**|Ruilan Gao et.al.|[2607.11184](http://arxiv.org/abs/2607.11184)|null|
 |**2026-07-08**|**GReFEM: Multimodal LLMs as Zero-Shot Semantic Assistants for Physics-Guided 3D Mesh Refinement**|Kartik Bali et.al.|[2607.08798](http://arxiv.org/abs/2607.08798)|null|
 |**2026-07-08**|**MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models**|Hyunjae Kim et.al.|[2607.07673](http://arxiv.org/abs/2607.07673)|null|
 |**2026-07-07**|**SASGeo: Stability-Aware Semantic Map Localization for GNSS-Denied UAVs -- A Framework and Synthetic Proof of Concept**|Natalia Trukhina et.al.|[2607.07737](http://arxiv.org/abs/2607.07737)|null|
@@ -189,7 +190,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-07-02**|**FlowCIR: Semantic Transport via Flow Matching for Zero-Shot Composed Image Retrieval**|Zhenqi He et.al.|[2607.02284](http://arxiv.org/abs/2607.02284)|null|
 |**2026-07-02**|**Traceable Fault Diagnosis for Battery Energy Storage Systems via Retrieval-Augmented Multi-Agent O&M Assistant**|Jiangdi Ru et.al.|[2607.01992](http://arxiv.org/abs/2607.01992)|null|
 |**2026-07-02**|**PinNet: Keypoint-Aware Learned Local Descriptors with Geometric Embedding for Loop Closure in LiDAR SLAM**|Yanlong Ma et.al.|[2606.28637](http://arxiv.org/abs/2606.28637)|null|
-|**2026-07-01**|**Learning to Compose: Revisiting Proxy Task Design for Zero-Shot Composed Image Retrieval**|Jingjing Zhang et.al.|[2607.00374](http://arxiv.org/abs/2607.00374)|null|
 
 See the [full archive](./docs/daily_archive.md) for more papers.
 
