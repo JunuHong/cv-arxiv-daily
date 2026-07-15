@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-14**|**DermDepth: Toward Monocular Metric Scale 3D Reconstruction Models for Dermatology**|Héctor Carrión et.al.|[2607.13010](http://arxiv.org/abs/2607.13010)|null|
+|**2026-07-14**|**Point Tracking in Surgery--The 2025 Surgical Tattoos in Infrared Challenge (STIRC2025)**|Adam Schmidt et.al.|[2607.12939](http://arxiv.org/abs/2607.12939)|null|
 |**2026-07-13**|**GHOST: Geometry-Guided Hallucination of Opaque Surface Textures**|Langxu Zhao et.al.|[2607.11118](http://arxiv.org/abs/2607.11118)|null|
 |**2026-07-12**|**Mapping Pamir: Multi-Session Visual-Inertial SLAM and 3D Reconstruction of an Underwater Shipwreck**|Michalis Chatzispyrou et.al.|[2607.10925](http://arxiv.org/abs/2607.10925)|null|
 |**2026-07-10**|**RASR: Range-Aware Scale Recovery for Metric UAV Navigation**|Hongtao Liang et.al.|[2607.09815](http://arxiv.org/abs/2607.09815)|null|
