@@ -6,7 +6,7 @@
 # CV ArXiv Daily
 Automatically collected computer vision papers from arXiv.
 
-> Updated on 2026.07.19
+> Updated on 2026.07.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Latest Papers
@@ -26,6 +26,13 @@ Automatically collected computer vision papers from arXiv.
 ### 3D reconstruction
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-07-17**|**Toward Semantic Communication for Real-time Mobile 3D Reconstruction**|Fangzhou Zhao et.al.|[2607.16128](http://arxiv.org/abs/2607.16128)|null|
+|**2026-07-17**|**Beyond Frontiers: Scene-Anomaly Guided Autonomous Exploration**|Akash Kumbar et.al.|[2607.15828](http://arxiv.org/abs/2607.15828)|null|
+|**2026-07-17**|**Three-dimensional evolution of a solar filament with multipoint observations**|Qingmin Zhang et.al.|[2607.15759](http://arxiv.org/abs/2607.15759)|null|
+|**2026-07-17**|**Event3R: Asynchronous-to-Global 3D Reconstruction from Event Camera via Spatial-Temporal Feature Aggregation**|Jian Huang et.al.|[2607.15727](http://arxiv.org/abs/2607.15727)|null|
+|**2026-07-17**|**CSS-BA: Gate-Guided Column Space Search for Bundle Adjustment**|Ayano Kaneda et.al.|[2607.15652](http://arxiv.org/abs/2607.15652)|null|
+|**2026-07-17**|**NoDrift3R: Raymap-Guided Coupling for Drift-Robust Unposed Feed-Forward 3D Reconstruction**|Xiangyu Sun et.al.|[2607.07168](http://arxiv.org/abs/2607.07168)|null|
+|**2026-07-17**|**ReCal3R: Reliability-Calibrated Learning Rates for Streaming 3D Reconstruction**|Xinze Li et.al.|[2607.05356](http://arxiv.org/abs/2607.05356)|null|
 |**2026-07-16**|**MAGiSt3R: Multi-Agent Feed-forward 3D Reconstruction from Monocular RGB Videos**|Ziren Gong et.al.|[2607.15211](http://arxiv.org/abs/2607.15211)|null|
 |**2026-07-16**|**RASR: Range-Aware Scale Recovery for Metric UAV Navigation**|Hongtao Liang et.al.|[2607.09815](http://arxiv.org/abs/2607.09815)|null|
 |**2026-07-15**|**SeeSE3: Emergence of 3D Space in Vision Features**|Caroline Chen et.al.|[2607.14228](http://arxiv.org/abs/2607.14228)|null|
@@ -39,13 +46,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-07-13**|**GHOST: Geometry-Guided Hallucination of Opaque Surface Textures**|Langxu Zhao et.al.|[2607.11118](http://arxiv.org/abs/2607.11118)|null|
 |**2026-07-12**|**Mapping Pamir: Multi-Session Visual-Inertial SLAM and 3D Reconstruction of an Underwater Shipwreck**|Michalis Chatzispyrou et.al.|[2607.10925](http://arxiv.org/abs/2607.10925)|null|
 |**2026-07-11**|**Meshtryoshka: Differentiable Rendering of Real-World Scenes via Mesh Rasterization**|David Charatan et.al.|[2606.28622](http://arxiv.org/abs/2606.28622)|null|
-|**2026-07-10**|**What VGGT Knows About Overlap: Probing Geometric Foundation Models for Co-Visibility**|Filippo Ziliotto et.al.|[2607.09503](http://arxiv.org/abs/2607.09503)|null|
-|**2026-07-10**|**Glob3R: Global Structure-from-Motion with 3D Foundation Models**|Junyuan Deng et.al.|[2607.09225](http://arxiv.org/abs/2607.09225)|null|
-|**2026-07-09**|**Wat3R: Underwater 3D Geometry Learning without Annotations**|Jiangwei Ren et.al.|[2607.08772](http://arxiv.org/abs/2607.08772)|null|
-|**2026-07-09**|**LTM: Large-scale Terrain Model for Wildfire-prone Landscapes**|Xiao Fu et.al.|[2607.08711](http://arxiv.org/abs/2607.08711)|null|
-|**2026-07-09**|**Track2Map: Online Deformable SLAM with Motion-Aware Pose Optimization in Robotic Surgery**|Tianyi Song et.al.|[2607.08408](http://arxiv.org/abs/2607.08408)|null|
-|**2026-07-09**|**HoloTetSphere: Unified TetSphere Mesh Reconstruction for Physical Simulations**|YaQiao Dai et.al.|[2607.08398](http://arxiv.org/abs/2607.08398)|null|
-|**2026-07-09**|**PanoImager: Geometry-Guided Novel View Synthesis and Reconstruction from Sparse Panoramic Views**|Zhisong Xu et.al.|[2606.27071](http://arxiv.org/abs/2606.27071)|null|
 
 ### Image Matching
 | Publish Date | Title | Authors | PDF | Code |
@@ -79,6 +79,7 @@ Automatically collected computer vision papers from arXiv.
 |**2026-06-30**|**On the Role of Rotation Equivariance in Monocular 2D-to-3D Human Pose Lifting**|Pavlo Melnyk et.al.|[2601.13913](http://arxiv.org/abs/2601.13913)|null|
 |**2026-06-25**|**SPARK: Low Latency Single-Camera 3D Pose Estimation for Autonomous Racing using Keypoints**|Dominic Ebner et.al.|[2606.17936](http://arxiv.org/abs/2606.17936)|null|
 |**2026-06-22**|**ISOPoT: Imaging Sonar Odometry by Point Tracking**|Jaša Samec et.al.|[2606.23006](http://arxiv.org/abs/2606.23006)|null|
+|**2026-06-19**|**An Empirical Study of Handcrafted Feature Learning and Convolutional Neural Networks for Facial Expression Recognition**|Chethiya Galkaduwa et.al.|[2607.15288](http://arxiv.org/abs/2607.15288)|null|
 |**2026-06-04**|**Synthetic Data Generation and Vision-based Wrinkle and Keypoint Detection for Bimanual Cloth Manipulation**|Ariel Herrera et.al.|[2606.06292](http://arxiv.org/abs/2606.06292)|null|
 |**2026-05-28**|**Mesh-Aware Epipolar Matching for Multi-View Multi-Person 3D Pose Estimation in Basketball**|Li Yin et.al.|[2605.29953](http://arxiv.org/abs/2605.29953)|null|
 |**2026-05-16**|**Markerless Motion Capture for Biomechanical Whole-Body Kinematic Estimation in Infants**|Divya Joshi et.al.|[2605.17120](http://arxiv.org/abs/2605.17120)|null|
@@ -93,11 +94,11 @@ Automatically collected computer vision papers from arXiv.
 |**2026-04-17**|**PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems**|Weijie Wang et.al.|[2604.16540](http://arxiv.org/abs/2604.16540)|null|
 |**2026-04-15**|**SceneGlue: Scene-Aware Transformer for Feature Matching without Scene-Level Annotation**|Songlin Du et.al.|[2604.13941](http://arxiv.org/abs/2604.13941)|null|
 |**2026-04-14**|**Utilizing Inpainting for Keypoint Detection for Vision-Based Control of Robotic Manipulators**|Sreejani Chatterjee et.al.|[2604.13309](http://arxiv.org/abs/2604.13309)|null|
-|**2026-04-10**|**Multi-task Just Recognizable Difference for Video Coding for Machines: Database, Model, and Coding Application**|Junqi Liu et.al.|[2604.09421](http://arxiv.org/abs/2604.09421)|null|
 
 ### NeRF
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-07-17**|**ImprovedVBGS: Real-time Continual Variational Bayes Gaussian Splatting**|Damani Mguni-Coker et.al.|[2607.15542](http://arxiv.org/abs/2607.15542)|null|
 |**2026-07-05**|**Neural LiDAR Bundle Adjustment**|Chin Yung Anson Hon et.al.|[2607.04169](http://arxiv.org/abs/2607.04169)|null|
 |**2026-07-03**|**Fast 3D Foundation Model Initialized Gaussian Splatting**|Anurag Dalal et.al.|[2607.03209](http://arxiv.org/abs/2607.03209)|null|
 |**2026-07-02**|**X-Splat: Gaussian Splatting for 3D CBCT Generation from Single Panoramic Radiograph**|Tomasz Szczepański et.al.|[2607.02099](http://arxiv.org/abs/2607.02099)|null|
@@ -117,11 +118,12 @@ Automatically collected computer vision papers from arXiv.
 |**2026-06-15**|**Dynamic Black-hole Emission Tomography with Physics-informed Neural Fields**|Berthy T. Feng et.al.|[2602.08029](http://arxiv.org/abs/2602.08029)|null|
 |**2026-06-09**|**3D-CoS: A New 3D Reconstruction Paradigm Based on VLM Code Synthesis**|Yuhao Wang et.al.|[2606.10478](http://arxiv.org/abs/2606.10478)|null|
 |**2026-06-08**|**Leveraging NeRF-Rendered Images for 3D Gaussian Splatting**|Mizuki Morikawa et.al.|[2606.09034](http://arxiv.org/abs/2606.09034)|null|
-|**2026-06-04**|**Liquid Neural Networks as a Drop-in Continuous-Time Deformation Field for Dynamic 3D Gaussian Splatting**|Mingzhao Li et.al.|[2606.07670](http://arxiv.org/abs/2606.07670)|null|
 
 ### SFM
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-07-17**|**HETA++: Global Structure-from-Motion with Hybrid Explicit Translation Averaging**|Peilin Tao et.al.|[2607.15912](http://arxiv.org/abs/2607.15912)|null|
+|**2026-07-17**|**NoDrift3R: Raymap-Guided Coupling for Drift-Robust Unposed Feed-Forward 3D Reconstruction**|Xiangyu Sun et.al.|[2607.07168](http://arxiv.org/abs/2607.07168)|null|
 |**2026-07-16**|**Immediate 3D Gaussian Splat Reconstruction of Unordered Input with Global Consistency**|Andreas Meuleman et.al.|[2607.14481](http://arxiv.org/abs/2607.14481)|null|
 |**2026-07-15**|**SalientGS: Unified SfM-to-3DGS with Importance-Guided MCMC Gaussian Allocation**|Tianyu Xiong et.al.|[2607.11285](http://arxiv.org/abs/2607.11285)|null|
 |**2026-07-15**|**BathyFacto: Refraction-Aware Two-Media Neural Radiance Fields for Bathymetry**|Markus Brezovsky et.al.|[2605.10174](http://arxiv.org/abs/2605.10174)|null|
@@ -135,13 +137,11 @@ Automatically collected computer vision papers from arXiv.
 |**2026-07-10**|**Empirical Pedestrian Safety Assessment in a Mobile Robot Using a Predictive Social Force Model**|Alireza Jafari et.al.|[2607.09192](http://arxiv.org/abs/2607.09192)|null|
 |**2026-07-09**|**Deep Spectroscopic Follow-Up of Maisie's Galaxy -- A Typical Galaxy in the Early Universe**|Rebecca L. Larson et.al.|[2607.08749](http://arxiv.org/abs/2607.08749)|null|
 |**2026-07-09**|**PanoImager: Geometry-Guided Novel View Synthesis and Reconstruction from Sparse Panoramic Views**|Zhisong Xu et.al.|[2606.27071](http://arxiv.org/abs/2606.27071)|null|
-|**2026-07-08**|**NoDrift3R: Raymap-Guided Coupling for Drift-Robust Unposed Feed-Forward 3D Reconstruction**|Xiangyu Sun et.al.|[2607.07168](http://arxiv.org/abs/2607.07168)|null|
 |**2026-07-08**|**The MAGPI Survey: Evidence for Non-Universal Resolved Dust Attenuation Relations Beyond the Local Universe**|A. Mailvaganam et.al.|[2607.07122](http://arxiv.org/abs/2607.07122)|null|
 |**2026-07-06**|**Reference-Induced Consensus for Selective Posed-Reference Visual Localization**|Wonseok Kang et.al.|[2607.04722](http://arxiv.org/abs/2607.04722)|null|
 |**2026-07-06**|**LoMa: Local Feature Matching Revisited**|David Nordström et.al.|[2604.04931](http://arxiv.org/abs/2604.04931)|null|
 |**2026-07-04**|**PRISM3D: Probabilistic Refinement and Robust Initialization for Physically Consistent Scene Modeling under Extreme Motion Blur**|Gopi Raju Matta et.al.|[2607.03855](http://arxiv.org/abs/2607.03855)|null|
 |**2026-07-03**|**Fast 3D Foundation Model Initialized Gaussian Splatting**|Anurag Dalal et.al.|[2607.03209](http://arxiv.org/abs/2607.03209)|null|
-|**2026-07-01**|**EPO: Boosting 3D Foundation Models with Edge-based Pose Optimization**|Mattia D'Urso et.al.|[2607.00579](http://arxiv.org/abs/2607.00579)|null|
 
 ### SLAM
 | Publish Date | Title | Authors | PDF | Code |
@@ -170,6 +170,8 @@ Automatically collected computer vision papers from arXiv.
 ### Visual Localization
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-07-17**|**Are All Tokens Necessary for Visual Place Recognition? An Empirical Study of Token Reduction for Efficient Inference**|Tong Jin et.al.|[2607.15563](http://arxiv.org/abs/2607.15563)|null|
+|**2026-07-16**|**VTAP Gripper: Synergizing Fingertip Sensing and a Visuo-Tactile Active Palm for Dexterous In-Hand Manipulation**|Yuhao Zhou et.al.|[2607.15448](http://arxiv.org/abs/2607.15448)|null|
 |**2026-07-16**|**SceneBind: Binding What and Where Across Vision, Audio and Language**|Mingfei Chen et.al.|[2607.15265](http://arxiv.org/abs/2607.15265)|null|
 |**2026-07-16**|**On Success and Simplicity: A Second Look at Transferable Vision-Language Attack Pipeline**|Yuchen Ren et.al.|[2607.14974](http://arxiv.org/abs/2607.14974)|null|
 |**2026-07-16**|**Selectivity Drives Efficiency: Dataset Pruning for Visual Place Recognition**|Tong Jin et.al.|[2607.14897](http://arxiv.org/abs/2607.14897)|null|
@@ -188,8 +190,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-07-06**|**Trajectory-Anchor Optimization for Overconfident Thermal Visual Place Recognition: Zero-Leakage OOD Auditing and Kidnapped-Robot Recovery**|Zhiyuan Lu et.al.|[2607.04745](http://arxiv.org/abs/2607.04745)|null|
 |**2026-07-06**|**Reference-Induced Consensus for Selective Posed-Reference Visual Localization**|Wonseok Kang et.al.|[2607.04722](http://arxiv.org/abs/2607.04722)|null|
 |**2026-07-06**|**DiCE-CIR: Direct Composition Learning for Efficient Zero-Shot Composed Image Retrieval**|Gwang-Ho Na et.al.|[2607.04665](http://arxiv.org/abs/2607.04665)|null|
-|**2026-07-06**|**DIVO: Continuous-time DVL-Inertial-Visual Odometry for Unmanned Underwater Vehicles**|Kyungmin Jung et.al.|[2607.04615](http://arxiv.org/abs/2607.04615)|null|
-|**2026-07-06**|**Can Retrieval Heads See Images? Multimodal Retrieval Heads in Long-Context Vision-Language Models**|Aaron Branson Cigres Li et.al.|[2605.27243](http://arxiv.org/abs/2605.27243)|null|
 
 See the [full archive](./docs/daily_archive.md) for more papers.
 

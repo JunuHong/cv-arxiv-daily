@@ -7,13 +7,18 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.19
+## Updated on 2026.07.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-17**|**Toward Semantic Communication for Real-time Mobile 3D Reconstruction**|Fangzhou Zhao et.al.|[2607.16128](http://arxiv.org/abs/2607.16128)|null|
+|**2026-07-17**|**Beyond Frontiers: Scene-Anomaly Guided Autonomous Exploration**|Akash Kumbar et.al.|[2607.15828](http://arxiv.org/abs/2607.15828)|null|
+|**2026-07-17**|**Three-dimensional evolution of a solar filament with multipoint observations**|Qingmin Zhang et.al.|[2607.15759](http://arxiv.org/abs/2607.15759)|null|
+|**2026-07-17**|**Event3R: Asynchronous-to-Global 3D Reconstruction from Event Camera via Spatial-Temporal Feature Aggregation**|Jian Huang et.al.|[2607.15727](http://arxiv.org/abs/2607.15727)|null|
+|**2026-07-17**|**CSS-BA: Gate-Guided Column Space Search for Bundle Adjustment**|Ayano Kaneda et.al.|[2607.15652](http://arxiv.org/abs/2607.15652)|null|
 |**2026-07-16**|**MAGiSt3R: Multi-Agent Feed-forward 3D Reconstruction from Monocular RGB Videos**|Ziren Gong et.al.|[2607.15211](http://arxiv.org/abs/2607.15211)|null|
 |**2026-07-15**|**SeeSE3: Emergence of 3D Space in Vision Features**|Caroline Chen et.al.|[2607.14228](http://arxiv.org/abs/2607.14228)|null|
 |**2026-07-15**|**COLMAR: Cooperative View Policy Learning for Multi-Agent Active 3D Reconstruction**|Phu Pham et.al.|[2607.13524](http://arxiv.org/abs/2607.13524)|null|
@@ -33,14 +38,14 @@ layout: default
 |**2026-07-09**|**HoloTetSphere: Unified TetSphere Mesh Reconstruction for Physical Simulations**|YaQiao Dai et.al.|[2607.08398](http://arxiv.org/abs/2607.08398)|null|
 |**2026-07-08**|**3D Reconstruction of deciduous Trees using low-cost UAV- and Crane-based Photogrammetry for Monitoring Shoot Elongation across entire Canopies**|Stephan Nebiker et.al.|[2607.07905](http://arxiv.org/abs/2607.07905)|null|
 |**2026-07-08**|**GeoGS-SLAM: Geometry-Only Gaussian Splatting for Dense Monocular SLAM**|Lipu Zhou et.al.|[2607.07452](http://arxiv.org/abs/2607.07452)|null|
-|**2026-07-08**|**NoDrift3R: Raymap-Guided Coupling for Drift-Robust Unposed Feed-Forward 3D Reconstruction**|Xiangyu Sun et.al.|[2607.07168](http://arxiv.org/abs/2607.07168)|null|
+|**2026-07-17**|**NoDrift3R: Raymap-Guided Coupling for Drift-Robust Unposed Feed-Forward 3D Reconstruction**|Xiangyu Sun et.al.|[2607.07168](http://arxiv.org/abs/2607.07168)|null|
 |**2026-07-08**|**Disturbance-aware Motion Planning for Over-actuated Underwater Vehicles Exploiting Actuation Redundancy for High-fidelity 3D Reconstruction**|Yuer Gao et.al.|[2607.07139](http://arxiv.org/abs/2607.07139)|null|
 |**2026-07-07**|**MiLSD: A Micro Line-Segment Detector for Resource-Constrained Devices**|Parsa Hassani Shariat Panahi et.al.|[2607.06600](http://arxiv.org/abs/2607.06600)|null|
 |**2026-07-07**|**Refractive-index tomography of opaque tissue from its own backscattered light**|Tran Dinh Hoang et.al.|[2607.05925](http://arxiv.org/abs/2607.05925)|null|
 |**2026-07-14**|**TRIG: Trajectory-Rig Decoupled Metric Geometry Learning**|Lizhou Liao et.al.|[2607.05801](http://arxiv.org/abs/2607.05801)|null|
 |**2026-07-06**|**MV-Forcing: Long Multi-View Video Generation via 4D-Grounded Spatio-Temporal Self-Forcing**|Gal Fiebelman et.al.|[2607.05376](http://arxiv.org/abs/2607.05376)|null|
 |**2026-07-06**|**PixWorld: Unifying 3D Scene Generation and Reconstruction in Pixel Space**|Sensen Gao et.al.|[2607.05373](http://arxiv.org/abs/2607.05373)|null|
-|**2026-07-06**|**ReCal3R: Reliability-Calibrated Learning Rates for Streaming 3D Reconstruction**|Xinze Li et.al.|[2607.05356](http://arxiv.org/abs/2607.05356)|null|
+|**2026-07-17**|**ReCal3R: Reliability-Calibrated Learning Rates for Streaming 3D Reconstruction**|Xinze Li et.al.|[2607.05356](http://arxiv.org/abs/2607.05356)|null|
 |**2026-07-06**|**WildSplat: Feedforward Gaussian Splatting from Unposed In-the-Wild Images**|Xiyu Zhang et.al.|[2607.05347](http://arxiv.org/abs/2607.05347)|null|
 |**2026-07-06**|**GUSH3R: Everyone Everywhere All at Once as Gaussians**|Keito Abe et.al.|[2607.05243](http://arxiv.org/abs/2607.05243)|null|
 |**2026-07-06**|**UniSpine-GS: An Efficient Physics-Aware Gaussian Framework for Cross-Modality Multi-view Spine Image Synthesis**|Qiuhua Chen et.al.|[2607.04923](http://arxiv.org/abs/2607.04923)|null|
@@ -1668,6 +1673,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-19**|**An Empirical Study of Handcrafted Feature Learning and Convolutional Neural Networks for Facial Expression Recognition**|Chethiya Galkaduwa et.al.|[2607.15288](http://arxiv.org/abs/2607.15288)|null|
 |**2026-07-01**|**GKDT: General Keypoint Detection Transformer**|Changsheng Lu et.al.|[2607.00752](http://arxiv.org/abs/2607.00752)|null|
 |**2026-06-22**|**ISOPoT: Imaging Sonar Odometry by Point Tracking**|Jaša Samec et.al.|[2606.23006](http://arxiv.org/abs/2606.23006)|null|
 |**2026-06-25**|**SPARK: Low Latency Single-Camera 3D Pose Estimation for Autonomous Racing using Keypoints**|Dominic Ebner et.al.|[2606.17936](http://arxiv.org/abs/2606.17936)|null|
@@ -2061,6 +2067,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-17**|**ImprovedVBGS: Real-time Continual Variational Bayes Gaussian Splatting**|Damani Mguni-Coker et.al.|[2607.15542](http://arxiv.org/abs/2607.15542)|null|
 |**2026-07-05**|**Neural LiDAR Bundle Adjustment**|Chin Yung Anson Hon et.al.|[2607.04169](http://arxiv.org/abs/2607.04169)|null|
 |**2026-07-03**|**Fast 3D Foundation Model Initialized Gaussian Splatting**|Anurag Dalal et.al.|[2607.03209](http://arxiv.org/abs/2607.03209)|null|
 |**2026-06-27**|**Reliability-Aware Monocular Depth Supervision for Sparse-View Neural Reconstruction**|Wei-Teng Chu et.al.|[2607.02554](http://arxiv.org/abs/2607.02554)|null|
@@ -4000,6 +4007,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-17**|**HETA++: Global Structure-from-Motion with Hybrid Explicit Translation Averaging**|Peilin Tao et.al.|[2607.15912](http://arxiv.org/abs/2607.15912)|null|
 |**2026-07-16**|**Immediate 3D Gaussian Splat Reconstruction of Unordered Input with Global Consistency**|Andreas Meuleman et.al.|[2607.14481](http://arxiv.org/abs/2607.14481)|null|
 |**2026-07-15**|**SalientGS: Unified SfM-to-3DGS with Importance-Guided MCMC Gaussian Allocation**|Tianyu Xiong et.al.|[2607.11285](http://arxiv.org/abs/2607.11285)|null|
 |**2026-07-12**|**Mapping Pamir: Multi-Session Visual-Inertial SLAM and 3D Reconstruction of an Underwater Shipwreck**|Michalis Chatzispyrou et.al.|[2607.10925](http://arxiv.org/abs/2607.10925)|null|
@@ -4009,7 +4017,7 @@ layout: default
 |**2026-07-10**|**Glob3R: Global Structure-from-Motion with 3D Foundation Models**|Junyuan Deng et.al.|[2607.09225](http://arxiv.org/abs/2607.09225)|null|
 |**2026-07-10**|**Empirical Pedestrian Safety Assessment in a Mobile Robot Using a Predictive Social Force Model**|Alireza Jafari et.al.|[2607.09192](http://arxiv.org/abs/2607.09192)|null|
 |**2026-07-09**|**Deep Spectroscopic Follow-Up of Maisie's Galaxy -- A Typical Galaxy in the Early Universe**|Rebecca L. Larson et.al.|[2607.08749](http://arxiv.org/abs/2607.08749)|null|
-|**2026-07-08**|**NoDrift3R: Raymap-Guided Coupling for Drift-Robust Unposed Feed-Forward 3D Reconstruction**|Xiangyu Sun et.al.|[2607.07168](http://arxiv.org/abs/2607.07168)|null|
+|**2026-07-17**|**NoDrift3R: Raymap-Guided Coupling for Drift-Robust Unposed Feed-Forward 3D Reconstruction**|Xiangyu Sun et.al.|[2607.07168](http://arxiv.org/abs/2607.07168)|null|
 |**2026-07-08**|**The MAGPI Survey: Evidence for Non-Universal Resolved Dust Attenuation Relations Beyond the Local Universe**|A. Mailvaganam et.al.|[2607.07122](http://arxiv.org/abs/2607.07122)|null|
 |**2026-07-12**|**Deep far-UV observations of the ELAIS N1 field using AstroSat: Source catalogue, spectral energy distribution modelling and star formation**|Pranjal Chaturvedi et.al.|[2607.06143](http://arxiv.org/abs/2607.06143)|null|
 |**2026-07-06**|**Reference-Induced Consensus for Selective Posed-Reference Visual Localization**|Wonseok Kang et.al.|[2607.04722](http://arxiv.org/abs/2607.04722)|null|
@@ -5774,6 +5782,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-17**|**Are All Tokens Necessary for Visual Place Recognition? An Empirical Study of Token Reduction for Efficient Inference**|Tong Jin et.al.|[2607.15563](http://arxiv.org/abs/2607.15563)|null|
+|**2026-07-16**|**VTAP Gripper: Synergizing Fingertip Sensing and a Visuo-Tactile Active Palm for Dexterous In-Hand Manipulation**|Yuhao Zhou et.al.|[2607.15448](http://arxiv.org/abs/2607.15448)|null|
 |**2026-07-16**|**SceneBind: Binding What and Where Across Vision, Audio and Language**|Mingfei Chen et.al.|[2607.15265](http://arxiv.org/abs/2607.15265)|null|
 |**2026-07-16**|**On Success and Simplicity: A Second Look at Transferable Vision-Language Attack Pipeline**|Yuchen Ren et.al.|[2607.14974](http://arxiv.org/abs/2607.14974)|null|
 |**2026-07-16**|**Selectivity Drives Efficiency: Dataset Pruning for Visual Place Recognition**|Tong Jin et.al.|[2607.14897](http://arxiv.org/abs/2607.14897)|null|
