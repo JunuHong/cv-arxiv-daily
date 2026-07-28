@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-27**|**CameraAnything: Refilming Videos with Arbitrary Camera Control**|Yixuan Li et.al.|[2607.24591](http://arxiv.org/abs/2607.24591)|null|
+|**2026-07-27**|**MSVS-VAE: Multi-Scale Anchored VecSet for High-Fidelity 3D Reconstruction**|Dehao Hao et.al.|[2607.24436](http://arxiv.org/abs/2607.24436)|null|
+|**2026-07-27**|**Quality-Adaptive Multi-UAV 3D Reconstruction with Sparse Workload Redistribution**|Benjamin Sportich et.al.|[2607.24233](http://arxiv.org/abs/2607.24233)|null|
 |**2026-07-24**|**SM4RT: Learning Structured Motion Geometry for 4D Reconstruction**|Shing Ho J. Lin et.al.|[2607.22534](http://arxiv.org/abs/2607.22534)|null|
 |**2026-07-23**|**DAPM: UAV Monocular Depth Estimation from Any Height, Pitch, Roll and FOV**|Tong Ling et.al.|[2607.21438](http://arxiv.org/abs/2607.21438)|null|
 |**2026-07-23**|**WAT3R: Feedforward Underwater 3D Reconstruction**|Jiayi Xu et.al.|[2607.21023](http://arxiv.org/abs/2607.21023)|null|
@@ -1704,7 +1707,7 @@ layout: default
 |**2026-04-25**|**Keypoint-based Dynamic Object 6-DoF Pose Tracking via Event Camera**|Zhe Wang et.al.|[2604.23387](http://arxiv.org/abs/2604.23387)|null|
 |**2026-04-23**|**EdgeFormer: local patch-based edge detection transformer on point clouds**|Yifei Xie et.al.|[2604.21387](http://arxiv.org/abs/2604.21387)|null|
 |**2026-04-19**|**HyKey: Hyperspectral Keypoint Detection and Matching in Minimally Invasive Surgery**|Alexander Saikia et.al.|[2604.17446](http://arxiv.org/abs/2604.17446)|null|
-|**2026-04-18**|**Adaptive receptive field-based spatial-frequency feature reconstruction network for few-shot fine-grained image classification**|Linyue Zhang et.al.|[2604.16936](http://arxiv.org/abs/2604.16936)|null|
+|**2026-07-27**|**Adaptive receptive field-based spatial-frequency feature reconstruction network for fine-grained few-shot image classification**|Linyue Zhang et.al.|[2604.16936](http://arxiv.org/abs/2604.16936)|null|
 |**2026-04-17**|**PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems**|Weijie Wang et.al.|[2604.16540](http://arxiv.org/abs/2604.16540)|null|
 |**2026-04-15**|**SceneGlue: Scene-Aware Transformer for Feature Matching without Scene-Level Annotation**|Songlin Du et.al.|[2604.13941](http://arxiv.org/abs/2604.13941)|null|
 |**2026-04-14**|**Utilizing Inpainting for Keypoint Detection for Vision-Based Control of Robotic Manipulators**|Sreejani Chatterjee et.al.|[2604.13309](http://arxiv.org/abs/2604.13309)|null|
@@ -2086,6 +2089,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-27**|**NEO: NeRF It Once, Edit It Many Times for Continuous Object Manipulation**|Mikołaj Zieliński et.al.|[2607.24538](http://arxiv.org/abs/2607.24538)|null|
 |**2026-07-23**|**Hash-QNeRF: Multiresolution Hash Encoding for Quantum Neural Radiance Fields**|Digonto Biswas et.al.|[2607.21675](http://arxiv.org/abs/2607.21675)|null|
 |**2026-07-23**|**Recurrent Sinusoidal INRs for Efficient High-Fidelity Representation**|Hyunmin Cho et.al.|[2607.21485](http://arxiv.org/abs/2607.21485)|null|
 |**2026-07-20**|**QIRF Quantum-Inspired Non-Orthogonal Function-Space Compression for 3D Gaussian Splatting**|Shizeng Jiang et.al.|[2607.18067](http://arxiv.org/abs/2607.18067)|null|
@@ -4031,6 +4035,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-27**|**Accuracy potential of visual localization exploiting high-end street-level imagery**|Jonas Meyer et.al.|[2607.24409](http://arxiv.org/abs/2607.24409)|null|
 |**2026-07-20**|**Ergodicity of FIRE: star formation variations within and between simulated galaxies**|Fraser M. Smith et.al.|[2607.18005](http://arxiv.org/abs/2607.18005)|null|
 |**2026-07-20**|**Stability and Comfort in Mobile Robot-Pedestrian Interactions**|Alireza Jafari et.al.|[2607.17604](http://arxiv.org/abs/2607.17604)|null|
 |**2026-07-17**|**HETA++: Global Structure-from-Motion with Hybrid Explicit Translation Averaging**|Peilin Tao et.al.|[2607.15912](http://arxiv.org/abs/2607.15912)|null|
@@ -4632,6 +4637,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-27**|**NSL-SLAM: High-Fidelity Neural Structured-Light Depth for Practical SLAM and Reconstruction**|Jiaheng Li et.al.|[2607.24495](http://arxiv.org/abs/2607.24495)|null|
+|**2026-07-27**|**SHARE: Towards Head-Mounted AR with User-Centric SLAM in Shared Human-Robot Workspaces**|Tianyuan Du et.al.|[2607.23901](http://arxiv.org/abs/2607.23901)|null|
 |**2026-07-25**|**Semantic Semi-Incremental Data-Association-Free Object SLAM**|Yihao Zhang et.al.|[2607.23384](http://arxiv.org/abs/2607.23384)|null|
 |**2026-07-24**|**Flight-Ready LiDAR-Inertial Odometry for Embedded Drone Platforms**|Alvaro J. Gaona et.al.|[2607.22145](http://arxiv.org/abs/2607.22145)|null|
 |**2026-07-24**|**DB-VIO: Dual-Branch Visual Inertial Odometry with Enhanced Visual-Inertial Representation**|Ziyu Wan et.al.|[2607.22123](http://arxiv.org/abs/2607.22123)|null|
@@ -4685,7 +4692,7 @@ layout: default
 |**2026-07-06**|**Geometry-Aware Visual Odometry for Bronchoscopic Navigation via High-Gain Observer Fusion**|Mohammadreza Kasaei et.al.|[2607.05162](http://arxiv.org/abs/2607.05162)|null|
 |**2026-07-06**|**WinTA-GIL: Windowed Trajectory Alignment for GNSS-IMU-LiDAR Heading Refinement in Intermittent Signal Environments**|Kaixin Feng et.al.|[2607.04879](http://arxiv.org/abs/2607.04879)|null|
 |**2026-07-07**|**Amplitude-Independent Robust Snapshot 6-D Radio SLAM via a Uniffed Angle-Delay Formulation**|Shengqiang Shen et.al.|[2607.04847](http://arxiv.org/abs/2607.04847)|null|
-|**2026-07-06**|**SLAM: Structured and Localized Analytic Manifold Adaptation for Lifelong VPR**|Kenta Tsukahara et.al.|[2607.04764](http://arxiv.org/abs/2607.04764)|null|
+|**2026-07-27**|**SLAM: Structured and Localized Analytic Manifold Adaptation for Forgetting-Immune and Domain-Robust Lifelong VPR**|Kenta Tsukahara et.al.|[2607.04764](http://arxiv.org/abs/2607.04764)|null|
 |**2026-07-06**|**DIVO: Continuous-time DVL-Inertial-Visual Odometry for Unmanned Underwater Vehicles**|Kyungmin Jung et.al.|[2607.04615](http://arxiv.org/abs/2607.04615)|null|
 |**2026-07-05**|**Real-Time LiDAR Gaussian Splatting SLAM**|Seungjun Tak et.al.|[2607.04127](http://arxiv.org/abs/2607.04127)|null|
 |**2026-07-03**|**E-TraMamba: A New Paradigm for Efficient Long-Term 3D Feature Tracking with Event Cameras**|Juwei Shen et.al.|[2607.02866](http://arxiv.org/abs/2607.02866)|null|
@@ -5827,6 +5834,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-27**|**KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability**|Krithi Shailya et.al.|[2607.24730](http://arxiv.org/abs/2607.24730)|null|
+|**2026-07-27**|**Experimental Observation of Ghost Image Revivals via Structured Coherence**|Weining Wang et.al.|[2607.24486](http://arxiv.org/abs/2607.24486)|null|
+|**2026-07-27**|**Accuracy potential of visual localization exploiting high-end street-level imagery**|Jonas Meyer et.al.|[2607.24409](http://arxiv.org/abs/2607.24409)|null|
 |**2026-07-24**|**Visual Relocalization from Sparse Views in Aliased and Low-Texture Environments via Novel View Synthesis**|Maria Peribañez et.al.|[2607.22147](http://arxiv.org/abs/2607.22147)|null|
 |**2026-07-23**|**CRAG-MM-Diagnostics: Enabling Stage-Wise Analysis of Knowledge-Intensive VQA**|Hanseok Oh et.al.|[2607.21155](http://arxiv.org/abs/2607.21155)|null|
 |**2026-07-23**|**DTIF: Robust Loop Closure Detection via Delaunay Triangle Topology in Complex Forests**|Xin Zhao et.al.|[2607.21138](http://arxiv.org/abs/2607.21138)|null|
@@ -5860,7 +5870,7 @@ layout: default
 |**2026-07-08**|**MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models**|Hyunjae Kim et.al.|[2607.07673](http://arxiv.org/abs/2607.07673)|null|
 |**2026-07-07**|**RFHNet: Relational and Frequency-Aware Hashing Network for Large-Scale Fine-Grained Food Image Retrieval**|Junsong Wang et.al.|[2607.06148](http://arxiv.org/abs/2607.06148)|null|
 |**2026-07-07**|**Visualizing Local Maxima of the Ohio overdose epidemic with Vineyards**|Nicholas Bermingham et.al.|[2607.05710](http://arxiv.org/abs/2607.05710)|null|
-|**2026-07-06**|**SLAM: Structured and Localized Analytic Manifold Adaptation for Lifelong VPR**|Kenta Tsukahara et.al.|[2607.04764](http://arxiv.org/abs/2607.04764)|null|
+|**2026-07-27**|**SLAM: Structured and Localized Analytic Manifold Adaptation for Forgetting-Immune and Domain-Robust Lifelong VPR**|Kenta Tsukahara et.al.|[2607.04764](http://arxiv.org/abs/2607.04764)|null|
 |**2026-07-06**|**Trajectory-Anchor Optimization for Overconfident Thermal Visual Place Recognition: Zero-Leakage OOD Auditing and Kidnapped-Robot Recovery**|Zhiyuan Lu et.al.|[2607.04745](http://arxiv.org/abs/2607.04745)|null|
 |**2026-07-06**|**Reference-Induced Consensus for Selective Posed-Reference Visual Localization**|Wonseok Kang et.al.|[2607.04722](http://arxiv.org/abs/2607.04722)|null|
 |**2026-07-06**|**DiCE-CIR: Direct Composition Learning for Efficient Zero-Shot Composed Image Retrieval**|Gwang-Ho Na et.al.|[2607.04665](http://arxiv.org/abs/2607.04665)|null|
