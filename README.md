@@ -6,7 +6,7 @@
 # CV ArXiv Daily
 Automatically collected computer vision papers from arXiv.
 
-> Updated on 2026.07.27
+> Updated on 2026.07.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Latest Papers
@@ -26,6 +26,7 @@ Automatically collected computer vision papers from arXiv.
 ### 3D reconstruction
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-07-26**|**GEAR: Reconstruction of Classical Paintings via Geometry Grounding and Appearance Restitution**|Qinyu Zhang et.al.|[2607.17519](http://arxiv.org/abs/2607.17519)|null|
 |**2026-07-24**|**SM4RT: Learning Structured Motion Geometry for 4D Reconstruction**|Shing Ho J. Lin et.al.|[2607.22534](http://arxiv.org/abs/2607.22534)|null|
 |**2026-07-23**|**DAPM: UAV Monocular Depth Estimation from Any Height, Pitch, Roll and FOV**|Tong Ling et.al.|[2607.21438](http://arxiv.org/abs/2607.21438)|null|
 |**2026-07-23**|**WAT3R: Feedforward Underwater 3D Reconstruction**|Jiayi Xu et.al.|[2607.21023](http://arxiv.org/abs/2607.21023)|null|
@@ -38,7 +39,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-07-21**|**Seeing Before Generating: Object Perception Enhances Single-View 3D Reconstruction**|Y Huynh et.al.|[2607.18630](http://arxiv.org/abs/2607.18630)|null|
 |**2026-07-20**|**Robust Multimodal Dynamic Object Segmentation**|Zhe Xin et.al.|[2607.18153](http://arxiv.org/abs/2607.18153)|null|
 |**2026-07-20**|**FF-ProCams: Feed-Forward Gaussian Splatting for Projector-Camera System**|Ziyao Wang et.al.|[2607.17803](http://arxiv.org/abs/2607.17803)|null|
-|**2026-07-20**|**GEAR: Reconstruction of Classical Paintings via Geometry Grounding and Appearance Restitution**|Qinyu Zhang et.al.|[2607.17519](http://arxiv.org/abs/2607.17519)|null|
 |**2026-07-18**|**Splat-based 3D Scene Reconstruction with Extreme Motion-blur**|Hyeonjoong Jang et.al.|[2607.16926](http://arxiv.org/abs/2607.16926)|null|
 |**2026-07-18**|**TopoGS: Planar Reconstruction via Topology-aware 3D Gaussian Splatting**|Shanshan Pan et.al.|[2607.16838](http://arxiv.org/abs/2607.16838)|null|
 |**2026-07-17**|**Toward Semantic Communication for Real-time Mobile 3D Reconstruction**|Fangzhou Zhao et.al.|[2607.16128](http://arxiv.org/abs/2607.16128)|null|
@@ -50,6 +50,7 @@ Automatically collected computer vision papers from arXiv.
 ### Image Matching
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-07-26**|**Robust 6-DoF Object Pose Tracking with Built-In Recovery under Occlusions and Rapid Object Motions**|Balázs Opra et.al.|[2607.23468](http://arxiv.org/abs/2607.23468)|null|
 |**2026-07-22**|**Quantile Transfer for Reliable Operating Point Selection in Visual Place Recognition**|Dhyey Manish Rajani et.al.|[2602.04401](http://arxiv.org/abs/2602.04401)|null|
 |**2026-07-21**|**NGPS: GPS-Denied Aerial Geo-Localization and 2.5D Reconstruction via Deep Satellite Image Matching and Multi-Rate Sensor Fusion**|Sanket Sharma et.al.|[2607.18936](http://arxiv.org/abs/2607.18936)|null|
 |**2026-07-21**|**Zero-Shot DINOv3-Based Image Matching via Many-to-Many Association**|Haodong Jiang et.al.|[2604.23670](http://arxiv.org/abs/2604.23670)|null|
@@ -69,7 +70,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-06-11**|**Modality-Aware Feature Matching in Visual and Vision-Language Applications: A Comprehensive Survey**|Weide Liu et.al.|[2507.22791](http://arxiv.org/abs/2507.22791)|null|
 |**2026-06-10**|**SalArt-VQA: Diagnosing Whether VLMs Understand Salient Artifacts in Generated Images**|Xiaoxiao Sun et.al.|[2606.12671](http://arxiv.org/abs/2606.12671)|null|
 |**2026-06-04**|**Second-order Gaussian directional derivative representations for image high-resolution corner detection**|Jiamiao Lu et.al.|[2601.08182](http://arxiv.org/abs/2601.08182)|null|
-|**2026-06-02**|**SAMatcher: Co-Visibility Modeling with Segment Anything for Robust Feature Matching**|Xu Pan et.al.|[2606.03406](http://arxiv.org/abs/2606.03406)|null|
 
 ### Keypoint Detection
 | Publish Date | Title | Authors | PDF | Code |
@@ -146,6 +146,7 @@ Automatically collected computer vision papers from arXiv.
 ### SLAM
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-07-25**|**Semantic Semi-Incremental Data-Association-Free Object SLAM**|Yihao Zhang et.al.|[2607.23384](http://arxiv.org/abs/2607.23384)|null|
 |**2026-07-24**|**Flight-Ready LiDAR-Inertial Odometry for Embedded Drone Platforms**|Alvaro J. Gaona et.al.|[2607.22145](http://arxiv.org/abs/2607.22145)|null|
 |**2026-07-24**|**DB-VIO: Dual-Branch Visual Inertial Odometry with Enhanced Visual-Inertial Representation**|Ziyu Wan et.al.|[2607.22123](http://arxiv.org/abs/2607.22123)|null|
 |**2026-07-24**|**Mag4D-SLAM Dataset: A Repeated-Traversal Multi-Modal 4D Geomagnetic Dataset for Localization and Mapping**|Bibhutibhusan Nayak et.al.|[2607.21986](http://arxiv.org/abs/2607.21986)|null|
@@ -165,7 +166,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-07-19**|**DROID-ANCHOR: Odometry-Anchored Recurrent Metric Depth Estimation**|Yuxuan Chen et.al.|[2607.17058](http://arxiv.org/abs/2607.17058)|null|
 |**2026-07-18**|**A BIM-enabled, Agent-based Discrete-event Simulation Platform for Robotic Studies: A Method based on Graph Theory**|Ping Xu et.al.|[2607.16920](http://arxiv.org/abs/2607.16920)|null|
 |**2026-07-18**|**GLidE-SLAM: GL-Accelerated Indirect-Direct Embedded SLAM**|Carlos A. Pinheiro de Sousa et.al.|[2607.16897](http://arxiv.org/abs/2607.16897)|null|
-|**2026-07-16**|**Immediate 3D Gaussian Splat Reconstruction of Unordered Input with Global Consistency**|Andreas Meuleman et.al.|[2607.14481](http://arxiv.org/abs/2607.14481)|null|
 
 ### Visual Localization
 | Publish Date | Title | Authors | PDF | Code |

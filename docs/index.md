@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.27
+## Updated on 2026.07.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D reconstruction
@@ -26,7 +26,7 @@ layout: default
 |**2026-07-21**|**Seeing Before Generating: Object Perception Enhances Single-View 3D Reconstruction**|Y Huynh et.al.|[2607.18630](http://arxiv.org/abs/2607.18630)|null|
 |**2026-07-20**|**Robust Multimodal Dynamic Object Segmentation**|Zhe Xin et.al.|[2607.18153](http://arxiv.org/abs/2607.18153)|null|
 |**2026-07-20**|**FF-ProCams: Feed-Forward Gaussian Splatting for Projector-Camera System**|Ziyao Wang et.al.|[2607.17803](http://arxiv.org/abs/2607.17803)|null|
-|**2026-07-20**|**GEAR: Reconstruction of Classical Paintings via Geometry Grounding and Appearance Restitution**|Qinyu Zhang et.al.|[2607.17519](http://arxiv.org/abs/2607.17519)|null|
+|**2026-07-26**|**GEAR: Reconstruction of Classical Paintings via Geometry Grounding and Appearance Restitution**|Qinyu Zhang et.al.|[2607.17519](http://arxiv.org/abs/2607.17519)|null|
 |**2026-07-18**|**Splat-based 3D Scene Reconstruction with Extreme Motion-blur**|Hyeonjoong Jang et.al.|[2607.16926](http://arxiv.org/abs/2607.16926)|null|
 |**2026-07-18**|**TopoGS: Planar Reconstruction via Topology-aware 3D Gaussian Splatting**|Shanshan Pan et.al.|[2607.16838](http://arxiv.org/abs/2607.16838)|null|
 |**2026-07-17**|**Toward Semantic Communication for Real-time Mobile 3D Reconstruction**|Fangzhou Zhao et.al.|[2607.16128](http://arxiv.org/abs/2607.16128)|null|
@@ -1235,6 +1235,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-26**|**Robust 6-DoF Object Pose Tracking with Built-In Recovery under Occlusions and Rapid Object Motions**|Balázs Opra et.al.|[2607.23468](http://arxiv.org/abs/2607.23468)|null|
 |**2026-07-21**|**NGPS: GPS-Denied Aerial Geo-Localization and 2.5D Reconstruction via Deep Satellite Image Matching and Multi-Rate Sensor Fusion**|Sanket Sharma et.al.|[2607.18936](http://arxiv.org/abs/2607.18936)|null|
 |**2026-07-15**|**Breaking Déjà Vu: Independent Auditing of Visual Place Recognition through Vision-Language Reasoning**|Sania Waheed et.al.|[2607.12818](http://arxiv.org/abs/2607.12818)|null|
 |**2026-07-07**|**MiLSD: A Micro Line-Segment Detector for Resource-Constrained Devices**|Parsa Hassani Shariat Panahi et.al.|[2607.06600](http://arxiv.org/abs/2607.06600)|null|
@@ -4631,6 +4632,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-25**|**Semantic Semi-Incremental Data-Association-Free Object SLAM**|Yihao Zhang et.al.|[2607.23384](http://arxiv.org/abs/2607.23384)|null|
 |**2026-07-24**|**Flight-Ready LiDAR-Inertial Odometry for Embedded Drone Platforms**|Alvaro J. Gaona et.al.|[2607.22145](http://arxiv.org/abs/2607.22145)|null|
 |**2026-07-24**|**DB-VIO: Dual-Branch Visual Inertial Odometry with Enhanced Visual-Inertial Representation**|Ziyu Wan et.al.|[2607.22123](http://arxiv.org/abs/2607.22123)|null|
 |**2026-07-24**|**Mag4D-SLAM Dataset: A Repeated-Traversal Multi-Modal 4D Geomagnetic Dataset for Localization and Mapping**|Bibhutibhusan Nayak et.al.|[2607.21986](http://arxiv.org/abs/2607.21986)|null|
