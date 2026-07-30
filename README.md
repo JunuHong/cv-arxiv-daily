@@ -26,6 +26,7 @@ Automatically collected computer vision papers from arXiv.
 ### 3D reconstruction
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-07-29**|**SeasonStereo: Robust Dense Stereo Matching for Multi-Date Satellite Imagery via Generative AI**|Álvaro Díaz-Laureano et.al.|[2607.27139](http://arxiv.org/abs/2607.27139)|null|
 |**2026-07-29**|**Genie Sim PanoWorld: An Infinite Indoor 3D World Generation Pipeline via Panoramic Scene Modeling and Simulation**|Yongxin Su et.al.|[2607.26646](http://arxiv.org/abs/2607.26646)|null|
 |**2026-07-27**|**CameraAnything: Refilming Videos with Arbitrary Camera Control**|Yixuan Li et.al.|[2607.24591](http://arxiv.org/abs/2607.24591)|null|
 |**2026-07-27**|**MSVS-VAE: Multi-Scale Anchored VecSet for High-Fidelity 3D Reconstruction**|Dehao Hao et.al.|[2607.24436](http://arxiv.org/abs/2607.24436)|null|
@@ -45,11 +46,11 @@ Automatically collected computer vision papers from arXiv.
 |**2026-07-20**|**Robust Multimodal Dynamic Object Segmentation**|Zhe Xin et.al.|[2607.18153](http://arxiv.org/abs/2607.18153)|null|
 |**2026-07-20**|**FF-ProCams: Feed-Forward Gaussian Splatting for Projector-Camera System**|Ziyao Wang et.al.|[2607.17803](http://arxiv.org/abs/2607.17803)|null|
 |**2026-07-18**|**Splat-based 3D Scene Reconstruction with Extreme Motion-blur**|Hyeonjoong Jang et.al.|[2607.16926](http://arxiv.org/abs/2607.16926)|null|
-|**2026-07-18**|**TopoGS: Planar Reconstruction via Topology-aware 3D Gaussian Splatting**|Shanshan Pan et.al.|[2607.16838](http://arxiv.org/abs/2607.16838)|null|
 
 ### Image Matching
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-07-29**|**VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion**|Zador Pataki et.al.|[2607.27194](http://arxiv.org/abs/2607.27194)|null|
 |**2026-07-29**|**Robust RPC Bundle Adjustment for Multi-Date Satellite Imagery with Season-Invariant Correspondences**|Roger Marí et.al.|[2607.26973](http://arxiv.org/abs/2607.26973)|null|
 |**2026-07-26**|**Robust 6-DoF Object Pose Tracking with Built-In Recovery under Occlusions and Rapid Object Motions**|Balázs Opra et.al.|[2607.23468](http://arxiv.org/abs/2607.23468)|null|
 |**2026-07-22**|**Quantile Transfer for Reliable Operating Point Selection in Visual Place Recognition**|Dhyey Manish Rajani et.al.|[2602.04401](http://arxiv.org/abs/2602.04401)|null|
@@ -69,7 +70,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-06-22**|**G-MASt3R-SfM: Graph-based View Pruning and Multi-stage Optimization for Robust SfM**|Toshiki Watanabe et.al.|[2606.22856](http://arxiv.org/abs/2606.22856)|null|
 |**2026-06-18**|**Evaluation of Image Matching for Art Skills Assessment**|Asaad Alghamdi et.al.|[2606.20199](http://arxiv.org/abs/2606.20199)|null|
 |**2026-06-11**|**Modality-Aware Feature Matching in Visual and Vision-Language Applications: A Comprehensive Survey**|Weide Liu et.al.|[2507.22791](http://arxiv.org/abs/2507.22791)|null|
-|**2026-06-10**|**SalArt-VQA: Diagnosing Whether VLMs Understand Salient Artifacts in Generated Images**|Xiaoxiao Sun et.al.|[2606.12671](http://arxiv.org/abs/2606.12671)|null|
 
 ### Keypoint Detection
 | Publish Date | Title | Authors | PDF | Code |
@@ -122,6 +122,7 @@ Automatically collected computer vision papers from arXiv.
 ### SFM
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-07-29**|**VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion**|Zador Pataki et.al.|[2607.27194](http://arxiv.org/abs/2607.27194)|null|
 |**2026-07-29**|**3DGBGS: 3D Granular Ball Gaussian Splatting for Compact Novel View Synthesis**|Meng Yang et.al.|[2607.26578](http://arxiv.org/abs/2607.26578)|null|
 |**2026-07-28**|**Macroscopic wall pressure and microscopic contact load in crowds without egress: social-group cohesion and boundary buffering**|Bo-Shiun Shen et.al.|[2607.25780](http://arxiv.org/abs/2607.25780)|null|
 |**2026-07-27**|**Accuracy potential of visual localization exploiting high-end street-level imagery**|Jonas Meyer et.al.|[2607.24409](http://arxiv.org/abs/2607.24409)|null|
@@ -141,11 +142,11 @@ Automatically collected computer vision papers from arXiv.
 |**2026-07-10**|**DGSfM: Depth-Guided Scale-Aware Global Structure-from-Motion**|Sithu Aung et.al.|[2607.09507](http://arxiv.org/abs/2607.09507)|null|
 |**2026-07-10**|**What VGGT Knows About Overlap: Probing Geometric Foundation Models for Co-Visibility**|Filippo Ziliotto et.al.|[2607.09503](http://arxiv.org/abs/2607.09503)|null|
 |**2026-07-10**|**Glob3R: Global Structure-from-Motion with 3D Foundation Models**|Junyuan Deng et.al.|[2607.09225](http://arxiv.org/abs/2607.09225)|null|
-|**2026-07-10**|**Empirical Pedestrian Safety Assessment in a Mobile Robot Using a Predictive Social Force Model**|Alireza Jafari et.al.|[2607.09192](http://arxiv.org/abs/2607.09192)|null|
 
 ### SLAM
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-07-29**|**VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion**|Zador Pataki et.al.|[2607.27194](http://arxiv.org/abs/2607.27194)|null|
 |**2026-07-28**|**HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone**|Simple AI et.al.|[2607.25895](http://arxiv.org/abs/2607.25895)|null|
 |**2026-07-28**|**HOME: Robust Hough-space Matching Method for Structured and Textureless Videos**|Masaki Satoh et.al.|[2607.25389](http://arxiv.org/abs/2607.25389)|null|
 |**2026-07-28**|**ForgeDrive: Bidirectional Cross-Conditioning for Unified Visual-Action Generation in Autonomous Driving**|Xuchang Zhong et.al.|[2606.31226](http://arxiv.org/abs/2606.31226)|null|
@@ -165,7 +166,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-07-20**|**Does Robust VIO Need More Learning? Geometry-Verified Visual Measurements under Distribution Shift**|Yangyang Ning et.al.|[2607.17956](http://arxiv.org/abs/2607.17956)|null|
 |**2026-07-20**|**Lifelong Localization in Dynamic Indoor Environments Combining Odometry with Sparse Distance Sampling**|Michael M. Bilevich et.al.|[2607.17852](http://arxiv.org/abs/2607.17852)|null|
 |**2026-07-20**|**SLAM in Low-Light Environments: Project Report**|Oleh Basystyi et.al.|[2607.17699](http://arxiv.org/abs/2607.17699)|null|
-|**2026-07-20**|**Toward Site-Aware MR Art Exhibitions: A SLAM-Based Deployment Pipeline for Spatial Coherence and Exhibition Experience**|Yawei Zhao et.al.|[2607.17665](http://arxiv.org/abs/2607.17665)|null|
 
 ### Visual Localization
 | Publish Date | Title | Authors | PDF | Code |
