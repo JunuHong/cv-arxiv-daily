@@ -26,6 +26,8 @@ Automatically collected computer vision papers from arXiv.
 ### 3D reconstruction
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-07-30**|**ViewMind3D: Modular View-Aware Inference for Training-Free 3D-QA**|Ping-Kun Chiang et.al.|[2607.28442](http://arxiv.org/abs/2607.28442)|null|
+|**2026-07-30**|**FasTac: A Curved Multispectral Vision-Based Tactile Sensor for High-Speed High-Precision 3D Shape and Force Perception**|Xiaofan Lu et.al.|[2607.28416](http://arxiv.org/abs/2607.28416)|null|
 |**2026-07-30**|**TARS: Timestep-Aware Data Scaling for 3D-Free Video Re-Shooting**|Jiwen Liu et.al.|[2607.28261](http://arxiv.org/abs/2607.28261)|null|
 |**2026-07-30**|**Convolutional Neural Shading for High-Quality 3D Reconstruction from Multi-View Images**|Juheon Hwang et.al.|[2607.28132](http://arxiv.org/abs/2607.28132)|null|
 |**2026-07-29**|**SeasonStereo: Robust Dense Stereo Matching for Multi-Date Satellite Imagery via Generative AI**|Álvaro Díaz-Laureano et.al.|[2607.27139](http://arxiv.org/abs/2607.27139)|null|
@@ -44,8 +46,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-07-22**|**Extending a Large View Synthesis Model for Multi-view Panoptic Segmentation**|Kwonyoung Ryu et.al.|[2607.19765](http://arxiv.org/abs/2607.19765)|null|
 |**2026-07-22**|**Fast Wave-optics Rendering of Multiplane Images for 3D Holographic Displays**|Brian Chao et.al.|[2607.19731](http://arxiv.org/abs/2607.19731)|null|
 |**2026-07-21**|**IGGT4D: Streaming 4D Instance-Grounded Geometry Transformer**|Zhengyu Zou et.al.|[2607.19228](http://arxiv.org/abs/2607.19228)|null|
-|**2026-07-21**|**Seeing Before Generating: Object Perception Enhances Single-View 3D Reconstruction**|Y Huynh et.al.|[2607.18630](http://arxiv.org/abs/2607.18630)|null|
-|**2026-07-20**|**Robust Multimodal Dynamic Object Segmentation**|Zhe Xin et.al.|[2607.18153](http://arxiv.org/abs/2607.18153)|null|
 
 ### Image Matching
 | Publish Date | Title | Authors | PDF | Code |
