@@ -6,7 +6,7 @@
 # CV ArXiv Daily
 Automatically collected computer vision papers from arXiv.
 
-> Updated on 2026.08.02
+> Updated on 2026.08.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Latest Papers
@@ -26,6 +26,8 @@ Automatically collected computer vision papers from arXiv.
 ### 3D reconstruction
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-07-31**|**FlexComposer: Unified Video Compositing from Images to Dynamic Footage with Flexible Trajectory Control**|Songchun Zhang et.al.|[2607.29627](http://arxiv.org/abs/2607.29627)|null|
+|**2026-07-31**|**GO-PRE: Goal-Oriented Next-Best-View Selection via Predictive Rendering Entropy for Active 3D Reconstruction**|Yan Song et.al.|[2607.29037](http://arxiv.org/abs/2607.29037)|null|
 |**2026-07-30**|**ViewMind3D: Modular View-Aware Inference for Training-Free 3D-QA**|Ping-Kun Chiang et.al.|[2607.28442](http://arxiv.org/abs/2607.28442)|null|
 |**2026-07-30**|**FasTac: A Curved Multispectral Vision-Based Tactile Sensor for High-Speed High-Precision 3D Shape and Force Perception**|Xiaofan Lu et.al.|[2607.28416](http://arxiv.org/abs/2607.28416)|null|
 |**2026-07-30**|**TARS: Timestep-Aware Data Scaling for 3D-Free Video Re-Shooting**|Jiwen Liu et.al.|[2607.28261](http://arxiv.org/abs/2607.28261)|null|
@@ -44,12 +46,11 @@ Automatically collected computer vision papers from arXiv.
 |**2026-07-22**|**RealVDeblur: One-Step Diffusion for Generalizable Real-World Video Deblurring**|Renbiao Jin et.al.|[2607.20628](http://arxiv.org/abs/2607.20628)|null|
 |**2026-07-22**|**STEREOFLOW: Progressive Stereo Matching with StereoDiT and Transition Flow Matching**|Hao Wang et.al.|[2607.19986](http://arxiv.org/abs/2607.19986)|null|
 |**2026-07-22**|**Extending a Large View Synthesis Model for Multi-view Panoptic Segmentation**|Kwonyoung Ryu et.al.|[2607.19765](http://arxiv.org/abs/2607.19765)|null|
-|**2026-07-22**|**Fast Wave-optics Rendering of Multiplane Images for 3D Holographic Displays**|Brian Chao et.al.|[2607.19731](http://arxiv.org/abs/2607.19731)|null|
-|**2026-07-21**|**IGGT4D: Streaming 4D Instance-Grounded Geometry Transformer**|Zhengyu Zou et.al.|[2607.19228](http://arxiv.org/abs/2607.19228)|null|
 
 ### Image Matching
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-07-30**|**Can Synthetic Data Overcome the Generalization Limits of AI-Based Flower and Pod Detection Across Cowpea Breeding Genotypes and Environments?**|Hamid Kamangir et.al.|[2607.28796](http://arxiv.org/abs/2607.28796)|null|
 |**2026-07-30**|**CXR-Retrieve: Compositional Text-to-Image Retrieval in Chest Radiography**|Tomer Erez et.al.|[2607.27779](http://arxiv.org/abs/2607.27779)|null|
 |**2026-07-29**|**VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion**|Zador Pataki et.al.|[2607.27194](http://arxiv.org/abs/2607.27194)|null|
 |**2026-07-29**|**Robust RPC Bundle Adjustment for Multi-Date Satellite Imagery with Season-Invariant Correspondences**|Roger Marí et.al.|[2607.26973](http://arxiv.org/abs/2607.26973)|null|
@@ -69,7 +70,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-06-29**|**MF-UAVPose6D: A Model-Free Monocular 6-DoF Pose Estimation Framework for Fixed-Wing UAVs**|Juanqin Liu et.al.|[2606.29697](http://arxiv.org/abs/2606.29697)|null|
 |**2026-06-26**|**KM-Speaker: Keypoint-Based Style Control for High-Quality Speech-Driven 3D Facial Animation and Dialogue Localization**|Arthur Josi et.al.|[2606.28568](http://arxiv.org/abs/2606.28568)|null|
 |**2026-06-22**|**G-MASt3R-SfM: Graph-based View Pruning and Multi-stage Optimization for Robust SfM**|Toshiki Watanabe et.al.|[2606.22856](http://arxiv.org/abs/2606.22856)|null|
-|**2026-06-18**|**Evaluation of Image Matching for Art Skills Assessment**|Asaad Alghamdi et.al.|[2606.20199](http://arxiv.org/abs/2606.20199)|null|
 
 ### Keypoint Detection
 | Publish Date | Title | Authors | PDF | Code |
@@ -98,6 +98,7 @@ Automatically collected computer vision papers from arXiv.
 ### NeRF
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-07-31**|**OASIS: Occlusion-aware Single-image Hand Avatar Reconstruction via 3D Gaussian Splatting**|Zhisheng Han et.al.|[2607.29633](http://arxiv.org/abs/2607.29633)|null|
 |**2026-07-30**|**Endo-NeRF++: Uncertainty-Aware Neural Rendering with Multi-Resolution Hash Encoding for Dynamic Surgical Scene Reconstruction**|Gousia Habib et.al.|[2607.27825](http://arxiv.org/abs/2607.27825)|null|
 |**2026-07-27**|**NEO: NeRF It Once, Edit It Many Times for Continuous Object Manipulation**|Mikołaj Zieliński et.al.|[2607.24538](http://arxiv.org/abs/2607.24538)|null|
 |**2026-07-23**|**Hash-QNeRF: Multiresolution Hash Encoding for Quantum Neural Radiance Fields**|Digonto Biswas et.al.|[2607.21675](http://arxiv.org/abs/2607.21675)|null|
@@ -117,7 +118,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-06-25**|**Sculpting NeRF Geometry: Human-Preference Fine-Tuning of a 3D-Aware Face GAN**|Archer Moore et.al.|[2606.27305](http://arxiv.org/abs/2606.27305)|null|
 |**2026-06-24**|**Gastroendoscopy View Synthesis: A New Real Dataset and Evaluation**|Masaki Minai et.al.|[2606.25427](http://arxiv.org/abs/2606.25427)|null|
 |**2026-06-24**|**To View Transform or Not to View Transform: NeRF-based Pre-training Perspective**|Hyeonjun Jeong et.al.|[2603.28090](http://arxiv.org/abs/2603.28090)|null|
-|**2026-06-18**|**VisDom: Sparse Novel View Synthesis with Visible Domain Constraint**|Mariia Gladkova* et.al.|[2606.20531](http://arxiv.org/abs/2606.20531)|null|
 
 ### SFM
 | Publish Date | Title | Authors | PDF | Code |
@@ -170,6 +170,7 @@ Automatically collected computer vision papers from arXiv.
 ### Visual Localization
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-07-31**|**Visual Distribution Anchoring for Efficient Prompt Tuning**|Pouya Parsa et.al.|[2607.28967](http://arxiv.org/abs/2607.28967)|null|
 |**2026-07-30**|**FiRE: Enhancing MLLMs with Fine-Grained Context Learning for Complex Image Retrieval**|Bohan Hou et.al.|[2607.27959](http://arxiv.org/abs/2607.27959)|null|
 |**2026-07-30**|**EEG-EditBench: Probing Visual Information in EEG-Image Retrieval Models with Controlled Image Edits**|Kaifan Zhang et.al.|[2607.27857](http://arxiv.org/abs/2607.27857)|null|
 |**2026-07-30**|**CXR-Retrieve: Compositional Text-to-Image Retrieval in Chest Radiography**|Tomer Erez et.al.|[2607.27779](http://arxiv.org/abs/2607.27779)|null|
@@ -189,7 +190,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-07-22**|**FSDBN: Foreground-Aware EEG-Visual Alignment via Dynamic Brain Networks**|Yiheng Liu et.al.|[2607.18344](http://arxiv.org/abs/2607.18344)|null|
 |**2026-07-21**|**CR-Refiner: An Object-Centric Optimal Transport Reranker for Edit-Conditioned 3D Scene Retrieval**|Hao Wu et.al.|[2607.19115](http://arxiv.org/abs/2607.19115)|null|
 |**2026-07-21**|**TAP-RAG: Task-Aware Policy Control for Long-Document Multimodal Question Answering**|Zhong Ji et.al.|[2607.18917](http://arxiv.org/abs/2607.18917)|null|
-|**2026-07-21**|**In-Context Learning for Wound Classification with Small Multimodal Language Models**|George Martvel et.al.|[2607.18819](http://arxiv.org/abs/2607.18819)|null|
 
 See the [full archive](./docs/daily_archive.md) for more papers.
 
