@@ -7,13 +7,16 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.04
+## Updated on 2026.08.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-04**|**SGFormer: Structure-Guided Transformer for Robust Local Feature Matching**|Runyu Zhu et.al.|[2608.03423](http://arxiv.org/abs/2608.03423)|null|
+|**2026-08-04**|**RoboReact: Agentic Skill Distillation from Generated Egocentric Videos for Generalizable Whole-Body Manipulation**|Shuliang He et.al.|[2608.03387](http://arxiv.org/abs/2608.03387)|null|
+|**2026-08-04**|**NanoMorph-3D: An End-to-End Physics-Driven Unrolling Framework for Nanomaterial Reconstruction**|Beiyuan Zhang et.al.|[2608.03257](http://arxiv.org/abs/2608.03257)|null|
 |**2026-08-03**|**VR3D: View-Robust 3D Representation Learning for Aerial-Ground Person Re-Identification**|Chao Ji et.al.|[2608.02598](http://arxiv.org/abs/2608.02598)|null|
 |**2026-08-03**|**UniqueSplat: View-conditioned 3D Gaussian Splatting for Generalizable 3D Reconstruction**|Haixu Song et.al.|[2608.02145](http://arxiv.org/abs/2608.02145)|null|
 |**2026-08-03**|**Beyond Global Latents: Chunk-Based Sparse Grid VAE for Scalable 3D Modeling**|Kaiyi Zhang et.al.|[2608.02016](http://arxiv.org/abs/2608.02016)|null|
@@ -1256,6 +1259,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-04**|**SGFormer: Structure-Guided Transformer for Robust Local Feature Matching**|Runyu Zhu et.al.|[2608.03423](http://arxiv.org/abs/2608.03423)|null|
+|**2026-08-04**|**Double Down on Defense: Strengthening Deep Perceptual Hashes against Evasion Attacks without Retraining**|Bangjie Sun et.al.|[2608.03101](http://arxiv.org/abs/2608.03101)|null|
 |**2026-07-30**|**Can Synthetic Data Overcome the Generalization Limits of AI-Based Flower and Pod Detection Across Cowpea Breeding Genotypes and Environments?**|Hamid Kamangir et.al.|[2607.28796](http://arxiv.org/abs/2607.28796)|null|
 |**2026-07-30**|**CXR-Retrieve: Compositional Text-to-Image Retrieval in Chest Radiography**|Tomer Erez et.al.|[2607.27779](http://arxiv.org/abs/2607.27779)|null|
 |**2026-07-29**|**VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion**|Zador Pataki et.al.|[2607.27194](http://arxiv.org/abs/2607.27194)|null|
@@ -4155,7 +4160,7 @@ layout: default
 |**2026-04-09**|**Neutral Hydrogen in the Shapley Supercluster Core I: Environmental Effects on Gas Content and Galaxy Evolution**|L. Gwebushe et.al.|[2604.08402](http://arxiv.org/abs/2604.08402)|null|
 |**2026-07-06**|**LoMa: Local Feature Matching Revisited**|David Nordström et.al.|[2604.04931](http://arxiv.org/abs/2604.04931)|null|
 |**2026-04-02**|**Dynamic Risk Generation for Autonomous Driving: Naturalistic Reconstruction of Vehicle-E-Scooter Interactions**|Abin Mathew et.al.|[2604.02573](http://arxiv.org/abs/2604.02573)|null|
-|**2026-04-02**|**Enhanced Polarization Locking in VCSELs**|Zifeng Yuan et.al.|[2604.01857](http://arxiv.org/abs/2604.01857)|null|
+|**2026-08-04**|**Enhanced Polarization Locking in VCSELs**|Zifeng Yuan et.al.|[2604.01857](http://arxiv.org/abs/2604.01857)|null|
 |**2026-04-01**|**Reliev3R: Relieving Feed-forward Reconstruction from Multi-View Geometric Annotations**|Youyu Chen et.al.|[2604.00548](http://arxiv.org/abs/2604.00548)|null|
 |**2026-03-29**|**MV-RoMa: From Pairwise Matching into Multi-View Track Reconstruction**|Jongmin Lee et.al.|[2603.27542](http://arxiv.org/abs/2603.27542)|null|
 |**2026-03-27**|**Drive-Through 3D Vehicle Exterior Reconstruction via Dynamic-Scene SfM and Distortion-Aware Gaussian Splatting**|Nitin Kulkarni et.al.|[2603.26638](http://arxiv.org/abs/2603.26638)|null|
@@ -4669,6 +4674,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-04**|**SLAMFormer- $\infty$ : Infinite SLAM Transformer for Unbounded Frontend and Backend Processing**|Zhijian Fang et.al.|[2608.03429](http://arxiv.org/abs/2608.03429)|null|
+|**2026-08-04**|**PLS-Calib: A Partial Least Squares Framework for Event Camera and Odometry Calibration under Ground Motion Constraints**|Guangyu Li et.al.|[2608.03296](http://arxiv.org/abs/2608.03296)|null|
 |**2026-08-03**|**TANGO-VIO: Triangulation-Aware Navigation with Guaranteed Feature-Observability for Visual-Inertial Odometry**|Ege C. Altunkaya et.al.|[2608.02079](http://arxiv.org/abs/2608.02079)|null|
 |**2026-08-03**|**CHOW-SLAM: Compact Hybrid Representation with Complementary Overlap Window Optimization for RGB-D SLAM**|Wenxuan Ji et.al.|[2608.01914](http://arxiv.org/abs/2608.01914)|null|
 |**2026-08-03**|**UniSim-SLAM: Feed-Forward SLAM with Unified Sim(3) Optimization**|Inha Lee et.al.|[2608.01706](http://arxiv.org/abs/2608.01706)|null|
@@ -5876,6 +5883,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-04**|**SGFormer: Structure-Guided Transformer for Robust Local Feature Matching**|Runyu Zhu et.al.|[2608.03423](http://arxiv.org/abs/2608.03423)|null|
+|**2026-08-04**|**SeCo-SBIR: Semantically Consistent Prompt Learning for Zero-Shot Sketch-Based Image Retrieval**|Long Hoang Dang et.al.|[2608.03120](http://arxiv.org/abs/2608.03120)|null|
 |**2026-08-02**|**CORTIVA: Candidate-Score Fusion of Complementary Visual Teachers for EEG- and MEG-to-Image Retrieval**|Junhan Wang et.al.|[2608.01355](http://arxiv.org/abs/2608.01355)|null|
 |**2026-07-31**|**Visual Distribution Anchoring for Efficient Prompt Tuning**|Pouya Parsa et.al.|[2607.28967](http://arxiv.org/abs/2607.28967)|null|
 |**2026-07-30**|**FiRE: Enhancing MLLMs with Fine-Grained Context Learning for Complex Image Retrieval**|Bohan Hou et.al.|[2607.27959](http://arxiv.org/abs/2607.27959)|null|
