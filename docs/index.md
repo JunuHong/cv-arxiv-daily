@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-05**|**Objects as Audio-Visual Modal Sound Fields**|Zisen Shao et.al.|[2608.05145](http://arxiv.org/abs/2608.05145)|null|
+|**2026-08-05**|**Beyond Reprojection Error: Camera Calibration with 3D Targets**|Dennis Ruppel et.al.|[2608.05066](http://arxiv.org/abs/2608.05066)|null|
 |**2026-08-04**|**PADFormer: Pose-agnostic Anomaly Detection from Sparse View Images**|Ruiqi Wang et.al.|[2608.04210](http://arxiv.org/abs/2608.04210)|null|
 |**2026-08-04**|**Kitchen Robotic Manipulation utilizing Foundation Models**|Myung-Hwan Jeon et.al.|[2608.04042](http://arxiv.org/abs/2608.04042)|null|
 |**2026-08-04**|**LiteMVS: Efficient Multi-View Stereo with Foundation Distillation and Expert Aggregation**|Tianbao Zhang et.al.|[2608.03851](http://arxiv.org/abs/2608.03851)|null|
@@ -2126,7 +2128,7 @@ layout: default
 |**2026-08-05**|**UniWorld-View: Large-Baseline View Synthesis via Video Diffusion Models**|Haiyang Zhou et.al.|[2608.04701](http://arxiv.org/abs/2608.04701)|null|
 |**2026-08-03**|**CHOW-SLAM: Compact Hybrid Representation with Complementary Overlap Window Optimization for RGB-D SLAM**|Wenxuan Ji et.al.|[2608.01914](http://arxiv.org/abs/2608.01914)|null|
 |**2026-07-31**|**OASIS: Occlusion-aware Single-image Hand Avatar Reconstruction via 3D Gaussian Splatting**|Zhisheng Han et.al.|[2607.29633](http://arxiv.org/abs/2607.29633)|null|
-|**2026-07-30**|**Endo-NeRF++: Uncertainty-Aware Neural Rendering with Multi-Resolution Hash Encoding for Dynamic Surgical Scene Reconstruction**|Gousia Habib et.al.|[2607.27825](http://arxiv.org/abs/2607.27825)|null|
+|**2026-08-05**|**Endo-NeRF++: Uncertainty-Aware Neural Rendering with Multi-Resolution Hash Encoding for Dynamic Surgical Scene Reconstruction**|Gousia Habib et.al.|[2607.27825](http://arxiv.org/abs/2607.27825)|null|
 |**2026-07-27**|**NEO: NeRF It Once, Edit It Many Times for Continuous Object Manipulation**|Mikołaj Zieliński et.al.|[2607.24538](http://arxiv.org/abs/2607.24538)|null|
 |**2026-07-23**|**Hash-QNeRF: Multiresolution Hash Encoding for Quantum Neural Radiance Fields**|Digonto Biswas et.al.|[2607.21675](http://arxiv.org/abs/2607.21675)|null|
 |**2026-07-23**|**Recurrent Sinusoidal INRs for Efficient High-Fidelity Representation**|Hyunmin Cho et.al.|[2607.21485](http://arxiv.org/abs/2607.21485)|null|
@@ -5889,6 +5891,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-05**|**CoCo-IR: Contextual Composed Image Retrieval**|Shengcao Cao et.al.|[2608.05149](http://arxiv.org/abs/2608.05149)|null|
 |**2026-08-04**|**SGFormer: Structure-Guided Transformer for Robust Local Feature Matching**|Runyu Zhu et.al.|[2608.03423](http://arxiv.org/abs/2608.03423)|null|
 |**2026-08-04**|**SeCo-SBIR: Semantically Consistent Prompt Learning for Zero-Shot Sketch-Based Image Retrieval**|Long Hoang Dang et.al.|[2608.03120](http://arxiv.org/abs/2608.03120)|null|
 |**2026-08-02**|**CORTIVA: Candidate-Score Fusion of Complementary Visual Teachers for EEG- and MEG-to-Image Retrieval**|Junhan Wang et.al.|[2608.01355](http://arxiv.org/abs/2608.01355)|null|

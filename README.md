@@ -26,6 +26,8 @@ Automatically collected computer vision papers from arXiv.
 ### 3D reconstruction
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-08-05**|**Objects as Audio-Visual Modal Sound Fields**|Zisen Shao et.al.|[2608.05145](http://arxiv.org/abs/2608.05145)|null|
+|**2026-08-05**|**Beyond Reprojection Error: Camera Calibration with 3D Targets**|Dennis Ruppel et.al.|[2608.05066](http://arxiv.org/abs/2608.05066)|null|
 |**2026-08-05**|**RoboReact: Agentic Skill Distillation from Generated Egocentric Videos for Generalizable Whole-Body Manipulation**|Shuliang He et.al.|[2608.03387](http://arxiv.org/abs/2608.03387)|null|
 |**2026-08-04**|**PADFormer: Pose-agnostic Anomaly Detection from Sparse View Images**|Ruiqi Wang et.al.|[2608.04210](http://arxiv.org/abs/2608.04210)|null|
 |**2026-08-04**|**Kitchen Robotic Manipulation utilizing Foundation Models**|Myung-Hwan Jeon et.al.|[2608.04042](http://arxiv.org/abs/2608.04042)|null|
@@ -44,8 +46,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-07-31**|**FlexComposer: Unified Video Compositing from Images to Dynamic Footage with Flexible Trajectory Control**|Songchun Zhang et.al.|[2607.29627](http://arxiv.org/abs/2607.29627)|null|
 |**2026-07-31**|**GO-PRE: Goal-Oriented Next-Best-View Selection via Predictive Rendering Entropy for Active 3D Reconstruction**|Yan Song et.al.|[2607.29037](http://arxiv.org/abs/2607.29037)|null|
 |**2026-07-30**|**ViewMind3D: Modular View-Aware Inference for Training-Free 3D-QA**|Ping-Kun Chiang et.al.|[2607.28442](http://arxiv.org/abs/2607.28442)|null|
-|**2026-07-30**|**FasTac: A Curved Multispectral Vision-Based Tactile Sensor for High-Speed High-Precision 3D Shape and Force Perception**|Xiaofan Lu et.al.|[2607.28416](http://arxiv.org/abs/2607.28416)|null|
-|**2026-07-30**|**Convolutional Neural Shading for High-Quality 3D Reconstruction from Multi-View Images**|Juheon Hwang et.al.|[2607.28132](http://arxiv.org/abs/2607.28132)|null|
 
 ### Image Matching
 | Publish Date | Title | Authors | PDF | Code |
@@ -100,9 +100,9 @@ Automatically collected computer vision papers from arXiv.
 |---|---|---|---|---|
 |**2026-08-05**|**RORA: Realistic Object Reconstruction with Articulation**|Hyesung Lee et.al.|[2608.04842](http://arxiv.org/abs/2608.04842)|null|
 |**2026-08-05**|**UniWorld-View: Large-Baseline View Synthesis via Video Diffusion Models**|Haiyang Zhou et.al.|[2608.04701](http://arxiv.org/abs/2608.04701)|null|
+|**2026-08-05**|**Endo-NeRF++: Uncertainty-Aware Neural Rendering with Multi-Resolution Hash Encoding for Dynamic Surgical Scene Reconstruction**|Gousia Habib et.al.|[2607.27825](http://arxiv.org/abs/2607.27825)|null|
 |**2026-08-03**|**CHOW-SLAM: Compact Hybrid Representation with Complementary Overlap Window Optimization for RGB-D SLAM**|Wenxuan Ji et.al.|[2608.01914](http://arxiv.org/abs/2608.01914)|null|
 |**2026-07-31**|**OASIS: Occlusion-aware Single-image Hand Avatar Reconstruction via 3D Gaussian Splatting**|Zhisheng Han et.al.|[2607.29633](http://arxiv.org/abs/2607.29633)|null|
-|**2026-07-30**|**Endo-NeRF++: Uncertainty-Aware Neural Rendering with Multi-Resolution Hash Encoding for Dynamic Surgical Scene Reconstruction**|Gousia Habib et.al.|[2607.27825](http://arxiv.org/abs/2607.27825)|null|
 |**2026-07-27**|**NEO: NeRF It Once, Edit It Many Times for Continuous Object Manipulation**|Mikołaj Zieliński et.al.|[2607.24538](http://arxiv.org/abs/2607.24538)|null|
 |**2026-07-23**|**Hash-QNeRF: Multiresolution Hash Encoding for Quantum Neural Radiance Fields**|Digonto Biswas et.al.|[2607.21675](http://arxiv.org/abs/2607.21675)|null|
 |**2026-07-23**|**Recurrent Sinusoidal INRs for Efficient High-Fidelity Representation**|Hyunmin Cho et.al.|[2607.21485](http://arxiv.org/abs/2607.21485)|null|
@@ -170,6 +170,7 @@ Automatically collected computer vision papers from arXiv.
 ### Visual Localization
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-08-05**|**CoCo-IR: Contextual Composed Image Retrieval**|Shengcao Cao et.al.|[2608.05149](http://arxiv.org/abs/2608.05149)|null|
 |**2026-08-04**|**SGFormer: Structure-Guided Transformer for Robust Local Feature Matching**|Runyu Zhu et.al.|[2608.03423](http://arxiv.org/abs/2608.03423)|null|
 |**2026-08-04**|**SeCo-SBIR: Semantically Consistent Prompt Learning for Zero-Shot Sketch-Based Image Retrieval**|Long Hoang Dang et.al.|[2608.03120](http://arxiv.org/abs/2608.03120)|null|
 |**2026-08-02**|**CORTIVA: Candidate-Score Fusion of Complementary Visual Teachers for EEG- and MEG-to-Image Retrieval**|Junhan Wang et.al.|[2608.01355](http://arxiv.org/abs/2608.01355)|null|
@@ -189,7 +190,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-07-23**|**Webly Supervised Multi-Label Recognition: Evaluation Benchmark and Dual-Branch Multi-Label Contrastive Learning**|Zhihua Xu et.al.|[2607.20874](http://arxiv.org/abs/2607.20874)|null|
 |**2026-07-22**|**Diverse-Intent Multi-Turn Fashion Image Retrieval**|Mingqiang Tang et.al.|[2607.20291](http://arxiv.org/abs/2607.20291)|null|
 |**2026-07-22**|**RIM: A Retrieval-In-Matching Framework for Cross-Domain Global Visual Localization of UAVs**|Xin Li et.al.|[2607.20116](http://arxiv.org/abs/2607.20116)|null|
-|**2026-07-22**|**Using Hierarchical Controlled Vocabularies to Understand CLIP Retrieval Failures in Historical Photo Collections**|Ratan Sebastian et.al.|[2607.19836](http://arxiv.org/abs/2607.19836)|null|
 
 See the [full archive](./docs/daily_archive.md) for more papers.
 
