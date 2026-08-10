@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.09
+## Updated on 2026.08.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-07**|**InstanceSplat: Instance-Aware Feed-Forward 3D Gaussian Splatting for Scene Understanding**|Minchao Jiang et.al.|[2608.07144](http://arxiv.org/abs/2608.07144)|null|
+|**2026-08-03**|**UAV3DCrop: Benchmarking 3D Reconstruction in Repeated Multi-Angle UAV Crop Surveys**|Junxiong Zhou et.al.|[2608.06404](http://arxiv.org/abs/2608.06404)|null|
 |**2026-08-06**|**OmniMech: All-in-one Multimodal Mechanical Benchmark for 3D Reconstruction**|Taiting Lu et.al.|[2608.05539](http://arxiv.org/abs/2608.05539)|null|
 |**2026-08-06**|**Objects as Audio-Visual Modal Sound Fields**|Zisen Shao et.al.|[2608.05145](http://arxiv.org/abs/2608.05145)|null|
 |**2026-08-05**|**Beyond Reprojection Error: Camera Calibration with 3D Targets**|Dennis Ruppel et.al.|[2608.05066](http://arxiv.org/abs/2608.05066)|null|
@@ -1265,6 +1267,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-06**|**A Low-Latency ASIC Architecture for Real-Time Line Segment Detection**|Amir Hossein Jalilvand et.al.|[2608.06439](http://arxiv.org/abs/2608.06439)|null|
 |**2026-08-04**|**LoRetta: A Foundation Model and Extensive Dataset for Global-Scale Remote Sensing Dense Image Matching**|Siwei Yu et.al.|[2608.04106](http://arxiv.org/abs/2608.04106)|null|
 |**2026-08-04**|**SGFormer: Structure-Guided Transformer for Robust Local Feature Matching**|Runyu Zhu et.al.|[2608.03423](http://arxiv.org/abs/2608.03423)|null|
 |**2026-08-04**|**Double Down on Defense: Strengthening Deep Perceptual Hashes against Evasion Attacks without Retraining**|Bangjie Sun et.al.|[2608.03101](http://arxiv.org/abs/2608.03101)|null|
@@ -2125,6 +2128,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-03**|**UAV3DCrop: Benchmarking 3D Reconstruction in Repeated Multi-Angle UAV Crop Surveys**|Junxiong Zhou et.al.|[2608.06404](http://arxiv.org/abs/2608.06404)|null|
 |**2026-08-05**|**RORA: Realistic Object Reconstruction with Articulation**|Hyesung Lee et.al.|[2608.04842](http://arxiv.org/abs/2608.04842)|null|
 |**2026-08-05**|**UniWorld-View: Large-Baseline View Synthesis via Video Diffusion Models**|Haiyang Zhou et.al.|[2608.04701](http://arxiv.org/abs/2608.04701)|null|
 |**2026-08-03**|**CHOW-SLAM: Compact Hybrid Representation with Complementary Overlap Window Optimization for RGB-D SLAM**|Wenxuan Ji et.al.|[2608.01914](http://arxiv.org/abs/2608.01914)|null|
@@ -4685,6 +4689,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-06**|**A Low-Latency ASIC Architecture for Real-Time Line Segment Detection**|Amir Hossein Jalilvand et.al.|[2608.06439](http://arxiv.org/abs/2608.06439)|null|
 |**2026-08-06**|**Topometric Autonomous Vehicle Localization by Combining Visual Embeddings and Feed-Forward 3D Models**|Eulogio Quemada-Torres et.al.|[2608.06021](http://arxiv.org/abs/2608.06021)|null|
 |**2026-08-06**|**TRACE: Learned Proprioceptive Odometry for Legged Robots under Unreliable Contact Conditions**|Taehyeon Kong et.al.|[2608.05975](http://arxiv.org/abs/2608.05975)|null|
 |**2026-08-06**|**KILVO: Kinematic-Inertial-LiDAR-Visual Odometry with Robust Multimodal Adaptation for Humanoid Robots**|Jixin Gao et.al.|[2608.05647](http://arxiv.org/abs/2608.05647)|null|
@@ -5897,6 +5902,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-07**|**Geometry-Aware Camera Localization for Bronchoscopy**|Lumin Chen et.al.|[2608.07116](http://arxiv.org/abs/2608.07116)|null|
+|**2026-08-07**|**KnifeHunter: Structured Local Representation Learning for Fine-Grained Knife Image Retrieval in Law Enforcement**|Syed Sameed Husain et.al.|[2608.07057](http://arxiv.org/abs/2608.07057)|null|
+|**2026-08-07**|**Are Visual Place Recognition Models Recognizing Places or Conditions? Distractor-Augmented Evaluation and Condition Suppression**|Beomsu Kim et.al.|[2608.06847](http://arxiv.org/abs/2608.06847)|null|
 |**2026-08-06**|**Learning visual representations for compositional analysis of artworks and photographs**|Fatemeh Behrad et.al.|[2608.06142](http://arxiv.org/abs/2608.06142)|null|
 |**2026-08-06**|**Topometric Autonomous Vehicle Localization by Combining Visual Embeddings and Feed-Forward 3D Models**|Eulogio Quemada-Torres et.al.|[2608.06021](http://arxiv.org/abs/2608.06021)|null|
 |**2026-08-05**|**CoCo-IR: Contextual Composed Image Retrieval**|Shengcao Cao et.al.|[2608.05149](http://arxiv.org/abs/2608.05149)|null|
