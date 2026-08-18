@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-17**|**Unsupervised Anomaly Detection for Image Dataset Quality Assurance in Multi-Center Breast MRI**|Chiara Tappermann et.al.|[2608.16725](http://arxiv.org/abs/2608.16725)|null|
+|**2026-08-15**|**VGGT-Align: Bridging Local Reconstruction and Global Consistency for Long-Sequence 3D Reconstruction**|Wei Zhang et.al.|[2608.15260](http://arxiv.org/abs/2608.15260)|null|
+|**2026-08-15**|**Robust structure from motion for aerial-ground images via detector-free feature matching and multi-view track refinement**|San Jiang et.al.|[2608.15251](http://arxiv.org/abs/2608.15251)|null|
+|**2026-08-11**|**SpotlessGS: Relightable 3D Gaussian Splatting under Dynamic Illumination for Robotic Perception**|Liang Hong et.al.|[2608.14713](http://arxiv.org/abs/2608.14713)|null|
 |**2026-08-14**|**SPARGen: Unifying Spatial Perception and Reasoning through Native Multimodal Generation**|Jinsheng Quan et.al.|[2608.14138](http://arxiv.org/abs/2608.14138)|null|
 |**2026-08-13**|**Elemental Composition Evolution during the 2024 September 30 Solar Eruption: A Comparison of Hot and Cool Plasma Components with Solar Orbiter/SPICE, Hinode/EIS, and Chandrayaan-2/XSM**|Momchil Molnar et.al.|[2608.12881](http://arxiv.org/abs/2608.12881)|null|
 |**2026-08-13**|**Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence**|Haokai Zhang et.al.|[2608.12743](http://arxiv.org/abs/2608.12743)|null|
@@ -1745,6 +1749,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-17**|**Calibration-Free Vehicle Speed Estimation: A Monocular Keypoint-Template Approach**|Gaofeng Su et.al.|[2608.16785](http://arxiv.org/abs/2608.16785)|null|
 |**2026-08-13**|**Point Feature Descriptor via Directional Partition of Unity on Maps**|Phan Thanh An et.al.|[2608.12794](http://arxiv.org/abs/2608.12794)|null|
 |**2026-07-27**|**Intrinsic and Triangulation-Agnostic Attention: A Simple and Powerful Approach for Learning on Meshes**|Ashwath Shetty et.al.|[2607.24954](http://arxiv.org/abs/2607.24954)|null|
 |**2026-07-22**|**Black-Box Optimization for Identifying and Inverting Audio Dynamic Range Control Effects**|Haoran Sun et.al.|[2607.19645](http://arxiv.org/abs/2607.19645)|null|
@@ -2144,6 +2149,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-17**|**SplatGuide: Geometric Priors from 3D Gaussians for Pose-Free Novel View Synthesis**|Yejun Zhang et.al.|[2608.16863](http://arxiv.org/abs/2608.16863)|null|
+|**2026-08-17**|**LaGSplat: Inferring Physics-Governed Interactive Simulation from Monocular Video Using Latent Lagrangian Gaussian Splatting**|Louen Pottier et.al.|[2608.16324](http://arxiv.org/abs/2608.16324)|null|
+|**2026-08-15**|**HistReNeRF: Historic Image Relocalisation within Contemporary Neural Radiance Field Reconstructions**|Benjamin T. Hughes et.al.|[2608.15420](http://arxiv.org/abs/2608.15420)|null|
 |**2026-08-12**|**TGRHuman: Text-Guided Realistic 3D Human Generation via Diffusion Renderer**|Muxin Zhang et.al.|[2608.12175](http://arxiv.org/abs/2608.12175)|null|
 |**2026-08-11**|**CasDeblurGS: Cascaded 2D-to-3D Multi-View Consistency for 3D Gaussian Splatting from Two Blurry Images**|Haeyun Choi et.al.|[2608.10345](http://arxiv.org/abs/2608.10345)|null|
 |**2026-08-10**|**GLocFM: A Geometry-Aware Foundation Model for 3D Indoor Wireless Localization**|Chenghong Bian et.al.|[2608.09285](http://arxiv.org/abs/2608.09285)|null|
@@ -2173,7 +2181,7 @@ layout: default
 |**2026-06-29**|**FastPano3D: Feed-Forward Indoor Panoramic 3D Reconstruction from a Single Image**|Jianqiang Li et.al.|[2606.30352](http://arxiv.org/abs/2606.30352)|null|
 |**2026-06-25**|**Sculpting NeRF Geometry: Human-Preference Fine-Tuning of a 3D-Aware Face GAN**|Archer Moore et.al.|[2606.27305](http://arxiv.org/abs/2606.27305)|null|
 |**2026-06-24**|**Gastroendoscopy View Synthesis: A New Real Dataset and Evaluation**|Masaki Minai et.al.|[2606.25427](http://arxiv.org/abs/2606.25427)|null|
-|**2026-06-18**|**VisDom: Sparse Novel View Synthesis with Visible Domain Constraint**|Mariia Gladkova* et.al.|[2606.20531](http://arxiv.org/abs/2606.20531)|null|
+|**2026-08-17**|**VisDom: Sparse Novel View Synthesis with Visible Domain Constraint**|Mariia Gladkova et.al.|[2606.20531](http://arxiv.org/abs/2606.20531)|null|
 |**2026-06-18**|**One-Shot Novel View and Pose Human Image Synthesis via 3D Prior Guided Diffusion Model**|Shenjian Gong et.al.|[2606.19718](http://arxiv.org/abs/2606.19718)|null|
 |**2026-06-17**|**EDoF-NeRF: extended depth-of-field neural radiance fields using a coded aperture camera**|Yoshiyuki Shirasaki et.al.|[2606.18826](http://arxiv.org/abs/2606.18826)|null|
 |**2026-06-16**|**Neural Tree Reconstruction for the Open Forest Observatory**|Marissa Ramirez de Chanlatte et.al.|[2606.18153](http://arxiv.org/abs/2606.18153)|null|
@@ -4103,6 +4111,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-15**|**Robust structure from motion for aerial-ground images via detector-free feature matching and multi-view track refinement**|San Jiang et.al.|[2608.15251](http://arxiv.org/abs/2608.15251)|null|
 |**2026-08-12**|**MV2: Multi-View Multi-Vehicle Driving Dataset for Novel View Synthesis**|Sanjay Bhargav Dharavath et.al.|[2608.12442](http://arxiv.org/abs/2608.12442)|null|
 |**2026-08-06**|**Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction**|Hongyu Zhou et.al.|[2608.06117](http://arxiv.org/abs/2608.06117)|null|
 |**2026-08-05**|**VLAff: Vision-Language-Affordance Model for Unified Actionable Affordances**|Jihoon Oh et.al.|[2608.05215](http://arxiv.org/abs/2608.05215)|null|
@@ -4713,6 +4722,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-17**|**ViHaTeleop: A Low-Cost, Lightweight Visual-Haptic Teleoperation System for Dexterous Manipulation Learning**|Fucai Zhu et.al.|[2608.16572](http://arxiv.org/abs/2608.16572)|null|
+|**2026-08-17**|**Marker-Constrained Pose-Graph Correction for Cross-Platform Georeferencing in GNSS-Denied Environments**|Marco Giberna et.al.|[2608.16281](http://arxiv.org/abs/2608.16281)|null|
+|**2026-08-16**|**Target Localization and Self-Calibration in a Multistatic Radar System**|Ahmad Musallam et.al.|[2608.15501](http://arxiv.org/abs/2608.15501)|null|
+|**2026-08-15**|**MotionGS-SLAM: Event-Modulated Gaussian Splatting for Motion-Blur Robust SLAM**|Zhiqiang Hu et.al.|[2608.15024](http://arxiv.org/abs/2608.15024)|null|
+|**2026-08-15**|**HP2-SLAM: Adaptive Hybrid ICP for Robust and Efficient LiDAR SLAM**|Nam Tran et.al.|[2608.14996](http://arxiv.org/abs/2608.14996)|null|
+|**2026-08-14**|**Geometry-Aware Online Mapping for 3D Gaussian Splatting SLAM**|Thai Luu et.al.|[2608.14902](http://arxiv.org/abs/2608.14902)|null|
 |**2026-08-14**|**PILOT: Privileged Imitation Learning for End-to-End Motion Planning of Autonomous UAVs under Partial Observability**|Qingrui Zhang et.al.|[2608.14082](http://arxiv.org/abs/2608.14082)|null|
 |**2026-08-14**|**E-S2Feat:Semantic-Guided Spiking Local Feature Detection and Description for Event Cameras**|Yang Yi et.al.|[2608.14027](http://arxiv.org/abs/2608.14027)|null|
 |**2026-08-11**|**When Your State Estimator Has Lost The Plot: Detecting Estimator Failures Via Spectral Analysis**|Christian Lanegger et.al.|[2608.10623](http://arxiv.org/abs/2608.10623)|null|
@@ -5935,6 +5950,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-15**|**HP2-SLAM: Adaptive Hybrid ICP for Robust and Efficient LiDAR SLAM**|Nam Tran et.al.|[2608.14996](http://arxiv.org/abs/2608.14996)|null|
 |**2026-08-13**|**Edit2TikZ: A Comprehensive and Challenging Benchmark for Scientific Figure Editing with TikZ**|Zongyun Zhang et.al.|[2608.13441](http://arxiv.org/abs/2608.13441)|null|
 |**2026-08-12**|**MASCOT: Model-Aware Submodular Coverage for Composite-Attribute Text-to-Image Retrieval**|Aaryan Sharma et.al.|[2608.12532](http://arxiv.org/abs/2608.12532)|null|
 |**2026-08-11**|**Can Frontier LLMs Match Natively Multimodal Embeddings? A Comparison on Hard-Negative Text-to-Image Retrieval**|Archan Dutta et.al.|[2608.11343](http://arxiv.org/abs/2608.11343)|null|
