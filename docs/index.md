@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-24**|**Learning Spherical Occupancy Profiles for Multi-View 3D Reconstruction and Generation**|YiHsuan Tsai et.al.|[2608.23206](http://arxiv.org/abs/2608.23206)|null|
+|**2026-08-22**|**ARCHER: Amortized cross-specimen pose estimation for cryo-electron microscopy**|Nhan D. Nguyen et.al.|[2608.22029](http://arxiv.org/abs/2608.22029)|null|
+|**2026-08-21**|**In-Situ Reconstruction of the International Space Station Using 3D Gaussian Splatting and Astrobee**|Hudson Kim et.al.|[2608.21685](http://arxiv.org/abs/2608.21685)|null|
 |**2026-08-21**|**DiGS-Avatar: Single-Image Animatable 3D Human Reconstruction via UV-Space Diffusion**|Jiakun Li et.al.|[2608.20759](http://arxiv.org/abs/2608.20759)|null|
 |**2026-08-21**|**Generating Multi-view Adversarial Examples for Visual Geometry Grounded Transformer**|Qi Song et.al.|[2608.20748](http://arxiv.org/abs/2608.20748)|null|
 |**2026-08-21**|**VisTa3D: A Dataset and Benchmark for Thin Object Reconstruction from Vision, Tactile, and 3D Point Clouds**|Shania Guo et.al.|[2608.20740](http://arxiv.org/abs/2608.20740)|null|
@@ -1292,6 +1295,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-24**|**Misanthrope: A Privacy-Preserving Keypoint Detector**|Francesco Vultaggio et.al.|[2608.23012](http://arxiv.org/abs/2608.23012)|null|
+|**2026-08-23**|**CausalCache: Conditional High-Fidelity Restoration for Long-Horizon GUI Agents**|Jiaxuan Luo et.al.|[2608.22577](http://arxiv.org/abs/2608.22577)|null|
 |**2026-08-19**|**Evaluation of Image Matching Methods for Visual Odometry on UAVs**|Gašper Spagnolo et.al.|[2608.18624](http://arxiv.org/abs/2608.18624)|null|
 |**2026-08-11**|**Multi-Level Evidence Aggregation for Robust Facial Phenotype Retrieval in Rare Genetic Disorder Prioritization**|Alexander Hustinx et.al.|[2608.11037](http://arxiv.org/abs/2608.11037)|null|
 |**2026-08-10**|**XFeat Revisited: Reproducibility and Evaluation of a Lightweight Image Matcher**|Lazar Đoković et.al.|[2608.09519](http://arxiv.org/abs/2608.09519)|null|
@@ -2162,6 +2167,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-24**|**FixAnything: 3D-Consistent Rendering Refinement via Video Generative Priors**|Khiem Vuong et.al.|[2608.23549](http://arxiv.org/abs/2608.23549)|null|
+|**2026-08-22**|**Towards Alias-Free 4D Gaussian Representations with Motion-Aware Filtering**|Ankit Dhiman et.al.|[2608.21828](http://arxiv.org/abs/2608.21828)|null|
+|**2026-08-18**|**DesignAgent3D: Interactive 3D Scene Editing via Designer-like Multimodal Reasoning**|Xiujin Liu et.al.|[2608.21438](http://arxiv.org/abs/2608.21438)|null|
 |**2026-08-18**|**QuARC-GS: Quantized Anchored Residual Coding for Compact Dynamic Scene Streaming with Gaussian Splatting**|Vu Trung Nghia Nguyen et.al.|[2608.18285](http://arxiv.org/abs/2608.18285)|null|
 |**2026-08-18**|**GenRec: Knowing Where to Reconstruct and Where to Generate**|Ata Çelen et.al.|[2608.17832](http://arxiv.org/abs/2608.17832)|null|
 |**2026-08-18**|**Differentiable Voronoi Ray Tracing Beyond Rasterization Speeds**|Bernardo Taveira et.al.|[2608.17682](http://arxiv.org/abs/2608.17682)|null|
@@ -2219,7 +2227,7 @@ layout: default
 |**2026-05-20**|**Sketch2MinSurf: Vision-Language Guided Generation of Editable Minimal Surfaces from Hand-Drawn Sketches**|Wenda Wang et.al.|[2605.20733](http://arxiv.org/abs/2605.20733)|null|
 |**2026-05-20**|**CAD-Free Learning of Spacecraft Pose Estimators via NeRF-Based Augmentations**|Antoine Legrand et.al.|[2605.19649](http://arxiv.org/abs/2605.19649)|null|
 |**2026-05-20**|**NeRF-based Spacecraft Reconstruction from Monocular Imagery Under Illumination Variability and Pose Uncertainty**|Antoine Legrand et.al.|[2605.18447](http://arxiv.org/abs/2605.18447)|null|
-|**2026-05-14**|**Eff-WRFGS: Efficient Wireless Radiance Field Using 3D Gaussian Splatting**|Chenghong Bian et.al.|[2605.15324](http://arxiv.org/abs/2605.15324)|null|
+|**2026-08-23**|**P-WRFGS: Pruning 3D Gaussians for Efficient Wireless Radiance Field Construction**|Chenghong Bian et.al.|[2605.15324](http://arxiv.org/abs/2605.15324)|null|
 |**2026-05-14**|**Efficient Dense Matching for Enhanced Gaussian Splatting Using AV1 Motion Vectors**|Julien Zouein et.al.|[2605.14629](http://arxiv.org/abs/2605.14629)|null|
 |**2026-05-13**|**GuardMarkGS: Unified Ownership Tracing and Edit Deterrence for 3D Gaussian Splatting**|Utae Jeong et.al.|[2605.12919](http://arxiv.org/abs/2605.12919)|null|
 |**2026-05-12**|**3D Gaussian Splatting for Efficient Retrospective Dynamic Scene Novel View Synthesis with a Standardized Benchmark**|Yunxiao Zhang et.al.|[2605.12437](http://arxiv.org/abs/2605.12437)|null|
@@ -4128,6 +4136,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-24**|**FixAnything: 3D-Consistent Rendering Refinement via Video Generative Priors**|Khiem Vuong et.al.|[2608.23549](http://arxiv.org/abs/2608.23549)|null|
+|**2026-08-24**|**Geometry-Driven Opti-Acoustic Co-Registration and View-Invariant Reflectivity Mapping for Side-Scan Sonar**|Taqi Hamoda et.al.|[2608.23479](http://arxiv.org/abs/2608.23479)|null|
+|**2026-08-24**|**Misanthrope: A Privacy-Preserving Keypoint Detector**|Francesco Vultaggio et.al.|[2608.23012](http://arxiv.org/abs/2608.23012)|null|
+|**2026-08-22**|**Robust Global Structure-from-Motion via View Graph Pruning**|Jiamin Xu et.al.|[2608.22054](http://arxiv.org/abs/2608.22054)|null|
+|**2026-08-22**|**ORBIT++: Benchmarking SfM in the Wild with 360° Video**|Sara Sabour et.al.|[2608.22039](http://arxiv.org/abs/2608.22039)|null|
+|**2026-08-21**|**3D Point Cloud from Close-Range Photogrammetry for Defect Characterisation of Rubberised Concrete**|Jiacheng Liu et.al.|[2608.21468](http://arxiv.org/abs/2608.21468)|null|
+|**2026-08-11**|**Social Graph Mamba: Forecasting Pedestrian Movements Based on Social Context**|Hong-Son Nguyen et.al.|[2608.21411](http://arxiv.org/abs/2608.21411)|null|
 |**2026-08-20**|**RIPE++: Reinforced Keypoint Learning from Positive Pairs Only**|Johannes Künzel et.al.|[2608.19693](http://arxiv.org/abs/2608.19693)|null|
 |**2026-08-19**|**CoMVS-GS: Collaborative Multi-View Stereo and 3D Gaussian Splatting for Surface Reconstruction**|Shihan Chen et.al.|[2608.18413](http://arxiv.org/abs/2608.18413)|null|
 |**2026-08-18**|**Confining density functional approach to the QCD phase diagram at low temperatures and thermal twin stars**|David Blaschke et.al.|[2608.18038](http://arxiv.org/abs/2608.18038)|null|
@@ -4743,12 +4758,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-24**|**Spotter: Efficient Urban Visual Localization via Geo-Referenced Facade Landmarks in GPS-Degraded Environments**|Antoni Valls et.al.|[2608.23290](http://arxiv.org/abs/2608.23290)|null|
+|**2026-08-24**|**Macro-Action Topological Navigation under Noisy Localization using Reinforcement Learning**|Simon Hakenes et.al.|[2608.23055](http://arxiv.org/abs/2608.23055)|null|
+|**2026-08-24**|**RoboRacer Arena: Scaling High-Fidelity Autonomous Racing in Isaac Sim**|Mihaela-Larisa Clement et.al.|[2608.23040](http://arxiv.org/abs/2608.23040)|null|
+|**2026-08-24**|**Misanthrope: A Privacy-Preserving Keypoint Detector**|Francesco Vultaggio et.al.|[2608.23012](http://arxiv.org/abs/2608.23012)|null|
+|**2026-08-24**|**AquaFlow: A Monocular Gaussian Splatting SLAM for Underwater Streaming Reconstruction**|Yingxiang Xu et.al.|[2608.22906](http://arxiv.org/abs/2608.22906)|null|
+|**2026-08-24**|**SuperMap: A Spatio-Temporal SLAM System for Visual-Language Navigation**|Shibo Zhao et.al.|[2608.22896](http://arxiv.org/abs/2608.22896)|null|
 |**2026-08-20**|**Learning-Based Measurement-Robust Control Barrier Functions for Obstacle Avoidance under State Estimation Error**|Nicholas Rober et.al.|[2608.20467](http://arxiv.org/abs/2608.20467)|null|
 |**2026-08-20**|**RIPE++: Reinforced Keypoint Learning from Positive Pairs Only**|Johannes Künzel et.al.|[2608.19693](http://arxiv.org/abs/2608.19693)|null|
 |**2026-08-20**|**LF-GICP: Parameter-Free Degeneracy-Aware LiDAR Odometry via a Voxel-Normal Localizability Field**|Eunsoo Im et.al.|[2608.19522](http://arxiv.org/abs/2608.19522)|null|
 |**2026-08-19**|**LT-Mem: Volatility-Aware Spatio-Temporal Memory for Lifelong Scene Understanding**|Yumin Lee et.al.|[2608.19059](http://arxiv.org/abs/2608.19059)|null|
 |**2026-08-19**|**Autonomous Agricultural Tractor: Integrated Weed Detection and LiDAR Navigation for Precision Paddy Farming**|Benjamin Merryman-Smith et.al.|[2608.19004](http://arxiv.org/abs/2608.19004)|null|
-|**2026-08-19**|**Evaluation of Monocular SLAM Systems on High-Altitude Nadir UAV Footage**|Gašper Spagnolo et.al.|[2608.18632](http://arxiv.org/abs/2608.18632)|null|
+|**2026-08-24**|**Evaluation of Monocular SLAM Systems on High-Altitude Nadir UAV Footage**|Gašper Spagnolo et.al.|[2608.18632](http://arxiv.org/abs/2608.18632)|null|
 |**2026-08-19**|**Evaluation of Image Matching Methods for Visual Odometry on UAVs**|Gašper Spagnolo et.al.|[2608.18624](http://arxiv.org/abs/2608.18624)|null|
 |**2026-08-18**|**Jetson-ORB-SLAM3: Accuracy-Preserving GPU Implementation for Edge Computing Devices**|Rajat Roy et.al.|[2608.17874](http://arxiv.org/abs/2608.17874)|null|
 |**2026-08-18**|**Scalix: Uncertainty-Aware Scale-Consistent Monocular SLAM**|Sebastian Barbas Laina et.al.|[2608.17553](http://arxiv.org/abs/2608.17553)|null|
@@ -5981,6 +6002,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-24**|**Spotter: Efficient Urban Visual Localization via Geo-Referenced Facade Landmarks in GPS-Degraded Environments**|Antoni Valls et.al.|[2608.23290](http://arxiv.org/abs/2608.23290)|null|
+|**2026-08-24**|**Training-Free Pseudo-Fusion for Composed Image Retrieval with Diffusion Models and Multimodal Large Language Models**|Fan Xu et.al.|[2608.23102](http://arxiv.org/abs/2608.23102)|null|
+|**2026-08-24**|**Misanthrope: A Privacy-Preserving Keypoint Detector**|Francesco Vultaggio et.al.|[2608.23012](http://arxiv.org/abs/2608.23012)|null|
+|**2026-08-24**|**DRAgent: Discriminative Reasoning Agent for Referring Expression Segmentation**|Yujie Qi et.al.|[2608.22885](http://arxiv.org/abs/2608.22885)|null|
+|**2026-08-23**|**Learning Sample-wise Rank-aware Interpolation Weights for Composed Visual Data Retrieval**|Boseung Jeong et.al.|[2608.22500](http://arxiv.org/abs/2608.22500)|null|
+|**2026-08-23**|**DECO: Depth-Guided Co-Visibility Reasoning for Low-Altitude UAV Visual Localization**|Yibin Ye et.al.|[2608.22289](http://arxiv.org/abs/2608.22289)|null|
+|**2026-08-22**|**LëtzCross: A Cross-Lingual Page-Level Benchmark for Multimodal Retrieval over Luxembourgish Documents**|Omar El Bachyr et.al.|[2608.21714](http://arxiv.org/abs/2608.21714)|null|
 |**2026-08-21**|**EviRank: Structured Relevance Evidence for Multimodal Image Re-ranking**|Enjun Du et.al.|[2608.20886](http://arxiv.org/abs/2608.20886)|null|
 |**2026-08-20**|**A Non-Hermitian Biorthogonal Encoding Paradigm for Physical-Layer Secure Computational Imaging**|Xi-Hao Chen et.al.|[2608.19878](http://arxiv.org/abs/2608.19878)|null|
 |**2026-08-19**|**SCORE: Subject Coordinate Recovery for Label-Free Cross-Subject EEG-to-Image Retrieval**|Zhenyao Cui et.al.|[2608.19134](http://arxiv.org/abs/2608.19134)|null|
@@ -6023,7 +6051,7 @@ layout: default
 |**2026-07-22**|**Diverse-Intent Multi-Turn Fashion Image Retrieval**|Mingqiang Tang et.al.|[2607.20291](http://arxiv.org/abs/2607.20291)|null|
 |**2026-07-22**|**RIM: A Retrieval-In-Matching Framework for Cross-Domain Global Visual Localization of UAVs**|Xin Li et.al.|[2607.20116](http://arxiv.org/abs/2607.20116)|null|
 |**2026-07-22**|**Using Hierarchical Controlled Vocabularies to Understand CLIP Retrieval Failures in Historical Photo Collections**|Ratan Sebastian et.al.|[2607.19836](http://arxiv.org/abs/2607.19836)|null|
-|**2026-07-30**|**PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image**|Dankai Liao et.al.|[2607.19261](http://arxiv.org/abs/2607.19261)|null|
+|**2026-08-22**|**PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image**|Dankai Liao et.al.|[2607.19261](http://arxiv.org/abs/2607.19261)|null|
 |**2026-07-21**|**CR-Refiner: An Object-Centric Optimal Transport Reranker for Edit-Conditioned 3D Scene Retrieval**|Hao Wu et.al.|[2607.19115](http://arxiv.org/abs/2607.19115)|null|
 |**2026-07-21**|**TAP-RAG: Task-Aware Policy Control for Long-Document Multimodal Question Answering**|Zhong Ji et.al.|[2607.18917](http://arxiv.org/abs/2607.18917)|null|
 |**2026-07-21**|**In-Context Learning for Wound Classification with Small Multimodal Language Models**|George Martvel et.al.|[2607.18819](http://arxiv.org/abs/2607.18819)|null|
@@ -6057,7 +6085,7 @@ layout: default
 |**2026-07-03**|**RADIO1D: Elastic Representations for Condensed Vision Modeling**|Greg Heinrich et.al.|[2607.03624](http://arxiv.org/abs/2607.03624)|null|
 |**2026-07-21**|**Beyond Post-Quantization: Native Hash Learning with a Dedicated HASH Token**|Xinze Liu et.al.|[2607.03328](http://arxiv.org/abs/2607.03328)|null|
 |**2026-07-03**|**Rethinking Brain Decoding with CLIP: The Role of Adversarial Robustness**|Byeongseo Bok et.al.|[2607.03165](http://arxiv.org/abs/2607.03165)|null|
-|**2026-07-02**|**GeoMix: Descriptor-Free Visual Localization via Global Context and Multi-Detector Training**|Yejun Zhang et.al.|[2607.02486](http://arxiv.org/abs/2607.02486)|null|
+|**2026-08-22**|**GeoMix: Descriptor-Free Visual Localization via Global Context and Multi-Detector Training**|Yejun Zhang et.al.|[2607.02486](http://arxiv.org/abs/2607.02486)|null|
 |**2026-07-02**|**FlowCIR: Semantic Transport via Flow Matching for Zero-Shot Composed Image Retrieval**|Zhenqi He et.al.|[2607.02284](http://arxiv.org/abs/2607.02284)|null|
 |**2026-07-02**|**Traceable Fault Diagnosis for Battery Energy Storage Systems via Retrieval-Augmented Multi-Agent O&M Assistant**|Jiangdi Ru et.al.|[2607.01992](http://arxiv.org/abs/2607.01992)|null|
 |**2026-07-01**|**Learning to Compose: Revisiting Proxy Task Design for Zero-Shot Composed Image Retrieval**|Jingjing Zhang et.al.|[2607.00374](http://arxiv.org/abs/2607.00374)|null|
