@@ -7,13 +7,16 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.26
+## Updated on 2026.08.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-26**|**Distinguishing cold and self-interacting dark matter through topological analysis**|Adrian Szpilfidel et.al.|[2608.25632](http://arxiv.org/abs/2608.25632)|null|
+|**2026-08-26**|**Gaussian Splatting Underwater: A Controlled Cross-Regime Study**|Olaya Álvarez-Tuñón et.al.|[2608.25483](http://arxiv.org/abs/2608.25483)|null|
+|**2026-08-26**|**PIVOT: A Multi-Trajectory Dataset and Testbed for Pose, Intrinsics, and Novel Viewpoint Evaluation in Real-World 3D Reconstruction**|Mary Raymond et.al.|[2608.25401](http://arxiv.org/abs/2608.25401)|null|
 |**2026-08-25**|**Learning Spherical Occupancy Profiles for Multi-View 3D Reconstruction and Generation**|YiHsuan Tsai et.al.|[2608.23206](http://arxiv.org/abs/2608.23206)|null|
 |**2026-08-22**|**ARCHER: Amortized cross-specimen pose estimation for cryo-electron microscopy**|Nhan D. Nguyen et.al.|[2608.22029](http://arxiv.org/abs/2608.22029)|null|
 |**2026-08-21**|**In-Situ Reconstruction of the International Space Station Using 3D Gaussian Splatting and Astrobee**|Hudson Kim et.al.|[2608.21685](http://arxiv.org/abs/2608.21685)|null|
@@ -2167,6 +2170,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-26**|**PIVOT: A Multi-Trajectory Dataset and Testbed for Pose, Intrinsics, and Novel Viewpoint Evaluation in Real-World 3D Reconstruction**|Mary Raymond et.al.|[2608.25401](http://arxiv.org/abs/2608.25401)|null|
 |**2026-08-24**|**FixAnything: 3D-Consistent Rendering Refinement via Video Generative Priors**|Khiem Vuong et.al.|[2608.23549](http://arxiv.org/abs/2608.23549)|null|
 |**2026-08-22**|**Towards Alias-Free 4D Gaussian Representations with Motion-Aware Filtering**|Ankit Dhiman et.al.|[2608.21828](http://arxiv.org/abs/2608.21828)|null|
 |**2026-08-18**|**DesignAgent3D: Interactive 3D Scene Editing via Designer-like Multimodal Reasoning**|Xiujin Liu et.al.|[2608.21438](http://arxiv.org/abs/2608.21438)|null|
@@ -4136,6 +4140,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-26**|**Gaussian Splatting Underwater: A Controlled Cross-Regime Study**|Olaya Álvarez-Tuñón et.al.|[2608.25483](http://arxiv.org/abs/2608.25483)|null|
 |**2026-08-24**|**FixAnything: 3D-Consistent Rendering Refinement via Video Generative Priors**|Khiem Vuong et.al.|[2608.23549](http://arxiv.org/abs/2608.23549)|null|
 |**2026-08-24**|**Geometry-Driven Opti-Acoustic Co-Registration and View-Invariant Reflectivity Mapping for Side-Scan Sonar**|Taqi Hamoda et.al.|[2608.23479](http://arxiv.org/abs/2608.23479)|null|
 |**2026-08-24**|**Misanthrope: A Privacy-Preserving Keypoint Detector**|Francesco Vultaggio et.al.|[2608.23012](http://arxiv.org/abs/2608.23012)|null|
@@ -4758,6 +4763,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-26**|**Praxist: From Experimental Artifacts to Solution Lineages**|Jin Li et.al.|[2608.25955](http://arxiv.org/abs/2608.25955)|null|
+|**2026-08-26**|**AGRO-Nav: Autonomous Graph-based Orchard Navigation**|Ho Young Yun et.al.|[2608.25799](http://arxiv.org/abs/2608.25799)|null|
+|**2026-08-26**|**SUPER ODOMETRY 2.0: Resilient Odometry via Hierarchical Adaptation**|Shibo Zhao et.al.|[2608.25427](http://arxiv.org/abs/2608.25427)|null|
 |**2026-08-25**|**KLTNet: Learning Sparse Feature Tracking for Robust and Accurate Monocular Visual-Inertial Odometry**|Renbiao Jin et.al.|[2608.24544](http://arxiv.org/abs/2608.24544)|null|
 |**2026-08-24**|**Spotter: Efficient Urban Visual Localization via Geo-Referenced Facade Landmarks in GPS-Degraded Environments**|Antoni Valls et.al.|[2608.23290](http://arxiv.org/abs/2608.23290)|null|
 |**2026-08-24**|**Macro-Action Topological Navigation under Noisy Localization using Reinforcement Learning**|Simon Hakenes et.al.|[2608.23055](http://arxiv.org/abs/2608.23055)|null|
@@ -6004,6 +6012,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-26**|**PUMA: Post-Hoc Sparsification of Universal Multimodal Embeddings for Efficient Retrieval**|Matteo Attimonelli et.al.|[2608.25780](http://arxiv.org/abs/2608.25780)|null|
+|**2026-08-26**|**MulVec: Fine-Grained Role-Aware Matching for Training-Free Zero-Shot Composed Image Retrieval**|Zihao Zhang et.al.|[2608.25305](http://arxiv.org/abs/2608.25305)|null|
 |**2026-08-24**|**Spotter: Efficient Urban Visual Localization via Geo-Referenced Facade Landmarks in GPS-Degraded Environments**|Antoni Valls et.al.|[2608.23290](http://arxiv.org/abs/2608.23290)|null|
 |**2026-08-24**|**Training-Free Pseudo-Fusion for Composed Image Retrieval with Diffusion Models and Multimodal Large Language Models**|Fan Xu et.al.|[2608.23102](http://arxiv.org/abs/2608.23102)|null|
 |**2026-08-24**|**Misanthrope: A Privacy-Preserving Keypoint Detector**|Francesco Vultaggio et.al.|[2608.23012](http://arxiv.org/abs/2608.23012)|null|
