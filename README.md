@@ -146,6 +146,7 @@ Automatically collected computer vision papers from arXiv.
 ### SLAM
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-08-31**|**Failure or Drift? Evaluating Monocular SLAM under Synthetic and Real-World Corruptions**|Abhay Skaria Thomas et.al.|[2608.30690](http://arxiv.org/abs/2608.30690)|null|
 |**2026-08-31**|**GeoFF3D: Coordinate-Anchored Feed-Forward Reconstruction for Large-Scale UAV Mapping**|Xiang Yang et.al.|[2608.28288](http://arxiv.org/abs/2608.28288)|null|
 |**2026-08-30**|**Everybody Tracking Every Body**|Daeyun Shin et.al.|[2608.29927](http://arxiv.org/abs/2608.29927)|null|
 |**2026-08-30**|**VeloBins: Learning Velocity and Its Uncertainty via Bins and Error-Conditioned Gaussian Labels for Aerial Inertial Odometry**|Maulana Bisyir Azhari et.al.|[2608.29720](http://arxiv.org/abs/2608.29720)|null|
@@ -165,11 +166,11 @@ Automatically collected computer vision papers from arXiv.
 |**2026-08-24**|**Macro-Action Topological Navigation under Noisy Localization using Reinforcement Learning**|Simon Hakenes et.al.|[2608.23055](http://arxiv.org/abs/2608.23055)|null|
 |**2026-08-24**|**RoboRacer Arena: Scaling High-Fidelity Autonomous Racing in Isaac Sim**|Mihaela-Larisa Clement et.al.|[2608.23040](http://arxiv.org/abs/2608.23040)|null|
 |**2026-08-24**|**Misanthrope: A Privacy-Preserving Keypoint Detector**|Francesco Vultaggio et.al.|[2608.23012](http://arxiv.org/abs/2608.23012)|null|
-|**2026-08-24**|**AquaFlow: A Monocular Gaussian Splatting SLAM for Underwater Streaming Reconstruction**|Yingxiang Xu et.al.|[2608.22906](http://arxiv.org/abs/2608.22906)|null|
 
 ### Visual Localization
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-08-31**|**A Composition-Aware Pretraining Framework for Geospatial Foundation Models**|Aryan Kashyap Naveen et.al.|[2608.30817](http://arxiv.org/abs/2608.30817)|null|
 |**2026-08-31**|**WeAgent-MMSearch: Native Text-Vision Interaction for Multimodal Search Agents**|Zongkai Liu et.al.|[2608.28062](http://arxiv.org/abs/2608.28062)|null|
 |**2026-08-30**|**SGFormer: Structure-Guided Transformer for Robust Local Feature Matching**|Zhihua Xu et.al.|[2608.03423](http://arxiv.org/abs/2608.03423)|null|
 |**2026-08-29**|**Context-Aware Interpretable Representations for Retrieval and Graph Convolutional Network Classification**|Thiago César Castilho Almeida et.al.|[2608.29004](http://arxiv.org/abs/2608.29004)|null|
@@ -189,7 +190,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-08-22**|**LëtzCross: A Cross-Lingual Page-Level Benchmark for Multimodal Retrieval over Luxembourgish Documents**|Omar El Bachyr et.al.|[2608.21714](http://arxiv.org/abs/2608.21714)|null|
 |**2026-08-22**|**GeoMix: Descriptor-Free Visual Localization via Global Context and Multi-Detector Training**|Yejun Zhang et.al.|[2607.02486](http://arxiv.org/abs/2607.02486)|null|
 |**2026-08-21**|**EviRank: Structured Relevance Evidence for Multimodal Image Re-ranking**|Enjun Du et.al.|[2608.20886](http://arxiv.org/abs/2608.20886)|null|
-|**2026-08-20**|**A Non-Hermitian Biorthogonal Encoding Paradigm for Physical-Layer Secure Computational Imaging**|Xi-Hao Chen et.al.|[2608.19878](http://arxiv.org/abs/2608.19878)|null|
 
 See the [full archive](./docs/daily_archive.md) for more papers.
 

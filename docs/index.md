@@ -4789,6 +4789,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-31**|**Failure or Drift? Evaluating Monocular SLAM under Synthetic and Real-World Corruptions**|Abhay Skaria Thomas et.al.|[2608.30690](http://arxiv.org/abs/2608.30690)|null|
 |**2026-08-30**|**Everybody Tracking Every Body**|Daeyun Shin et.al.|[2608.29927](http://arxiv.org/abs/2608.29927)|null|
 |**2026-08-30**|**VeloBins: Learning Velocity and Its Uncertainty via Bins and Error-Conditioned Gaussian Labels for Aerial Inertial Odometry**|Maulana Bisyir Azhari et.al.|[2608.29720](http://arxiv.org/abs/2608.29720)|null|
 |**2026-08-29**|**RoSe-SLAM: Robust Semantic-Aware Gaussian Splatting SLAM from Dynamic Monocular Videos**|Wenting Wang et.al.|[2608.29003](http://arxiv.org/abs/2608.29003)|null|
@@ -6047,6 +6048,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-31**|**A Composition-Aware Pretraining Framework for Geospatial Foundation Models**|Aryan Kashyap Naveen et.al.|[2608.30817](http://arxiv.org/abs/2608.30817)|null|
 |**2026-08-29**|**Context-Aware Interpretable Representations for Retrieval and Graph Convolutional Network Classification**|Thiago César Castilho Almeida et.al.|[2608.29004](http://arxiv.org/abs/2608.29004)|null|
 |**2026-08-27**|**Weaving Visual Narratives: Agentic Image Bundle Composition Beyond Atomic Visual Matching**|Rong Shan et.al.|[2608.28695](http://arxiv.org/abs/2608.28695)|null|
 |**2026-08-31**|**WeAgent-MMSearch: Native Text-Vision Interaction for Multimodal Search Agents**|Zongkai Liu et.al.|[2608.28062](http://arxiv.org/abs/2608.28062)|null|
