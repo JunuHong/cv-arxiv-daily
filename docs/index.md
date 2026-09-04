@@ -7,13 +7,17 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.03
+## Updated on 2026.09.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-03**|**Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction**|Chin-Yang Lin et.al.|[2609.04201](http://arxiv.org/abs/2609.04201)|null|
+|**2026-09-03**|**Zero-Shot Novel Depth Synthesis Using 3D Foundation Models Scene Representations**|Denis M. Akola et.al.|[2609.04174](http://arxiv.org/abs/2609.04174)|null|
+|**2026-09-03**|**ENEAS: Embedding-guided Neural Ensemble for Adaptive Segmentation**|Javier del Pino et.al.|[2609.03756](http://arxiv.org/abs/2609.03756)|null|
+|**2026-09-03**|**Stabilizing Camera-Controlled Novel View Synthesis at Inference Time**|Prajwal Singh et.al.|[2609.03639](http://arxiv.org/abs/2609.03639)|null|
 |**2026-09-02**|**MV-dVRK: A Multi-Viewpoint Benchmark for Spatial Surgical Perception**|Guido Caccianiga et.al.|[2609.02717](http://arxiv.org/abs/2609.02717)|null|
 |**2026-09-01**|**Automated Maize Ear Phenotyping Using 3D Reconstructions**|Ritwesh A. Kumar et.al.|[2609.01921](http://arxiv.org/abs/2609.01921)|null|
 |**2026-09-01**|**DualDiff3D: Dual Structure-Appearance Diffusion Priors for Reliability-Enhanced 3D Gaussian Splatting**|Qian Wang et.al.|[2609.01516](http://arxiv.org/abs/2609.01516)|null|
@@ -1793,6 +1797,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-03**|**The impact of phase information for few-shot fine-grained image classification**|Ruiling Liu et.al.|[2609.03829](http://arxiv.org/abs/2609.03829)|null|
 |**2026-08-31**|**CrossFeat: Bridging Imaging Modalities in Feature Descriptor Space**|Paul Schneider et.al.|[2609.00272](http://arxiv.org/abs/2609.00272)|null|
 |**2026-08-29**|**Effective Graph and Rank-based Contextual Embeddings for Textual and Multimedia Data**|Thiago César Castilho Almeida et.al.|[2608.29001](http://arxiv.org/abs/2608.29001)|null|
 |**2026-08-27**|**SSMB: Self-Supervised Local Feature Detection under Motion Blur**|Zhenjun Zhao et.al.|[2608.27181](http://arxiv.org/abs/2608.27181)|null|
@@ -2199,6 +2204,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-03**|**Rethinking 3D Noise: Learning 3D-Aware Video Priors via Optimization-Free Morphological Perturbations**|Onat Şahin et.al.|[2609.03657](http://arxiv.org/abs/2609.03657)|null|
+|**2026-09-03**|**P-CORE: Self-Supervised Surface Consistency for Point-Based Neural Editing**|Yanshu Zhang et.al.|[2609.03349](http://arxiv.org/abs/2609.03349)|null|
 |**2026-09-01**|**Automated Maize Ear Phenotyping Using 3D Reconstructions**|Ritwesh A. Kumar et.al.|[2609.01921](http://arxiv.org/abs/2609.01921)|null|
 |**2026-08-31**|**AI-enabled Low-Cost 3D Maize Ear Morphometry Platform at Breeding Scale**|Therin Young et.al.|[2608.30161](http://arxiv.org/abs/2608.30161)|null|
 |**2026-08-27**|**Stochastic Liquid Deformation Fields: An SDE Generalisation of Closed-Form Continuous-Time Cells for Dynamic 3D Gaussian Splatting**|Mingzhao Li et.al.|[2608.28702](http://arxiv.org/abs/2608.28702)|null|
@@ -4804,6 +4811,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-03**|**A hybrid pipeline for dynamic ontology-based semantic mapping**|Konstantinos Dimitropoulos et.al.|[2609.03891](http://arxiv.org/abs/2609.03891)|null|
+|**2026-09-03**|**A comparative study on the accuracy & repeatability of mobile robotic platforms for the delivery of precision NDE measurement**|SeyedMohammadAmin Nabi Pour et.al.|[2609.03794](http://arxiv.org/abs/2609.03794)|null|
+|**2026-09-03**|**RoughSense: Lightweight Terrain-Induced Rover Vibration Prediction Using Point Clouds and IMU Feedback**|Gabriel Manuel Garcia et.al.|[2609.03720](http://arxiv.org/abs/2609.03720)|null|
+|**2026-09-03**|**TRaIL-Odom: Tightly Coupled Continuous Time Radar-IMU-LiDAR Odometry with Adaptive Doppler Weighting**|Chiyun Noh et.al.|[2609.03561](http://arxiv.org/abs/2609.03561)|null|
 |**2026-09-02**|**Do Better Imagined Rollouts Mean Better Robot Control? A Controlled Study of World-Model Evaluation Under Feedback**|Dharini Raghavan et.al.|[2609.02811](http://arxiv.org/abs/2609.02811)|null|
 |**2026-09-02**|**AutoCompass: Accurate Visual Localization on Public Maps by Learning from Weak Labels**|Javier Tirado-Garín et.al.|[2609.02798](http://arxiv.org/abs/2609.02798)|null|
 |**2026-09-02**|**Contact-Constrained Lower-Limb Joint-Offset Calibration for Humanoid Robots**|Kaixiang Lu et.al.|[2609.02306](http://arxiv.org/abs/2609.02306)|null|

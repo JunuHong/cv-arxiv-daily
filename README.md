@@ -6,7 +6,7 @@
 # CV ArXiv Daily
 Automatically collected computer vision papers from arXiv.
 
-> Updated on 2026.09.03
+> Updated on 2026.09.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Latest Papers
@@ -26,6 +26,10 @@ Automatically collected computer vision papers from arXiv.
 ### 3D reconstruction
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-09-03**|**Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction**|Chin-Yang Lin et.al.|[2609.04201](http://arxiv.org/abs/2609.04201)|null|
+|**2026-09-03**|**Zero-Shot Novel Depth Synthesis Using 3D Foundation Models Scene Representations**|Denis M. Akola et.al.|[2609.04174](http://arxiv.org/abs/2609.04174)|null|
+|**2026-09-03**|**ENEAS: Embedding-guided Neural Ensemble for Adaptive Segmentation**|Javier del Pino et.al.|[2609.03756](http://arxiv.org/abs/2609.03756)|null|
+|**2026-09-03**|**Stabilizing Camera-Controlled Novel View Synthesis at Inference Time**|Prajwal Singh et.al.|[2609.03639](http://arxiv.org/abs/2609.03639)|null|
 |**2026-09-02**|**MV-dVRK: A Multi-Viewpoint Benchmark for Spatial Surgical Perception**|Guido Caccianiga et.al.|[2609.02717](http://arxiv.org/abs/2609.02717)|null|
 |**2026-09-02**|**A Calibration Audit of Confidence in Feed-Forward 3D Reconstruction**|Nanxing Nick Deng et.al.|[2608.29705](http://arxiv.org/abs/2608.29705)|null|
 |**2026-09-01**|**Automated Maize Ear Phenotyping Using 3D Reconstructions**|Ritwesh A. Kumar et.al.|[2609.01921](http://arxiv.org/abs/2609.01921)|null|
@@ -42,10 +46,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-08-28**|**Reconstruction-Aware Cryo-EM Particle Picking**|Riku Itsuji et.al.|[2608.28838](http://arxiv.org/abs/2608.28838)|null|
 |**2026-08-28**|**CryoAnomaly: Few-Shot Cryo-EM Particle Picking via Anomaly-Guided Hard Negative Suppression**|Riku Itsuji et.al.|[2608.28817](http://arxiv.org/abs/2608.28817)|null|
 |**2026-08-28**|**RoboPhys-3D: A Comprehensive Embodied World Model Evaluation via 3D Reconstruction**|Tianyi Wang et.al.|[2608.28718](http://arxiv.org/abs/2608.28718)|null|
-|**2026-08-28**|**Denoising-Aware Temporal Point Cloud Completion for 3D Crop Architecture Recovery and Phenotypic Trait Extraction**|Mrudul Mittal et.al.|[2608.28343](http://arxiv.org/abs/2608.28343)|null|
-|**2026-08-28**|**ZipMVS: Multi-View Stereo with Compressed Cost Volumes**|Guanglin Jin et.al.|[2608.28033](http://arxiv.org/abs/2608.28033)|null|
-|**2026-08-28**|**3D-USE: From Image-Level to Scene-Level Underwater Enhancement**|Jieyu Yuan et.al.|[2608.28020](http://arxiv.org/abs/2608.28020)|null|
-|**2026-08-28**|**Distinguishing cold and self-interacting dark matter through topological analysis**|Adrian Szpilfidel et.al.|[2608.25632](http://arxiv.org/abs/2608.25632)|null|
 
 ### Image Matching
 | Publish Date | Title | Authors | PDF | Code |
@@ -74,6 +74,7 @@ Automatically collected computer vision papers from arXiv.
 ### Keypoint Detection
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-09-03**|**The impact of phase information for few-shot fine-grained image classification**|Ruiling Liu et.al.|[2609.03829](http://arxiv.org/abs/2609.03829)|null|
 |**2026-09-01**|**On the Role of Rotation Equivariance in Monocular 2D-to-3D Human Pose Lifting**|Pavlo Melnyk et.al.|[2601.13913](http://arxiv.org/abs/2601.13913)|null|
 |**2026-08-31**|**CrossFeat: Bridging Imaging Modalities in Feature Descriptor Space**|Paul Schneider et.al.|[2609.00272](http://arxiv.org/abs/2609.00272)|null|
 |**2026-08-29**|**Effective Graph and Rank-based Contextual Embeddings for Textual and Multimedia Data**|Thiago César Castilho Almeida et.al.|[2608.29001](http://arxiv.org/abs/2608.29001)|null|
@@ -93,11 +94,12 @@ Automatically collected computer vision papers from arXiv.
 |**2026-07-22**|**Black-Box Optimization for Identifying and Inverting Audio Dynamic Range Control Effects**|Haoran Sun et.al.|[2607.19645](http://arxiv.org/abs/2607.19645)|null|
 |**2026-07-20**|**UMCP: A Unified Multi-Task Collaborative Perception Network for Luggage Trolley Pose Estimation**|Zhirui Sun et.al.|[2607.17950](http://arxiv.org/abs/2607.17950)|null|
 |**2026-07-01**|**GKDT: General Keypoint Detection Transformer**|Changsheng Lu et.al.|[2607.00752](http://arxiv.org/abs/2607.00752)|null|
-|**2026-07-01**|**ZENITH: Automated Gradient Norm Informed Stochastic Optimization**|Dhrubo Saha et.al.|[2601.15212](http://arxiv.org/abs/2601.15212)|null|
 
 ### NeRF
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-09-03**|**Rethinking 3D Noise: Learning 3D-Aware Video Priors via Optimization-Free Morphological Perturbations**|Onat Şahin et.al.|[2609.03657](http://arxiv.org/abs/2609.03657)|null|
+|**2026-09-03**|**P-CORE: Self-Supervised Surface Consistency for Point-Based Neural Editing**|Yanshu Zhang et.al.|[2609.03349](http://arxiv.org/abs/2609.03349)|null|
 |**2026-09-01**|**Automated Maize Ear Phenotyping Using 3D Reconstructions**|Ritwesh A. Kumar et.al.|[2609.01921](http://arxiv.org/abs/2609.01921)|null|
 |**2026-08-31**|**AI-enabled Low-Cost 3D Maize Ear Morphometry Platform at Breeding Scale**|Therin Young et.al.|[2608.30161](http://arxiv.org/abs/2608.30161)|null|
 |**2026-08-31**|**ImprovedVBGS: Real-time Continual Variational Bayes Gaussian Splatting**|Damani Mguni-Coker et.al.|[2607.15542](http://arxiv.org/abs/2607.15542)|null|
@@ -116,8 +118,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-08-18**|**3D Gaussian Accelerated Ray Tracing: Fast training through particle-based backward propagation**|Laurent Vit et.al.|[2608.17298](http://arxiv.org/abs/2608.17298)|null|
 |**2026-08-17**|**SplatGuide: Geometric Priors from 3D Gaussians for Pose-Free Novel View Synthesis**|Yejun Zhang et.al.|[2608.16863](http://arxiv.org/abs/2608.16863)|null|
 |**2026-08-17**|**LaGSplat: Inferring Physics-Governed Interactive Simulation from Monocular Video Using Latent Lagrangian Gaussian Splatting**|Louen Pottier et.al.|[2608.16324](http://arxiv.org/abs/2608.16324)|null|
-|**2026-08-17**|**VisDom: Sparse Novel View Synthesis with Visible Domain Constraint**|Mariia Gladkova et.al.|[2606.20531](http://arxiv.org/abs/2606.20531)|null|
-|**2026-08-15**|**HistReNeRF: Historic Image Relocalisation within Contemporary Neural Radiance Field Reconstructions**|Benjamin T. Hughes et.al.|[2608.15420](http://arxiv.org/abs/2608.15420)|null|
 
 ### SFM
 | Publish Date | Title | Authors | PDF | Code |
@@ -146,6 +146,10 @@ Automatically collected computer vision papers from arXiv.
 ### SLAM
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-09-03**|**A hybrid pipeline for dynamic ontology-based semantic mapping**|Konstantinos Dimitropoulos et.al.|[2609.03891](http://arxiv.org/abs/2609.03891)|null|
+|**2026-09-03**|**A comparative study on the accuracy & repeatability of mobile robotic platforms for the delivery of precision NDE measurement**|SeyedMohammadAmin Nabi Pour et.al.|[2609.03794](http://arxiv.org/abs/2609.03794)|null|
+|**2026-09-03**|**RoughSense: Lightweight Terrain-Induced Rover Vibration Prediction Using Point Clouds and IMU Feedback**|Gabriel Manuel Garcia et.al.|[2609.03720](http://arxiv.org/abs/2609.03720)|null|
+|**2026-09-03**|**TRaIL-Odom: Tightly Coupled Continuous Time Radar-IMU-LiDAR Odometry with Adaptive Doppler Weighting**|Chiyun Noh et.al.|[2609.03561](http://arxiv.org/abs/2609.03561)|null|
 |**2026-09-02**|**Do Better Imagined Rollouts Mean Better Robot Control? A Controlled Study of World-Model Evaluation Under Feedback**|Dharini Raghavan et.al.|[2609.02811](http://arxiv.org/abs/2609.02811)|null|
 |**2026-09-02**|**AutoCompass: Accurate Visual Localization on Public Maps by Learning from Weak Labels**|Javier Tirado-Garín et.al.|[2609.02798](http://arxiv.org/abs/2609.02798)|null|
 |**2026-09-02**|**Contact-Constrained Lower-Limb Joint-Offset Calibration for Humanoid Robots**|Kaixiang Lu et.al.|[2609.02306](http://arxiv.org/abs/2609.02306)|null|
@@ -162,10 +166,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-08-27**|**One year in a forest: Analyzing the challenges of autonomous navigation in subarctic environments**|Matěj Boxan et.al.|[2608.27628](http://arxiv.org/abs/2608.27628)|null|
 |**2026-08-27**|**How exceptional was the Big Three era? Extremes and persistence in men's professional tennis**|Manuele Leonelli et.al.|[2608.27362](http://arxiv.org/abs/2608.27362)|null|
 |**2026-08-27**|**Contact-Aided Factor-Graph Localization for Underwater Sampling**|Michele Grimaldi et.al.|[2608.26932](http://arxiv.org/abs/2608.26932)|null|
-|**2026-08-27**|**CGS-SLAM: Collaborative Gaussian Splatting based SLAM for Multi-Agent Reconstruction**|Jean-Daniel de Ambrogi et.al.|[2608.26868](http://arxiv.org/abs/2608.26868)|null|
-|**2026-08-27**|**Embodied-Navigator: Point, Think, Memorize, and Align for Efficient Navigation**|Hongyan Feng et.al.|[2608.17512](http://arxiv.org/abs/2608.17512)|null|
-|**2026-08-26**|**Praxist: From Experimental Artifacts to Solution Lineages**|Jin Li et.al.|[2608.25955](http://arxiv.org/abs/2608.25955)|null|
-|**2026-08-26**|**AGRO-Nav: Autonomous Graph-based Orchard Navigation**|Ho Young Yun et.al.|[2608.25799](http://arxiv.org/abs/2608.25799)|null|
 
 ### Visual Localization
 | Publish Date | Title | Authors | PDF | Code |
