@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**Visuomotor Robotic Pruning in Planar Orchards Using Hybrid Reinforcement Learning**|Abhinav Jain et.al.|[2609.24906](http://arxiv.org/abs/2609.24906)|null|
+|**2026-09-21**|**SE(3) Neural Potential Fields for 6-DoF Trajectory Planning Directly from Images Without Explicit 3D Reconstruction**|Jeffrey Eiyike et.al.|[2609.24864](http://arxiv.org/abs/2609.24864)|null|
+|**2026-09-21**|**When Wider Views Fail: Stress-Testing Feed-Forward 3D Reconstruction**|Daisy Li et.al.|[2609.24839](http://arxiv.org/abs/2609.24839)|null|
 |**2026-09-21**|**AnalogDepth: Multi-view Geometry from FPV drones under Analog Video Transmission**|André Amorim et.al.|[2609.24312](http://arxiv.org/abs/2609.24312)|null|
 |**2026-09-21**|**Colon3R: Cross-Domain 3D Reconstruction from Monocular Colonoscopic Video**|Zhihao Xing et.al.|[2609.23961](http://arxiv.org/abs/2609.23961)|null|
 |**2026-09-20**|**Learning-Based 3D Reconstruction of Power Networks from Aerial Point Clouds**|Rishabh Jain et.al.|[2609.23915](http://arxiv.org/abs/2609.23915)|null|
@@ -4247,6 +4250,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**SPARSER: Sparse Variable Projection by Exploiting Separable Structure in Robotic Perception**|Nikolas R. Sanderson et.al.|[2609.24708](http://arxiv.org/abs/2609.24708)|null|
 |**2026-09-16**|**Cross-Lingual Parkinson's Disease Severity Assessment Using Pre-trained Speech Embeddings: A Multi-Class Evaluation**|Simon Pals et.al.|[2609.20875](http://arxiv.org/abs/2609.20875)|null|
 |**2026-09-17**|**RawSLAM: Online HDR Gaussian SLAM from Linear Radiance**|Marina Orozco González et.al.|[2609.20589](http://arxiv.org/abs/2609.20589)|null|
 |**2026-09-16**|**RAUL: Reference-Assisted Ureteroscopy Localization for Skill Assessment**|Fangjie Li et.al.|[2609.19236](http://arxiv.org/abs/2609.19236)|null|
@@ -4888,6 +4892,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**Range-Aided SLAM Initialization Exploiting Accurate Heading Information**|Isabel Lougheed et.al.|[2609.24846](http://arxiv.org/abs/2609.24846)|null|
+|**2026-09-21**|**SPARSER: Sparse Variable Projection by Exploiting Separable Structure in Robotic Perception**|Nikolas R. Sanderson et.al.|[2609.24708](http://arxiv.org/abs/2609.24708)|null|
 |**2026-09-21**|**Odometry-Aided Real-Time Mapping for Underwater Robots Using Forward-Looking Sonar**|Siyuan Du et.al.|[2609.24195](http://arxiv.org/abs/2609.24195)|null|
 |**2026-09-21**|**BayesianGS-SLAM: Uncertainty-Aware Neural Rendering SLAM via Probabilistic Formulation**|Kyeongsu Kang et.al.|[2609.24140](http://arxiv.org/abs/2609.24140)|null|
 |**2026-09-20**|**UniPoint: Unified Point-Level Sensor Fusion for Humanoid Locomotion Across Challenging Terrains**|Sicen Li et.al.|[2609.23666](http://arxiv.org/abs/2609.23666)|null|
@@ -4921,7 +4927,7 @@ layout: default
 |**2026-09-17**|**TIO-Former: Ultra-Lightweight 6-Directional ToF-Inertial Odometry for Nano-UAVs via a Streaming Causal Transformer**|Yang Liu et.al.|[2609.17198](http://arxiv.org/abs/2609.17198)|null|
 |**2026-09-15**|**HuMemSLAM: Efficient Human-Inspired Semantic Place Recognition for Robust Visual SLAM**|Mayowa Adebambo et.al.|[2609.17168](http://arxiv.org/abs/2609.17168)|null|
 |**2026-09-16**|**LiLi: Lie Theory Based 3D LiDAR Scan Alignment Degeneracy Detection**|Vsevolod Hulchuk et.al.|[2609.17145](http://arxiv.org/abs/2609.17145)|null|
-|**2026-09-14**|**SURE-Map: Self-Correcting Streaming Geometric Foundation Model**|Mingkai Liu et.al.|[2609.15795](http://arxiv.org/abs/2609.15795)|null|
+|**2026-09-21**|**SURE-Map: Self-Correcting Streaming Geometric Foundation Models**|Mingkai Liu et.al.|[2609.15795](http://arxiv.org/abs/2609.15795)|null|
 |**2026-09-14**|**P-POSEMEM: Projective Semantic Memory for Consistent Language Grounding under Pose-Graph Rewrites**|Ha Sier et.al.|[2609.15475](http://arxiv.org/abs/2609.15475)|null|
 |**2026-09-14**|**Comparing Trajectories from Positions Alone: Curvature-Based Time Alignment and Drift Error Metric**|Effie Daum et.al.|[2609.14936](http://arxiv.org/abs/2609.14936)|null|
 |**2026-09-19**|**HydroMap: Probabilistic Water Surface Elevation Mapping for Semantic Scene Representation in Inland Waterways**|Zhongbi Luo et.al.|[2609.14903](http://arxiv.org/abs/2609.14903)|null|

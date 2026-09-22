@@ -26,6 +26,9 @@ Automatically collected computer vision papers from arXiv.
 ### 3D reconstruction
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-09-21**|**Visuomotor Robotic Pruning in Planar Orchards Using Hybrid Reinforcement Learning**|Abhinav Jain et.al.|[2609.24906](http://arxiv.org/abs/2609.24906)|null|
+|**2026-09-21**|**SE(3) Neural Potential Fields for 6-DoF Trajectory Planning Directly from Images Without Explicit 3D Reconstruction**|Jeffrey Eiyike et.al.|[2609.24864](http://arxiv.org/abs/2609.24864)|null|
+|**2026-09-21**|**When Wider Views Fail: Stress-Testing Feed-Forward 3D Reconstruction**|Daisy Li et.al.|[2609.24839](http://arxiv.org/abs/2609.24839)|null|
 |**2026-09-21**|**AnalogDepth: Multi-view Geometry from FPV drones under Analog Video Transmission**|André Amorim et.al.|[2609.24312](http://arxiv.org/abs/2609.24312)|null|
 |**2026-09-21**|**Colon3R: Cross-Domain 3D Reconstruction from Monocular Colonoscopic Video**|Zhihao Xing et.al.|[2609.23961](http://arxiv.org/abs/2609.23961)|null|
 |**2026-09-20**|**Learning-Based 3D Reconstruction of Power Networks from Aerial Point Clouds**|Rishabh Jain et.al.|[2609.23915](http://arxiv.org/abs/2609.23915)|null|
@@ -43,9 +46,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-09-16**|**Active perception for robotic harvesting: 3D reconstruction and localisation of tomatoes hidden within clusters in a Mediterranean greenhouse**|Fernando Cañadas-Aránega et.al.|[2609.18738](http://arxiv.org/abs/2609.18738)|null|
 |**2026-09-16**|**Geometry beneath the Waves: Dense Priors for Sparse-View Underwater 3D Gaussian Splatting**|Harvey Caldeira et.al.|[2609.18737](http://arxiv.org/abs/2609.18737)|null|
 |**2026-09-16**|**GeoCond: A Conditioning-Aware Reliability Adapter for Feed-Forward 3D Reconstruction**|David Ahmedt-Aristizabal et.al.|[2609.18465](http://arxiv.org/abs/2609.18465)|null|
-|**2026-09-16**|**Unsupervised Anomaly Detection for Image Dataset Quality Assurance in Multi-Center Breast MRI**|Chiara Tappermann et.al.|[2608.16725](http://arxiv.org/abs/2608.16725)|null|
-|**2026-09-15**|**CALIPER: Metric-Grounded Model-Free Recognition of Visually Similar Industrial Parts**|Alankrit Gupta et.al.|[2609.17820](http://arxiv.org/abs/2609.17820)|null|
-|**2026-09-15**|**DecoGS: Adaptive Static-Dynamic Decoupling of 3D Gaussians for Free-Viewpoint Video Streaming**|Idil Sulo et.al.|[2609.17230](http://arxiv.org/abs/2609.17230)|null|
 
 ### Image Matching
 | Publish Date | Title | Authors | PDF | Code |
@@ -122,6 +122,7 @@ Automatically collected computer vision papers from arXiv.
 ### SFM
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-09-21**|**SPARSER: Sparse Variable Projection by Exploiting Separable Structure in Robotic Perception**|Nikolas R. Sanderson et.al.|[2609.24708](http://arxiv.org/abs/2609.24708)|null|
 |**2026-09-17**|**RawSLAM: Online HDR Gaussian SLAM from Linear Radiance**|Marina Orozco González et.al.|[2609.20589](http://arxiv.org/abs/2609.20589)|null|
 |**2026-09-16**|**Cross-Lingual Parkinson's Disease Severity Assessment Using Pre-trained Speech Embeddings: A Multi-Class Evaluation**|Simon Pals et.al.|[2609.20875](http://arxiv.org/abs/2609.20875)|null|
 |**2026-09-16**|**RAUL: Reference-Assisted Ureteroscopy Localization for Skill Assessment**|Fangjie Li et.al.|[2609.19236](http://arxiv.org/abs/2609.19236)|null|
@@ -141,13 +142,15 @@ Automatically collected computer vision papers from arXiv.
 |**2026-09-01**|**TAPVid-MV: A Benchmark for Tracking Any Point in 3D Across Multiple Views**|Skanda Koppula et.al.|[2609.01899](http://arxiv.org/abs/2609.01899)|null|
 |**2026-09-01**|**Linking neutral gas inflows and outflows to offsets in the star-forming main sequence and mass-metallicity relation**|S. Weng et.al.|[2609.01707](http://arxiv.org/abs/2609.01707)|null|
 |**2026-08-29**|**Ground-to-Satellite Localization in Unconstrained Image Collections for 3D Scene Reconstruction**|Angel Daruna et.al.|[2608.29211](http://arxiv.org/abs/2608.29211)|null|
-|**2026-08-26**|**Gaussian Splatting Underwater: A Controlled Cross-Regime Study**|Olaya Álvarez-Tuñón et.al.|[2608.25483](http://arxiv.org/abs/2608.25483)|null|
 
 ### SLAM
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-09-21**|**Range-Aided SLAM Initialization Exploiting Accurate Heading Information**|Isabel Lougheed et.al.|[2609.24846](http://arxiv.org/abs/2609.24846)|null|
+|**2026-09-21**|**SPARSER: Sparse Variable Projection by Exploiting Separable Structure in Robotic Perception**|Nikolas R. Sanderson et.al.|[2609.24708](http://arxiv.org/abs/2609.24708)|null|
 |**2026-09-21**|**Odometry-Aided Real-Time Mapping for Underwater Robots Using Forward-Looking Sonar**|Siyuan Du et.al.|[2609.24195](http://arxiv.org/abs/2609.24195)|null|
 |**2026-09-21**|**BayesianGS-SLAM: Uncertainty-Aware Neural Rendering SLAM via Probabilistic Formulation**|Kyeongsu Kang et.al.|[2609.24140](http://arxiv.org/abs/2609.24140)|null|
+|**2026-09-21**|**SURE-Map: Self-Correcting Streaming Geometric Foundation Models**|Mingkai Liu et.al.|[2609.15795](http://arxiv.org/abs/2609.15795)|null|
 |**2026-09-20**|**UniPoint: Unified Point-Level Sensor Fusion for Humanoid Locomotion Across Challenging Terrains**|Sicen Li et.al.|[2609.23666](http://arxiv.org/abs/2609.23666)|null|
 |**2026-09-20**|**PRIMO: Prior-Informed Odometry from Human-Motion Tracking for Humanoid Robots**|Xu Han et.al.|[2609.23610](http://arxiv.org/abs/2609.23610)|null|
 |**2026-09-20**|**Elevator-VIGS: Separating Elevator Motion from Robot Motion in Visual-Inertial Gaussian Splatting SLAM**|Rui Zhou et.al.|[2609.23491](http://arxiv.org/abs/2609.23491)|null|
@@ -163,9 +166,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-09-18**|**OmniCalib: Target-Free, Task-Structured Self-Calibration for Humanoid Robots**|Kaixiang Lu et.al.|[2609.19582](http://arxiv.org/abs/2609.19582)|null|
 |**2026-09-18**|**Contact-Constrained Lower-Limb Joint-Offset Calibration for Humanoid Robots**|Kaixiang Lu et.al.|[2609.02306](http://arxiv.org/abs/2609.02306)|null|
 |**2026-09-17**|**Noctif3R: Feed-Forward Monocular Real-Time SLAM for Photon-Limited Scenes on Embedded Hardware**|Mihir Chauhan et.al.|[2609.21114](http://arxiv.org/abs/2609.21114)|null|
-|**2026-09-17**|**MAPLE-RF: Efficient Probabilistic RF Source Localization in Partially Explored Environments**|Haozhe Lei et.al.|[2609.21026](http://arxiv.org/abs/2609.21026)|null|
-|**2026-09-17**|**Towards Effective Visual-Inertial SLAM with Passive-Only Sensors for Low-Cost Autonomous Underwater Vehicles**|Grant Schwidder et.al.|[2609.21015](http://arxiv.org/abs/2609.21015)|null|
-|**2026-09-17**|**Semantic SLAM in Precision Agriculture using Bayesian Inference**|Ruben Beumer et.al.|[2609.20604](http://arxiv.org/abs/2609.20604)|null|
 
 ### Visual Localization
 | Publish Date | Title | Authors | PDF | Code |
