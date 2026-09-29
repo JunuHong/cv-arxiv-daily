@@ -6,7 +6,7 @@
 # CV ArXiv Daily
 Automatically collected computer vision papers from arXiv.
 
-> Updated on 2026.09.28
+> Updated on 2026.09.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Latest Papers
@@ -26,6 +26,7 @@ Automatically collected computer vision papers from arXiv.
 ### 3D reconstruction
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-09-28**|**Robust 3D Reconstruction from Multi-View Optical Satellite Imagery via Reliability-Aware Height-Evidence Fusion in Gaussian Splatting**|Jie Yang et.al.|[2609.16772](http://arxiv.org/abs/2609.16772)|null|
 |**2026-09-24**|**OceanXL: Large-scale Underwater 3D Gaussian Splatting via Block Partitioning and Adaptive Pruning**|Haoran Wang et.al.|[2609.29985](http://arxiv.org/abs/2609.29985)|null|
 |**2026-09-24**|**Anatomy-Aligned Surface Field Learning for Myocardial Reconstruction from Sparse Short-Axis Cine MRI**|Xiaohan Yuan et.al.|[2609.29825](http://arxiv.org/abs/2609.29825)|null|
 |**2026-09-24**|**Markerless Multi-Modal Autonomous Robotic Inspection of Large Space Structures**|Juan De Dios Alfaro et.al.|[2609.29644](http://arxiv.org/abs/2609.29644)|null|
@@ -45,13 +46,14 @@ Automatically collected computer vision papers from arXiv.
 |**2026-09-19**|**PanoSeg3R: Feed-Forward 3D Semantic Segmentation for Panoramic Images with an Automatic Data Curation Pipeline**|Heechan Yoon et.al.|[2609.22687](http://arxiv.org/abs/2609.22687)|null|
 |**2026-09-18**|**Learning 3D biophysical cell properties from 2D images and cell-population statistics**|Santiago Hernández-Orozco et.al.|[2609.22410](http://arxiv.org/abs/2609.22410)|null|
 |**2026-09-18**|**Info3R: Information-Adaptive Test-Time Training for 3D Reconstruction**|Sunghyun Baek et.al.|[2609.21938](http://arxiv.org/abs/2609.21938)|null|
-|**2026-09-18**|**Think Locally, Refine Globally for Memory-Efficient 3D Reconstruction**|Jingke Zhou et.al.|[2609.21437](http://arxiv.org/abs/2609.21437)|null|
 
 ### Image Matching
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-09-28**|**GeoBridge++: Fact-Guided Geo-Semantic Bridging for Unified Cross-View Geo-Localization**|Zixuan Song et.al.|[2512.02697](http://arxiv.org/abs/2512.02697)|null|
+|**2026-09-27**|**GeoFidelity-Bench: Evaluating Block-Conditioned Geographic Fidelity in Text-to-Image Street-View Generation**|Kaizhen Tan et.al.|[2606.23669](http://arxiv.org/abs/2606.23669)|null|
+|**2026-09-25**|**Facial classification Using Hybrid Quantum Machine Learning**|Roshan Babu Bandlapalli et.al.|[2609.31915](http://arxiv.org/abs/2609.31915)|null|
 |**2026-09-22**|**SAMatcher: Dense Co-Visibility Modeling via Cross-View Fusion for Scale-Imbalance Image Matching**|Xu Pan et.al.|[2606.03406](http://arxiv.org/abs/2606.03406)|null|
-|**2026-09-22**|**GeoBridge++: Fact-Guided Geo-Semantic Bridging for Unified Cross-View Geo-Localization**|Zixuan Song et.al.|[2512.02697](http://arxiv.org/abs/2512.02697)|null|
 |**2026-09-18**|**EventGeM: Global-to-Local Feature Matching for Event-Based Visual Place Recognition**|Adam D. Hines et.al.|[2603.05807](http://arxiv.org/abs/2603.05807)|null|
 |**2026-09-15**|**Co-occurrence-Aware Quadratic Assignment for Local Feature Matching in Simultaneous Localization and Mapping**|Yutaka Yamada et.al.|[2609.17905](http://arxiv.org/abs/2609.17905)|null|
 |**2026-09-15**|**Unlocking Zero-shot Potential of Semi-dense Image Matching via Gaussian Splatting**|Juncheng Chen et.al.|[2511.21265](http://arxiv.org/abs/2511.21265)|null|
@@ -68,8 +70,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-08-24**|**Misanthrope: A Privacy-Preserving Keypoint Detector**|Francesco Vultaggio et.al.|[2608.23012](http://arxiv.org/abs/2608.23012)|null|
 |**2026-08-23**|**CausalCache: Conditional High-Fidelity Restoration for Long-Horizon GUI Agents**|Jiaxuan Luo et.al.|[2608.22577](http://arxiv.org/abs/2608.22577)|null|
 |**2026-08-19**|**Evaluation of Image Matching Methods for Visual Odometry on UAVs**|Gašper Spagnolo et.al.|[2608.18624](http://arxiv.org/abs/2608.18624)|null|
-|**2026-08-13**|**SIFT-VTON: Geometric Correspondence Supervision on Cross-Attention for Virtual Try-On**|Kosuke Takemoto et.al.|[2605.01296](http://arxiv.org/abs/2605.01296)|null|
-|**2026-08-12**|**NPLSD: Accelerating Line-Segment Detection on NPU Microcontrollers**|Parsa Hassani Shariat Panahi et.al.|[2609.25022](http://arxiv.org/abs/2609.25022)|null|
 
 ### Keypoint Detection
 | Publish Date | Title | Authors | PDF | Code |
@@ -122,6 +122,7 @@ Automatically collected computer vision papers from arXiv.
 ### SFM
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-09-26**|**QuacamFM: Quaternion-Constrained Flow Matching for Camera Pose Estimation**|Bao-Long Tran et.al.|[2609.32455](http://arxiv.org/abs/2609.32455)|null|
 |**2026-09-25**|**Reliability-Regulated Trajectory Optimization for Progressive COLMAP-Free 3D Gaussian Splatting**|Zijian Wu et.al.|[2609.30865](http://arxiv.org/abs/2609.30865)|null|
 |**2026-09-23**|**AstraLOD3: Zero-shot multimodal agentic reconstruction of LOD3 building models**|Bryan G. Pantoja-Rosero et.al.|[2609.28061](http://arxiv.org/abs/2609.28061)|null|
 |**2026-09-22**|**SAMatcher: Dense Co-Visibility Modeling via Cross-View Fusion for Scale-Imbalance Image Matching**|Xu Pan et.al.|[2606.03406](http://arxiv.org/abs/2606.03406)|null|
@@ -141,11 +142,17 @@ Automatically collected computer vision papers from arXiv.
 |**2026-09-02**|**AutoCompass: Accurate Visual Localization on Public Maps by Learning from Weak Labels**|Javier Tirado-Garín et.al.|[2609.02798](http://arxiv.org/abs/2609.02798)|null|
 |**2026-09-02**|**MV-dVRK: A Multi-Viewpoint Benchmark for Spatial Surgical Perception**|Guido Caccianiga et.al.|[2609.02717](http://arxiv.org/abs/2609.02717)|null|
 |**2026-09-02**|**Inside-out growth and the kiloparsec-scale star formation main sequence for low-surface-brightness disk galaxies in MaNGA**|Bing-qing Zhang et.al.|[2609.02378](http://arxiv.org/abs/2609.02378)|null|
-|**2026-09-02**|**Minimal Solvers for Full-DoF Motion Estimation from Asynchronous Differential SfM**|Shuo Pan et.al.|[2606.09218](http://arxiv.org/abs/2606.09218)|null|
 
 ### SLAM
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-09-28**|**MarsLab: A Martian Rover Simulator for Planetary Rover Autonomous Navigation**|Hoyun Kim et.al.|[2609.34702](http://arxiv.org/abs/2609.34702)|null|
+|**2026-09-28**|**RRG-SLAM: Real-time Reflection-aware Gaussian SLAM for Indoor Scenes**|Yong Liu et.al.|[2609.34527](http://arxiv.org/abs/2609.34527)|null|
+|**2026-09-28**|**MonoEgo: Monocular Metric Egocentric Demonstration Capture with Passive Wrist Constellations and Sparse Workstation Anchors**|Jie Xu et.al.|[2609.34512](http://arxiv.org/abs/2609.34512)|null|
+|**2026-09-28**|**NavHarness: Towards Lifelong Embodied Navigation**|Xunyi Zhao et.al.|[2609.34276](http://arxiv.org/abs/2609.34276)|null|
+|**2026-09-28**|**Linguistic Trajectory Encoding for Efficient Long-Horizon Spatial Memory in Embodied Agents**|Tianyidan Xie et.al.|[2609.04802](http://arxiv.org/abs/2609.04802)|null|
+|**2026-09-27**|**GINIO: A Geometric SO(3)-Equivariant Interface for Neural Inertial Odometry**|Chankyo Kim et.al.|[2609.25338](http://arxiv.org/abs/2609.25338)|null|
+|**2026-09-26**|**World SLAM Model: Joint World Modeling for SLAM and Navigation**|Minghui Qin et.al.|[2609.32626](http://arxiv.org/abs/2609.32626)|null|
 |**2026-09-25**|**Generate, Track, Improve: Perceptive Multi-Skill Humanoid Locomotion with RL-Fine-Tuned Motion Generators**|Zachary Olkin et.al.|[2609.31577](http://arxiv.org/abs/2609.31577)|null|
 |**2026-09-25**|**CognitiveReality: Robot-Agnostic Semantic Gaussian Mapping with an LLM Agent for Immersive Collaborative VR Teleoperation**|Timofei Kozlov et.al.|[2609.31418](http://arxiv.org/abs/2609.31418)|null|
 |**2026-09-25**|**Augmented Reality Interfaces for Human-Robot Collaboration: Development of a ROS 2-Based Sensor Streaming Framework and Validation via SLAM Algorithms**|Alessandro Rubert et.al.|[2609.31396](http://arxiv.org/abs/2609.31396)|null|
@@ -159,17 +166,13 @@ Automatically collected computer vision papers from arXiv.
 |**2026-09-23**|**DAVIO: Dense Monocular-Inertial SLAM with Feed-Forward Initialization and Pose-Conditioned Mapping**|Jaafar Mahmoud et.al.|[2609.27702](http://arxiv.org/abs/2609.27702)|null|
 |**2026-09-23**|**Know-Your-Scene (KYS)-SLAM: Hierarchical Semantic-Motion Priors for Feature Matching in Stereo Visual SLAM**|Preeti Chatterjee et.al.|[2609.27509](http://arxiv.org/abs/2609.27509)|null|
 |**2026-09-23**|**Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration**|Yiran Qiao et.al.|[2609.09418](http://arxiv.org/abs/2609.09418)|null|
-|**2026-09-22**|**TM-APR: Thermal Temporal-Memory Localization via Analytic Online Adaptation**|Yanshuo Bai et.al.|[2609.26766](http://arxiv.org/abs/2609.26766)|null|
-|**2026-09-22**|**Reduced Order Observers for Monocular Visual Inertial Odometry**|Amel Abi et.al.|[2609.26612](http://arxiv.org/abs/2609.26612)|null|
-|**2026-09-22**|**ArborSplat: Online Semantic Gaussian Splatting SLAM for Orchards**|Alessandro Masini et.al.|[2609.26315](http://arxiv.org/abs/2609.26315)|null|
-|**2026-09-22**|**Unsigned Distance Maps on 2D Point Cloud Registration**|Ricardo B. Sousa et.al.|[2609.25932](http://arxiv.org/abs/2609.25932)|null|
-|**2026-09-22**|**You Should Be Properly Scoring Your Odometry**|Ola Rønning et.al.|[2609.25900](http://arxiv.org/abs/2609.25900)|null|
-|**2026-09-22**|**MOLA LiDAR-Inertial Odometry (MOLA-LIO) on the COMFORT Localization Benchmark**|Jose Luis Blanco-Claraco et.al.|[2609.25813](http://arxiv.org/abs/2609.25813)|null|
-|**2026-09-22**|**Dual Covariance Gaussian Splatting SLAM: Decoupling Rendering and Registration for Robust Real-Time Tracking**|Edward Beng Wai Tan et.al.|[2609.25746](http://arxiv.org/abs/2609.25746)|null|
 
 ### Visual Localization
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-09-28**|**MarsLab: A Martian Rover Simulator for Planetary Rover Autonomous Navigation**|Hoyun Kim et.al.|[2609.34702](http://arxiv.org/abs/2609.34702)|null|
+|**2026-09-27**|**The Visual Target Matters: Learning across the Visual Hierarchy for Brain-to-Image Retrieval**|Ye Wang et.al.|[2609.24136](http://arxiv.org/abs/2609.24136)|null|
+|**2026-09-26**|**Concepts Complement Dense Semantics: Learning Compact Sparse Spaces for Text-Image Retrieval**|Yoonseo Kim et.al.|[2609.32671](http://arxiv.org/abs/2609.32671)|null|
 |**2026-09-25**|**Preserve-and-Compose Training for Composed Image Retrieval**|Sehyun Kwon et.al.|[2609.31202](http://arxiv.org/abs/2609.31202)|null|
 |**2026-09-25**|**Retrieval Geometry Shapes Cache-Based Clip Adaptation**|Mahir Shahriar Tamim et.al.|[2609.23409](http://arxiv.org/abs/2609.23409)|null|
 |**2026-09-24**|**An Empirical Study of VLM Pipelines for Long-Document QA**|Kenan E. Ak et.al.|[2609.29933](http://arxiv.org/abs/2609.29933)|null|
@@ -185,11 +188,8 @@ Automatically collected computer vision papers from arXiv.
 |**2026-09-22**|**What Drives Hierarchy-Aware Image Retrieval? Taxonomy Alignment, Objective Choice, and Geometry**|Ling Shi et.al.|[2609.25638](http://arxiv.org/abs/2609.25638)|null|
 |**2026-09-21**|**DeCo: Efficient Decouple-to-Couple Learning for Multi-Task Visual Grounding**|Xiaoqiang Lu et.al.|[2609.24409](http://arxiv.org/abs/2609.24409)|null|
 |**2026-09-21**|**Graded-Relevance Composed Multimodal Retrieval for E-commerce Visual Search at Scale**|Anubhav Gupta et.al.|[2609.24152](http://arxiv.org/abs/2609.24152)|null|
-|**2026-09-21**|**The Visual Target Matters: Learning across the Visual Hierarchy for Brain-to-Image Retrieval**|Ye Wang et.al.|[2609.24136](http://arxiv.org/abs/2609.24136)|null|
 |**2026-09-21**|**Adaptive Cortically Constrained EEG-Vision Alignment for Zero-Shot Brain-to-Image Retrieval**|Ye Wang et.al.|[2609.24109](http://arxiv.org/abs/2609.24109)|null|
 |**2026-09-21**|**POI-Loc: A Fine-Grained POI Localization Benchmark and an Asymmetric Global-to-Local Matching Method**|Lu Han et.al.|[2609.02012](http://arxiv.org/abs/2609.02012)|null|
-|**2026-09-18**|**Multi-viewpoint Geo-localization with Event Cameras**|Adam D. Hines et.al.|[2609.21219](http://arxiv.org/abs/2609.21219)|null|
-|**2026-09-17**|**SlugTrails: An Egocentric Benchmark for Floor Plan Localization in Large Buildings**|Yunqian Cheng et.al.|[2609.19876](http://arxiv.org/abs/2609.19876)|null|
 
 See the [full archive](./docs/daily_archive.md) for more papers.
 
