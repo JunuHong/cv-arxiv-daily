@@ -7,13 +7,21 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.08
+## Updated on 2026.10.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**Slot3R: Set-Associative Spatial Memory for Streaming 3D Reconstruction**|Xiyuan Zhang et.al.|[2610.12282](http://arxiv.org/abs/2610.12282)|null|
+|**2026-10-08**|**LIVIN: Benchmarking Spatial and Embodied Intelligence in Digital Twins of Lived-In Homes**|Peijun Xu et.al.|[2610.12069](http://arxiv.org/abs/2610.12069)|null|
+|**2026-10-08**|**Pose-Free Feed-Forward 3D Inpainting via Learnable Mask Attention and Support Token Refinement**|Jingyi Pan et.al.|[2610.11857](http://arxiv.org/abs/2610.11857)|null|
+|**2026-10-08**|**Three-dimensional imaging of isolated membrane-protein complexes in vacuo with an X-ray laser**|Kartik Ayyer et.al.|[2610.11729](http://arxiv.org/abs/2610.11729)|null|
+|**2026-10-08**|**PointVGGT: Zero-Shot Multiview RGB-D Point Cloud Registration with Visual Geometry Foundation Priors**|Haobo Jiang et.al.|[2610.11612](http://arxiv.org/abs/2610.11612)|null|
+|**2026-10-08**|**OX-NeRF: 3D X-ray Tomography Reconstruction from Sparse Views Using Implicit Neural Representation**|Thomas Welsch et.al.|[2610.11547](http://arxiv.org/abs/2610.11547)|null|
+|**2026-10-07**|**PCAsplat: Gaussian Splatting with Local PCA Regularization**|Vitor Matias et.al.|[2610.11011](http://arxiv.org/abs/2610.11011)|null|
+|**2026-10-07**|**Feedback-Conditional 3D Reconstruction of Cosmic Baryons with Flow Matching**|Maryam Hussaini et.al.|[2610.10741](http://arxiv.org/abs/2610.10741)|null|
 |**2026-10-07**|**Argos: Adapt Rich Geometric Priors for Generalizable Online Scene-Change-Detection**|Ruihan Xu et.al.|[2610.10181](http://arxiv.org/abs/2610.10181)|null|
 |**2026-10-06**|**StyleFields: Multi-Scale AdaIN-Modulated Implicit SDFs for Coarse-to-Fine 3D Shape Reconstruction and Editing**|Ehsan Garaaghaji et.al.|[2610.09200](http://arxiv.org/abs/2610.09200)|null|
 |**2026-10-06**|**S2Tok: Streaming 3D Gaussian Reconstruction with Persistent Spatial Tokens**|Fang Li et.al.|[2610.08978](http://arxiv.org/abs/2610.08978)|null|
@@ -2311,6 +2319,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**OX-NeRF: 3D X-ray Tomography Reconstruction from Sparse Views Using Implicit Neural Representation**|Thomas Welsch et.al.|[2610.11547](http://arxiv.org/abs/2610.11547)|null|
+|**2026-10-08**|**3DTexMOR: 3D Gaussian Multi-Object Removal via Texture-Space Inpainting**|Kunxin Guang et.al.|[2610.11198](http://arxiv.org/abs/2610.11198)|null|
+|**2026-10-07**|**PCAsplat: Gaussian Splatting with Local PCA Regularization**|Vitor Matias et.al.|[2610.11011](http://arxiv.org/abs/2610.11011)|null|
 |**2026-10-07**|**NeRFifyMesh: Optimizing Neural Radiance Fields from Textured Meshes for Robotics Scene Building**|Nillan Nimal et.al.|[2610.10387](http://arxiv.org/abs/2610.10387)|null|
 |**2026-10-07**|**TileSkipper: Region-Adaptive Tile Pruning for 3D Gaussian Splatting**|Jingxing Li et.al.|[2610.09343](http://arxiv.org/abs/2610.09343)|null|
 |**2026-10-05**|**When the Rule-Maker Runs the World Championship: Late Patches and Procedural Accountability in League of Legends**|Haewoon Kwak et.al.|[2610.07427](http://arxiv.org/abs/2610.07427)|null|
@@ -4325,6 +4336,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**Inflow-driven galaxy evolution - II: A hierarchy in the scaling relations of star-forming galaxies**|Kai Wang et.al.|[2610.12394](http://arxiv.org/abs/2610.12394)|null|
 |**2026-10-06**|**Image-Space Refraction Correction for Underwater 3D Reconstruction: Warping Flat-Port Views into Pinhole Perspective**|Chelim Lim et.al.|[2610.07788](http://arxiv.org/abs/2610.07788)|null|
 |**2026-10-05**|**Structural Foundations of Nonlinear Systems with Unknown Inputs: The UID-Induced Normal Form and Minimal-Sensing Structure-from-Motion**|Agostino Martinelli et.al.|[2610.05939](http://arxiv.org/abs/2610.05939)|null|
 |**2026-10-04**|**Transferable Adversarial Robustness for Speech Foundation Models via Hierarchical Stabilization**|Aref Mousavi et.al.|[2610.05310](http://arxiv.org/abs/2610.05310)|null|
@@ -4980,10 +4992,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**RAGNAROK: Radar-Aided Gravity-Normalized Alignment for Robust Open Keyframe-based Radar-Visual-Kinematic-Inertial SLAM**|Hanjun Kim et.al.|[2610.11531](http://arxiv.org/abs/2610.11531)|null|
+|**2026-10-08**|**Distributed Relative Localization for Homogeneous Multi-Robot Systems through UWB Ranging and Limited Communications**|Zhiqiang Cao et.al.|[2610.11308](http://arxiv.org/abs/2610.11308)|null|
+|**2026-10-08**|**Towards Path-Creative Navigation: Robot Navigation through Embodied Interaction**|Haoyu Xi et.al.|[2610.11072](http://arxiv.org/abs/2610.11072)|null|
+|**2026-10-07**|**TAPNAV: Humanoid Navigation through Tactile Active Perception**|Huaze Liu et.al.|[2610.10748](http://arxiv.org/abs/2610.10748)|null|
+|**2026-10-02**|**Does Dynamic-Point Filtering Help When Texture Is Scarce? A Controlled Study of ORB-SLAM2 Front-Ends in Synthetic Indoor Scenes**|Zekui Xue et.al.|[2610.10564](http://arxiv.org/abs/2610.10564)|null|
 |**2026-10-07**|**Argos: Adapt Rich Geometric Priors for Generalizable Online Scene-Change-Detection**|Ruihan Xu et.al.|[2610.10181](http://arxiv.org/abs/2610.10181)|null|
 |**2026-10-07**|**Towards Accurate End-Effector Localization for UMI-Style Robotic Manipulation Teaching**|Junjie Zhang et.al.|[2610.09857](http://arxiv.org/abs/2610.09857)|null|
 |**2026-10-07**|**Self-Supervised Deconvolution of In-Air Sonar Images Using Sensor Ego-Motion**|Jan Steckel et.al.|[2610.09682](http://arxiv.org/abs/2610.09682)|null|
-|**2026-10-07**|**SiGNgapore - An Interactive Dataset for Sign-based Visual Navigation**|Nicky Zimmerman et.al.|[2610.09488](http://arxiv.org/abs/2610.09488)|null|
+|**2026-10-08**|**SiGNgapore - An Interactive Dataset for Sign-based Visual Navigation**|Nicky Zimmerman et.al.|[2610.09488](http://arxiv.org/abs/2610.09488)|null|
 |**2026-10-06**|**InterCorrect: Intersection-Aware Correction of Demographic Model Merging for Fair ASR**|Ashley E. Bravo-Bravo et.al.|[2610.08604](http://arxiv.org/abs/2610.08604)|null|
 |**2026-10-06**|**VOMMI: Collecting and Leveraging Portable Demonstrations for Mobile Manipulation**|Yutian Zhang et.al.|[2610.08220](http://arxiv.org/abs/2610.08220)|null|
 |**2026-10-06**|**Image-Space Refraction Correction for Underwater 3D Reconstruction: Warping Flat-Port Views into Pinhole Perspective**|Chelim Lim et.al.|[2610.07788](http://arxiv.org/abs/2610.07788)|null|
@@ -6376,6 +6393,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**Learning Which Correspondences to Trust: Confidence-Weighted Event-Camera Localization in LiDAR Maps**|Panagiotis Kiousis et.al.|[2610.11967](http://arxiv.org/abs/2610.11967)|null|
+|**2026-10-08**|**SatFix: Absolute Visual Localization of UAVs in Satellite Maps from a Single Oblique Image**|Jiarui Zeng et.al.|[2610.11049](http://arxiv.org/abs/2610.11049)|null|
+|**2026-10-07**|**Region-Aware CLS Token Augmentation for Fine-Grained Image Retrieval**|Ian de Holanda Cavalcanti Bezerra et.al.|[2610.10991](http://arxiv.org/abs/2610.10991)|null|
 |**2026-10-07**|**Fast and Robust Teach-and-Repeat Navigation Using MixVPR Visual Place Recognition***|Václav Truhlařík et.al.|[2610.09631](http://arxiv.org/abs/2610.09631)|null|
 |**2026-10-05**|**What Words Keep of a Place: Zero-Shot Language Reasoning for Cross-View Geo-Localization**|Ayesh Abu Lehyeh et.al.|[2610.07269](http://arxiv.org/abs/2610.07269)|null|
 |**2026-10-05**|**Conditional Flow Matching for Transport Between Markov Processes**|Syamantak Kumar et.al.|[2610.07229](http://arxiv.org/abs/2610.07229)|null|

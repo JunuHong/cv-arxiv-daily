@@ -6,7 +6,7 @@
 # CV ArXiv Daily
 Automatically collected computer vision papers from arXiv.
 
-> Updated on 2026.10.08
+> Updated on 2026.10.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Latest Papers
@@ -26,6 +26,14 @@ Automatically collected computer vision papers from arXiv.
 ### 3D reconstruction
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-10-08**|**Slot3R: Set-Associative Spatial Memory for Streaming 3D Reconstruction**|Xiyuan Zhang et.al.|[2610.12282](http://arxiv.org/abs/2610.12282)|null|
+|**2026-10-08**|**LIVIN: Benchmarking Spatial and Embodied Intelligence in Digital Twins of Lived-In Homes**|Peijun Xu et.al.|[2610.12069](http://arxiv.org/abs/2610.12069)|null|
+|**2026-10-08**|**Pose-Free Feed-Forward 3D Inpainting via Learnable Mask Attention and Support Token Refinement**|Jingyi Pan et.al.|[2610.11857](http://arxiv.org/abs/2610.11857)|null|
+|**2026-10-08**|**Three-dimensional imaging of isolated membrane-protein complexes in vacuo with an X-ray laser**|Kartik Ayyer et.al.|[2610.11729](http://arxiv.org/abs/2610.11729)|null|
+|**2026-10-08**|**PointVGGT: Zero-Shot Multiview RGB-D Point Cloud Registration with Visual Geometry Foundation Priors**|Haobo Jiang et.al.|[2610.11612](http://arxiv.org/abs/2610.11612)|null|
+|**2026-10-08**|**OX-NeRF: 3D X-ray Tomography Reconstruction from Sparse Views Using Implicit Neural Representation**|Thomas Welsch et.al.|[2610.11547](http://arxiv.org/abs/2610.11547)|null|
+|**2026-10-07**|**PCAsplat: Gaussian Splatting with Local PCA Regularization**|Vitor Matias et.al.|[2610.11011](http://arxiv.org/abs/2610.11011)|null|
+|**2026-10-07**|**Feedback-Conditional 3D Reconstruction of Cosmic Baryons with Flow Matching**|Maryam Hussaini et.al.|[2610.10741](http://arxiv.org/abs/2610.10741)|null|
 |**2026-10-07**|**Argos: Adapt Rich Geometric Priors for Generalizable Online Scene-Change-Detection**|Ruihan Xu et.al.|[2610.10181](http://arxiv.org/abs/2610.10181)|null|
 |**2026-10-06**|**StyleFields: Multi-Scale AdaIN-Modulated Implicit SDFs for Coarse-to-Fine 3D Shape Reconstruction and Editing**|Ehsan Garaaghaji et.al.|[2610.09200](http://arxiv.org/abs/2610.09200)|null|
 |**2026-10-06**|**S2Tok: Streaming 3D Gaussian Reconstruction with Persistent Spatial Tokens**|Fang Li et.al.|[2610.08978](http://arxiv.org/abs/2610.08978)|null|
@@ -38,14 +46,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-10-05**|**VGGT-Bridge: Beyond Sequential Pose Graphs via Coarse-Stride Skip Edges**|Sungjae Choi et.al.|[2610.06594](http://arxiv.org/abs/2610.06594)|null|
 |**2026-10-05**|**RelationVGGT: Visual Geometry Transformers for 3D Spatial Relation Segmentation**|Minsu Kim et.al.|[2610.00970](http://arxiv.org/abs/2610.00970)|null|
 |**2026-10-04**|**Have I Scene This Before? Spatially Grounded Conversational Memory for Complex Queries in Egocentric Assistants**|Jiazhou Liang et.al.|[2610.05526](http://arxiv.org/abs/2610.05526)|null|
-|**2026-10-04**|**FujinSplat: Seeing Through Smoke with RAW-Domain Gaussian Splatting**|Gengjia Chang et.al.|[2609.06017](http://arxiv.org/abs/2609.06017)|null|
-|**2026-10-03**|**SCCM: Spherically Consistent Coarse Matching for ERP Dense Feature Correspondence**|Gyeonggwan Lee et.al.|[2609.36545](http://arxiv.org/abs/2609.36545)|null|
-|**2026-10-02**|**Return-to-Home Feasible Micro-Aerial Vehicle Exploration for 3D Gaussian Splatting Reconstruction**|Prajit Krisshnakumar et.al.|[2610.04013](http://arxiv.org/abs/2610.04013)|null|
-|**2026-10-02**|**A Fully Automatic Pipeline for 3D Dendrite Instance Segmentation in SBF-SEM**|Zewen Zhuo et.al.|[2610.03332](http://arxiv.org/abs/2610.03332)|null|
-|**2026-10-01**|**CLoSeR: Closing the Loop for Long-Context Streaming Reconstruction**|Moyang Li et.al.|[2610.01927](http://arxiv.org/abs/2610.01927)|null|
-|**2026-10-01**|**Robot Learning on Discrete Surfaces: Theory and Applications**|Matteo Dalle Vedove et.al.|[2610.01910](http://arxiv.org/abs/2610.01910)|null|
-|**2026-10-01**|**LiteReality-Agent: An Agentic System for Interactable 3D Indoor Scene Reconstruction**|Zhening Huang et.al.|[2610.01863](http://arxiv.org/abs/2610.01863)|null|
-|**2026-10-01**|**ARROW: Arbitrary Reconstruction and Tracking of 4D Observations in the Wild**|Ilya Fradlin et.al.|[2610.01314](http://arxiv.org/abs/2610.01314)|null|
 
 ### Image Matching
 | Publish Date | Title | Authors | PDF | Code |
@@ -98,6 +98,9 @@ Automatically collected computer vision papers from arXiv.
 ### NeRF
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-10-08**|**OX-NeRF: 3D X-ray Tomography Reconstruction from Sparse Views Using Implicit Neural Representation**|Thomas Welsch et.al.|[2610.11547](http://arxiv.org/abs/2610.11547)|null|
+|**2026-10-08**|**3DTexMOR: 3D Gaussian Multi-Object Removal via Texture-Space Inpainting**|Kunxin Guang et.al.|[2610.11198](http://arxiv.org/abs/2610.11198)|null|
+|**2026-10-07**|**PCAsplat: Gaussian Splatting with Local PCA Regularization**|Vitor Matias et.al.|[2610.11011](http://arxiv.org/abs/2610.11011)|null|
 |**2026-10-07**|**NeRFifyMesh: Optimizing Neural Radiance Fields from Textured Meshes for Robotics Scene Building**|Nillan Nimal et.al.|[2610.10387](http://arxiv.org/abs/2610.10387)|null|
 |**2026-10-07**|**TileSkipper: Region-Adaptive Tile Pruning for 3D Gaussian Splatting**|Jingxing Li et.al.|[2610.09343](http://arxiv.org/abs/2610.09343)|null|
 |**2026-10-06**|**Reconstructing the Dynamic World: A Representation-Centric View of 4D Scene Reconstruction**|Ziren Gong et.al.|[2609.39960](http://arxiv.org/abs/2609.39960)|null|
@@ -115,13 +118,11 @@ Automatically collected computer vision papers from arXiv.
 |**2026-09-24**|**OceanXL: Large-scale Underwater 3D Gaussian Splatting via Block Partitioning and Adaptive Pruning**|Haoran Wang et.al.|[2609.29985](http://arxiv.org/abs/2609.29985)|null|
 |**2026-09-24**|**Only What Was Seen: Observation-Gram Compaction of View-Dependent Appearance in 3D Gaussian Splatting**|Krzysztof Pietroszek et.al.|[2609.28997](http://arxiv.org/abs/2609.28997)|null|
 |**2026-09-24**|**GAPS: Generative Active Pseudo-view Selection for Sparse-View 3D Gaussian Splatting**|Hongfei Zhu et.al.|[2609.23436](http://arxiv.org/abs/2609.23436)|null|
-|**2026-09-23**|**PePESeg3D: Perception Prior Enhances Multi-Scale Segmentation for 3D Gaussian Splatting**|Sungjae Choi et.al.|[2609.28645](http://arxiv.org/abs/2609.28645)|null|
-|**2026-09-22**|**NaCR: Visual Localization via NeRF-aided Camera Ray Regression**|Yesheng Zhang et.al.|[2609.25907](http://arxiv.org/abs/2609.25907)|null|
-|**2026-09-21**|**DP-Splat: Bayesian Nonparametric Complexity Control for Gaussian Splatting**|Aqi Dong et.al.|[2607.10912](http://arxiv.org/abs/2607.10912)|null|
 
 ### SFM
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-10-08**|**Inflow-driven galaxy evolution - II: A hierarchy in the scaling relations of star-forming galaxies**|Kai Wang et.al.|[2610.12394](http://arxiv.org/abs/2610.12394)|null|
 |**2026-10-06**|**Image-Space Refraction Correction for Underwater 3D Reconstruction: Warping Flat-Port Views into Pinhole Perspective**|Chelim Lim et.al.|[2610.07788](http://arxiv.org/abs/2610.07788)|null|
 |**2026-10-06**|**RIPE++: Reinforced Keypoint Learning from Positive Pairs Only**|Johannes Künzel et.al.|[2608.19693](http://arxiv.org/abs/2608.19693)|null|
 |**2026-10-05**|**Structural Foundations of Nonlinear Systems with Unknown Inputs: The UID-Induced Normal Form and Minimal-Sensing Structure-from-Motion**|Agostino Martinelli et.al.|[2610.05939](http://arxiv.org/abs/2610.05939)|null|
@@ -141,15 +142,18 @@ Automatically collected computer vision papers from arXiv.
 |**2026-09-17**|**RawSLAM: Online HDR Gaussian SLAM from Linear Radiance**|Marina Orozco González et.al.|[2609.20589](http://arxiv.org/abs/2609.20589)|null|
 |**2026-09-16**|**Cross-Lingual Parkinson's Disease Severity Assessment Using Pre-trained Speech Embeddings: A Multi-Class Evaluation**|Simon Pals et.al.|[2609.20875](http://arxiv.org/abs/2609.20875)|null|
 |**2026-09-16**|**RAUL: Reference-Assisted Ureteroscopy Localization for Skill Assessment**|Fangjie Li et.al.|[2609.19236](http://arxiv.org/abs/2609.19236)|null|
-|**2026-09-14**|**CAL-MOS: Bridging Layers with Adapters for Robust MOS Prediction Across Speech Foundation Models**|Alef Iury Siqueira Ferreira et.al.|[2609.14956](http://arxiv.org/abs/2609.14956)|null|
 
 ### SLAM
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-10-08**|**RAGNAROK: Radar-Aided Gravity-Normalized Alignment for Robust Open Keyframe-based Radar-Visual-Kinematic-Inertial SLAM**|Hanjun Kim et.al.|[2610.11531](http://arxiv.org/abs/2610.11531)|null|
+|**2026-10-08**|**Distributed Relative Localization for Homogeneous Multi-Robot Systems through UWB Ranging and Limited Communications**|Zhiqiang Cao et.al.|[2610.11308](http://arxiv.org/abs/2610.11308)|null|
+|**2026-10-08**|**Towards Path-Creative Navigation: Robot Navigation through Embodied Interaction**|Haoyu Xi et.al.|[2610.11072](http://arxiv.org/abs/2610.11072)|null|
+|**2026-10-08**|**SiGNgapore - An Interactive Dataset for Sign-based Visual Navigation**|Nicky Zimmerman et.al.|[2610.09488](http://arxiv.org/abs/2610.09488)|null|
+|**2026-10-07**|**TAPNAV: Humanoid Navigation through Tactile Active Perception**|Huaze Liu et.al.|[2610.10748](http://arxiv.org/abs/2610.10748)|null|
 |**2026-10-07**|**Argos: Adapt Rich Geometric Priors for Generalizable Online Scene-Change-Detection**|Ruihan Xu et.al.|[2610.10181](http://arxiv.org/abs/2610.10181)|null|
 |**2026-10-07**|**Towards Accurate End-Effector Localization for UMI-Style Robotic Manipulation Teaching**|Junjie Zhang et.al.|[2610.09857](http://arxiv.org/abs/2610.09857)|null|
 |**2026-10-07**|**Self-Supervised Deconvolution of In-Air Sonar Images Using Sensor Ego-Motion**|Jan Steckel et.al.|[2610.09682](http://arxiv.org/abs/2610.09682)|null|
-|**2026-10-07**|**SiGNgapore - An Interactive Dataset for Sign-based Visual Navigation**|Nicky Zimmerman et.al.|[2610.09488](http://arxiv.org/abs/2610.09488)|null|
 |**2026-10-06**|**InterCorrect: Intersection-Aware Correction of Demographic Model Merging for Fair ASR**|Ashley E. Bravo-Bravo et.al.|[2610.08604](http://arxiv.org/abs/2610.08604)|null|
 |**2026-10-06**|**VOMMI: Collecting and Leveraging Portable Demonstrations for Mobile Manipulation**|Yutian Zhang et.al.|[2610.08220](http://arxiv.org/abs/2610.08220)|null|
 |**2026-10-06**|**Image-Space Refraction Correction for Underwater 3D Reconstruction: Warping Flat-Port Views into Pinhole Perspective**|Chelim Lim et.al.|[2610.07788](http://arxiv.org/abs/2610.07788)|null|
@@ -162,14 +166,13 @@ Automatically collected computer vision papers from arXiv.
 |**2026-10-05**|**Human-in-the-Loop Neuro-Symbolic Drift Anticipation for Reliable Visual SLAM**|Junhyun Nam et.al.|[2610.05757](http://arxiv.org/abs/2610.05757)|null|
 |**2026-10-04**|**GR-LIO: A Local Ground-Aware LiDAR-Inertial Odometry System Using Body-to-Ground Height**|Zhixin Zhang et.al.|[2610.05546](http://arxiv.org/abs/2610.05546)|null|
 |**2026-10-04**|**Robust 2D Traversability Mapping for Construction AMRs via Failure-Mode-Aware Fusion of LiDAR Geometry and Monocular Semantics**|Manoj Karnekar et.al.|[2610.05505](http://arxiv.org/abs/2610.05505)|null|
-|**2026-10-04**|**F $^2$ SLAM: Turning Feed-Forward Geometry into Persistent Factors for SLAM**|Zhisong Xu et.al.|[2610.05207](http://arxiv.org/abs/2610.05207)|null|
-|**2026-10-04**|**LQR-ArUco Fusion: Robust Hierarchical Control for Navigation and Asymmetric Manipulation in Two-Wheeled Robots**|Anupam Chatterjee et.al.|[2609.35700](http://arxiv.org/abs/2609.35700)|null|
-|**2026-10-03**|**Probabilistic Pedestrian Forecasts from a Handheld Phone: World-Frame Heat Maps, Visual-Inertial Height Drift, and Evaluation without Ground Truth**|Danial Safaei et.al.|[2610.04736](http://arxiv.org/abs/2610.04736)|null|
-|**2026-10-03**|**NM-LIO: Multiple LiDAR-Inertial Odometry Addressing LiDAR Measurement Noise Discrepancy**|Gunhee Shin et.al.|[2610.04551](http://arxiv.org/abs/2610.04551)|null|
 
 ### Visual Localization
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+|**2026-10-08**|**Learning Which Correspondences to Trust: Confidence-Weighted Event-Camera Localization in LiDAR Maps**|Panagiotis Kiousis et.al.|[2610.11967](http://arxiv.org/abs/2610.11967)|null|
+|**2026-10-08**|**SatFix: Absolute Visual Localization of UAVs in Satellite Maps from a Single Oblique Image**|Jiarui Zeng et.al.|[2610.11049](http://arxiv.org/abs/2610.11049)|null|
+|**2026-10-07**|**Region-Aware CLS Token Augmentation for Fine-Grained Image Retrieval**|Ian de Holanda Cavalcanti Bezerra et.al.|[2610.10991](http://arxiv.org/abs/2610.10991)|null|
 |**2026-10-07**|**Fast and Robust Teach-and-Repeat Navigation Using MixVPR Visual Place Recognition***|Václav Truhlařík et.al.|[2610.09631](http://arxiv.org/abs/2610.09631)|null|
 |**2026-10-06**|**RPA: Residual Patch-Token Adapter for Image Retrieval from EEG and MEG**|Yuhui Jin et.al.|[2609.31698](http://arxiv.org/abs/2609.31698)|null|
 |**2026-10-05**|**What Words Keep of a Place: Zero-Shot Language Reasoning for Cross-View Geo-Localization**|Ayesh Abu Lehyeh et.al.|[2610.07269](http://arxiv.org/abs/2610.07269)|null|
@@ -187,9 +190,6 @@ Automatically collected computer vision papers from arXiv.
 |**2026-09-27**|**The Visual Target Matters: Learning across the Visual Hierarchy for Brain-to-Image Retrieval**|Ye Wang et.al.|[2609.24136](http://arxiv.org/abs/2609.24136)|null|
 |**2026-09-26**|**Concepts Complement Dense Semantics: Learning Compact Sparse Spaces for Text-Image Retrieval**|Yoonseo Kim et.al.|[2609.32671](http://arxiv.org/abs/2609.32671)|null|
 |**2026-09-25**|**Preserve-and-Compose Training for Composed Image Retrieval**|Sehyun Kwon et.al.|[2609.31202](http://arxiv.org/abs/2609.31202)|null|
-|**2026-09-25**|**Retrieval Geometry Shapes Cache-Based Clip Adaptation**|Mahir Shahriar Tamim et.al.|[2609.23409](http://arxiv.org/abs/2609.23409)|null|
-|**2026-09-24**|**An Empirical Study of VLM Pipelines for Long-Document QA**|Kenan E. Ak et.al.|[2609.29933](http://arxiv.org/abs/2609.29933)|null|
-|**2026-09-23**|**Large-Scale Geometric Map-Based Localization of UAVs in GNSS-Denied Urban Environments**|Garth Terlizzi et.al.|[2609.28225](http://arxiv.org/abs/2609.28225)|null|
 
 See the [full archive](./docs/daily_archive.md) for more papers.
 
